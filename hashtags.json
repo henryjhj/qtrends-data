@@ -8,10 +8,16 @@
       "Ukraine conflict",
       "俄乌战争",
       "Russia invasion",
-      "俄乌局势"
+      "俄乌局势",
+      "Kyiv strike 37 dead",
+      "基辅袭击37死",
+      "Leipzig airport attack",
+      "莱比锡机场袭击",
+      "EU Ukraine support",
+      "欧盟支持乌克兰"
     ],
-    "desc": "Ongoing conflict since Feb 2022; drone warfare intensifies in 2026, Russia advances in Donetsk region.",
-    "desc_cn": "2022年2月爆发的俄乌冲突持续，2026年无人机作战加剧，俄军推进顿涅茨克地区。"
+    "desc": "Ongoing conflict since Feb 2022; drone warfare intensifies in 2026, Russia advances in Donetsk region. Sep 2: Russian missile strike near Kyiv kills at least 37, damages dozens of homes; Germany blames Russia for Leipzig airport drone attempt, closes Bonn consulate; EU vows more support.",
+    "desc_cn": "2022年2月爆发的俄乌冲突持续，2026年无人机作战加剧，俄军推进顿涅茨克地区。9月2日：俄导弹袭击基辅附近致至少37死，数十栋住宅损毁；德国指控俄策划莱比锡机场无人机袭击并关闭波恩总领馆；欧盟承诺加大支持。"
   },
   {
     "tag": "Israel Gaza War",
@@ -22,10 +28,16 @@
       "Gaza conflict",
       "以巴冲突",
       "Israel Hamas war",
-      "加沙冲突"
+      "加沙冲突",
+      "Netanyahu Gaza visit",
+      "内塔尼亚胡访加沙",
+      "Gaza yellow line",
+      "加沙黄线",
+      "Gaza 900 killed 2026",
+      "加沙2026年900死"
     ],
-    "desc": "Israel-Gaza conflict since Oct 2023; ceasefire holds in 2026 but tensions remain, Israel controls 60% of Gaza.",
-    "desc_cn": "2023年10月爆发的以加战争持续，2026年停火但紧张局势仍存，以军控制加沙60%领土。"
+    "desc": "Israel-Gaza conflict since Oct 2023; ceasefire holds in 2026 but tensions remain, Israel controls 60% of Gaza. Sep 2: Netanyahu visits Gaza, vows IDF will hold 'yellow line' until Hamas disarmed; 900+ killed in Gaza in 2026 per Hamas ministry.",
+    "desc_cn": "2023年10月爆发的以加战争持续，2026年停火但紧张局势仍存，以军控制加沙60%领土。9月2日：内塔尼亚胡访问加沙，称以军将守住「黄线」直到哈马斯解除武装；哈马斯卫生部称2026年加沙已900+人死亡。"
   },
   {
     "tag": "Sudan Civil War",
@@ -58,10 +70,18 @@
       "wedding hall airstrike",
       "婚礼现场空袭",
       "Peru Iran relations",
-      "秘鲁伊朗断交"
+      "秘鲁伊朗断交",
+      "Hormuz tanker mines",
+      "霍尔木兹水雷",
+      "Guterres ceasefire",
+      "古特雷斯停火呼吁",
+      "86 ships diverted",
+      "86艘商船改道",
+      "SCO condemnation",
+      "上合谴责打击"
     ],
-    "desc": "US launches massive strikes on Iran Sep 2026; wedding hall airstrike kills 70+, Trump threatens more, renames Strait of Hormuz, Peru severs ties.",
-    "desc_cn": "美国2026年9月对伊朗发动大规模打击，婚礼现场空袭致70+死伤，特朗普威胁升级并称霍尔木兹为特朗普海峡，秘鲁与伊断交。"
+    "desc": "US launches massive strikes on Iran Sep 2026; wedding hall airstrike kills 70+, Trump threatens more, renames Strait of Hormuz, Peru severs ties. Sep 2: Iran strikes Gulf allies (UAE/Kuwait/Bahrain/Jordan), 86 merchant ships diverted, 2 oil tankers hit mines, Guterres calls ceasefire, SCO condemns strikes.",
+    "desc_cn": "美国2026年9月对伊朗发动大规模打击，婚礼现场空袭致70+死伤，特朗普威胁升级并称霍尔木兹为特朗普海峡，秘鲁与伊断交。9月2日：伊朗打击阿联酋/科威特/巴林/约旦等海湾盟国美军目标，86艘商船改道，2艘油轮遭水雷袭击，古特雷斯呼吁停火，上合组织谴责打击。"
   },
   {
     "tag": "Myanmar Crisis",
@@ -109,15 +129,19 @@
     "tag": "2026 US Midterms",
     "tag_cn": "2026美国中期选举",
     "first_seen": "2026-01-15",
-    "last_seen": "2026-08-31",
+    "last_seen": "2026-09-02",
     "synonyms": [
       "US midterm elections",
       "美国中期选举",
       "Congress elections",
-      "国会选举"
+      "国会选举",
+      "USPS ballot system",
+      "USPS选票系统",
+      "mail-in ballot row",
+      "邮寄选票争议"
     ],
-    "desc": "2026 US midterm elections Nov 8; Democrats lead in polls, favored to win Senate majority.",
-    "desc_cn": "2026年美国中期选举11月举行，民主党民调领先，有望掌控参议院多数。"
+    "desc": "2026 US midterm elections Nov 8; Democrats lead in polls, favored to win Senate majority. Sep 2: Whistleblower says USPS mail-in ballot system rushed/untested, federal judge blocks enforcement.",
+    "desc_cn": "2026年美国中期选举11月举行，民主党民调领先，有望掌控参议院多数。9月2日：举报人称USPS邮寄选票系统仓促未经测试，联邦法官暂缓执行新规。"
   },
   {
     "tag": "Venezuela Earthquake",
@@ -156,24 +180,34 @@
       "Nepal floods",
       "尼泊尔洪灾",
       "Tibet floods",
-      "西藏洪灾"
+      "西藏洪灾",
+      "Bhotekoshi flood",
+      "波特科西河洪水",
+      "glacier collapse flood",
+      "冰川崩塌洪水",
+      "Nepal 1222 dead",
+      "尼泊尔1222人遇难"
     ],
-    "desc": "Massive floods in Nepal and Tibet Aug 2026; nearly 2000 feared missing, China prepares 3rd batch of emergency aid Sep 2.",
-    "desc_cn": "尼泊尔和西藏2026年8月特大洪灾，近2000人失踪，中国9月2日筹备第三批紧急援助物资。"
+    "desc": "Massive floods in Nepal and Tibet Aug 2026; Nepal death toll 1222, 4858 missing, Tibet 16 dead 500+ unaccounted for as of Sep 2. China prepares 3rd batch of emergency aid, India deploys 4th rescue flight with tunnel team; 12000 rescued.",
+    "desc_cn": "尼泊尔和西藏2026年8月特大洪灾，截至9月2日尼泊尔1222人遇难4858人失踪，西藏16人死500+失联。中国筹备第三批紧急援助物资，印度派出第四批救援航班含隧道技术队，累计12000人获救。"
   },
   {
     "tag": "US Venezuela Oil Deal",
     "tag_cn": "美委石油协议",
     "first_seen": "2026-08-29",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-09-02",
     "synonyms": [
       "Venezuela oil agreement",
       "委内瑞拉石油协议",
       "US oil reserves deal",
-      "美国石油储备"
+      "美国石油储备",
+      "Chevron Orinoco 7B",
+      "雪佛龙奥里诺科70亿",
+      "Orinoco Belt expansion",
+      "奥里诺科带扩建"
     ],
-    "desc": "US and Venezuela agree historic oil deal Aug 29 2026; doubles US oil reserves, invests in Venezuela energy.",
-    "desc_cn": "美委2026年8月29日达成历史性石油协议，美国石油储备翻倍，投资委能源产业。"
+    "desc": "US and Venezuela agree historic oil deal Aug 29 2026; doubles US oil reserves, invests in Venezuela energy. Sep 2: Caracas, US formally sign cooperation deals; Chevron commits $7B+ to expand Orinoco Belt production.",
+    "desc_cn": "美委2026年8月29日达成历史性石油协议，美国石油储备翻倍，投资委能源产业。9月2日：两国正式签署合作协议，雪佛龙承诺70+亿美元扩建奥里诺科带产能。"
   },
   {
     "tag": "India Education Protests",
@@ -342,10 +376,16 @@
       "US Treasury yield",
       "美债收益率",
       "bond market selloff",
-      "债市下跌"
+      "债市下跌",
+      "EU TTF gas spike",
+      "欧洲TTF天然气",
+      "Japan 10Y yield 3pct",
+      "日本国债收益3%",
+      "G20 Asheville meeting",
+      "G20阿什维尔会议"
     ],
-    "desc": "Global inflation projected at 3.8% in 2026; US 10Y Treasury yield hits 2+yr high Sep 2, IMF chief warns of high economic uncertainty.",
-    "desc_cn": "2026年全球通胀预计3.8%，美国10年期国债收益率9月2日创两年多新高，IMF总裁警告经济前景高度不确定。"
+    "desc": "Global inflation projected at 3.8% in 2026; US 10Y Treasury yield hits 2+yr high Sep 2, IMF chief warns of high economic uncertainty. EU TTF gas hits €75/MWh (2023 high); Japan 10Y yield hits 3% (1996 high); G20 finance chiefs clash over China trade imbalances.",
+    "desc_cn": "2026年全球通胀预计3.8%，美国10年期国债收益率9月2日创两年多新高，IMF总裁警告经济前景高度不确定。欧洲TTF天然气达75欧元/兆瓦时（2023年新高）；日本10年期国债收益率破3%（1996年新高）；G20财长会就中国贸易失衡问题产生分歧。"
   },
   {
     "tag": "Milan Cortina Olympics",
@@ -446,9 +486,63 @@
       "Shanghai Cooperation Organization",
       "上海合作组织峰会",
       "SCO Plus meeting",
-      "上合组织+会议"
+      "上合组织+会议",
+      "Bishkek Declaration",
+      "比什凯克宣言",
+      "Iran SCO backing",
+      "伊朗获上合支持",
+      "nuclear safety declaration",
+      "核安全宣言"
     ],
-    "desc": "26th SCO Summit held in Bishkek Sep 1-2 2026; Xi delivers key speech, Erdogan says Turkiye will deepen SCO cooperation, bloc represents 3.5B people $35T GDP.",
-    "desc_cn": "第26届上合组织峰会2026年9月1-2日在比什凯克举行，习近平发表重要讲话，埃尔多安称土耳其将深化上合合作，该组织覆盖35亿人口35万亿美元GDP。"
+    "desc": "26th SCO Summit held in Bishkek Sep 1-2 2026; Xi delivers key speech, Erdogan says Turkiye will deepen SCO cooperation, bloc represents 3.5B people $35T GDP. Bishkek Declaration condemns military strikes on Iran; nuclear safety partnership declaration adopted.",
+    "desc_cn": "第26届上合组织峰会2026年9月1-2日在比什凯克举行，习近平发表重要讲话，埃尔多安称土耳其将深化上合合作，该组织覆盖35亿人口35万亿美元GDP。比什凯克宣言谴责对伊朗的军事打击；会议通过多边核安全伙伴关系宣言。"
+  },
+  {
+    "tag": "US National Debt 40T",
+    "tag_cn": "美国国债40万亿",
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "synonyms": [
+      "US debt 40 trillion",
+      "美债突破40万亿",
+      "Treasury bond buybacks",
+      "美债回购操作",
+      "US fiscal deficit",
+      "美国财政赤字"
+    ],
+    "desc": "US national debt crosses $40T milestone Aug 2026; 123.7% debt-to-GDP, $1.6T annual deficit, $1T+ interest spending. Sep 2 markets price in higher yields amid Iran conflict inflation risk.",
+    "desc_cn": "美国国债2026年8月突破40万亿美元里程碑，债务占GDP达123.7%，年赤字1.6万亿美元，利息支出超1万亿。9月2日市场因伊朗冲突通胀风险推高收益率。"
+  },
+  {
+    "tag": "EU China Trade Frictions",
+    "tag_cn": "欧中贸易摩擦",
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "synonyms": [
+      "EU trade enforcers Beijing",
+      "欧盟贸易代表赴京",
+      "EU steel tariffs",
+      "欧盟钢铁关税",
+      "trade surplus imbalance",
+      "贸易顺差失衡"
+    ],
+    "desc": "Sep 2 SCMP: EU trade enforcement chief Redonnet holds Beijing talks ahead of Oct deadline to fix trade imbalances; EU demands China cut surging exports, threatens safeguard measures; China's EU surplus hit €360.6B in 2025.",
+    "desc_cn": "南华早报9月2日：欧盟贸易执法官雷德内特与北京会谈，10月截止前解决贸易失衡；欧盟要求中国削减出口激增，威胁保障措施；2025年中对欧顺差达3606亿欧元。"
+  },
+  {
+    "tag": "ICE New York Arrests",
+    "tag_cn": "ICE纽约抓捕行动",
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "synonyms": [
+      "ICE 2197 arrests",
+      "ICE逮捕2197人",
+      "DHS immigration raids",
+      "国土安全部移民突袭",
+      "NY immigrant detentions",
+      "纽约移民拘留"
+    ],
+    "desc": "DHS Secretary Mullin announced Sep 2 that ICE arrested 2,197 immigrants across New York state in late-July to late-August operation; largest recent state-level immigration enforcement action.",
+    "desc_cn": "美国土安全部长穆林9月2日宣布，ICE在7月底至8月底行动中于纽约州逮捕2197名移民，为近年最大规模州级移民执法行动。"
   }
 ]
