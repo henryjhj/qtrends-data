@@ -1,0 +1,254 @@
+[
+  {
+    "tag": "Russia Ukraine War",
+    "tag_cn": "俄乌冲突",
+    "first_seen": "2025-12-31",
+    "last_seen": "2026-09-02",
+    "synonyms": ["Ukraine conflict", "俄乌战争", "Russia invasion", "俄乌局势"],
+    "desc": "Ongoing conflict since Feb 2022; drone warfare intensifies in 2026, Russia advances in Donetsk region.",
+    "desc_cn": "2022年2月爆发的俄乌冲突持续，2026年无人机作战加剧，俄军推进顿涅茨克地区。"
+  },
+  {
+    "tag": "Israel Gaza War",
+    "tag_cn": "加沙战争",
+    "first_seen": "2025-12-31",
+    "last_seen": "2026-09-02",
+    "synonyms": ["Gaza conflict", "以巴冲突", "Israel Hamas war", "加沙冲突"],
+    "desc": "Israel-Gaza conflict since Oct 2023; ceasefire holds in 2026 but tensions remain, Israel controls 60% of Gaza.",
+    "desc_cn": "2023年10月爆发的以加战争持续，2026年停火但紧张局势仍存，以军控制加沙60%领土。"
+  },
+  {
+    "tag": "Sudan Civil War",
+    "tag_cn": "苏丹内战",
+    "first_seen": "2025-12-31",
+    "last_seen": "2026-08-24",
+    "synonyms": ["Sudan conflict", "苏丹冲突", "RSF war", "苏丹人道主义危机"],
+    "desc": "Sudan conflict entering 4th year since April 2023; 13M displaced, 19.5M face severe food insecurity.",
+    "desc_cn": "苏丹冲突进入第四年，1300万人流离失所，1950万人面临严重粮食不安全。"
+  },
+  {
+    "tag": "US Iran Standoff",
+    "tag_cn": "美伊对峙",
+    "first_seen": "2026-02-28",
+    "last_seen": "2026-08-18",
+    "synonyms": ["Iran US tensions", "美伊冲突", "Operation Epic Fury", "伊朗核问题"],
+    "desc": "US-Israel Operation Epic Fury strikes Iran Feb 2026; 14-point MoU signed June, talks stall by August.",
+    "desc_cn": "美以2026年2月对伊朗实施军事打击，6月签署14点谅解备忘录，8月谈判陷入停滞。"
+  },
+  {
+    "tag": "Myanmar Crisis",
+    "tag_cn": "缅甸危机",
+    "first_seen": "2025-12-31",
+    "last_seen": "2026-02-01",
+    "synonyms": ["Myanmar coup", "缅甸军政府", "Burma conflict", "缅甸选举"],
+    "desc": "Myanmar military coup 5th anniversary Feb 2026; military-held elections rejected, violence escalates nationwide.",
+    "desc_cn": "缅甸军事政变五周年，军政府举办的选举遭抵制，全国暴力冲突升级。"
+  },
+  {
+    "tag": "Haiti Gang Violence",
+    "tag_cn": "海地黑帮危机",
+    "first_seen": "2025-12-31",
+    "last_seen": "2026-08-28",
+    "synonyms": ["Haiti crisis", "海地危机", "Haiti gangs", "海地人道危机"],
+    "desc": "Haiti gang violence continues; 47 killed in massacre Aug 2026, UN calls for more international security support.",
+    "desc_cn": "海地黑帮暴力持续，2026年8月屠杀致47人死亡，联合国呼吁加强国际安全支持。"
+  },
+  {
+    "tag": "Israel Lebanon Strikes",
+    "tag_cn": "以黎冲突",
+    "first_seen": "2025-12-31",
+    "last_seen": "2026-09-02",
+    "synonyms": ["Hezbollah conflict", "真主党冲突", "Lebanon war", "黎巴嫩空袭"],
+    "desc": "Israeli airstrikes on southern Lebanon continue into Sep 2026; frequent exchanges with Hezbollah forces.",
+    "desc_cn": "以色列对黎巴嫩南部空袭持续至2026年9月，与真主党武装频繁交火。"
+  },
+  {
+    "tag": "2026 US Midterms",
+    "tag_cn": "2026美国中期选举",
+    "first_seen": "2026-01-15",
+    "last_seen": "2026-08-31",
+    "synonyms": ["US midterm elections", "美国中期选举", "Congress elections", "国会选举"],
+    "desc": "2026 US midterm elections Nov 8; Democrats lead in polls, favored to win Senate majority.",
+    "desc_cn": "2026年美国中期选举11月举行，民主党民调领先，有望掌控参议院多数。"
+  },
+  {
+    "tag": "Venezuela Earthquake",
+    "tag_cn": "委内瑞拉地震",
+    "first_seen": "2026-06-24",
+    "last_seen": "2026-07-15",
+    "synonyms": ["Venezuela quake", "委内瑞拉强震", "Caracas earthquake", "加拉加斯地震"],
+    "desc": "Double 7.2/7.5 magnitude earthquakes strike Venezuela June 24; thousands dead, widespread destruction.",
+    "desc_cn": "委内瑞拉6月24日发生7.2和7.5级双震，数千人死亡，首都地区大面积损毁。"
+  },
+  {
+    "tag": "Japan Kumamoto Quake",
+    "tag_cn": "日本熊本地震",
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-08-10",
+    "synonyms": ["Kyushu earthquake", "九州地震", "Japan quake 2026", "日本地震"],
+    "desc": "Magnitude 7.1 earthquake strikes Kumamoto, Japan July 28; Shindo 7 intensity, multiple aftershocks.",
+    "desc_cn": "日本熊本县7月28日发生7.1级地震，震度达7级，引发多次余震。"
+  },
+  {
+    "tag": "Nepal Tibet Floods",
+    "tag_cn": "尼泊尔西藏洪灾",
+    "first_seen": "2026-08-25",
+    "last_seen": "2026-08-29",
+    "synonyms": ["Nepal floods", "尼泊尔洪灾", "Tibet floods", "西藏洪灾"],
+    "desc": "Massive floods in Nepal and Tibet Aug 2026; nearly 2000 feared missing, emergency aid stepped up.",
+    "desc_cn": "尼泊尔和西藏2026年8月发生特大洪灾，近2000人失踪，紧急救援加速推进。"
+  },
+  {
+    "tag": "US Venezuela Oil Deal",
+    "tag_cn": "美委石油协议",
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-08-29",
+    "synonyms": ["Venezuela oil agreement", "委内瑞拉石油协议", "US oil reserves deal", "美国石油储备"],
+    "desc": "US and Venezuela agree historic oil deal Aug 29 2026; doubles US oil reserves, invests in Venezuela energy.",
+    "desc_cn": "美委2026年8月29日达成历史性石油协议，美国石油储备翻倍，投资委能源产业。"
+  },
+  {
+    "tag": "India Education Protests",
+    "tag_cn": "印度教育抗议",
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-07-21",
+    "synonyms": ["Cockroach Party protest", "蟑螂党抗议", "India education reform", "印度教育改革"],
+    "desc": "India's Cockroach Party leads mass protests July 2026 demanding education system reform in New Delhi.",
+    "desc_cn": "印度蟑螂党2026年7月发起大规模抗议，要求改革新德里腐败的教育体系。"
+  },
+  {
+    "tag": "Somalia Conflict",
+    "tag_cn": "索马里冲突",
+    "first_seen": "2025-12-31",
+    "last_seen": "2026-03-25",
+    "synonyms": ["Somalia war", "索马里战争", "al-Shabaab", "青年党"],
+    "desc": "Somalia conflict continues; 30,000 displaced from Baidoa clashes March 2026, al-Shabaab insurgency active.",
+    "desc_cn": "索马里冲突持续，2026年3月拜多阿冲突致3万人流离失所，青年党叛乱活跃。"
+  },
+  {
+    "tag": "GPT 5 Launch",
+    "tag_cn": "GPT-5发布",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-06-27",
+    "synonyms": ["GPT 5.6", "GPT5系列", "OpenAI GPT-5", "OpenAI新模型"],
+    "desc": "OpenAI releases GPT-5 series through 2026; GPT-5.6 Sol flagship hits SOTA, US restricts access.",
+    "desc_cn": "OpenAI 2026年发布GPT-5系列，旗舰GPT-5.6 Sol达编程SOTA，遭美国政府限制访问。"
+  },
+  {
+    "tag": "OpenAI Custom Chip",
+    "tag_cn": "OpenAI自研芯片",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-27",
+    "synonyms": ["Jalapeno chip", "哈拉佩尼奥芯片", "OpenAI chip", "OpenAI芯片"],
+    "desc": "OpenAI unveils custom AI chip Jalapeño with Broadcom June 2026; 50% lower inference cost, challenges Nvidia.",
+    "desc_cn": "OpenAI 2026年6月与博通合作发布自研芯片Jalapeño，推理成本降50%，挑战英伟达。"
+  },
+  {
+    "tag": "Google Gemini Omni",
+    "tag_cn": "谷歌Gemini Omni",
+    "first_seen": "2026-05-19",
+    "last_seen": "2026-05-19",
+    "synonyms": ["Gemini 3.5", "谷歌I/O大会", "Google IO 2026", "谷歌新模型"],
+    "desc": "Google announces Gemini Omni at I/O 2026 May 19; leap in multimodal video understanding and editing.",
+    "desc_cn": "谷歌2026年5月I/O大会发布Gemini Omni，多模态视频理解和编辑能力大幅跃升。"
+  },
+  {
+    "tag": "SpaceX Starship V3",
+    "tag_cn": "SpaceX星舰V3",
+    "first_seen": "2026-05-22",
+    "last_seen": "2026-09-01",
+    "synonyms": ["Starship Flight 12", "星舰第12次试飞", "Starship orbital", "星舰入轨"],
+    "desc": "SpaceX Starship V3 debuts May 22 2026; Flight 12 success, IFT-14 to achieve first orbital flight with Starlink V3.",
+    "desc_cn": "SpaceX星舰V3 2026年5月首飞成功，IFT-14将首次入轨并部署星链V3卫星。"
+  },
+  {
+    "tag": "Unitree IPO",
+    "tag_cn": "宇树科技上市",
+    "first_seen": "2026-06-01",
+    "last_seen": "2026-08-19",
+    "synonyms": ["Unitree Robotics", "宇树机器人", "humanoid robot IPO", "人形机器人上市"],
+    "desc": "Unitree Robotics debuts on Shanghai STAR Market Aug 19 2026; first humanoid robot maker listed on A-shares.",
+    "desc_cn": "宇树科技2026年8月19日登陆科创板，成为首家A股上市的人形机器人公司。"
+  },
+  {
+    "tag": "Robot Olympics 2026",
+    "tag_cn": "机器人运动会",
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-27",
+    "synonyms": ["World Robot Conference", "世界机器人大会", "Humanoid Robot Games", "人形机器人运动会"],
+    "desc": "2nd World Humanoid Robot Games held in Beijing Aug 2026; 666 teams compete at Ice Ribbon venue.",
+    "desc_cn": "第二届世界人形机器人大赛2026年8月在北京冰丝带举行，666支队伍参赛。"
+  },
+  {
+    "tag": "Nvidia AI Chips",
+    "tag_cn": "英伟达AI芯片",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-18",
+    "synonyms": ["NVIDIA GTC 2026", "英伟达GTC大会", "Blackwell GPU", "Blackwell芯片"],
+    "desc": "Nvidia unveils $1T AI chip pipeline at GTC 2026 March; Blackwell architecture, Hyperion autonomous driving platform.",
+    "desc_cn": "英伟达GTC 2026公布万亿美元AI芯片管线，Blackwell架构及Hyperion自动驾驶平台亮相。"
+  },
+  {
+    "tag": "OpenAI Funding Round",
+    "tag_cn": "OpenAI融资",
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-04-15",
+    "synonyms": ["OpenAI 122B", "OpenAI融资1220亿", "AI funding boom", "AI融资热潮"],
+    "desc": "OpenAI raises record $122B in 2026 to accelerate next AI phase; largest funding round for AI company.",
+    "desc_cn": "OpenAI 2026年融资1220亿美元创纪录，加速推进下一代AI发展。"
+  },
+  {
+    "tag": "Ransomware Surge",
+    "tag_cn": "勒索病毒激增",
+    "first_seen": "2026-01-01",
+    "last_seen": "2026-09-02",
+    "synonyms": ["ransomware attacks", "勒索软件攻击", "cyber attacks 2026", "网络攻击"],
+    "desc": "Global ransomware attacks up 40.1% YoY in 2025-2026; 8819 incidents reported, China cybersecurity forum warns.",
+    "desc_cn": "2025-2026年全球勒索病毒攻击同比增长40.1%，达8819起，网络安全论坛发布警告。"
+  },
+  {
+    "tag": "Global Inflation Economy",
+    "tag_cn": "全球通胀经济",
+    "first_seen": "2025-12-31",
+    "last_seen": "2026-07-31",
+    "synonyms": ["global economy 2026", "全球经济2026", "recession risk", "衰退风险"],
+    "desc": "Global inflation projected at 3.8% in 2026; Fed holds rates at 3.5-3.75%, 35% US recession risk.",
+    "desc_cn": "2026年全球通胀预计3.8%，美联储维持利率3.5-3.75%，美国衰退概率35%。"
+  },
+  {
+    "tag": "Milan Cortina Olympics",
+    "tag_cn": "米兰冬奥会",
+    "first_seen": "2026-02-06",
+    "last_seen": "2026-02-22",
+    "synonyms": ["2026 Winter Olympics", "2026冬奥会", "Milano Cortina 2026", "科尔蒂纳冬奥会"],
+    "desc": "Milano-Cortina 2026 Winter Olympics held Feb 6-22; youngest snowboarding champion, Team Canada competes.",
+    "desc_cn": "2026年米兰-科尔蒂纳冬奥会2月6-22日举行，产生最年轻滑雪板冠军。"
+  },
+  {
+    "tag": "FIFA World Cup 2026",
+    "tag_cn": "2026世界杯",
+    "first_seen": "2026-06-11",
+    "last_seen": "2026-07-19",
+    "synonyms": ["World Cup 2026", "世界杯2026", "2026 FIFA World Cup", "美加墨世界杯"],
+    "desc": "2026 FIFA World Cup June 11-July 19; co-hosted by US, Mexico, Canada across 16 cities, 48 teams.",
+    "desc_cn": "2026年世界杯6月11日至7月19日举行，美加墨16城联合举办，48支球队参赛。"
+  },
+  {
+    "tag": "Tennis Grand Slams",
+    "tag_cn": "网球大满贯",
+    "first_seen": "2026-01-12",
+    "last_seen": "2026-09-08",
+    "synonyms": ["Grand Slam 2026", "大满贯2026", "Alcaraz career slam", "阿尔卡拉斯全满贯"],
+    "desc": "2026 Grand Slams: Alcaraz wins Aus Open completing career slam; Zverev wins French Open; Sinner wins Wimbledon.",
+    "desc_cn": "2026大满贯：阿尔卡拉斯澳网夺冠实现全满贯，兹维列夫法网首冠，辛纳温网夺冠。"
+  },
+  {
+    "tag": "COP31 Climate Summit",
+    "tag_cn": "COP31气候大会",
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-11-20",
+    "synonyms": ["COP 31 Antalya", "安塔利亚气候大会", "UN climate conference", "联合国气候大会"],
+    "desc": "COP31 UN Climate Change Conference Nov 9-20 2026 in Antalya, Turkiye; 12 thematic days for climate action.",
+    "desc_cn": "COP31联合国气候大会2026年11月9-20日在土耳其安塔利亚举行，设12个主题日。"
+  }
+]
