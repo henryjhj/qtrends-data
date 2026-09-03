@@ -1,20 +1,13 @@
 [
   {
     "tag": "Russia Ukraine War",
-    "tag_cn": "俄乌冲突",
+    "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
     "last_seen": "2026-09-02",
     "synonyms": [
       "Ukraine conflict",
-      "俄乌战争",
-      "Russia invasion",
-      "俄乌局势",
-      "Kyiv strike 37 dead",
-      "基辅袭击37死",
-      "Leipzig airport attack",
-      "莱比锡机场袭击",
-      "EU Ukraine support",
-      "欧盟支持乌克兰"
+      "俄乌冲突",
+      "Russia invasion"
     ],
     "desc": "Ongoing conflict since Feb 2022; drone warfare intensifies in 2026, Russia advances in Donetsk region. Sep 2: Russian missile strike near Kyiv kills at least 37, damages dozens of homes; Germany blames Russia for Leipzig airport drone attempt, closes Bonn consulate; EU vows more support.",
     "desc_cn": "2022年2月爆发的俄乌冲突持续，2026年无人机作战加剧，俄军推进顿涅茨克地区。9月2日：俄导弹袭击基辅附近致至少37死，数十栋住宅损毁；德国指控俄策划莱比锡机场无人机袭击并关闭波恩总领馆；欧盟承诺加大支持。"
@@ -26,15 +19,8 @@
     "last_seen": "2026-09-02",
     "synonyms": [
       "Gaza conflict",
-      "以巴冲突",
       "Israel Hamas war",
-      "加沙冲突",
-      "Netanyahu Gaza visit",
-      "内塔尼亚胡访加沙",
-      "Gaza yellow line",
-      "加沙黄线",
-      "Gaza 900 killed 2026",
-      "加沙2026年900死"
+      "加沙冲突"
     ],
     "desc": "Israel-Gaza conflict since Oct 2023; ceasefire holds in 2026 but tensions remain, Israel controls 60% of Gaza. Sep 2: Netanyahu visits Gaza, vows IDF will hold 'yellow line' until Hamas disarmed; 900+ killed in Gaza in 2026 per Hamas ministry.",
     "desc_cn": "2023年10月爆发的以加战争持续，2026年停火但紧张局势仍存，以军控制加沙60%领土。9月2日：内塔尼亚胡访问加沙，称以军将守住「黄线」直到哈马斯解除武装；哈马斯卫生部称2026年加沙已900+人死亡。"
@@ -54,34 +40,18 @@
     "desc_cn": "苏丹冲突进入第四年，1300万人流离失所，1950万人面临严重粮食不安全。"
   },
   {
-    "tag": "US Iran Standoff",
-    "tag_cn": "美伊对峙",
+    "tag": "US Iran War",
+    "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
     "last_seen": "2026-09-02",
     "synonyms": [
       "Iran US tensions",
       "美伊冲突",
-      "Operation Epic Fury",
-      "伊朗核问题",
-      "Hormuz strikes",
-      "霍尔木兹打击",
-      "Trump Strait",
-      "特朗普海峡",
-      "wedding hall airstrike",
-      "婚礼现场空袭",
-      "Peru Iran relations",
-      "秘鲁伊朗断交",
-      "Hormuz tanker mines",
-      "霍尔木兹水雷",
-      "Guterres ceasefire",
-      "古特雷斯停火呼吁",
-      "86 ships diverted",
-      "86艘商船改道",
-      "SCO condemnation",
-      "上合谴责打击"
+      "美以伊战争",
+      "美以伊冲突"
     ],
     "desc": "US launches massive strikes on Iran Sep 2026; wedding hall airstrike kills 70+, Trump threatens more, renames Strait of Hormuz, Peru severs ties. Sep 2: Iran strikes Gulf allies (UAE/Kuwait/Bahrain/Jordan), 86 merchant ships diverted, 2 oil tankers hit mines, Guterres calls ceasefire, SCO condemns strikes.",
-    "desc_cn": "美国2026年9月对伊朗发动大规模打击，婚礼现场空袭致70+死伤，特朗普威胁升级并称霍尔木兹为特朗普海峡，秘鲁与伊断交。9月2日：伊朗打击阿联酋/科威特/巴林/约旦等海湾盟国美军目标，86艘商船改道，2艘油轮遭水雷袭击，古特雷斯呼吁停火，上合组织谴责打击。"
+    "desc_cn": "美国2026年2月28日联合以色列对伊朗发动大规模打击，伊朗反击并打击阿联酋/科威特/巴林/约旦等海湾盟国美军目标，并关闭了霍尔木兹海峡。"
   },
   {
     "tag": "Myanmar Crisis",
