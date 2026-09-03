@@ -53,7 +53,7 @@
       "Iran-US war",
       "US-Israel-Iran war"
     ],
-    "desc": "Regional military confrontation between the US, Israel and Iran erupting Feb 2026. Major airstrikes on Iran followed by Iranian retaliation, including temporary closure of the Strait of Hormuz; ceasefire reached but unresolved tensions persist.",
+    "desc": "Regional military confrontation between the US, Israel and Iran erupting Feb 2026. Major airstrikes on Iran followed by Iranian retaliation including temporary closure of the Strait of Hormuz; ceasefire reached but tensions persist.",
     "desc_cn": "2026年2月美以联合对伊朗发动大规模军事打击，伊朗反击并一度关闭霍尔木兹海峡。后虽达成停火协议，实质性冲突及紧张局势仍持续。"
   },
   {
@@ -67,8 +67,50 @@
       "Hormuz closure",
       "Strait of Hormuz closure"
     ],
-    "desc": "Closure and partial reopening of the Strait of Hormuz by Iran in 2026 amid the US-Iran military confrontation, disrupting one-fifth of global oil shipping and pushing energy prices sharply higher.",
-    "desc_cn": "2026年美伊军事冲突期间伊朗关闭并后续部分恢复霍尔木兹海峡通行，全球五分之一石油航运受阻，推高能源价格，为近年最严重的海峡通行危机。"
+    "desc": "2026 closure and partial reopening of the Strait of Hormuz by Iran amid the US-Iran military confrontation, disrupting one-fifth of global oil shipping and sending European TTF gas prices to multiyear highs.",
+    "desc_cn": "2026年美伊冲突期间伊朗关闭并后续部分恢复霍尔木兹海峡通行，全球五分之一石油航运受阻，推动欧洲TTF天然气等能源价格飙升至多年高位。"
+  },
+  {
+    "tag": "Taiwan Strait Tensions",
+    "tag_cn": "台海局势",
+    "first_seen": "2026-01-01",
+    "last_seen": "2026-09-02",
+    "synonyms": [
+      "台海紧张",
+      "两岸局势",
+      "Taiwan Strait crisis",
+      "Cross-Strait tensions"
+    ],
+    "desc": "Heightened military and political tensions across the Taiwan Strait in 2026, amplified by US regional force realignments linked to the Middle East conflict and increased PLA maritime and air activity around the island.",
+    "desc_cn": "2026年台海两岸军事与政治紧张局势显著升级，受美军中东冲突牵动的印太兵力调整及解放军台海周边海空活动频次上升共同影响。"
+  },
+  {
+    "tag": "South China Sea Disputes",
+    "tag_cn": "南海争端",
+    "first_seen": "2026-01-01",
+    "last_seen": "2026-09-02",
+    "synonyms": [
+      "南海局势",
+      "仁爱礁争端",
+      "South China Sea tensions",
+      "Ren'ai Reef standoff"
+    ],
+    "desc": "Sustained maritime and diplomatic disputes in the South China Sea through 2026, centered on Scarborough Shoal and Second Thomas Shoal involving China, the Philippines and other claimant states.",
+    "desc_cn": "2026年南海持续海上与外交争端，集中于黄岩岛与仁爱礁，涉及中国与菲律宾等多个声索国的主权主张与海上执法对峙。"
+  },
+  {
+    "tag": "Korean Peninsula Tensions",
+    "tag_cn": "朝鲜半岛局势",
+    "first_seen": "2026-01-01",
+    "last_seen": "2026-09-02",
+    "synonyms": [
+      "朝韩紧张",
+      "朝鲜导弹试射",
+      "North Korea tensions",
+      "DPRK missile launches"
+    ],
+    "desc": "Escalated tensions on the Korean Peninsula in 2026, marked by multiple North Korean ballistic missile tests, large-scale US-South Korea joint military exercises, and stalled denuclearization diplomacy.",
+    "desc_cn": "2026年朝鲜半岛局势持续紧张，朝鲜多次进行弹道导弹试验，美韩举行大规模联合军演，半岛无核化外交进程处于停滞状态。"
   },
   {
     "tag": "Myanmar Crisis",
@@ -113,18 +155,87 @@
     "desc_cn": "以色列与黎巴嫩真主党在黎以边境的军事冲突，由加沙战争外溢升级。双方空袭与火箭弹交火持续至2026年。"
   },
   {
-    "tag": "2026 US Midterm Elections",
-    "tag_cn": "2026美国中期选举",
+    "tag": "Somalia Conflict",
+    "tag_cn": "索马里冲突",
+    "first_seen": "2025-12-31",
+    "last_seen": "2026-03-25",
+    "synonyms": [
+      "索马里战争",
+      "索马里叛乱",
+      "Somalia war",
+      "Somalia insurgency"
+    ],
+    "desc": "Protracted armed conflict in Somalia among the federal government, African Union forces and the al-Shabaab insurgency. Active fighting and periodic large-scale displacements continued into 2026.",
+    "desc_cn": "索马里联邦政府、非盟部队与青年党叛乱武装之间的长期武装冲突。叛乱活动持续，周期性大规模人口流离失所延续至2026年。"
+  },
+  {
+    "tag": "DRC Ebola Outbreak",
+    "tag_cn": "刚果埃博拉疫情",
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "synonyms": [
+      "刚果金埃博拉",
+      "DR Congo Ebola",
+      "DRC Ebola epidemic"
+    ],
+    "desc": "Major Ebola virus disease outbreak in the Democratic Republic of the Congo in 2026. One of the largest recorded Ebola epidemics, requiring large-scale international medical and humanitarian response.",
+    "desc_cn": "2026年刚果民主共和国暴发的大规模埃博拉病毒病疫情，为有记录以来最大规模埃博拉流行之一，需大规模国际医疗与人道主义响应。"
+  },
+  {
+    "tag": "US Midterm Elections",
+    "tag_cn": "美国中期选举",
     "first_seen": "2026-01-15",
     "last_seen": "2026-09-02",
     "synonyms": [
-      "美国中期选举2026",
-      "2026年美国国会选举",
+      "2026美国中期选举",
+      "2026年国会选举",
       "2026 US midterms",
-      "2026 congressional elections"
+      "US congressional elections"
     ],
-    "desc": "The 2026 U.S. midterm elections scheduled for Nov 8, 2026 to elect all 435 House seats, 33 Senate seats and 36 state governorships. Key partisan battle for control of Congress.",
+    "desc": "U.S. midterm elections scheduled for Nov 8, 2026, to elect all 435 House seats, 33 Senate seats and 36 state governorships. Key partisan battle for control of Congress.",
     "desc_cn": "2026年11月8日举行的美国中期选举，改选全部众议员、三分之一参议员及36州州长，为民主党与共和党争夺国会控制权的关键选战。"
+  },
+  {
+    "tag": "USPS Mail-in Ballot Controversy",
+    "tag_cn": "USPS邮寄选票争议",
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-02",
+    "synonyms": [
+      "美国邮寄选票争议",
+      "邮寄选票系统争议",
+      "USPS ballot system controversy",
+      "mail-in ballot dispute"
+    ],
+    "desc": "Pre-election controversy over the U.S. Postal Service's new mail-in ballot processing system ahead of the 2026 midterms, with whistleblower disclosures prompting federal judicial intervention.",
+    "desc_cn": "2026年中期选举前围绕美国邮政署新建邮寄选票处理系统的争议，内部举报引发舆论风暴，联邦法院介入暂停新规实施。"
+  },
+  {
+    "tag": "ICE New York Immigration Enforcement",
+    "tag_cn": "ICE纽约移民执法行动",
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "synonyms": [
+      "ICE纽约抓捕行动",
+      "ICE纽约移民突袭",
+      "ICE New York raids",
+      "NYC immigration arrests"
+    ],
+    "desc": "A large-scale immigration enforcement operation by U.S. Immigration and Customs Enforcement across New York State in late summer 2026, one of the largest state-level immigration actions in recent years.",
+    "desc_cn": "2026年夏末美国移民和海关执法局在国土安全部主导下于纽约州开展的大规模移民执法行动，为近年最大规模的州级移民拘捕行动之一。"
+  },
+  {
+    "tag": "India Education Protests",
+    "tag_cn": "印度教育抗议",
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-07-21",
+    "synonyms": [
+      "印度教育改革抗议",
+      "新德里教育抗议",
+      "India education reform protest",
+      "Delhi education protest"
+    ],
+    "desc": "Large-scale street protests in India led by the Cockroach Party movement in mid-July 2026, centered in New Delhi and demanding sweeping education system reform.",
+    "desc_cn": "2026年7月中旬印度蟑螂党运动领导的大规模街头抗议行动，以新德里为中心，核心诉求为推动教育体系全面改革。"
   },
   {
     "tag": "Venezuela Earthquake",
@@ -146,10 +257,10 @@
     "first_seen": "2026-07-28",
     "last_seen": "2026-08-10",
     "synonyms": [
-      "熊本强震2026",
-      "九州地震2026",
-      "Kumamoto quake 2026",
-      "Kyushu earthquake 2026"
+      "熊本强震",
+      "九州地震",
+      "Kumamoto quake",
+      "Kyushu earthquake"
     ],
     "desc": "M7.1 earthquake striking Kumamoto Prefecture, Kyushu, Japan on July 28, 2026. Registered maximum seismic intensity 7 (shindo 7); hundreds of aftershocks followed.",
     "desc_cn": "2026年7月28日日本九州熊本县发生7.1级地震，最大震度达7级，为2016年熊本地震后九州最严重的地震灾害，引发数百次余震。"
@@ -163,11 +274,55 @@
       "尼泊尔洪灾",
       "西藏洪灾",
       "喜马拉雅洪灾",
-      "Nepal floods 2026",
+      "Nepal floods",
       "Tibet floods"
     ],
     "desc": "Catastrophic cross-border floods and landslides sweeping Nepal and China's Tibet Autonomous Region in late August 2026. Caused by glacial lake outburst coupled with extreme monsoon rainfall.",
     "desc_cn": "2026年8月下旬冰川湖溃决叠加极端季风雨引发的尼泊尔与中国西藏跨境特大洪水与泥石流灾害，造成数千人死伤或失踪。"
+  },
+  {
+    "tag": "Global Bond Market Crisis",
+    "tag_cn": "全球债市危机",
+    "first_seen": "2026-01-01",
+    "last_seen": "2026-09-02",
+    "synonyms": [
+      "全球债市暴跌",
+      "债市危机",
+      "全球债券市场危机",
+      "Bond market crash",
+      "Global bond selloff",
+      "Bond market rout"
+    ],
+    "desc": "2026 global bond market selloff driven by sticky inflation, elevated rates and geopolitical risk. Major sovereign yields surged to multi-decade highs; Japan's 10Y yield rose above 3% for the first time since 1996.",
+    "desc_cn": "2026年受黏性通胀、高利率与地缘风险冲击的全球债市大幅抛售，主要国家国债收益率升至数十年高点，日本10年期国债收益率自1996年来首次突破3%关口。"
+  },
+  {
+    "tag": "US National Debt 40T Milestone",
+    "tag_cn": "美债突破40万亿",
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "synonyms": [
+      "美国国债40万亿",
+      "美债40万亿里程碑",
+      "US debt 40 trillion",
+      "US national debt $40T"
+    ],
+    "desc": "U.S. national debt crossing the $40 trillion mark in August 2026; debt-to-GDP above 123%, $1.6T annual deficit, $1T+ yearly interest costs; Treasury launched buyback operations to stabilize markets.",
+    "desc_cn": "2026年8月美国联邦国债总额突破40万亿美元，债务占GDP超123%，年赤字1.6万亿美元，年利息支出超1万亿；财政部启动大规模国债回购操作稳定市场流动性。"
+  },
+  {
+    "tag": "Fed Rate Cut Cycle",
+    "tag_cn": "美联储降息周期",
+    "first_seen": "2026-01-01",
+    "last_seen": "2026-09-02",
+    "synonyms": [
+      "美联储降息",
+      "美联储利率政策",
+      "Fed rate cuts",
+      "Federal Reserve easing"
+    ],
+    "desc": "The U.S. Federal Reserve's 2026 monetary policy path amid sticky inflation and recession risk. Policy rate held at 3.5–3.75% through September; markets pricing in modest cuts by year-end with considerable uncertainty.",
+    "desc_cn": "2026年美联储在通胀黏性与衰退风险背景下的货币政策路径，9月时政策利率仍维持3.5–3.75%，市场预期年底或有温和降息，但路径高度不确定。"
   },
   {
     "tag": "US Venezuela Oil Deal",
@@ -184,32 +339,60 @@
     "desc_cn": "2026年8月底美国与委内瑞拉达成的历史性能源合作框架协议，涵盖石油生产投资扩建与战略石油储备深化合作等领域。"
   },
   {
-    "tag": "India Education Protests",
-    "tag_cn": "印度教育抗议",
-    "first_seen": "2026-07-15",
-    "last_seen": "2026-07-21",
+    "tag": "EU-China Trade Frictions",
+    "tag_cn": "欧中贸易摩擦",
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
     "synonyms": [
-      "印度教育改革抗议",
-      "新德里教育抗议",
-      "India education reform protest",
-      "Delhi education protest"
+      "欧中贸易争端",
+      "欧中贸易紧张",
+      "EU China trade disputes",
+      "EU-China trade tensions"
     ],
-    "desc": "Large-scale street protests in India led by the Cockroach Party movement in mid-July 2026, centered in New Delhi and demanding sweeping education system reform.",
-    "desc_cn": "2026年7月中旬印度蟑螂党运动领导的大规模街头抗议行动，以新德里为中心，核心诉求为推动教育体系全面改革。"
+    "desc": "Escalating trade disputes between the European Union and China in 2026, centered on goods trade imbalances in steel, electric vehicles and industrial manufactures. G20 finance chiefs meeting in Asheville exposed sharp divisions on the issue.",
+    "desc_cn": "2026年欧盟与中国之间加剧的贸易争端，核心为钢铁、电动汽车及工业制成品等领域的贸易失衡，阿什维尔G20财长会就相关议题暴露出明显分歧。"
   },
   {
-    "tag": "Somalia Conflict",
-    "tag_cn": "索马里冲突",
-    "first_seen": "2025-12-31",
-    "last_seen": "2026-03-25",
+    "tag": "OpenAI Mega Funding",
+    "tag_cn": "OpenAI巨额融资",
+    "first_seen": "2026-03-10",
+    "last_seen": "2026-04-15",
     "synonyms": [
-      "索马里战争",
-      "索马里叛乱",
-      "Somalia war",
-      "Somalia insurgency"
+      "OpenAI融资",
+      "OpenAI融资1220亿",
+      "OpenAI capital raise",
+      "OpenAI $122B funding"
     ],
-    "desc": "Protracted armed conflict in Somalia among the federal government, African Union forces and the al-Shabaab insurgency. Active fighting and periodic large-scale displacements continued into 2026.",
-    "desc_cn": "索马里联邦政府、非盟部队与青年党叛乱武装之间的长期武装冲突。叛乱活动持续，周期性大规模人口流离失所延续至2026年。"
+    "desc": "OpenAI's record-setting $122 billion fundraising round closed in 2026 — the largest capital raise ever for an AI company — earmarked for next-generation models and compute infrastructure.",
+    "desc_cn": "OpenAI完成的1220亿美元巨额融资，为AI公司史上最大规模单笔融资，定向用于下一代通用人工智能模型与超级计算基础设施研发。"
+  },
+  {
+    "tag": "Crypto Bull Market",
+    "tag_cn": "加密货币牛市",
+    "first_seen": "2026-01-01",
+    "last_seen": "2026-09-02",
+    "synonyms": [
+      "比特币牛市",
+      "加密牛市",
+      "Bitcoin bull run",
+      "Crypto rally"
+    ],
+    "desc": "2026 cryptocurrency bull market cycle powered by post-halving supply dynamics and sustained institutional inflows into Bitcoin spot ETFs. Bitcoin reached new all-time highs alongside broad altcoin strength.",
+    "desc_cn": "2024减半周期叠加比特币现货ETF机构资金持续涌入推动的2026年加密货币牛市，比特币创历史新高，主流与山寨币种普遍大幅上涨。"
+  },
+  {
+    "tag": "Global Ransomware Surge",
+    "tag_cn": "全球勒索病毒激增",
+    "first_seen": "2026-01-01",
+    "last_seen": "2026-09-02",
+    "synonyms": [
+      "勒索软件攻击激增",
+      "勒索软件疫情",
+      "Ransomware attacks surge",
+      "Ransomware epidemic"
+    ],
+    "desc": "A major global surge in ransomware attacks through 2025–2026, rising over 40% year-on-year. Critical infrastructure, enterprises and government agencies worldwide have been widely targeted.",
+    "desc_cn": "2025至2026年全球勒索软件攻击同比激增逾四成，关键基础设施、企业与政府机构广泛受袭，为最突出的网络安全威胁之一。"
   },
   {
     "tag": "GPT-5 Series Launch",
@@ -224,7 +407,7 @@
       "OpenAI GPT5 series"
     ],
     "desc": "OpenAI's release of the GPT-5 series of large language models through 2026, culminating in the flagship GPT-5.6 Sol that set new coding and reasoning benchmarks; some advanced access restricted by the U.S. government.",
-    "desc_cn": "OpenAI于2026年陆续发布的GPT-5系列大语言模型，旗舰版GPT-5.6 Sol在编程与推理方面刷新多项基准，部分高级能力受美国政府管控。"
+    "desc_cn": "OpenAI陆续发布的GPT-5系列大语言模型，旗舰版GPT-5.6 Sol在编程与推理方面刷新多项基准，部分高级能力受美国政府管控。"
   },
   {
     "tag": "OpenAI Custom Chip",
@@ -238,7 +421,7 @@
       "Jalapeño chip"
     ],
     "desc": "OpenAI's custom AI inference chip codenamed 'Jalapeño', co-developed with Broadcom and unveiled in June 2026. Designed to roughly halve inference costs compared with mainstream GPUs.",
-    "desc_cn": "OpenAI与博通合作开发的代号Jalapeño的自研AI推理芯片，于2026年6月发布。相比主流GPU可将推理成本降低约一半，挑战英伟达地位。"
+    "desc_cn": "OpenAI与博通合作开发的代号Jalapeño的自研AI推理芯片，2026年6月发布。相比主流GPU可将推理成本降低约一半，挑战英伟达在AI芯片领域的主导地位。"
   },
   {
     "tag": "Google Gemini Omni",
@@ -252,7 +435,63 @@
       "Google Gemini Omni model"
     ],
     "desc": "Google's flagship multimodal large model Gemini Omni, announced at Google I/O 2026. Marked a major leap in video understanding, content generation and editing capabilities.",
-    "desc_cn": "谷歌在2026年I/O开发者大会发布的旗舰多模态大模型Gemini Omni，在视频理解、生成与编辑能力上实现显著跃升，为谷歌AI核心产品。"
+    "desc_cn": "谷歌在I/O开发者大会发布的旗舰多模态大模型Gemini Omni，在视频理解、生成与编辑能力上实现显著跃升，为谷歌AI战略核心产品。"
+  },
+  {
+    "tag": "Global AI Regulation",
+    "tag_cn": "全球AI监管",
+    "first_seen": "2026-01-01",
+    "last_seen": "2026-09-02",
+    "synonyms": [
+      "欧盟AI法案",
+      "美国AI监管框架",
+      "EU AI Act enforcement",
+      "US AI regulatory framework"
+    ],
+    "desc": "2026 landmark year for global AI governance: EU AI Act entered full force with risk-tiered requirements; US unveiled federal regulatory framework; China and other jurisdictions issued complementary AI rules.",
+    "desc_cn": "2026年为全球AI治理落地元年：欧盟AI法案全面生效并实施风险分级监管，美国出台联邦层面AI监管框架，中国等多司法辖区同步推出配套监管规则。"
+  },
+  {
+    "tag": "Apple Intelligence",
+    "tag_cn": "苹果AI",
+    "first_seen": "2026-01-01",
+    "last_seen": "2026-09-02",
+    "synonyms": [
+      "Apple Intelligence落地",
+      "苹果AI战略",
+      "Apple AI features",
+      "iOS AI features"
+    ],
+    "desc": "Apple's Apple Intelligence personal AI platform rolled out across iPhone, iPad and Mac product lines in 2026, integrating on-device generative AI with cloud-based Siri upgrades and ecosystem-wide productivity tools.",
+    "desc_cn": "2026年苹果在iPhone、iPad与Mac产品线全面落地的Apple Intelligence个人AI平台，整合端侧生成式AI、升级Siri云端能力与全生态生产力工具。"
+  },
+  {
+    "tag": "NVIDIA Blackwell Chips",
+    "tag_cn": "英伟达Blackwell芯片",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-18",
+    "synonyms": [
+      "英伟达AI芯片",
+      "Blackwell芯片",
+      "NVIDIA Blackwell GPU",
+      "NVIDIA AI chips"
+    ],
+    "desc": "NVIDIA's next-generation AI accelerator lineup built on the Blackwell GPU architecture, unveiled with a massive $1 trillion AI chip production roadmap in early 2026.",
+    "desc_cn": "英伟达基于Blackwell架构的新一代AI加速芯片家族及万亿美元级芯片产能管线，为全球AI训练与推理算力的核心供应。"
+  },
+  {
+    "tag": "Apple CEO Succession",
+    "tag_cn": "苹果CEO交接",
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "synonyms": [
+      "苹果换帅",
+      "苹果CEO换帅",
+      "Tim Cook succession",
+      "Ternus Apple CEO"
+    ],
+    "desc": "Apple Inc.'s CEO succession in September 2026. John Ternus succeeded Tim Cook as chief executive; Cook became executive chairman after 15 years leading the company, marking a pivotal leadership transition.",
+    "desc_cn": "苹果公司高层管理层交接：约翰·特努斯接替蒂姆·库克出任CEO，库克在掌舵15年后转任执行董事长，为苹果15年来最重大的权力过渡。"
   },
   {
     "tag": "SpaceX Starship V3",
@@ -263,10 +502,24 @@
       "星舰V3",
       "星舰第三代",
       "Starship version 3",
-      "SpaceX Starship third generation"
+      "SpaceX Starship third gen"
     ],
     "desc": "Third-generation SpaceX Starship super heavy-lift launch vehicle debuting May 2026. Multiple successful test flights advancing toward operational orbital missions including Starlink V3 satellite deployment.",
-    "desc_cn": "SpaceX第三代星舰超重型运载火箭，2026年5月首飞成功，随后完成多次试飞并推进至实用化轨道任务，承担星链V3卫星部署等使命。"
+    "desc_cn": "SpaceX第三代星舰超重型运载火箭，5月首飞成功，随后完成多次试飞并推进至实用化轨道任务，承担星链V3卫星部署等关键使命。"
+  },
+  {
+    "tag": "Tesla Robotaxi",
+    "tag_cn": "特斯拉Robotaxi",
+    "first_seen": "2026-01-01",
+    "last_seen": "2026-09-02",
+    "synonyms": [
+      "特斯拉无人驾驶出租车",
+      "特斯拉Robo出租车",
+      "Tesla autonomous taxi",
+      "Tesla robot taxi service"
+    ],
+    "desc": "Tesla's long-awaited dedicated robotaxi vehicle and service unveil in 2026, designed for fully autonomous ride-hailing without a human driver and built on the next-generation vehicle platform.",
+    "desc_cn": "特斯拉万众期待的专用Robotaxi无人驾驶出租车车型与服务于2026年正式发布，基于下一代车型平台打造，面向无驾驶员自动驾驶网约出行场景。"
   },
   {
     "tag": "Unitree IPO",
@@ -280,149 +533,35 @@
       "Unitree STAR Market listing"
     ],
     "desc": "Unitree Robotics' initial public offering on the Shanghai STAR Market in August 2026, marking the first A-share listing of a company primarily focused on humanoid robots.",
-    "desc_cn": "2026年8月宇树科技在上海科创板首次公开发行上市，成为中国A股首家以人形机器人为主营业务的上市公司。"
+    "desc_cn": "宇树科技在上海科创板首次公开发行上市，成为中国A股首家以人形机器人为主营业务的上市公司。"
   },
   {
-    "tag": "World Humanoid Robot Games 2026",
-    "tag_cn": "2026世界人形机器人大赛",
+    "tag": "World Humanoid Robot Games",
+    "tag_cn": "世界人形机器人大赛",
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-27",
     "synonyms": [
       "机器人运动会",
       "人形机器人运动会",
-      "Humanoid Robot Games 2026",
-      "Robot Olympics 2026"
+      "Humanoid Robot Games",
+      "Robot Olympics"
     ],
     "desc": "The 2nd World Humanoid Robot Games held in Beijing in August 2026. Major international competition with 666 teams competing across locomotion, manipulation and integrated AI tasks.",
-    "desc_cn": "2026年8月在北京举办的第二届世界人形机器人大赛，为国际性人形机器人竞技盛会，666支队伍在移动、操作、人工智能等项目上角逐。"
+    "desc_cn": "在北京举办的第二届世界人形机器人大赛，为国际性人形机器人竞技盛会，666支队伍在移动、操作、人工智能等综合项目上角逐。"
   },
   {
-    "tag": "NVIDIA Blackwell Chips",
-    "tag_cn": "英伟达Blackwell芯片",
-    "first_seen": "2026-03-16",
-    "last_seen": "2026-03-18",
-    "synonyms": [
-      "英伟达AI芯片",
-      "Blackwell芯片",
-      "NVIDIA Blackwell GPU",
-      "NVIDIA AI chips 2026"
-    ],
-    "desc": "NVIDIA's next-generation AI accelerator lineup built on the Blackwell GPU architecture, unveiled with a massive $1 trillion AI chip production roadmap in early 2026.",
-    "desc_cn": "英伟达基于Blackwell架构的新一代AI加速芯片家族及万亿美元级芯片产能管线，为全球AI训练与推理算力的核心供应。"
-  },
-  {
-    "tag": "OpenAI Funding Round 2026",
-    "tag_cn": "OpenAI 2026融资",
-    "first_seen": "2026-03-10",
-    "last_seen": "2026-04-15",
-    "synonyms": [
-      "OpenAI融资",
-      "OpenAI融资1220亿",
-      "OpenAI capital raise",
-      "OpenAI $122B funding"
-    ],
-    "desc": "OpenAI's record-setting $122 billion fundraising round closed in 2026 — the largest capital raise ever for an AI company — earmarked for next-generation models and compute infrastructure.",
-    "desc_cn": "2026年OpenAI完成的1220亿美元巨额融资，为AI公司史上最大规模单笔融资，用于下一代通用人工智能模型与基础设施研发。"
-  },
-  {
-    "tag": "Global Ransomware Surge",
-    "tag_cn": "全球勒索病毒激增",
-    "first_seen": "2026-01-01",
-    "last_seen": "2026-09-02",
-    "synonyms": [
-      "勒索软件攻击激增",
-      "勒索软件疫情",
-      "Ransomware attacks surge",
-      "Ransomware epidemic 2026"
-    ],
-    "desc": "A major global surge in ransomware attacks through 2025–2026, rising over 40% year-on-year. Critical infrastructure, enterprises and government agencies worldwide have been widely targeted.",
-    "desc_cn": "2025至2026年全球勒索软件攻击同比激增逾四成，关键基础设施、企业与政府机构广泛受袭，为最突出的网络安全威胁之一。"
-  },
-  {
-    "tag": "Global Bond Market Crisis",
-    "tag_cn": "全球债市危机",
-    "first_seen": "2026-01-01",
-    "last_seen": "2026-09-02",
-    "synonyms": [
-      "全球债市暴跌",
-      "债市危机2026",
-      "全球债券市场危机",
-      "Bond market crash 2026",
-      "Global bond selloff",
-      "Bond market crisis 2026"
-    ],
-    "desc": "2026 global bond market selloff driven by sticky inflation, elevated interest rates and geopolitical risk. Major sovereign bond yields surged to multi-year highs; market volatility comparable to crisis periods.",
-    "desc_cn": "2026年受黏性通胀、高利率与地缘风险冲击的全球债券市场大幅抛售，主要国家国债收益率升至多年高点，波动率接近危机时期水平。"
-  },
-  {
-    "tag": "US Treasury Buyback Operations",
-    "tag_cn": "美债回购操作",
+    "tag": "SCO Bishkek Summit",
+    "tag_cn": "上合组织比什凯克峰会",
     "first_seen": "2026-09-01",
     "last_seen": "2026-09-02",
     "synonyms": [
-      "美国国债回购",
-      "美债回购",
-      "Treasury bond buybacks",
-      "US Treasury buyback program"
+      "上合组织峰会",
+      "上合比什凯克峰会",
+      "SCO Summit",
+      "SCO Bishkek"
     ],
-    "desc": "Large-scale U.S. Treasury securities repurchase operations launched in 2026 to stabilize the government bond market amid extreme volatility driven by record debt supply and geopolitical shocks.",
-    "desc_cn": "美国财政部在国债供应创纪录与地缘冲击引发的债市剧烈波动背景下，于2026年启动的大规模国债回购操作，旨在稳定市场流动性。"
-  },
-  {
-    "tag": "Bank of Japan Yield Adjustment",
-    "tag_cn": "日本央行收益率调控",
-    "first_seen": "2026-08-15",
-    "last_seen": "2026-09-02",
-    "synonyms": [
-      "日本国债收益率破3%",
-      "日本央行YCC调整",
-      "Japan 10Y yield above 3%",
-      "BOJ yield cap adjustment"
-    ],
-    "desc": "The Bank of Japan's monetary policy adjustments in 2026 leading Japan's 10-year government bond yield to rise above 3% for the first time since 1996, sending ripples through global capital markets.",
-    "desc_cn": "2026年日本央行货币政策调控过程中，日本10年期国债收益率自1996年来首次突破3%关口，为超宽松货币政策转向关键节点，冲击全球资本市场。"
-  },
-  {
-    "tag": "2026 Winter Olympics",
-    "tag_cn": "2026冬奥会",
-    "first_seen": "2026-02-06",
-    "last_seen": "2026-02-22",
-    "synonyms": [
-      "米兰冬奥会",
-      "科尔蒂纳冬奥会",
-      "Milano Cortina 2026",
-      "2026 Winter Olympic Games"
-    ],
-    "desc": "The XXV Olympic Winter Games, jointly hosted by Milan and Cortina d'Ampezzo, Italy, Feb 6–22, 2026. Eight sports and 116 events; first Italian Winter Olympics since 2006.",
-    "desc_cn": "第25届冬季奥林匹克运动会，2026年2月6–22日由意大利米兰与科尔蒂纳丹佩佐联合举办，设8大项116小项，为意大利2006年后再度举办冬奥。"
-  },
-  {
-    "tag": "2026 FIFA World Cup",
-    "tag_cn": "2026世界杯",
-    "first_seen": "2026-06-11",
-    "last_seen": "2026-07-19",
-    "synonyms": [
-      "世界杯2026",
-      "美加墨世界杯",
-      "FIFA World Cup 2026",
-      "World Cup 2026"
-    ],
-    "desc": "The 23rd FIFA World Cup, co-hosted by the United States, Mexico and Canada, June 11 – July 19, 2026. First 48-team format; matches played across 16 cities in three countries.",
-    "desc_cn": "第23届国际足联世界杯，2026年6月11日至7月19日由美、墨、加三国联合举办，首次扩军至48支球队，横跨三国16座主办城市。"
-  },
-  {
-    "tag": "2026 Tennis Grand Slams",
-    "tag_cn": "2026网球大满贯",
-    "first_seen": "2026-01-12",
-    "last_seen": "2026-09-08",
-    "synonyms": [
-      "大满贯2026",
-      "2026四大满贯",
-      "2026 Grand Slam season",
-      "Tennis majors 2026"
-    ],
-    "desc": "The 2026 tennis Grand Slam season (Australian Open, French Open, Wimbledon, US Open). Headlined by Alcaraz completing the career slam at the Australian Open and Sinner's first Wimbledon crown.",
-    "desc_cn": "2026赛季网球四大满贯赛事（澳网、法网、温网、美网），阿尔卡拉斯澳网夺冠实现职业生涯全满贯，辛纳首夺温网冠军。"
+    "desc": "The 26th Shanghai Cooperation Organization Summit held in Bishkek, Kyrgyzstan, September 1–2, 2026. Adopted the Bishkek Declaration condemning military strikes on Iran and a multilateral nuclear safety partnership declaration.",
+    "desc_cn": "在吉尔吉斯斯坦比什凯克举行的第26届上海合作组织峰会，通过谴责对伊朗军事打击的比什凯克宣言以及上合组织首份多边核安全伙伴关系宣言。"
   },
   {
     "tag": "COP31 Climate Summit",
@@ -433,149 +572,65 @@
       "安塔利亚气候大会",
       "第31届联合国气候大会",
       "COP 31 Antalya",
-      "UN Climate Change Conference 2026"
+      "UN Climate Change Conference"
     ],
     "desc": "The 31st UN Climate Change Conference (COP31), held Nov 9–20, 2026 in Antalya, Turkiye. Key UNFCCC negotiating session with 12 thematic days advancing global climate action.",
-    "desc_cn": "第31届联合国气候变化大会（COP31），2026年11月9–20日于土耳其安塔利亚举行，设12个主题日推进全球气候行动谈判。"
+    "desc_cn": "第31届联合国气候变化大会（COP31），于土耳其安塔利亚举行，设12个主题日推进全球气候行动谈判。"
   },
   {
-    "tag": "Apple CEO Succession 2026",
-    "tag_cn": "苹果CEO交接2026",
-    "first_seen": "2026-09-02",
-    "last_seen": "2026-09-02",
+    "tag": "Milano Cortina Olympics",
+    "tag_cn": "米兰冬奥会",
+    "first_seen": "2026-02-06",
+    "last_seen": "2026-02-22",
     "synonyms": [
-      "苹果换帅",
-      "苹果CEO交接",
-      "Tim Cook succession",
-      "Ternus Apple CEO"
+      "2026冬奥会",
+      "科尔蒂纳冬奥会",
+      "2026 Winter Olympics",
+      "Milano Cortina 2026"
     ],
-    "desc": "Apple Inc.'s CEO succession in September 2026. John Ternus succeeded Tim Cook as chief executive; Cook became executive chairman after 15 years leading the company.",
-    "desc_cn": "2026年9月苹果公司最高管理层交接：约翰·特努斯接替蒂姆·库克出任CEO，库克在掌舵15年后转任执行董事长。"
+    "desc": "The XXV Olympic Winter Games, jointly hosted by Milan and Cortina d'Ampezzo, Italy, Feb 6–22, 2026. Eight sports and 116 events; first Italian Winter Olympics since 2006.",
+    "desc_cn": "第25届冬季奥林匹克运动会，由意大利米兰与科尔蒂纳丹佩佐联合举办，设8大项116小项，为意大利2006年都灵冬奥后再度主办冬季奥运会。"
   },
   {
-    "tag": "DRC Ebola Outbreak 2026",
-    "tag_cn": "刚果埃博拉疫情2026",
-    "first_seen": "2026-09-02",
-    "last_seen": "2026-09-02",
+    "tag": "2026 FIFA World Cup",
+    "tag_cn": "2026世界杯",
+    "first_seen": "2026-06-11",
+    "last_seen": "2026-07-19",
     "synonyms": [
-      "刚果埃博拉疫情",
-      "刚果金埃博拉",
-      "DR Congo Ebola 2026",
-      "DRC Ebola epidemic"
+      "世界杯2026",
+      "美加墨世界杯",
+      "World Cup 2026",
+      "FIFA World Cup 2026"
     ],
-    "desc": "Major Ebola virus disease outbreak in the Democratic Republic of the Congo in 2026. One of the largest recorded Ebola epidemics, requiring large-scale international medical and humanitarian response.",
-    "desc_cn": "2026年刚果民主共和国暴发的大规模埃博拉病毒病疫情，为有记录以来最大规模埃博拉流行之一，需大规模国际医疗与人道主义响应。"
+    "desc": "The 23rd FIFA World Cup, co-hosted by the United States, Mexico and Canada, June 11 – July 19, 2026. First 48-team format; matches played across 16 cities in three countries.",
+    "desc_cn": "第23届国际足联世界杯，由美、墨、加三国联合举办，首次扩军至48支球队，横跨三国16座主办城市。"
   },
   {
-    "tag": "SCO Bishkek Summit 2026",
-    "tag_cn": "2026上合组织比什凯克峰会",
-    "first_seen": "2026-09-01",
-    "last_seen": "2026-09-02",
+    "tag": "Tennis Grand Slams",
+    "tag_cn": "网球大满贯",
+    "first_seen": "2026-01-12",
+    "last_seen": "2026-09-08",
     "synonyms": [
-      "上合组织峰会2026",
-      "上合比什凯克峰会",
-      "SCO Summit 2026",
-      "SCO Bishkek 2026"
+      "大满贯赛季",
+      "2026四大满贯",
+      "2026 Grand Slam season",
+      "Tennis majors"
     ],
-    "desc": "The 26th Shanghai Cooperation Organization Summit, held in Bishkek, Kyrgyzstan, September 1–2, 2026. Adopted the Bishkek Declaration and a multilateral nuclear safety partnership statement.",
-    "desc_cn": "2026年9月1–2日在吉尔吉斯斯坦比什凯克举行的第26届上海合作组织峰会，通过比什凯克宣言与多边核安全伙伴关系宣言等文件。"
+    "desc": "Tennis Grand Slam season comprising the Australian Open, French Open, Wimbledon and US Open. Headlined by Alcaraz completing the career slam at the Australian Open and Sinner's first Wimbledon crown.",
+    "desc_cn": "本赛季网球四大满贯赛事（澳网、法网、温网、美网），阿尔卡拉斯澳网夺冠实现职业生涯全满贯，辛纳首夺温网男单冠军。"
   },
   {
-    "tag": "US National Debt 40T Milestone",
-    "tag_cn": "美债突破40万亿",
-    "first_seen": "2026-09-02",
-    "last_seen": "2026-09-02",
+    "tag": "Aichi-Nagoya Asian Games",
+    "tag_cn": "名古屋亚运会",
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-09-03",
     "synonyms": [
-      "美国国债40万亿",
-      "美债40万亿里程碑",
-      "US debt 40 trillion",
-      "US national debt $40T"
+      "爱知名古屋亚运会",
+      "2026亚运会",
+      "Asian Games Nagoya",
+      "Aichi Asian Games"
     ],
-    "desc": "The crossing of the $40 trillion mark by U.S. national debt in August 2026, a historic milestone. Debt-to-GDP ratio exceeded 123% with a $1.6 trillion annual deficit and over $1 trillion in yearly interest costs.",
-    "desc_cn": "2026年8月美国联邦国债总额突破40万亿美元大关，债务占GDP比重超123%，年度赤字1.6万亿美元，年利息支出逾1万亿美元。"
-  },
-  {
-    "tag": "EU China Trade Frictions 2026",
-    "tag_cn": "2026欧中贸易摩擦",
-    "first_seen": "2026-09-02",
-    "last_seen": "2026-09-02",
-    "synonyms": [
-      "欧中贸易摩擦",
-      "欧中贸易争端",
-      "EU-China trade disputes",
-      "EU China trade tensions"
-    ],
-    "desc": "Escalating trade disputes between the European Union and China in 2026, centered on goods trade imbalances across multiple sectors including steel, electric vehicles and industrial manufactures.",
-    "desc_cn": "2026年欧盟与中国之间加剧的贸易争端，核心议题为货物贸易失衡，涉及钢铁、电动汽车及工业制成品出口等多个领域。"
-  },
-  {
-    "tag": "ICE New York Immigration Enforcement",
-    "tag_cn": "ICE纽约移民执法行动",
-    "first_seen": "2026-09-02",
-    "last_seen": "2026-09-02",
-    "synonyms": [
-      "ICE纽约抓捕行动",
-      "ICE纽约移民突袭",
-      "ICE New York raids",
-      "NYC immigration arrests"
-    ],
-    "desc": "A large-scale immigration enforcement operation by U.S. Immigration and Customs Enforcement across New York State in late summer 2026, one of the largest state-level immigration actions in recent years.",
-    "desc_cn": "2026年夏末美国移民和海关执法局在国土安全部主导下于纽约州开展的大规模移民执法行动，为近年最大规模的州级移民拘捕行动之一。"
-  },
-  {
-    "tag": "SCO Plus Nuclear Safety Declaration",
-    "tag_cn": "上合组织核安全宣言",
-    "first_seen": "2026-09-02",
-    "last_seen": "2026-09-02",
-    "synonyms": [
-      "上合核安全宣言",
-      "比什凯克核安全宣言",
-      "SCO nuclear safety statement",
-      "Bishkek nuclear safety declaration"
-    ],
-    "desc": "Multilateral nuclear safety partnership declaration adopted at the 2026 SCO Bishkek Summit, establishing cooperation frameworks among member states on nuclear facility safety and emergency response.",
-    "desc_cn": "2026年上合组织比什凯克峰会通过的多边核安全伙伴关系宣言，为成员国在核设施安全与应急响应方面建立合作框架，是上合首份核安全专项文件。"
-  },
-  {
-    "tag": "G20 Asheville Finance Meeting",
-    "tag_cn": "G20阿什维尔财长会",
-    "first_seen": "2026-09-02",
-    "last_seen": "2026-09-02",
-    "synonyms": [
-      "G20财长会2026",
-      "G20阿什维尔会议",
-      "G20 finance ministers 2026",
-      "G20 Asheville summit"
-    ],
-    "desc": "G20 finance ministers and central bank governors meeting held in Asheville, US in September 2026, dominated by debates over global trade imbalances, debt sustainability and inflation response.",
-    "desc_cn": "2026年9月在美国阿什维尔举行的G20财长与央行行长会议，核心议题包括全球贸易失衡、债务可持续性及通胀应对，就对华贸易顺差问题存在明显分歧。"
-  },
-  {
-    "tag": "EU TTF Natural Gas Spike",
-    "tag_cn": "欧洲TTF天然气暴涨",
-    "first_seen": "2026-09-02",
-    "last_seen": "2026-09-02",
-    "synonyms": [
-      "欧洲天然气价格暴涨",
-      "TTF天然气涨破75欧元",
-      "Europe gas price surge",
-      "Dutch TTF gas price spike"
-    ],
-    "desc": "Sharp rally in European benchmark Dutch TTF natural gas prices in September 2026, driven by Middle East supply disruptions and geopolitical tensions in the Strait of Hormuz.",
-    "desc_cn": "2026年9月受中东供应中断与霍尔木兹海峡地缘紧张驱动，欧洲基准荷兰TTF天然气价格暴涨，逼近2023年高位，加剧欧洲能源通胀压力。"
-  },
-  {
-    "tag": "USPS Mail-in Ballot Controversy",
-    "tag_cn": "USPS邮寄选票争议",
-    "first_seen": "2026-09-01",
-    "last_seen": "2026-09-02",
-    "synonyms": [
-      "美国邮寄选票争议",
-      "邮寄选票系统争议",
-      "USPS ballot system controversy",
-      "mail-in ballot dispute 2026"
-    ],
-    "desc": "2026 pre-election controversy over the U.S. Postal Service's new mail-in ballot processing system, with whistleblower disclosures leading to federal judicial intervention ahead of the midterms.",
-    "desc_cn": "2026年中期选举前围绕美国邮政署新建邮寄选票处理系统的争议，内部举报引发舆论风暴，联邦法院介入暂停新规实施。"
+    "desc": "The 20th Asian Games, scheduled for Sept 19 – Oct 4, 2026 in Aichi Prefecture and Nagoya, Japan. Asia's largest multi-sport event featuring 40 sports across multiple venues.",
+    "desc_cn": "第20届亚洲运动会，于2026年9月19日至10月4日在日本爱知县与名古屋市联合举办，为亚洲最大规模综合体育赛事，设40个大项。"
   }
 ]
