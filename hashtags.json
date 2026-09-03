@@ -3,29 +3,35 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
       "Ukraine conflict",
-      "Russia-Ukraine war"
+      "Russia-Ukraine war",
+      "俄罗斯谈判",
+      "Eastern Economic Forum",
+      "EEF Vladivostok"
     ],
-    "desc": "Ongoing military conflict between Russia and Ukraine since Feb 2022; the largest European land war since WWII. Combat concentrated in Donbas in 2026, heavy drone and missile warfare.",
-    "desc_cn": "2022年2月起俄罗斯与乌克兰持续军事冲突，为二战后欧洲最大规模地面战争。2026年战事集中于顿巴斯地区，无人机与远程导弹作战突出。"
+    "desc": "Ongoing military conflict between Russia and Ukraine since Feb 2022; the largest European land war since WWII. Putin addressed Eastern Economic Forum Sept 2026 expressing openness to negotiations; EU and NATO vowed stepped up pressure after Russian escalation in Germany.",
+    "desc_cn": "2022年2月起俄罗斯与乌克兰持续军事冲突，为二战后欧洲最大规模地面战争。2026年9月普京在东方经济论坛表示愿谈判，欧盟北约因德国无人机袭击升级誓言加强施压。"
   },
   {
     "tag": "Israel Gaza War",
     "tag_cn": "加沙战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "加沙冲突",
       "以哈战争",
       "Gaza conflict",
-      "Israel-Hamas war"
+      "Israel-Hamas war",
+      "西岸定居者暴力",
+      "settler violence West Bank",
+      "Israeli Herzog settler shame"
     ],
-    "desc": "Military conflict between Israel and Hamas in Gaza since Oct 2023. A 2026 ceasefire reduced large-scale fighting, but Israeli control over most of northern Gaza remains in place.",
-    "desc_cn": "2023年10月起以色列与哈马斯在加沙地带交战，为巴以冲突的重大升级。2026年达成停火后大规模战斗减弱，但以军仍控制加沙北部大部。"
+    "desc": "Military conflict between Israel and Hamas in Gaza since Oct 2023. A 2026 ceasefire reduced large-scale fighting, but Israeli control over most of northern Gaza remains; Israeli president called settler violence in West Bank a shame.",
+    "desc_cn": "2023年10月起以色列与哈马斯在加沙地带交战，2026年停火后大规模战斗减弱。以色列总统称西岸定居者暴力是国家耻辱，以军仍控制加沙北部大部。"
   },
   {
     "tag": "Sudan Civil War",
@@ -45,36 +51,43 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
       "美以伊冲突",
       "Iran-US war",
-      "US-Israel-Iran war"
+      "US-Israel-Iran war",
+      "婚礼空袭",
+      "Kuhestak wedding strike",
+      "伊朗报复打击",
+      "Iran retaliatory strikes Kuwait"
     ],
-    "desc": "Regional military confrontation between the US, Israel and Iran erupting Feb 2026. Major airstrikes on Iran followed by Iranian retaliation including temporary closure of the Strait of Hormuz; ceasefire reached but tensions persist.",
-    "desc_cn": "2026年2月美以联合对伊朗发动大规模军事打击，伊朗反击并一度关闭霍尔木兹海峡。后虽达成停火协议，实质性冲突及紧张局势仍持续。"
+    "desc": "Regional military confrontation between the US, Israel and Iran erupting Feb 2026. Sept 2026 saw sharpest escalation since July: US airstrikes hit a wedding in Kuhestak killing civilians; Iran launched retaliatory strikes on Kuwait, Jordan, Iraq, Bahrain targets; Trump threatened further action.",
+    "desc_cn": "2026年2月美以联合对伊朗发动大规模军事打击。2026年9月冲突出现7月以来最激烈升级，美军空袭致库赫斯塔克婚礼平民死亡，伊朗报复打击科威特、约旦、伊拉克、巴林美军目标。"
   },
   {
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
       "Hormuz closure",
-      "Strait of Hormuz closure"
+      "Strait of Hormuz closure",
+      "欧洲天然气价格飙升",
+      "TTF gas price surge",
+      "global oil gas disruption"
     ],
-    "desc": "2026 closure and partial reopening of the Strait of Hormuz by Iran amid the US-Iran military confrontation, disrupting one-fifth of global oil shipping and sending European TTF gas prices to multiyear highs.",
-    "desc_cn": "2026年美伊冲突期间伊朗关闭并后续部分恢复霍尔木兹海峡通行，全球五分之一石油航运受阻，推动欧洲TTF天然气等能源价格飙升至多年高位。"
+    "desc": "2026 closure and partial reopening of the Strait of Hormuz by Iran amid the US-Iran military confrontation. Sept 2026 European TTF gas prices surged again to highest levels since start of the Iran war, threatening global inflation.",
+    "desc_cn": "2026年美伊冲突期间伊朗关闭并部分恢复霍尔木兹海峡通行。2026年9月欧洲TTF天然气价格再度飙升至伊朗战争爆发以来最高位，威胁全球通胀走势。"
   },
   {
     "tag": "Taiwan Strait Tensions",
     "tag_cn": "台海局势",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "台海紧张",
       "两岸局势",
@@ -88,29 +101,35 @@
     "tag": "South China Sea Disputes",
     "tag_cn": "南海争端",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "南海局势",
       "仁爱礁争端",
       "South China Sea tensions",
-      "Ren'ai Reef standoff"
+      "Ren'ai Reef standoff",
+      "日本转让军舰",
+      "Japan warship transfer Philippines",
+      "Japan ASEAN defense aid"
     ],
-    "desc": "Sustained maritime and diplomatic disputes in the South China Sea through 2026, centered on Scarborough Shoal and Second Thomas Shoal involving China, the Philippines and other claimant states.",
-    "desc_cn": "2026年南海持续海上与外交争端，集中于黄岩岛与仁爱礁，涉及中国与菲律宾等多个声索国的主权主张与海上执法对峙。"
+    "desc": "Sustained maritime and diplomatic disputes in the South China Sea through 2026, centered on Scarborough Shoal and Second Thomas Shoal; Japan plans to transfer ageing warships to Philippines and Indonesia as geopolitical leverage.",
+    "desc_cn": "2026年南海持续海上与外交争端，集中于黄岩岛与仁爱礁。日本拟向菲律宾和印尼转让旧军舰以形成地缘政治杠杆，加深区域安全合作。"
   },
   {
     "tag": "Korean Peninsula Tensions",
     "tag_cn": "朝鲜半岛局势",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "朝韩紧张",
       "朝鲜导弹试射",
       "North Korea tensions",
-      "DPRK missile launches"
+      "DPRK missile launches",
+      "特朗普金正恩会面",
+      "Trump Kim meeting 2026",
+      "金正恩特朗普会谈"
     ],
-    "desc": "Escalated tensions on the Korean Peninsula in 2026, marked by multiple North Korean ballistic missile tests, large-scale US-South Korea joint military exercises, and stalled denuclearization diplomacy.",
-    "desc_cn": "2026年朝鲜半岛局势持续紧张，朝鲜多次进行弹道导弹试验，美韩举行大规模联合军演，半岛无核化外交进程处于停滞状态。"
+    "desc": "Escalated tensions on the Korean Peninsula in 2026. Trump said he plans to meet Kim Jong-un later this year despite Pyongyang denying direct communication; DPRK missile tests and US-South Korea exercises continued.",
+    "desc_cn": "2026年朝鲜半岛局势持续紧张。特朗普称计划年内与金正恩会面，尽管朝方否认直接沟通；朝鲜导弹试验与美韩联合军演持续进行。"
   },
   {
     "tag": "Myanmar Crisis",
@@ -130,29 +149,33 @@
     "tag": "Haiti Gang Violence",
     "tag_cn": "海地黑帮危机",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-08-28",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "海地危机",
       "海地帮派暴力",
       "Haiti crisis",
       "Haiti gang crisis"
     ],
-    "desc": "Severe gang-dominated security and humanitarian crisis in Haiti. State authority effectively collapsed since 2024; chronic massacres, extreme food insecurity and mass displacement persist.",
-    "desc_cn": "海地国家权威崩溃背景下由武装帮派主导的严重安全与人道主义危机。大规模屠杀、极端粮食不安全和人口流离失所长期持续。"
+    "desc": "Severe gang-dominated security and humanitarian crisis in Haiti. State authority effectively collapsed since 2024; chronic massacres, extreme food insecurity and mass displacement persist, exacerbated by tropical storm systems.",
+    "desc_cn": "海地国家权威崩溃背景下由武装帮派主导的严重安全与人道主义危机。大规模屠杀、极端粮食不安全和人口流离失所长期持续，热带风暴系统进一步加剧灾情。"
   },
   {
     "tag": "Israel Lebanon Strikes",
     "tag_cn": "以黎冲突",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "以黎战争",
       "以色列黎巴嫩冲突",
       "Lebanon war",
-      "Israel-Lebanon conflict"
+      "Israel-Lebanon conflict",
+      "释放黎巴嫩囚犯",
+      "Lebanese prisoners release",
+      "以色列黎南驻军",
+      "Israel south Lebanon presence"
     ],
-    "desc": "Military exchanges between Israel and Hezbollah along the Israel-Lebanon border, a spillover escalation from the Gaza war. Airstrikes and rocket fire continued regularly through 2026.",
-    "desc_cn": "以色列与黎巴嫩真主党在黎以边境的军事冲突，由加沙战争外溢升级。双方空袭与火箭弹交火持续至2026年。"
+    "desc": "Military exchanges between Israel and Hezbollah along the Israel-Lebanon border, spillover from the Gaza war. Sept 2026: Israel set to release 5 Lebanese prisoners as part of ongoing talks; BBC confirmed Israel expanding presence in south Lebanon.",
+    "desc_cn": "以色列与黎巴嫩真主党在黎以边境的军事冲突，由加沙战争外溢升级。2026年9月以色列拟释放5名黎巴嫩囚犯，BBC证实以方在黎南扩大驻军。"
   },
   {
     "tag": "Somalia Conflict",
@@ -172,56 +195,63 @@
     "tag": "DRC Ebola Outbreak",
     "tag_cn": "刚果埃博拉疫情",
     "first_seen": "2026-09-02",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "刚果金埃博拉",
       "DR Congo Ebola",
       "DRC Ebola epidemic"
     ],
-    "desc": "Major Ebola virus disease outbreak in the Democratic Republic of the Congo in 2026. One of the largest recorded Ebola epidemics, requiring large-scale international medical and humanitarian response.",
-    "desc_cn": "2026年刚果民主共和国暴发的大规模埃博拉病毒病疫情，为有记录以来最大规模埃博拉流行之一，需大规模国际医疗与人道主义响应。"
+    "desc": "Major Ebola virus disease outbreak in the Democratic Republic of the Congo in 2026. One of the largest recorded Ebola epidemics, requiring large-scale international medical and humanitarian response with case counts continuing to climb.",
+    "desc_cn": "2026年刚果民主共和国暴发的大规模埃博拉病毒病疫情，为有记录以来最大规模埃博拉流行之一，病例数持续攀升，需大规模国际医疗与人道主义响应。"
   },
   {
     "tag": "US Midterm Elections",
     "tag_cn": "美国中期选举",
     "first_seen": "2026-01-15",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "2026美国中期选举",
       "2026年国会选举",
       "2026 US midterms",
-      "US congressional elections"
+      "US congressional elections",
+      "特朗普1美元纪念币",
+      "Trump dollar coin",
+      "DHS voter fraud probe",
+      "ICE officer charged Venezuelan man"
     ],
-    "desc": "U.S. midterm elections scheduled for Nov 8, 2026, to elect all 435 House seats, 33 Senate seats and 36 state governorships. Key partisan battle for control of Congress.",
-    "desc_cn": "2026年11月8日举行的美国中期选举，改选全部众议员、三分之一参议员及36州州长，为民主党与共和党争夺国会控制权的关键选战。"
+    "desc": "U.S. midterm elections scheduled for Nov 8, 2026, to elect all 435 House seats, 33 Senate seats and 36 state governorships. Campaigns intensified in Sept: DHS voter fraud probes, USPS ballot disputes, and a Trump $1 special edition coin drew wide attention.",
+    "desc_cn": "2026年11月8日举行的美国中期选举，改选全部众议员、三分之一参议员及36州州长。9月选战升温，DHS选民欺诈调查、USPS邮寄选票争议及特朗普1美元纪念币引发广泛关注。"
   },
   {
     "tag": "USPS Mail-in Ballot Controversy",
     "tag_cn": "USPS邮寄选票争议",
     "first_seen": "2026-09-01",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "美国邮寄选票争议",
       "邮寄选票系统争议",
       "USPS ballot system controversy",
       "mail-in ballot dispute"
     ],
-    "desc": "Pre-election controversy over the U.S. Postal Service's new mail-in ballot processing system ahead of the 2026 midterms, with whistleblower disclosures prompting federal judicial intervention.",
-    "desc_cn": "2026年中期选举前围绕美国邮政署新建邮寄选票处理系统的争议，内部举报引发舆论风暴，联邦法院介入暂停新规实施。"
+    "desc": "Pre-election controversy over the U.S. Postal Service's new mail-in ballot processing system ahead of the 2026 midterms, with whistleblower disclosures prompting federal judicial intervention and state-level scramble to comply.",
+    "desc_cn": "2026年中期选举前围绕美国邮政署新建邮寄选票处理系统的争议，内部举报引发舆论风暴，联邦法院介入暂停新规，各州选举官员紧急应对。"
   },
   {
     "tag": "ICE New York Immigration Enforcement",
     "tag_cn": "ICE纽约移民执法行动",
     "first_seen": "2026-09-02",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "ICE纽约抓捕行动",
       "ICE纽约移民突袭",
       "ICE New York raids",
-      "NYC immigration arrests"
+      "NYC immigration arrests",
+      "ICE枪杀委内瑞拉男子",
+      "ICE officer shooting charged",
+      "ICE Venezuela man shooting"
     ],
-    "desc": "A large-scale immigration enforcement operation by U.S. Immigration and Customs Enforcement across New York State in late summer 2026, one of the largest state-level immigration actions in recent years.",
-    "desc_cn": "2026年夏末美国移民和海关执法局在国土安全部主导下于纽约州开展的大规模移民执法行动，为近年最大规模的州级移民拘捕行动之一。"
+    "desc": "A large-scale immigration enforcement operation by U.S. Immigration and Customs Enforcement across New York State in late summer 2026. An ICE officer was later charged with lying to investigators in the shooting of a Venezuelan man during the operation.",
+    "desc_cn": "2026年夏末美国移民和海关执法局在纽约州开展的大规模移民执法行动，随后一名ICE官员因在执法中枪杀委内瑞拉男子并作伪证被起诉。"
   },
   {
     "tag": "India Education Protests",
@@ -269,88 +299,104 @@
     "tag": "Nepal Tibet Floods",
     "tag_cn": "尼泊尔西藏洪灾",
     "first_seen": "2026-08-25",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "尼泊尔洪灾",
       "西藏洪灾",
       "喜马拉雅洪灾",
       "Nepal floods",
-      "Tibet floods"
+      "Tibet floods",
+      "洪水死亡人数1273",
+      "1273 dead 4757 missing",
+      "Trishuli market destroyed",
+      "特里苏里市场被毁"
     ],
-    "desc": "Catastrophic cross-border floods and landslides sweeping Nepal and China's Tibet Autonomous Region in late August 2026. Caused by glacial lake outburst coupled with extreme monsoon rainfall.",
-    "desc_cn": "2026年8月下旬冰川湖溃决叠加极端季风雨引发的尼泊尔与中国西藏跨境特大洪水与泥石流灾害，造成数千人死伤或失踪。"
+    "desc": "Catastrophic cross-border floods and landslides sweeping Nepal and China's Tibet Autonomous Region in late August 2026. Death toll surpassed 1273 with over 4757 missing by Sept 3, as CNN crews surveyed the devastated Trishuli riverbanks.",
+    "desc_cn": "2026年8月下旬冰川湖溃决叠加极端季风雨引发的尼泊尔与中国西藏跨境特大洪水与泥石流，至9月3日官方确认超1273死、4757失踪，CNN记者实地探访特里苏里河岸重灾区。"
   },
   {
     "tag": "Global Bond Market Crisis",
     "tag_cn": "全球债市危机",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "全球债市暴跌",
       "债市危机",
       "全球债券市场危机",
       "Bond market crash",
       "Global bond selloff",
-      "Bond market rout"
+      "Bond market rout",
+      "bond market wildfire",
+      "债市野火",
+      "UK borrowing costs surge",
+      "英国借贷成本飙升"
     ],
-    "desc": "2026 global bond market selloff driven by sticky inflation, elevated rates and geopolitical risk. Major sovereign yields surged to multi-decade highs; Japan's 10Y yield rose above 3% for the first time since 1996.",
-    "desc_cn": "2026年受黏性通胀、高利率与地缘风险冲击的全球债市大幅抛售，主要国家国债收益率升至数十年高点，日本10年期国债收益率自1996年来首次突破3%关口。"
+    "desc": "2026 global bond market selloff driven by sticky inflation, elevated rates and geopolitical risk. Sept 3: BBC economics editor described 'bond market wildfire keeping world leaders up at night'; UK PM Burnham pressed at first PMQs on surging borrowing costs.",
+    "desc_cn": "2026年受黏性通胀、高利率与地缘风险冲击的全球债市大幅抛售。9月3日BBC经济主编形容债市野火令各国领导人夜不能寐，英国首相伯纳姆首次首相问答就借贷成本飙升遭激烈质询。"
   },
   {
     "tag": "US National Debt 40T Milestone",
     "tag_cn": "美债突破40万亿",
     "first_seen": "2026-09-02",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "美国国债40万亿",
       "美债40万亿里程碑",
       "US debt 40 trillion",
       "US national debt $40T"
     ],
-    "desc": "U.S. national debt crossing the $40 trillion mark in August 2026; debt-to-GDP above 123%, $1.6T annual deficit, $1T+ yearly interest costs; Treasury launched buyback operations to stabilize markets.",
-    "desc_cn": "2026年8月美国联邦国债总额突破40万亿美元，债务占GDP超123%，年赤字1.6万亿美元，年利息支出超1万亿；财政部启动大规模国债回购操作稳定市场流动性。"
+    "desc": "U.S. national debt crossing the $40 trillion mark in August 2026; debt-to-GDP above 123%, $1.6T annual deficit, $1T+ yearly interest costs; Treasury launched buyback operations to stabilize markets amid the global bond rout.",
+    "desc_cn": "2026年8月美国联邦国债总额突破40万亿美元，债务占GDP超123%，年赤字1.6万亿美元，年利息支出超1万亿；财政部在全球债市抛售风暴中启动大规模国债回购操作稳定流动性。"
   },
   {
     "tag": "Fed Rate Cut Cycle",
     "tag_cn": "美联储降息周期",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "美联储降息",
       "美联储利率政策",
       "Fed rate cuts",
       "Federal Reserve easing"
     ],
-    "desc": "The U.S. Federal Reserve's 2026 monetary policy path amid sticky inflation and recession risk. Policy rate held at 3.5–3.75% through September; markets pricing in modest cuts by year-end with considerable uncertainty.",
-    "desc_cn": "2026年美联储在通胀黏性与衰退风险背景下的货币政策路径，9月时政策利率仍维持3.5–3.75%，市场预期年底或有温和降息，但路径高度不确定。"
+    "desc": "The U.S. Federal Reserve's 2026 monetary policy path amid sticky inflation and recession risk. Policy rate held at 3.5–3.75% through September; global bond market wildfire and renewed Iran war escalation further clouded easing expectations.",
+    "desc_cn": "2026年美联储在通胀黏性与衰退风险背景下的货币政策路径，9月政策利率仍维持3.5–3.75%，全球债市野火与美伊冲突再度升级令降息预期高度不确定。"
   },
   {
     "tag": "US Venezuela Oil Deal",
     "tag_cn": "美委石油协议",
     "first_seen": "2026-08-29",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "委内瑞拉石油协议",
       "美委能源协议",
       "Venezuela oil agreement",
-      "US-Venezuela energy deal"
+      "US-Venezuela energy deal",
+      "Delcy Rodriguez thanks Trump",
+      "罗德里格斯感谢特朗普",
+      "Venezuela oil output expansion",
+      "美委石油增产协议"
     ],
-    "desc": "Historic energy cooperation framework between the United States and Venezuela reached in late August 2026, covering expanded oil production investment and strategic petroleum reserve cooperation.",
-    "desc_cn": "2026年8月底美国与委内瑞拉达成的历史性能源合作框架协议，涵盖石油生产投资扩建与战略石油储备深化合作等领域。"
+    "desc": "Historic energy cooperation framework between the United States and Venezuela reached in late August 2026. Sept 3: Energy firms signed concrete output-boosting deals; Venezuela VP Delcy Rodriguez publicly thanked Trump for the energy agreements.",
+    "desc_cn": "2026年8月底美委达成的历史性能源合作框架协议。9月3日能源企业签署具体增产协议，委内瑞拉副总统德尔西·罗德里格斯公开感谢特朗普推动此能源合作。"
   },
   {
     "tag": "EU-China Trade Frictions",
     "tag_cn": "欧中贸易摩擦",
     "first_seen": "2026-09-02",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "欧中贸易争端",
       "欧中贸易紧张",
       "EU China trade disputes",
-      "EU-China trade tensions"
+      "EU-China trade tensions",
+      "EU Beijing trade mission",
+      "欧盟贸易官员赴京",
+      "'untenable' trade imbalances",
+      "不可持续贸易失衡"
     ],
-    "desc": "Escalating trade disputes between the European Union and China in 2026, centered on goods trade imbalances in steel, electric vehicles and industrial manufactures. G20 finance chiefs meeting in Asheville exposed sharp divisions on the issue.",
-    "desc_cn": "2026年欧盟与中国之间加剧的贸易争端，核心为钢铁、电动汽车及工业制成品等领域的贸易失衡，阿什维尔G20财长会就相关议题暴露出明显分歧。"
+    "desc": "Escalating trade disputes between the European Union and China in 2026, centered on steel, electric vehicles and industrial manufactures. Sept 2026: EU trade enforcers descended on Beijing demanding China fix what it called 'untenable' trade imbalances.",
+    "desc_cn": "2026年欧盟与中国之间加剧的贸易争端，核心为钢铁、电动汽车及工业制成品失衡。2026年9月欧盟贸易执法官员集体赴北京，要求中方纠正所谓不可持续的贸易失衡。"
   },
   {
     "tag": "OpenAI Mega Funding",
@@ -370,29 +416,35 @@
     "tag": "Crypto Bull Market",
     "tag_cn": "加密货币牛市",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "比特币牛市",
       "加密牛市",
       "Bitcoin bull run",
-      "Crypto rally"
+      "Crypto rally",
+      "$CHUMP token",
+      "CHUMP迷因币",
+      "meme coin surge"
     ],
-    "desc": "2026 cryptocurrency bull market cycle powered by post-halving supply dynamics and sustained institutional inflows into Bitcoin spot ETFs. Bitcoin reached new all-time highs alongside broad altcoin strength.",
-    "desc_cn": "2024减半周期叠加比特币现货ETF机构资金持续涌入推动的2026年加密货币牛市，比特币创历史新高，主流与山寨币种普遍大幅上涨。"
+    "desc": "2026 cryptocurrency bull market cycle powered by post-halving supply dynamics and sustained institutional inflows into Bitcoin spot ETFs. Bitcoin remained near all-time highs alongside broad altcoin strength and rising $CHUMP meme token frenzy.",
+    "desc_cn": "2024减半周期叠加比特币现货ETF机构资金持续涌入推动的2026年加密货币牛市，比特币维持历史高位附近，主流与山寨币种普涨，$CHUMP等迷因币热炒。"
   },
   {
     "tag": "Global Ransomware Surge",
     "tag_cn": "全球勒索病毒激增",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "勒索软件攻击激增",
       "勒索软件疫情",
       "Ransomware attacks surge",
-      "Ransomware epidemic"
+      "Ransomware epidemic",
+      "Starlink hacking",
+      "星链终端黑客",
+      "China Singapore Starlink terminal"
     ],
-    "desc": "A major global surge in ransomware attacks through 2025–2026, rising over 40% year-on-year. Critical infrastructure, enterprises and government agencies worldwide have been widely targeted.",
-    "desc_cn": "2025至2026年全球勒索软件攻击同比激增逾四成，关键基础设施、企业与政府机构广泛受袭，为最突出的网络安全威胁之一。"
+    "desc": "A major global surge in ransomware attacks through 2025–2026, rising over 40% year-on-year. Critical infrastructure, enterprises and government agencies worldwide have been widely targeted; China-Singapore team reported Starlink terminal hacking breakthrough.",
+    "desc_cn": "2025至2026年全球勒索软件攻击同比激增逾四成，关键基础设施、企业与政府机构广泛受袭。中新安全团队宣布在星链终端漏洞突破方面取得进展。"
   },
   {
     "tag": "GPT-5 Series Launch",
@@ -441,21 +493,21 @@
     "tag": "Global AI Regulation",
     "tag_cn": "全球AI监管",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "欧盟AI法案",
       "美国AI监管框架",
       "EU AI Act enforcement",
       "US AI regulatory framework"
     ],
-    "desc": "2026 landmark year for global AI governance: EU AI Act entered full force with risk-tiered requirements; US unveiled federal regulatory framework; China and other jurisdictions issued complementary AI rules.",
-    "desc_cn": "2026年为全球AI治理落地元年：欧盟AI法案全面生效并实施风险分级监管，美国出台联邦层面AI监管框架，中国等多司法辖区同步推出配套监管规则。"
+    "desc": "2026 landmark year for global AI governance: EU AI Act entered full force with risk-tiered requirements; US unveiled federal regulatory framework; China and other jurisdictions issued complementary AI rules alongside ongoing enforcement.",
+    "desc_cn": "2026年为全球AI治理落地元年：欧盟AI法案全面生效并实施风险分级监管，美国出台联邦层面AI监管框架，中国等多司法辖区同步推出配套监管规则并进入落地执法阶段。"
   },
   {
     "tag": "Apple Intelligence",
     "tag_cn": "苹果AI",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "Apple Intelligence落地",
       "苹果AI战略",
@@ -483,15 +535,15 @@
     "tag": "Apple CEO Succession",
     "tag_cn": "苹果CEO交接",
     "first_seen": "2026-09-02",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "苹果换帅",
       "苹果CEO换帅",
       "Tim Cook succession",
       "Ternus Apple CEO"
     ],
-    "desc": "Apple Inc.'s CEO succession in September 2026. John Ternus succeeded Tim Cook as chief executive; Cook became executive chairman after 15 years leading the company, marking a pivotal leadership transition.",
-    "desc_cn": "苹果公司高层管理层交接：约翰·特努斯接替蒂姆·库克出任CEO，库克在掌舵15年后转任执行董事长，为苹果15年来最重大的权力过渡。"
+    "desc": "Apple Inc.'s CEO succession in September 2026. John Ternus succeeded Tim Cook as chief executive; Cook became executive chairman after 15 years leading the company, marking a pivotal Silicon Valley leadership transition.",
+    "desc_cn": "苹果公司高层管理层交接：约翰·特努斯接替蒂姆·库克出任CEO，库克在掌舵15年后转任执行董事长，为硅谷十五年来最重大的权力过渡事件。"
   },
   {
     "tag": "SpaceX Starship V3",
@@ -511,7 +563,7 @@
     "tag": "Tesla Robotaxi",
     "tag_cn": "特斯拉Robotaxi",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "特斯拉无人驾驶出租车",
       "特斯拉Robo出租车",
@@ -553,15 +605,19 @@
     "tag": "SCO Bishkek Summit",
     "tag_cn": "上合组织比什凯克峰会",
     "first_seen": "2026-09-01",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "上合组织峰会",
       "上合比什凯克峰会",
       "SCO Summit",
-      "SCO Bishkek"
+      "SCO Bishkek",
+      "核安全与安保宣言",
+      "nuclear safety security declaration",
+      "和平核设施攻击谴责",
+      "condemn nuclear facility attacks"
     ],
-    "desc": "The 26th Shanghai Cooperation Organization Summit held in Bishkek, Kyrgyzstan, September 1–2, 2026. Adopted the Bishkek Declaration condemning military strikes on Iran and a multilateral nuclear safety partnership declaration.",
-    "desc_cn": "在吉尔吉斯斯坦比什凯克举行的第26届上海合作组织峰会，通过谴责对伊朗军事打击的比什凯克宣言以及上合组织首份多边核安全伙伴关系宣言。"
+    "desc": "The 26th Shanghai Cooperation Organization Summit held in Bishkek, Kyrgyzstan, September 1–2, 2026. Adopted the Bishkek Declaration and the SCO's first dedicated multilateral nuclear safety and security declaration condemning attacks on peaceful nuclear facilities.",
+    "desc_cn": "在吉尔吉斯斯坦比什凯克举行的第26届上海合作组织峰会，通过比什凯克宣言及上合组织首份多边核安全与安保宣言，严厉谴责对和平核设施的攻击行为。"
   },
   {
     "tag": "COP31 Climate Summit",
@@ -630,7 +686,49 @@
       "Asian Games Nagoya",
       "Aichi Asian Games"
     ],
-    "desc": "The 20th Asian Games, scheduled for Sept 19 – Oct 4, 2026 in Aichi Prefecture and Nagoya, Japan. Asia's largest multi-sport event featuring 40 sports across multiple venues.",
-    "desc_cn": "第20届亚洲运动会，于2026年9月19日至10月4日在日本爱知县与名古屋市联合举办，为亚洲最大规模综合体育赛事，设40个大项。"
+    "desc": "The 20th Asian Games, scheduled for Sept 19 – Oct 4, 2026 in Aichi Prefecture and Nagoya, Japan. Asia's largest multi-sport event featuring 40 sports across multiple venues; preparation coverage intensified in early September.",
+    "desc_cn": "第20届亚洲运动会，于2026年9月19日至10月4日在日本爱知县与名古屋市联合举办，为亚洲最大规模综合体育赛事，设40个大项，9月上旬筹备与预热报道密集升温。"
+  },
+  {
+    "tag": "Nvidia Hugging Face Deal",
+    "tag_cn": "英伟达收购Hugging Face",
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "synonyms": [
+      "英伟达129亿收购Hugging Face",
+      "Nvidia收购HF",
+      "Nvidia Hugging Face acquisition",
+      "NVIDIA buys Hugging Face $12.9B"
+    ],
+    "desc": "Nvidia's $12.9 billion acquisition of open-source AI platform Hugging Face announced Sept 2026. Gives Nvidia control of the leading AI developer community, open-source model repository and Transformers ecosystem.",
+    "desc_cn": "英伟达2026年9月宣布以129亿美元收购开源AI平台Hugging Face，从而掌控全球最大AI开发者社区、开源模型仓库及Transformers生态，为AI产业格局标志性交易。"
+  },
+  {
+    "tag": "Spain Ceuta Migrant Crisis",
+    "tag_cn": "西班牙休达移民危机",
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "synonyms": [
+      "休达移民抗议",
+      "摩洛哥移民危机",
+      "Ceuta migrant protests",
+      "Spain Morocco migrant crisis"
+    ],
+    "desc": "Major migrant influx crisis in the Spanish enclave of Ceuta on the North African coast in Sept 2026. Thousands of protesters in Spanish cities demonstrated against the government's handling; PM Sanchez insisted there were no prior warnings before the crisis erupted.",
+    "desc_cn": "2026年9月西班牙北非飞地休达暴发大规模移民涌入危机，西班牙多城市数千民众抗议政府处置不力，首相桑切斯在议会坚称事前未收到任何预警信号。"
+  },
+  {
+    "tag": "Super El Nino Wildfire Haze",
+    "tag_cn": "超级厄尔尼诺野火雾霾",
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "synonyms": [
+      "超强厄尔尼诺",
+      "东南亚雾霾",
+      "Supersized El Nino",
+      "SE Asia toxic wildfire haze"
+    ],
+    "desc": "The UN warned in Sept 2026 that this year's El Nino event is on track to become the strongest ever recorded, a 'supersized' phenomenon almost certain to extend into 2027. Intensified by climate change-warmed oceans, it caused toxic wildfire haze spreading across Southeast Asia.",
+    "desc_cn": "联合国2026年9月警告今年厄尔尼诺事件正朝史上最强发展，成为超级厄尔尼诺并几乎确定延续至2027年，受气候变化海洋变暖强化，已引发东南亚大范围有毒野火雾霾。"
   }
 ]
