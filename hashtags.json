@@ -3,7 +3,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-04",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -11,16 +11,21 @@
       "Russia-Ukraine war",
       "俄罗斯谈判",
       "Eastern Economic Forum",
-      "EEF Vladivostok"
+      "EEF Vladivostok",
+      "SBU headquarters strike",
+      "Witkoff Kushner Moscow Kyiv",
+      "Witkoff Kushner Ukraine peace trip",
+      "乌克兰安全局总部遭袭",
+      "Witkoff Kushner访乌"
     ],
-    "desc": "Ongoing military conflict between Russia and Ukraine since Feb 2022; the largest European land war since WWII. Putin addressed Eastern Economic Forum Sept 2026 expressing openness to negotiations; EU and NATO vowed stepped up pressure after Russian escalation in Germany.",
-    "desc_cn": "2022年2月起俄罗斯与乌克兰持续军事冲突，为二战后欧洲最大规模地面战争。2026年9月普京在东方经济论坛表示愿谈判，欧盟北约因德国无人机袭击升级誓言加强施压。"
+    "desc": "Ongoing Russia-Ukraine war since Feb 2022, largest European land war since WWII. Sept 2026: Russia struck Kyiv SBU HQ with jet drones; Trump envoys Witkoff and Kushner planned Moscow-Kyiv peace visits; Putin voiced negotiation openness.",
+    "desc_cn": "2022年2月起俄乌持续军事冲突，为二战后欧洲最大规模地面战争。2026年9月俄军袭基辅国家安全局总部；特朗普特使维特科夫与库什纳计划访莫斯科和基辅以重启和谈；普京在东方经济论坛愿谈判。"
   },
   {
     "tag": "Israel Gaza War",
     "tag_cn": "加沙战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-04",
     "synonyms": [
       "加沙冲突",
       "以哈战争",
@@ -51,7 +56,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-04",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -61,16 +66,20 @@
       "婚礼空袭",
       "Kuhestak wedding strike",
       "伊朗报复打击",
-      "Iran retaliatory strikes Kuwait"
+      "Iran retaliatory strikes Kuwait",
+      "Iran accuses US war crimes",
+      "US wedding strike Iran",
+      "Iran US war crimes accusation",
+      "伊朗指控美国战争罪"
     ],
-    "desc": "Regional military confrontation between the US, Israel and Iran erupting Feb 2026. Sept 2026 saw sharpest escalation since July: US airstrikes hit a wedding in Kuhestak killing civilians; Iran launched retaliatory strikes on Kuwait, Jordan, Iraq, Bahrain targets; Trump threatened further action.",
-    "desc_cn": "2026年2月美以联合对伊朗发动大规模军事打击。2026年9月冲突出现7月以来最激烈升级，美军空袭致库赫斯塔克婚礼平民死亡，伊朗报复打击科威特、约旦、伊拉克、巴林美军目标。"
+    "desc": "US-Israel-Iran military confrontation erupting Feb 2026. Sept 2026 saw sharpest escalation since July: a US airstrike hit a Kuhestak wedding killing civilians; Iran accused the US of war crimes and hit US targets in Kuwait, Jordan, Iraq and Bahrain.",
+    "desc_cn": "2026年2月美以对伊朗军事打击。2026年9月现7月以来最激烈升级，美军空袭库赫斯塔克婚礼致平民死亡，伊朗指控美国战争罪并报复打击科威特、约旦、伊拉克、巴林美军目标。"
   },
   {
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-04",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
@@ -87,12 +96,14 @@
     "tag": "Taiwan Strait Tensions",
     "tag_cn": "台海局势",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-04",
     "synonyms": [
       "台海紧张",
       "两岸局势",
       "Taiwan Strait crisis",
-      "Cross-Strait tensions"
+      "Cross-Strait tensions",
+      "Gwangju Biennale Taiwan Pavilion",
+      "光州双年展台湾馆"
     ],
     "desc": "Heightened military and political tensions across the Taiwan Strait in 2026, amplified by US regional force realignments linked to the Middle East conflict and increased PLA maritime and air activity around the island.",
     "desc_cn": "2026年台海两岸军事与政治紧张局势显著升级，受美军中东冲突牵动的印太兵力调整及解放军台海周边海空活动频次上升共同影响。"
@@ -118,7 +129,7 @@
     "tag": "Korean Peninsula Tensions",
     "tag_cn": "朝鲜半岛局势",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-04",
     "synonyms": [
       "朝韩紧张",
       "朝鲜导弹试射",
@@ -126,7 +137,9 @@
       "DPRK missile launches",
       "特朗普金正恩会面",
       "Trump Kim meeting 2026",
-      "金正恩特朗普会谈"
+      "金正恩特朗普会谈",
+      "South Korea Hormuz dispatch",
+      "韩国霍尔木兹派兵"
     ],
     "desc": "Escalated tensions on the Korean Peninsula in 2026. Trump said he plans to meet Kim Jong-un later this year despite Pyongyang denying direct communication; DPRK missile tests and US-South Korea exercises continued.",
     "desc_cn": "2026年朝鲜半岛局势持续紧张。特朗普称计划年内与金正恩会面，尽管朝方否认直接沟通；朝鲜导弹试验与美韩联合军演持续进行。"
@@ -149,7 +162,7 @@
     "tag": "Haiti Gang Violence",
     "tag_cn": "海地黑帮危机",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-04",
     "synonyms": [
       "海地危机",
       "海地帮派暴力",
@@ -163,7 +176,7 @@
     "tag": "Israel Lebanon Strikes",
     "tag_cn": "以黎冲突",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-04",
     "synonyms": [
       "以黎战争",
       "以色列黎巴嫩冲突",
@@ -240,7 +253,7 @@
     "tag": "ICE New York Immigration Enforcement",
     "tag_cn": "ICE纽约移民执法行动",
     "first_seen": "2026-09-02",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-04",
     "synonyms": [
       "ICE纽约抓捕行动",
       "ICE纽约移民突袭",
@@ -299,7 +312,7 @@
     "tag": "Nepal Tibet Floods",
     "tag_cn": "尼泊尔西藏洪灾",
     "first_seen": "2026-08-25",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-04",
     "synonyms": [
       "尼泊尔洪灾",
       "西藏洪灾",
@@ -309,10 +322,15 @@
       "洪水死亡人数1273",
       "1273 dead 4757 missing",
       "Trishuli market destroyed",
-      "特里苏里市场被毁"
+      "特里苏里市场被毁",
+      "Nepal tunnel rescue",
+      "尼泊尔隧道救援",
+      "hydropower tunnel survivors",
+      "NVIDIA 10 million donation Nepal",
+      "英伟达捐赠尼泊尔"
     ],
-    "desc": "Catastrophic cross-border floods and landslides sweeping Nepal and China's Tibet Autonomous Region in late August 2026. Death toll surpassed 1273 with over 4757 missing by Sept 3, as CNN crews surveyed the devastated Trishuli riverbanks.",
-    "desc_cn": "2026年8月下旬冰川湖溃决叠加极端季风雨引发的尼泊尔与中国西藏跨境特大洪水与泥石流，至9月3日官方确认超1273死、4757失踪，CNN记者实地探访特里苏里河岸重灾区。"
+    "desc": "Catastrophic cross-border floods and landslides in Nepal and China Tibet since late Aug 2026. Over 1,000 dead, 5,000+ missing by Sept 4; two hydropower tunnel workers rescued after 9 days; rebuilding costs ~$5 billion; NVIDIA CEO donated $10 million.",
+    "desc_cn": "2026年8月下旬尼泊尔与中国西藏跨境特大洪水泥石流，至9月4日超1000死、5000余失踪；两名水电站隧道工人困9天后获救；重建费约50亿美元，英伟达CEO捐1000万美元。"
   },
   {
     "tag": "Global Bond Market Crisis",
@@ -366,7 +384,7 @@
     "tag": "US Venezuela Oil Deal",
     "tag_cn": "美委石油协议",
     "first_seen": "2026-08-29",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-04",
     "synonyms": [
       "委内瑞拉石油协议",
       "美委能源协议",
@@ -493,12 +511,14 @@
     "tag": "Global AI Regulation",
     "tag_cn": "全球AI监管",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-04",
     "synonyms": [
       "欧盟AI法案",
       "美国AI监管框架",
       "EU AI Act enforcement",
-      "US AI regulatory framework"
+      "US AI regulatory framework",
+      "NYC classroom AI ban",
+      "纽约教室AI禁令"
     ],
     "desc": "2026 landmark year for global AI governance: EU AI Act entered full force with risk-tiered requirements; US unveiled federal regulatory framework; China and other jurisdictions issued complementary AI rules alongside ongoing enforcement.",
     "desc_cn": "2026年为全球AI治理落地元年：欧盟AI法案全面生效并实施风险分级监管，美国出台联邦层面AI监管框架，中国等多司法辖区同步推出配套监管规则并进入落地执法阶段。"
@@ -665,12 +685,15 @@
     "tag": "Tennis Grand Slams",
     "tag_cn": "网球大满贯",
     "first_seen": "2026-01-12",
-    "last_seen": "2026-09-08",
+    "last_seen": "2026-09-04",
     "synonyms": [
       "大满贯赛季",
       "2026四大满贯",
       "2026 Grand Slam season",
-      "Tennis majors"
+      "Tennis majors",
+      "US Open 2026",
+      "Osaka tennis etiquette",
+      "美网网红风波"
     ],
     "desc": "Tennis Grand Slam season comprising the Australian Open, French Open, Wimbledon and US Open. Headlined by Alcaraz completing the career slam at the Australian Open and Sinner's first Wimbledon crown.",
     "desc_cn": "本赛季网球四大满贯赛事（澳网、法网、温网、美网），阿尔卡拉斯澳网夺冠实现职业生涯全满贯，辛纳首夺温网男单冠军。"
@@ -693,7 +716,7 @@
     "tag": "Nvidia Hugging Face Deal",
     "tag_cn": "英伟达收购Hugging Face",
     "first_seen": "2026-09-03",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-04",
     "synonyms": [
       "英伟达129亿收购Hugging Face",
       "Nvidia收购HF",
@@ -707,12 +730,14 @@
     "tag": "Spain Ceuta Migrant Crisis",
     "tag_cn": "西班牙休达移民危机",
     "first_seen": "2026-09-03",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-04",
     "synonyms": [
       "休达移民抗议",
       "摩洛哥移民危机",
       "Ceuta migrant protests",
-      "Spain Morocco migrant crisis"
+      "Spain Morocco migrant crisis",
+      "Canary Islands migrant boat",
+      "加那利群岛移民船"
     ],
     "desc": "Major migrant influx crisis in the Spanish enclave of Ceuta on the North African coast in Sept 2026. Thousands of protesters in Spanish cities demonstrated against the government's handling; PM Sanchez insisted there were no prior warnings before the crisis erupted.",
     "desc_cn": "2026年9月西班牙北非飞地休达暴发大规模移民涌入危机，西班牙多城市数千民众抗议政府处置不力，首相桑切斯在议会坚称事前未收到任何预警信号。"
@@ -721,14 +746,60 @@
     "tag": "Super El Nino Wildfire Haze",
     "tag_cn": "超级厄尔尼诺野火雾霾",
     "first_seen": "2026-09-03",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-04",
     "synonyms": [
       "超强厄尔尼诺",
       "东南亚雾霾",
       "Supersized El Nino",
-      "SE Asia toxic wildfire haze"
+      "SE Asia toxic wildfire haze",
+      "El Nino food stockpile",
+      "厄尔尼诺囤粮"
     ],
     "desc": "The UN warned in Sept 2026 that this year's El Nino event is on track to become the strongest ever recorded, a 'supersized' phenomenon almost certain to extend into 2027. Intensified by climate change-warmed oceans, it caused toxic wildfire haze spreading across Southeast Asia.",
     "desc_cn": "联合国2026年9月警告今年厄尔尼诺事件正朝史上最强发展，成为超级厄尔尼诺并几乎确定延续至2027年，受气候变化海洋变暖强化，已引发东南亚大范围有毒野火雾霾。"
+  },
+  {
+    "tag": "Falklands Malvinas Tensions",
+    "tag_cn": "福克兰群岛争端",
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "synonyms": [
+      "马岛争端",
+      "马尔维纳斯群岛危机",
+      "Falklands oil sanctions",
+      "Argentina UK Falklands dispute",
+      "Milei Malvinas sanctions",
+      "Sea Lion oil project"
+    ],
+    "desc": "Escalated Argentina-UK dispute over the Falkland Islands (Malvinas) in Sept 2026. President Milei vowed sanctions on oil firms and a Tierra del Fuego naval base; Trump hinted the US could review neutrality; UK reaffirmed unwavering sovereignty.",
+    "desc_cn": "2026年9月阿根廷与英国福克兰（马尔维纳斯）群岛争端升级。米莱宣布制裁涉事石油公司并扩建火地岛海军基地；特朗普暗示美国或重审中立立场；英国重申主权不容动摇。"
+  },
+  {
+    "tag": "Typhoon Saudel",
+    "tag_cn": "台风沙德尔",
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "synonyms": [
+      "沙德尔台风",
+      "台风沙德尔福建",
+      "Saudel Fujian floods",
+      "Typhoon Saudel China"
+    ],
+    "desc": "Typhoon Saudel, 2026 18th typhoon, made third landfall in Fujian, China on Sept 3 with record rain. Over 83,700 evacuated, 100+ houses collapsed, multiple missing, 50 rivers above warning, some areas over 560 mm; flood response raised to Level II.",
+    "desc_cn": "2026年第18号台风沙德尔9月3日第三次登陆中国福建，破纪录特大暴雨致8.37万余人转移、100余栋房屋倒塌、多人失踪、50条河流超警，部分日雨量超560毫米，防汛响应提至II级。"
+  },
+  {
+    "tag": "Hurricane Lowell Hawaii",
+    "tag_cn": "夏威夷飓风洛厄尔",
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "synonyms": [
+      "飓风洛厄尔",
+      "洛厄尔飓风夏威夷",
+      "Hurricane Lowell Category 4",
+      "Lowell Hawaii threat"
+    ],
+    "desc": "Hurricane Lowell, a Category 4 storm with 150 mph winds (926 mb), strengthening south of Hawaii in early Sept 2026. Forecast to turn north toward the islands next week, threatening Kauai with storm surge, high winds, heavy rain and dangerous surf.",
+    "desc_cn": "2026年9月初飓风洛厄尔以4级强度（风速150英里/小时，气压926毫巴）在夏威夷以南海域增强，预报下周转向北靠近群岛，可能给考艾岛带来风暴潮、强风、逾10英寸降雨及致命海浪。"
   }
 ]
