@@ -299,20 +299,20 @@
     "tag": "Nepal Tibet Floods",
     "tag_cn": "尼泊尔西藏洪灾",
     "first_seen": "2026-08-25",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-07",
     "synonyms": [
       "尼泊尔洪灾",
       "西藏洪灾",
       "喜马拉雅洪灾",
       "Nepal floods",
       "Tibet floods",
-      "洪水死亡人数1273",
-      "1273 dead 4757 missing",
+      "洪水死亡人数1355",
+      "1355 dead thousands missing",
       "Trishuli market destroyed",
       "特里苏里市场被毁"
     ],
-    "desc": "Catastrophic cross-border floods and landslides sweeping Nepal and China's Tibet Autonomous Region in late August 2026. Death toll surpassed 1273 with over 4757 missing by Sept 3, as CNN crews surveyed the devastated Trishuli riverbanks.",
-    "desc_cn": "2026年8月下旬冰川湖溃决叠加极端季风雨引发的尼泊尔与中国西藏跨境特大洪水与泥石流，至9月3日官方确认超1273死、4757失踪，CNN记者实地探访特里苏里河岸重灾区。"
+    "desc": "Catastrophic cross-border floods and landslides sweeping Nepal and China's Tibet Autonomous Region in late August 2026. Death toll rose to 1355 with thousands still missing by Sept 7, as rescue and recovery efforts continued across the devastated Trishuli river basin.",
+    "desc_cn": "2026年8月下旬冰川湖溃决叠加极端季风雨引发的尼泊尔与中国西藏跨境特大洪水与泥石流，至9月7日官方确认死亡人数升至1355人、仍有数千人失踪，特里苏里河流域重灾区搜救持续进行。"
   },
   {
     "tag": "Global Bond Market Crisis",
@@ -730,5 +730,20 @@
     ],
     "desc": "The UN warned in Sept 2026 that this year's El Nino event is on track to become the strongest ever recorded, a 'supersized' phenomenon almost certain to extend into 2027. Intensified by climate change-warmed oceans, it caused toxic wildfire haze spreading across Southeast Asia.",
     "desc_cn": "联合国2026年9月警告今年厄尔尼诺事件正朝史上最强发展，成为超级厄尔尼诺并几乎确定延续至2027年，受气候变化海洋变暖强化，已引发东南亚大范围有毒野火雾霾。"
+  },
+  {
+    "tag": "Germany AfD Election Win",
+    "tag_cn": "德国选择党胜选",
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-09-07",
+    "synonyms": [
+      "德国极右翼胜选",
+      "AfD州选胜利",
+      "AfD Saxony-Anhalt win",
+      "Germany far-right election",
+      "选择党胜选"
+    ],
+    "desc": "The far-right Alternative for Germany (AfD) won the Saxony-Anhalt state election in Sept 2026, the first far-right party to win a German state election since WWII. Taking about 44% of the vote, it fell just short of an absolute majority, a historic political shift in Europe's largest economy.",
+    "desc_cn": "德国极右翼政党选择党（AfD）2026年9月赢得萨克森-安哈尔特州选举，为二战后极右翼政党首次在德国州选中获胜。得票率约44%，未达绝对多数，标志着欧洲最大经济体政治格局历史性转折。"
   }
 ]
