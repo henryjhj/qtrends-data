@@ -3,7 +3,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -11,26 +11,16 @@
       "Russia-Ukraine war",
       "俄罗斯谈判",
       "Eastern Economic Forum",
-      "EEF Vladivostok",
-      "SBU headquarters strike",
-      "Witkoff Kushner Moscow Kyiv",
-      "Witkoff Kushner Ukraine peace trip",
-      "乌克兰安全局总部遭袭",
-      "Witkoff Kushner访乌",
-      "Putin meets Witkoff Kushner Moscow",
-      "普京会见维特科夫库什纳",
-      "Putin three day pause Kyiv strikes",
-      "普京暂停基辅空袭三天",
-      "Kremlin Ukraine ceasefire talks"
+      "EEF Vladivostok"
     ],
-    "desc": "Ongoing Russia-Ukraine war since Feb 2022, largest European land war since WWII. Sept 5 2026: Putin met Trump envoys Witkoff and Kushner in Moscow for ceasefire talks and ordered a 3-day pause on Kyiv strikes; a Russian drone hit the SBU HQ.",
-    "desc_cn": "2022年2月起俄乌持续军事冲突，为二战后欧洲最大规模地面战争。2026年9月5日普京在莫斯科会见特朗普特使维特科夫与库什纳商讨停火并下令暂停基辅空袭三天；俄军无人机袭击基辅国家安全局总部；单日发生209次战斗交火。"
+    "desc": "Ongoing military conflict between Russia and Ukraine since Feb 2022; the largest European land war since WWII. Putin addressed Eastern Economic Forum Sept 2026 expressing openness to negotiations; EU and NATO vowed stepped up pressure after Russian escalation in Germany.",
+    "desc_cn": "2022年2月起俄罗斯与乌克兰持续军事冲突，为二战后欧洲最大规模地面战争。2026年9月普京在东方经济论坛表示愿谈判，欧盟北约因德国无人机袭击升级誓言加强施压。"
   },
   {
     "tag": "Israel Gaza War",
     "tag_cn": "加沙战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "加沙冲突",
       "以哈战争",
@@ -38,11 +28,7 @@
       "Israel-Hamas war",
       "西岸定居者暴力",
       "settler violence West Bank",
-      "Israeli Herzog settler shame",
-      "US ambassador settlers terrorists",
-      "美大使称定居者恐怖分子",
-      "Freedom Flotilla Gaza mission",
-      "自由船队加沙行动"
+      "Israeli Herzog settler shame"
     ],
     "desc": "Military conflict between Israel and Hamas in Gaza since Oct 2023. A 2026 ceasefire reduced large-scale fighting, but Israeli control over most of northern Gaza remains; Israeli president called settler violence in West Bank a shame.",
     "desc_cn": "2023年10月起以色列与哈马斯在加沙地带交战，2026年停火后大规模战斗减弱。以色列总统称西岸定居者暴力是国家耻辱，以军仍控制加沙北部大部。"
@@ -65,7 +51,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -75,28 +61,16 @@
       "婚礼空袭",
       "Kuhestak wedding strike",
       "伊朗报复打击",
-      "Iran retaliatory strikes Kuwait",
-      "Iran accuses US war crimes",
-      "US wedding strike Iran",
-      "Iran US war crimes accusation",
-      "伊朗指控美国战争罪",
-      "US strikes three Iranian tankers",
-      "美军击沉三艘伊朗油轮",
-      "Iranian oil tankers destroyed",
-      "伊朗油轮被击毁",
-      "Pickaxe Mountain strike threat",
-      "镐头山打击威胁",
-      "Trump Iran war small potatoes",
-      "特朗普称伊朗战争小事"
+      "Iran retaliatory strikes Kuwait"
     ],
-    "desc": "US-Israel-Iran military confrontation since Feb 2026. Sept 5: US disabled two Iranian crude carriers and destroyed a third near Kharg Island after IRGC missiles hit US warships; Trump warned he may strike Iran's Pickaxe Mountain site 'very soon'.",
-    "desc_cn": "2026年2月美以对伊朗军事打击。2026年9月5日美军在哈尔克岛和贾斯克附近瘫痪两艘伊朗原油运输船并击沉第三艘，事发于伊朗革命卫队向美军舰艇发射弹道导弹后；特朗普警告可能很快打击伊朗镐头山核设施，同时轻描淡写称战争只是小事。"
+    "desc": "Regional military confrontation between the US, Israel and Iran erupting Feb 2026. Sept 2026 saw sharpest escalation since July: US airstrikes hit a wedding in Kuhestak killing civilians; Iran launched retaliatory strikes on Kuwait, Jordan, Iraq, Bahrain targets; Trump threatened further action.",
+    "desc_cn": "2026年2月美以联合对伊朗发动大规模军事打击。2026年9月冲突出现7月以来最激烈升级，美军空袭致库赫斯塔克婚礼平民死亡，伊朗报复打击科威特、约旦、伊拉克、巴林美军目标。"
   },
   {
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
@@ -104,11 +78,7 @@
       "Strait of Hormuz closure",
       "欧洲天然气价格飙升",
       "TTF gas price surge",
-      "global oil gas disruption",
-      "Kharg Island tanker strike",
-      "哈尔克岛油轮遇袭",
-      "Iran shadow oil fleet",
-      "伊朗影子油轮船队"
+      "global oil gas disruption"
     ],
     "desc": "2026 closure and partial reopening of the Strait of Hormuz by Iran amid the US-Iran military confrontation. Sept 2026 European TTF gas prices surged again to highest levels since start of the Iran war, threatening global inflation.",
     "desc_cn": "2026年美伊冲突期间伊朗关闭并部分恢复霍尔木兹海峡通行。2026年9月欧洲TTF天然气价格再度飙升至伊朗战争爆发以来最高位，威胁全球通胀走势。"
@@ -117,14 +87,12 @@
     "tag": "Taiwan Strait Tensions",
     "tag_cn": "台海局势",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-04",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "台海紧张",
       "两岸局势",
       "Taiwan Strait crisis",
-      "Cross-Strait tensions",
-      "Gwangju Biennale Taiwan Pavilion",
-      "光州双年展台湾馆"
+      "Cross-Strait tensions"
     ],
     "desc": "Heightened military and political tensions across the Taiwan Strait in 2026, amplified by US regional force realignments linked to the Middle East conflict and increased PLA maritime and air activity around the island.",
     "desc_cn": "2026年台海两岸军事与政治紧张局势显著升级，受美军中东冲突牵动的印太兵力调整及解放军台海周边海空活动频次上升共同影响。"
@@ -150,7 +118,7 @@
     "tag": "Korean Peninsula Tensions",
     "tag_cn": "朝鲜半岛局势",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-04",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "朝韩紧张",
       "朝鲜导弹试射",
@@ -158,9 +126,7 @@
       "DPRK missile launches",
       "特朗普金正恩会面",
       "Trump Kim meeting 2026",
-      "金正恩特朗普会谈",
-      "South Korea Hormuz dispatch",
-      "韩国霍尔木兹派兵"
+      "金正恩特朗普会谈"
     ],
     "desc": "Escalated tensions on the Korean Peninsula in 2026. Trump said he plans to meet Kim Jong-un later this year despite Pyongyang denying direct communication; DPRK missile tests and US-South Korea exercises continued.",
     "desc_cn": "2026年朝鲜半岛局势持续紧张。特朗普称计划年内与金正恩会面，尽管朝方否认直接沟通；朝鲜导弹试验与美韩联合军演持续进行。"
@@ -183,7 +149,7 @@
     "tag": "Haiti Gang Violence",
     "tag_cn": "海地黑帮危机",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-04",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "海地危机",
       "海地帮派暴力",
@@ -197,7 +163,7 @@
     "tag": "Israel Lebanon Strikes",
     "tag_cn": "以黎冲突",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "以黎战争",
       "以色列黎巴嫩冲突",
@@ -242,7 +208,7 @@
     "tag": "US Midterm Elections",
     "tag_cn": "美国中期选举",
     "first_seen": "2026-01-15",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "2026美国中期选举",
       "2026年国会选举",
@@ -251,12 +217,7 @@
       "特朗普1美元纪念币",
       "Trump dollar coin",
       "DHS voter fraud probe",
-      "ICE officer charged Venezuelan man",
-      "North Carolina mail ballots sent",
-      "北卡寄出邮寄选票",
-      "Supreme Court ad rates ruling",
-      "最高法院广告费裁决",
-      "Trump mail-in voting restrictions"
+      "ICE officer charged Venezuelan man"
     ],
     "desc": "U.S. midterm elections scheduled for Nov 8, 2026, to elect all 435 House seats, 33 Senate seats and 36 state governorships. Campaigns intensified in Sept: DHS voter fraud probes, USPS ballot disputes, and a Trump $1 special edition coin drew wide attention.",
     "desc_cn": "2026年11月8日举行的美国中期选举，改选全部众议员、三分之一参议员及36州州长。9月选战升温，DHS选民欺诈调查、USPS邮寄选票争议及特朗普1美元纪念币引发广泛关注。"
@@ -265,14 +226,12 @@
     "tag": "USPS Mail-in Ballot Controversy",
     "tag_cn": "USPS邮寄选票争议",
     "first_seen": "2026-09-01",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "美国邮寄选票争议",
       "邮寄选票系统争议",
       "USPS ballot system controversy",
-      "mail-in ballot dispute",
-      "federal judge extends block",
-      "联邦法官延长禁令"
+      "mail-in ballot dispute"
     ],
     "desc": "Pre-election controversy over the U.S. Postal Service's new mail-in ballot processing system ahead of the 2026 midterms, with whistleblower disclosures prompting federal judicial intervention and state-level scramble to comply.",
     "desc_cn": "2026年中期选举前围绕美国邮政署新建邮寄选票处理系统的争议，内部举报引发舆论风暴，联邦法院介入暂停新规，各州选举官员紧急应对。"
@@ -281,7 +240,7 @@
     "tag": "ICE New York Immigration Enforcement",
     "tag_cn": "ICE纽约移民执法行动",
     "first_seen": "2026-09-02",
-    "last_seen": "2026-09-04",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "ICE纽约抓捕行动",
       "ICE纽约移民突袭",
@@ -340,7 +299,7 @@
     "tag": "Nepal Tibet Floods",
     "tag_cn": "尼泊尔西藏洪灾",
     "first_seen": "2026-08-25",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "尼泊尔洪灾",
       "西藏洪灾",
@@ -350,15 +309,10 @@
       "洪水死亡人数1273",
       "1273 dead 4757 missing",
       "Trishuli market destroyed",
-      "特里苏里市场被毁",
-      "Nepal tunnel rescue",
-      "尼泊尔隧道救援",
-      "hydropower tunnel survivors",
-      "NVIDIA 10 million donation Nepal",
-      "英伟达捐赠尼泊尔"
+      "特里苏里市场被毁"
     ],
-    "desc": "Catastrophic cross-border floods and landslides in Nepal and China Tibet since late Aug 2026. By Sept 5 death toll reached 1,375 with 5,500+ missing; survivors pulled alive from debris 10 days on; NVIDIA CEO donated $10 million.",
-    "desc_cn": "2026年8月下旬尼泊尔与中国西藏跨境特大洪水泥石流，至9月5日死亡1375人、失踪超5500人；幸存者在灾后第10天从废墟中被救出；家属在无遗体情况下举行火化仪式；重建费约50亿美元，英伟达CEO捐1000万美元。"
+    "desc": "Catastrophic cross-border floods and landslides sweeping Nepal and China's Tibet Autonomous Region in late August 2026. Death toll surpassed 1273 with over 4757 missing by Sept 3, as CNN crews surveyed the devastated Trishuli riverbanks.",
+    "desc_cn": "2026年8月下旬冰川湖溃决叠加极端季风雨引发的尼泊尔与中国西藏跨境特大洪水与泥石流，至9月3日官方确认超1273死、4757失踪，CNN记者实地探访特里苏里河岸重灾区。"
   },
   {
     "tag": "Global Bond Market Crisis",
@@ -398,21 +352,21 @@
     "tag": "Fed Rate Cut Cycle",
     "tag_cn": "美联储降息周期",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "美联储降息",
       "美联储利率政策",
       "Fed rate cuts",
       "Federal Reserve easing"
     ],
-    "desc": "The U.S. Federal Reserve's 2026 monetary policy path amid sticky inflation. Rate held at 3.5–3.75% through September; Aug jobs at 162k and markets now expect a possible rate HIKE this month as diesel hit record highs.",
-    "desc_cn": "2026年美联储在通胀黏性与衰退风险背景下的货币政策路径，9月政策利率仍维持3.5–3.75%；8月新增就业16.2万，市场转而预期本月可能加息，因柴油价格创历史新高、通胀再度升温。"
+    "desc": "The U.S. Federal Reserve's 2026 monetary policy path amid sticky inflation and recession risk. Policy rate held at 3.5–3.75% through September; global bond market wildfire and renewed Iran war escalation further clouded easing expectations.",
+    "desc_cn": "2026年美联储在通胀黏性与衰退风险背景下的货币政策路径，9月政策利率仍维持3.5–3.75%，全球债市野火与美伊冲突再度升级令降息预期高度不确定。"
   },
   {
     "tag": "US Venezuela Oil Deal",
     "tag_cn": "美委石油协议",
     "first_seen": "2026-08-29",
-    "last_seen": "2026-09-04",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "委内瑞拉石油协议",
       "美委能源协议",
@@ -539,14 +493,12 @@
     "tag": "Global AI Regulation",
     "tag_cn": "全球AI监管",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-04",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "欧盟AI法案",
       "美国AI监管框架",
       "EU AI Act enforcement",
-      "US AI regulatory framework",
-      "NYC classroom AI ban",
-      "纽约教室AI禁令"
+      "US AI regulatory framework"
     ],
     "desc": "2026 landmark year for global AI governance: EU AI Act entered full force with risk-tiered requirements; US unveiled federal regulatory framework; China and other jurisdictions issued complementary AI rules alongside ongoing enforcement.",
     "desc_cn": "2026年为全球AI治理落地元年：欧盟AI法案全面生效并实施风险分级监管，美国出台联邦层面AI监管框架，中国等多司法辖区同步推出配套监管规则并进入落地执法阶段。"
@@ -713,18 +665,12 @@
     "tag": "Tennis Grand Slams",
     "tag_cn": "网球大满贯",
     "first_seen": "2026-01-12",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-08",
     "synonyms": [
       "大满贯赛季",
       "2026四大满贯",
       "2026 Grand Slam season",
-      "Tennis majors",
-      "US Open 2026",
-      "Osaka tennis etiquette",
-      "美网网红风波",
-      "Williams sisters US Open doubles",
-      "威廉姆斯姐妹美网双打",
-      "Ben Shelton US Open 2026"
+      "Tennis majors"
     ],
     "desc": "Tennis Grand Slam season comprising the Australian Open, French Open, Wimbledon and US Open. Headlined by Alcaraz completing the career slam at the Australian Open and Sinner's first Wimbledon crown.",
     "desc_cn": "本赛季网球四大满贯赛事（澳网、法网、温网、美网），阿尔卡拉斯澳网夺冠实现职业生涯全满贯，辛纳首夺温网男单冠军。"
@@ -747,7 +693,7 @@
     "tag": "Nvidia Hugging Face Deal",
     "tag_cn": "英伟达收购Hugging Face",
     "first_seen": "2026-09-03",
-    "last_seen": "2026-09-04",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "英伟达129亿收购Hugging Face",
       "Nvidia收购HF",
@@ -761,14 +707,12 @@
     "tag": "Spain Ceuta Migrant Crisis",
     "tag_cn": "西班牙休达移民危机",
     "first_seen": "2026-09-03",
-    "last_seen": "2026-09-04",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "休达移民抗议",
       "摩洛哥移民危机",
       "Ceuta migrant protests",
-      "Spain Morocco migrant crisis",
-      "Canary Islands migrant boat",
-      "加那利群岛移民船"
+      "Spain Morocco migrant crisis"
     ],
     "desc": "Major migrant influx crisis in the Spanish enclave of Ceuta on the North African coast in Sept 2026. Thousands of protesters in Spanish cities demonstrated against the government's handling; PM Sanchez insisted there were no prior warnings before the crisis erupted.",
     "desc_cn": "2026年9月西班牙北非飞地休达暴发大规模移民涌入危机，西班牙多城市数千民众抗议政府处置不力，首相桑切斯在议会坚称事前未收到任何预警信号。"
@@ -777,112 +721,14 @@
     "tag": "Super El Nino Wildfire Haze",
     "tag_cn": "超级厄尔尼诺野火雾霾",
     "first_seen": "2026-09-03",
-    "last_seen": "2026-09-04",
+    "last_seen": "2026-09-03",
     "synonyms": [
       "超强厄尔尼诺",
       "东南亚雾霾",
       "Supersized El Nino",
-      "SE Asia toxic wildfire haze",
-      "El Nino food stockpile",
-      "厄尔尼诺囤粮"
+      "SE Asia toxic wildfire haze"
     ],
     "desc": "The UN warned in Sept 2026 that this year's El Nino event is on track to become the strongest ever recorded, a 'supersized' phenomenon almost certain to extend into 2027. Intensified by climate change-warmed oceans, it caused toxic wildfire haze spreading across Southeast Asia.",
     "desc_cn": "联合国2026年9月警告今年厄尔尼诺事件正朝史上最强发展，成为超级厄尔尼诺并几乎确定延续至2027年，受气候变化海洋变暖强化，已引发东南亚大范围有毒野火雾霾。"
-  },
-  {
-    "tag": "Falklands Malvinas Tensions",
-    "tag_cn": "福克兰群岛争端",
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-05",
-    "synonyms": [
-      "马岛争端",
-      "马尔维纳斯群岛危机",
-      "Falklands oil sanctions",
-      "Argentina UK Falklands dispute",
-      "Milei Malvinas sanctions",
-      "Sea Lion oil project",
-      "Argentina sanctions 45 companies Malvinas",
-      "阿根廷制裁45家马岛企业",
-      "Argentina Falklands warning Trump"
-    ],
-    "desc": "Escalated Argentina-UK dispute over the Falkland Islands (Malvinas) in Sept 2026. President Milei vowed sanctions on oil firms and a Tierra del Fuego naval base; Trump hinted the US could review neutrality; UK reaffirmed unwavering sovereignty.",
-    "desc_cn": "2026年9月阿根廷与英国福克兰（马尔维纳斯）群岛争端升级。米莱宣布制裁涉事石油公司并扩建火地岛海军基地；特朗普暗示美国或重审中立立场；英国重申主权不容动摇。"
-  },
-  {
-    "tag": "Typhoon Saudel",
-    "tag_cn": "台风沙德尔",
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-05",
-    "synonyms": [
-      "沙德尔台风",
-      "台风沙德尔福建",
-      "Saudel Fujian floods",
-      "Typhoon Saudel China",
-      "Jiangxi landslide Saudel",
-      "江西山体滑坡沙德尔",
-      "Saudel Gaoping landslide"
-    ],
-    "desc": "Typhoon Saudel, 2026 18th typhoon, made third landfall in Fujian, China on Sept 3 with record rain. Over 83,700 evacuated, 100+ houses collapsed, multiple missing, 50 rivers above warning, some areas over 560 mm; flood response raised to Level II.",
-    "desc_cn": "2026年第18号台风沙德尔9月3日第三次登陆中国福建，破纪录特大暴雨致8.37万余人转移、100余栋房屋倒塌、多人失踪、50条河流超警，部分日雨量超560毫米，防汛响应提至II级。"
-  },
-  {
-    "tag": "Hurricane Lowell Hawaii",
-    "tag_cn": "夏威夷飓风洛厄尔",
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-05",
-    "synonyms": [
-      "飓风洛厄尔",
-      "洛厄尔飓风夏威夷",
-      "Hurricane Lowell Category 4",
-      "Lowell Hawaii threat"
-    ],
-    "desc": "Hurricane Lowell, a Category 4 storm with 150 mph winds (926 mb), strengthening south of Hawaii in early Sept 2026. Forecast to turn north toward the islands next week, threatening Kauai with storm surge, high winds, heavy rain and dangerous surf.",
-    "desc_cn": "2026年9月初飓风洛厄尔以4级强度（风速150英里/小时，气压926毫巴）在夏威夷以南海域增强，预报下周转向北靠近群岛，可能给考艾岛带来风暴潮、强风、逾10英寸降雨及致命海浪。"
-  },
-  {
-    "tag": "US Diesel Price Record",
-    "tag_cn": "美国柴油价格创新高",
-    "first_seen": "2026-09-05",
-    "last_seen": "2026-09-05",
-    "synonyms": [
-      "美国柴油历史最高价",
-      "US diesel $5.85 gallon",
-      "美国柴油5.85美元",
-      "record diesel price US",
-      "Trump approval 33 percent",
-      "特朗普支持率33%"
-    ],
-    "desc": "U.S. average diesel price hit an all-time high of $5.85/gal in early Sept 2026, up from $3.70 a year earlier, driven by the Iran war and Hormuz disruptions. Poll found Trump's approval fell to 33% with just 31% supporting the Iran conflict.",
-    "desc_cn": "2026年9月初美国柴油均价创历史新高达每加仑5.85美元，远高于去年同期的3.70美元，主因美伊战争与霍尔木兹海峡中断。燃油危机引发政治后果：路透/益普索民调显示特朗普支持率降至33%，仅31%民众支持伊朗冲突。"
-  },
-  {
-    "tag": "FIBA Womens World Cup 2026",
-    "tag_cn": "2026女篮世界杯",
-    "first_seen": "2026-09-05",
-    "last_seen": "2026-09-05",
-    "synonyms": [
-      "2026女篮世界杯柏林",
-      "FIBA Women's World Cup Berlin",
-      "US China 94-61 basketball",
-      "美国女篮大胜中国",
-      "Caitlin Clark FIBA World Cup"
-    ],
-    "desc": "The 2026 FIBA Women's Basketball World Cup held in Berlin, Germany, Sept 4–13. 16 national teams compete; the U.S. opened its title defense with a 94–61 win over China led by Caitlin Clark's 14 points and 11 assists off the bench.",
-    "desc_cn": "2026年国际篮联女子篮球世界杯于2026年9月4日至13日在德国柏林举行，16支国家队参赛。美国队以94比61大胜中国开启卫冕之旅，替补出场的凯特琳·克拉克贡献14分11助攻。该赛事为2028年洛杉矶奥运会前最重要的国际女篮赛事。"
-  },
-  {
-    "tag": "Bolivia Military Base Blast",
-    "tag_cn": "玻利维亚军营爆炸",
-    "first_seen": "2026-09-05",
-    "last_seen": "2026-09-05",
-    "synonyms": [
-      "玻利维亚维亚查爆炸",
-      "Bolivia Viacha explosion",
-      "Viacha military barracks blast",
-      "玻利维亚军火库爆炸",
-      "Bolivia fireworks warehouse blast"
-    ],
-    "desc": "A massive explosion at a military barracks in Viacha, Bolivia, ~30 km from La Paz, on Sept 4, 2026. The blast came from the defense ministry's fireworks stockpile; at least 10 killed and 60+ injured; risk of a second blast remains.",
-    "desc_cn": "2026年9月4日玻利维亚拉巴斯附近维亚查市一处军营发生大爆炸，爆炸源于国防部烟花/烟火物资仓库。事故造成至少10人死亡、60余人受伤，死亡人数可能升至15人。消防部门警告现场仍有热源，存在二次爆炸风险。"
   }
 ]
