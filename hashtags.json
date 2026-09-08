@@ -283,7 +283,7 @@
   },
   {
     "tag": "Japan Kumamoto Earthquake",
-    "tag_cn": "日本熊本地震",
+    "tag_cn": "日本九州地震",
     "first_seen": "2026-07-28",
     "last_seen": "2026-08-10",
     "synonyms": [
@@ -297,19 +297,18 @@
   },
   {
     "tag": "Nepal Tibet Floods",
-    "tag_cn": "尼泊尔西藏洪灾",
+    "tag_cn": "尼泊尔特大洪灾",
     "first_seen": "2026-08-25",
     "last_seen": "2026-09-07",
     "synonyms": [
       "尼泊尔洪灾",
       "西藏洪灾",
       "喜马拉雅洪灾",
+      "尼泊尔西藏洪灾",
+      "尼泊尔大洪水",
+      "尼中边境洪灾",
       "Nepal floods",
-      "Tibet floods",
-      "洪水死亡人数1355",
-      "1355 dead thousands missing",
-      "Trishuli market destroyed",
-      "特里苏里市场被毁"
+      "Tibet floods"
     ],
     "desc": "Catastrophic cross-border floods and landslides sweeping Nepal and China's Tibet Autonomous Region in late August 2026. Death toll rose to 1355 with thousands still missing by Sept 7, as rescue and recovery efforts continued across the devastated Trishuli river basin.",
     "desc_cn": "2026年8月下旬冰川湖溃决叠加极端季风雨引发的尼泊尔与中国西藏跨境特大洪水与泥石流，至9月7日官方确认死亡人数升至1355人、仍有数千人失踪，特里苏里河流域重灾区搜救持续进行。"
@@ -744,6 +743,6 @@
       "选择党胜选"
     ],
     "desc": "The far-right Alternative for Germany (AfD) won the Saxony-Anhalt state election in Sept 2026, the first far-right party to win a German state election since WWII. Taking about 44% of the vote, it fell just short of an absolute majority, a historic political shift in Europe's largest economy.",
-    "desc_cn": "德国极右翼政党选择党（AfD）2026年9月赢得萨克森-安哈尔特州选举，为二战后极右翼政党首次在德国州选中获胜。得票率约44%，未达绝对多数，标志着欧洲最大经济体政治格局历史性转折。"
+    "desc_cn": "德国极右翼政党选择党（AfD）2026年9月赢得萨克森-安哈尔特州选举，为二战后极右翼政党首次在德国州选中获胜。得票率约44%，未达绝对多数，但标志着欧洲最大经济体政治格局的历史性转折。"
   }
 ]
