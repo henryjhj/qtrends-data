@@ -46,7 +46,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-08",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -62,7 +62,7 @@
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-08",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
@@ -716,5 +716,21 @@
     ],
     "desc": "The far-right Alternative for Germany (AfD) won the Saxony-Anhalt state election in Sept 2026, the first far-right party to win a German state election since WWII. Taking about 44% of the vote, it fell just short of an absolute majority, a historic political shift in Europe's largest economy.",
     "desc_cn": "德国极右翼政党选择党（AfD）2026年9月赢得萨克森-安哈尔特州选举，为二战后极右翼政党首次在德国州选中获胜。得票率约44%，未达绝对多数，但标志着欧洲最大经济体政治格局的历史性转折。"
+  },
+  {
+    "tag": "US Canada Trade War",
+    "tag_cn": "美加贸易战",
+    "first_seen": "2026-09-08",
+    "last_seen": "2026-09-08",
+    "synonyms": [
+      "加拿大反制关税",
+      "加拿大关税反击",
+      "美加关税战",
+      "Canada retaliatory tariffs",
+      "US-Canada trade war",
+      "加拿大对美加征关税"
+    ],
+    "desc": "2026 US-Canada trade war escalation. After the US imposed 50% tariffs on $20B of Canadian goods and talks collapsed on Aug 21, Canada imposed retaliatory tariffs up to 50% on $20B of US goods including steel, aluminum, dairy and apparel on Sept 8, targeting Trump swing states.",
+    "desc_cn": "2026年美加贸易战升级。美国对200亿加元商品加征50%关税且8月21日谈判破裂后，加拿大9月8日对钢铁、铝、乳制品、服装等200亿美元美国商品加征最高50%反制关税，精准打击特朗普摇摆州。"
   }
 ]
