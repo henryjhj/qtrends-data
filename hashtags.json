@@ -7,11 +7,9 @@
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
+      "乌克兰战争",
       "Ukraine conflict",
-      "Russia-Ukraine war",
-      "俄罗斯谈判",
-      "Eastern Economic Forum",
-      "EEF Vladivostok"
+      "Russia-Ukraine war"
     ],
     "desc": "Ongoing military conflict between Russia and Ukraine since Feb 2022; the largest European land war since WWII. Putin addressed Eastern Economic Forum Sept 2026 expressing openness to negotiations; EU and NATO vowed stepped up pressure after Russian escalation in Germany.",
     "desc_cn": "2022年2月起俄罗斯与乌克兰持续军事冲突，为二战后欧洲最大规模地面战争。2026年9月普京在东方经济论坛表示愿谈判，欧盟北约因德国无人机袭击升级誓言加强施压。"
@@ -25,10 +23,7 @@
       "加沙冲突",
       "以哈战争",
       "Gaza conflict",
-      "Israel-Hamas war",
-      "西岸定居者暴力",
-      "settler violence West Bank",
-      "Israeli Herzog settler shame"
+      "Israel-Hamas war"
     ],
     "desc": "Military conflict between Israel and Hamas in Gaza since Oct 2023. A 2026 ceasefire reduced large-scale fighting, but Israeli control over most of northern Gaza remains; Israeli president called settler violence in West Bank a shame.",
     "desc_cn": "2023年10月起以色列与哈马斯在加沙地带交战，2026年停火后大规模战斗减弱。以色列总统称西岸定居者暴力是国家耻辱，以军仍控制加沙北部大部。"
@@ -58,10 +53,7 @@
       "美以伊冲突",
       "Iran-US war",
       "US-Israel-Iran war",
-      "婚礼空袭",
-      "Kuhestak wedding strike",
-      "伊朗报复打击",
-      "Iran retaliatory strikes Kuwait"
+      "伊朗战争"
     ],
     "desc": "Regional military confrontation between the US, Israel and Iran erupting Feb 2026. Sept 2026 saw sharpest escalation since July: US airstrikes hit a wedding in Kuhestak killing civilians; Iran launched retaliatory strikes on Kuwait, Jordan, Iraq, Bahrain targets; Trump threatened further action.",
     "desc_cn": "2026年2月美以联合对伊朗发动大规模军事打击。2026年9月冲突出现7月以来最激烈升级，美军空袭致库赫斯塔克婚礼平民死亡，伊朗报复打击科威特、约旦、伊拉克、巴林美军目标。"
@@ -75,10 +67,7 @@
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
       "Hormuz closure",
-      "Strait of Hormuz closure",
-      "欧洲天然气价格飙升",
-      "TTF gas price surge",
-      "global oil gas disruption"
+      "Strait of Hormuz closure"
     ],
     "desc": "2026 closure and partial reopening of the Strait of Hormuz by Iran amid the US-Iran military confrontation. Sept 2026 European TTF gas prices surged again to highest levels since start of the Iran war, threatening global inflation.",
     "desc_cn": "2026年美伊冲突期间伊朗关闭并部分恢复霍尔木兹海峡通行。2026年9月欧洲TTF天然气价格再度飙升至伊朗战争爆发以来最高位，威胁全球通胀走势。"
@@ -106,10 +95,7 @@
       "南海局势",
       "仁爱礁争端",
       "South China Sea tensions",
-      "Ren'ai Reef standoff",
-      "日本转让军舰",
-      "Japan warship transfer Philippines",
-      "Japan ASEAN defense aid"
+      "Ren'ai Reef standoff"
     ],
     "desc": "Sustained maritime and diplomatic disputes in the South China Sea through 2026, centered on Scarborough Shoal and Second Thomas Shoal; Japan plans to transfer ageing warships to Philippines and Indonesia as geopolitical leverage.",
     "desc_cn": "2026年南海持续海上与外交争端，集中于黄岩岛与仁爱礁。日本拟向菲律宾和印尼转让旧军舰以形成地缘政治杠杆，加深区域安全合作。"
@@ -169,8 +155,6 @@
       "以色列黎巴嫩冲突",
       "Lebanon war",
       "Israel-Lebanon conflict",
-      "释放黎巴嫩囚犯",
-      "Lebanese prisoners release",
       "以色列黎南驻军",
       "Israel south Lebanon presence"
     ],
@@ -237,21 +221,21 @@
     "desc_cn": "2026年中期选举前围绕美国邮政署新建邮寄选票处理系统的争议，内部举报引发舆论风暴，联邦法院介入暂停新规，各州选举官员紧急应对。"
   },
   {
-    "tag": "ICE New York Immigration Enforcement",
-    "tag_cn": "ICE纽约移民执法行动",
-    "first_seen": "2026-09-02",
+    "tag": "ICE Immigration Enforcement",
+    "tag_cn": "ICE移民执法行动",
+    "first_seen": "2026-01-02",
     "last_seen": "2026-09-03",
     "synonyms": [
-      "ICE纽约抓捕行动",
-      "ICE纽约移民突袭",
-      "ICE New York raids",
+      "ICE抓捕行动",
+      "ICE移民突袭",
+      "ICE raids",
       "NYC immigration arrests",
       "ICE枪杀委内瑞拉男子",
       "ICE officer shooting charged",
       "ICE Venezuela man shooting"
     ],
     "desc": "A large-scale immigration enforcement operation by U.S. Immigration and Customs Enforcement across New York State in late summer 2026. An ICE officer was later charged with lying to investigators in the shooting of a Venezuelan man during the operation.",
-    "desc_cn": "2026年夏末美国移民和海关执法局在纽约州开展的大规模移民执法行动，随后一名ICE官员因在执法中枪杀委内瑞拉男子并作伪证被起诉。"
+    "desc_cn": "2026年以来美国移民和海关执法局开展大规模移民执法行动，抓捕和驱逐大量移民，并导致大量冲突和多起死人事件。"
   },
   {
     "tag": "India Education Protests",
@@ -306,6 +290,8 @@
       "喜马拉雅洪灾",
       "尼泊尔西藏洪灾",
       "尼泊尔大洪水",
+      "尼泊尔山洪",
+      "尼泊尔泥石流",
       "尼中边境洪灾",
       "Nepal floods",
       "Tibet floods"
@@ -371,8 +357,6 @@
       "美委能源协议",
       "Venezuela oil agreement",
       "US-Venezuela energy deal",
-      "Delcy Rodriguez thanks Trump",
-      "罗德里格斯感谢特朗普",
       "Venezuela oil output expansion",
       "美委石油增产协议"
     ],
@@ -390,9 +374,7 @@
       "EU China trade disputes",
       "EU-China trade tensions",
       "EU Beijing trade mission",
-      "欧盟贸易官员赴京",
-      "'untenable' trade imbalances",
-      "不可持续贸易失衡"
+      "欧盟贸易官员赴京"
     ],
     "desc": "Escalating trade disputes between the European Union and China in 2026, centered on steel, electric vehicles and industrial manufactures. Sept 2026: EU trade enforcers descended on Beijing demanding China fix what it called 'untenable' trade imbalances.",
     "desc_cn": "2026年欧盟与中国之间加剧的贸易争端，核心为钢铁、电动汽车及工业制成品失衡。2026年9月欧盟贸易执法官员集体赴北京，要求中方纠正所谓不可持续的贸易失衡。"
@@ -421,8 +403,6 @@
       "加密牛市",
       "Bitcoin bull run",
       "Crypto rally",
-      "$CHUMP token",
-      "CHUMP迷因币",
       "meme coin surge"
     ],
     "desc": "2026 cryptocurrency bull market cycle powered by post-halving supply dynamics and sustained institutional inflows into Bitcoin spot ETFs. Bitcoin remained near all-time highs alongside broad altcoin strength and rising $CHUMP meme token frenzy.",
@@ -437,10 +417,7 @@
       "勒索软件攻击激增",
       "勒索软件疫情",
       "Ransomware attacks surge",
-      "Ransomware epidemic",
-      "Starlink hacking",
-      "星链终端黑客",
-      "China Singapore Starlink terminal"
+      "Ransomware epidemic"
     ],
     "desc": "A major global surge in ransomware attacks through 2025–2026, rising over 40% year-on-year. Critical infrastructure, enterprises and government agencies worldwide have been widely targeted; China-Singapore team reported Starlink terminal hacking breakthrough.",
     "desc_cn": "2025至2026年全球勒索软件攻击同比激增逾四成，关键基础设施、企业与政府机构广泛受袭。中新安全团队宣布在星链终端漏洞突破方面取得进展。"
@@ -454,8 +431,7 @@
       "GPT-5发布",
       "OpenAI GPT-5",
       "GPT-5.6 Sol发布",
-      "GPT 5 launch",
-      "OpenAI GPT5 series"
+      "GPT 5 launch"
     ],
     "desc": "OpenAI's release of the GPT-5 series of large language models through 2026, culminating in the flagship GPT-5.6 Sol that set new coding and reasoning benchmarks; some advanced access restricted by the U.S. government.",
     "desc_cn": "OpenAI陆续发布的GPT-5系列大语言模型，旗舰版GPT-5.6 Sol在编程与推理方面刷新多项基准，部分高级能力受美国政府管控。"
@@ -482,7 +458,6 @@
     "synonyms": [
       "Gemini Omni",
       "Gemini Omni模型",
-      "Gemini 3.5",
       "Google Gemini Omni model"
     ],
     "desc": "Google's flagship multimodal large model Gemini Omni, announced at Google I/O 2026. Marked a major leap in video understanding, content generation and editing capabilities.",
@@ -538,6 +513,7 @@
     "synonyms": [
       "苹果换帅",
       "苹果CEO换帅",
+      "库克卸任",
       "Tim Cook succession",
       "Ternus Apple CEO"
     ],
@@ -609,11 +585,7 @@
       "上合组织峰会",
       "上合比什凯克峰会",
       "SCO Summit",
-      "SCO Bishkek",
-      "核安全与安保宣言",
-      "nuclear safety security declaration",
-      "和平核设施攻击谴责",
-      "condemn nuclear facility attacks"
+      "SCO Bishkek"
     ],
     "desc": "The 26th Shanghai Cooperation Organization Summit held in Bishkek, Kyrgyzstan, September 1–2, 2026. Adopted the Bishkek Declaration and the SCO's first dedicated multilateral nuclear safety and security declaration condemning attacks on peaceful nuclear facilities.",
     "desc_cn": "在吉尔吉斯斯坦比什凯克举行的第26届上海合作组织峰会，通过比什凯克宣言及上合组织首份多边核安全与安保宣言，严厉谴责对和平核设施的攻击行为。"
