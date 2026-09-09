@@ -3,7 +3,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-09",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -18,7 +18,7 @@
     "tag": "Israel Gaza War",
     "tag_cn": "加沙战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-09",
     "synonyms": [
       "加沙冲突",
       "以哈战争",
@@ -46,7 +46,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-09-08",
+    "last_seen": "2026-09-09",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -55,22 +55,22 @@
       "US-Israel-Iran war",
       "伊朗战争"
     ],
-    "desc": "Regional military confrontation between the US, Israel and Iran erupting Feb 2026. Sept 2026 saw sharpest escalation since July: US airstrikes hit a wedding in Kuhestak killing civilians; Iran launched retaliatory strikes on Kuwait, Jordan, Iraq, Bahrain targets; Trump threatened further action.",
-    "desc_cn": "2026年2月美以联合对伊朗发动大规模军事打击。2026年9月冲突出现7月以来最激烈升级，美军空袭致库赫斯塔克婚礼平民死亡，伊朗报复打击科威特、约旦、伊拉克、巴林美军目标。"
+    "desc": "Regional military confrontation between the US, Israel and Iran erupting Feb 2026. Sept 9 2026: US forces destroyed five Iranian oil tankers near Kharg Island and the Gulf of Oman after Iranian missile attempts on a US warship; Iran retaliated with missiles at a Jordanian airbase (18 intercepted), struck shipping and expanded a no-go zone across the Gulf of Oman and Arabian Sea. IAEA board voted to refer Iran to the UN Security Council; Trump said the war would end immediately after the Nov midterms. Brent crude surged past $100/bbl.",
+    "desc_cn": "2026年2月美以联合对伊朗发动大规模军事打击。2026年9月9日美军在哈尔克岛附近与阿曼湾摧毁5艘伊朗油轮，回应伊朗对美军舰的导弹袭击；伊朗报复打击约旦空军基地（18枚被拦截）、袭击海峡船只并将禁航区扩至阿曼湾与阿拉伯海。IAEA理事会投票将伊朗核问题提交联合国安理会；特朗普称战事将在11月中期选举后立即结束。布伦特原油突破每桶100美元。"
   },
   {
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-09-08",
+    "last_seen": "2026-09-09",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
       "Hormuz closure",
       "Strait of Hormuz closure"
     ],
-    "desc": "2026 closure and partial reopening of the Strait of Hormuz by Iran amid the US-Iran military confrontation. Sept 2026 European TTF gas prices surged again to highest levels since start of the Iran war, threatening global inflation.",
-    "desc_cn": "2026年美伊冲突期间伊朗关闭并部分恢复霍尔木兹海峡通行。2026年9月欧洲TTF天然气价格再度飙升至伊朗战争爆发以来最高位，威胁全球通胀走势。"
+    "desc": "2026 closure and partial reopening of the Strait of Hormuz by Iran amid the US-Iran military confrontation. Sept 9 2026: Iran expanded its prohibited zone to cover parts of the Gulf of Oman and Arabian Sea, attacked transiting vessels and warned tankers in Kuwait/Bahrain ports. Brent crude jumped to $101.21/bbl, the first close above $100 since July, with roughly one-fifth of global oil transit at risk.",
+    "desc_cn": "2026年美伊冲突期间伊朗关闭并部分恢复霍尔木兹海峡通行。2026年9月9日伊朗将禁航区扩至阿曼湾与阿拉伯海部分海域，袭击过境船只并警告科威特、巴林港口油轮。布伦特原油跳升至每桶101.21美元，为7月以来首次收于100美元上方，全球约五分之一石油运输通道仍处风险之中。"
   },
   {
     "tag": "Taiwan Strait Tensions",
@@ -179,20 +179,20 @@
     "tag": "DRC Ebola Outbreak",
     "tag_cn": "刚果埃博拉疫情",
     "first_seen": "2026-09-02",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-09",
     "synonyms": [
       "刚果金埃博拉",
       "DR Congo Ebola",
       "DRC Ebola epidemic"
     ],
-    "desc": "Major Ebola virus disease outbreak in the Democratic Republic of the Congo in 2026. One of the largest recorded Ebola epidemics, requiring large-scale international medical and humanitarian response with case counts continuing to climb.",
-    "desc_cn": "2026年刚果民主共和国暴发的大规模埃博拉病毒病疫情，为有记录以来最大规模埃博拉流行之一，病例数持续攀升，需大规模国际医疗与人道主义响应。"
+    "desc": "Major Ebola (Bundibugyo virus) outbreak in the Democratic Republic of the Congo declared May 2026, now the second-largest Ebola epidemic on record. As of Sept 7: 6757 confirmed cases and 3267 deaths (48.3% case fatality) across 61 health zones in six provinces; 1590 recovered. No approved vaccine or treatment exists for the Bundibugyo strain.",
+    "desc_cn": "2026年5月刚果（金）暴发的布恩迪布焦型埃博拉疫情，为有记录以来第二大埃博拉流行。截至9月7日累计确诊6757例、死亡3267例（病死率48.3%），波及6省61个卫生区，1590人治愈。目前尚无针对该病毒毒株的获批疫苗或疗法。"
   },
   {
     "tag": "US Midterm Elections",
     "tag_cn": "美国中期选举",
     "first_seen": "2026-01-15",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-09",
     "synonyms": [
       "2026美国中期选举",
       "2026年国会选举",
@@ -210,7 +210,7 @@
     "tag": "USPS Mail-in Ballot Controversy",
     "tag_cn": "USPS邮寄选票争议",
     "first_seen": "2026-09-01",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-09",
     "synonyms": [
       "美国邮寄选票争议",
       "邮寄选票系统争议",
@@ -303,7 +303,7 @@
     "tag": "Global Bond Market Crisis",
     "tag_cn": "全球债市危机",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-09",
     "synonyms": [
       "全球债市暴跌",
       "债市危机",
@@ -337,15 +337,15 @@
     "tag": "Fed Rate Cut Cycle",
     "tag_cn": "美联储降息周期",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-09",
     "synonyms": [
       "美联储降息",
       "美联储利率政策",
       "Fed rate cuts",
       "Federal Reserve easing"
     ],
-    "desc": "The U.S. Federal Reserve's 2026 monetary policy path amid sticky inflation and recession risk. Policy rate held at 3.5–3.75% through September; global bond market wildfire and renewed Iran war escalation further clouded easing expectations.",
-    "desc_cn": "2026年美联储在通胀黏性与衰退风险背景下的货币政策路径，9月政策利率仍维持3.5–3.75%，全球债市野火与美伊冲突再度升级令降息预期高度不确定。"
+    "desc": "The U.S. Federal Reserve's 2026 monetary policy path amid sticky inflation and recession risk. Policy rate held at 3.5–3.75% through September; Brent crude surging past $100/bbl on the Iran war drove markets to price in a possible rate hike, with CME FedWatch showing over 50% odds of a 25bp increase in September/October, upending earlier easing expectations.",
+    "desc_cn": "2026年美联储在通胀黏性与衰退风险背景下的货币政策路径，9月政策利率仍维持3.5–3.75%。美伊冲突推升布伦特原油突破每桶100美元，市场转而预期加息，CME美联储观察显示9月/10月加息25基点概率过半，此前降息预期被颠覆。"
   },
   {
     "tag": "US Venezuela Oil Deal",
@@ -636,7 +636,7 @@
     "tag": "Tennis Grand Slams",
     "tag_cn": "网球大满贯",
     "first_seen": "2026-01-12",
-    "last_seen": "2026-09-08",
+    "last_seen": "2026-09-09",
     "synonyms": [
       "大满贯赛季",
       "2026四大满贯",
@@ -706,7 +706,7 @@
     "tag": "Germany AfD Election Win",
     "tag_cn": "德国选择党胜选",
     "first_seen": "2026-09-07",
-    "last_seen": "2026-09-07",
+    "last_seen": "2026-09-09",
     "synonyms": [
       "德国极右翼胜选",
       "AfD州选胜利",
@@ -721,7 +721,7 @@
     "tag": "US Canada Trade War",
     "tag_cn": "美加贸易战",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-09-08",
+    "last_seen": "2026-09-09",
     "synonyms": [
       "加拿大反制关税",
       "加拿大关税反击",
@@ -732,5 +732,21 @@
     ],
     "desc": "2026 US-Canada trade war escalation. After the US imposed 50% tariffs on $20B of Canadian goods and talks collapsed on Aug 21, Canada imposed retaliatory tariffs up to 50% on $20B of US goods including steel, aluminum, dairy and apparel on Sept 8, targeting Trump swing states.",
     "desc_cn": "2026年美加贸易战升级。美国对200亿加元商品加征50%关税且8月21日谈判破裂后，加拿大9月8日对钢铁、铝、乳制品、服装等200亿美元美国商品加征最高50%反制关税，精准打击特朗普摇摆州。"
+  },
+  {
+    "tag": "UK Israel Settlement Ban",
+    "tag_cn": "英国制裁以色列定居点",
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-09",
+    "synonyms": [
+      "英国禁止定居点商品",
+      "英法加定居点禁令",
+      "以色列定居点贸易禁令",
+      "UK settlement goods ban",
+      "UK West Bank sanctions",
+      "West Bank settlement import ban"
+    ],
+    "desc": "In Sept 2026 the UK, joined by France and Canada, banned imports of goods from Israeli settlements in the occupied West Bank and imposed targeted sanctions, with Foreign Secretary Miliband denouncing settler 'ethnic cleansing' and deeming Israel's occupation unlawful. A 12-nation joint statement backed the move; Israel retaliated by closing the UK consulate in East Jerusalem and barring British lawmakers.",
+    "desc_cn": "2026年9月英国联合法国、加拿大宣布禁止进口约旦河西岸以色列定居点商品并实施定向制裁，英外交大臣米利班德谴责定居者“种族清洗”并认定以色列占领非法。12国联合声明支持此举；以色列报复关闭英驻东耶路撒冷领事馆并禁止英国议员入境。"
   }
 ]
