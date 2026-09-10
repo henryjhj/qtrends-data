@@ -3,7 +3,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-09",
+    "last_seen": "2026-09-10",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -18,7 +18,7 @@
     "tag": "Israel Gaza War",
     "tag_cn": "加沙战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-09",
+    "last_seen": "2026-09-10",
     "synonyms": [
       "加沙冲突",
       "以哈战争",
@@ -46,7 +46,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-09-09",
+    "last_seen": "2026-09-10",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -62,7 +62,7 @@
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-09-09",
+    "last_seen": "2026-09-10",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
@@ -192,7 +192,7 @@
     "tag": "US Midterm Elections",
     "tag_cn": "美国中期选举",
     "first_seen": "2026-01-15",
-    "last_seen": "2026-09-09",
+    "last_seen": "2026-09-10",
     "synonyms": [
       "2026美国中期选举",
       "2026年国会选举",
@@ -201,16 +201,18 @@
       "特朗普1美元纪念币",
       "Trump dollar coin",
       "DHS voter fraud probe",
-      "ICE officer charged Venezuelan man"
+      "ICE officer charged Venezuelan man",
+      "特朗普5000美元承诺",
+      "Trump $5000 election pledge"
     ],
-    "desc": "U.S. midterm elections scheduled for Nov 8, 2026, to elect all 435 House seats, 33 Senate seats and 36 state governorships. Campaigns intensified in Sept: DHS voter fraud probes, USPS ballot disputes, and a Trump $1 special edition coin drew wide attention.",
-    "desc_cn": "2026年11月8日举行的美国中期选举，改选全部众议员、三分之一参议员及36州州长。9月选战升温，DHS选民欺诈调查、USPS邮寄选票争议及特朗普1美元纪念币引发广泛关注。"
+    "desc": "U.S. midterm elections scheduled for Nov 8, 2026, to elect all 435 House seats, 33 Senate seats and 36 state governorships. Campaigns intensified in Sept: DHS voter fraud probes, USPS ballot disputes, Trump's $5,000-per-adult election pledge, and a Trump $1 special edition coin drew wide attention.",
+    "desc_cn": "2026年11月8日举行的美国中期选举，改选全部众议员、三分之一参议员及36州州长。9月选战升温，DHS选民欺诈调查、USPS邮寄选票争议、特朗普每人5000美元选举承诺及特朗普1美元纪念币引发广泛关注。"
   },
   {
     "tag": "USPS Mail-in Ballot Controversy",
     "tag_cn": "USPS邮寄选票争议",
     "first_seen": "2026-09-01",
-    "last_seen": "2026-09-09",
+    "last_seen": "2026-09-10",
     "synonyms": [
       "美国邮寄选票争议",
       "邮寄选票系统争议",
@@ -283,7 +285,7 @@
     "tag": "Nepal Tibet Floods",
     "tag_cn": "尼泊尔特大洪灾",
     "first_seen": "2026-08-25",
-    "last_seen": "2026-09-07",
+    "last_seen": "2026-09-10",
     "synonyms": [
       "尼泊尔洪灾",
       "西藏洪灾",
@@ -509,7 +511,7 @@
     "tag": "Apple CEO Succession",
     "tag_cn": "苹果CEO交接",
     "first_seen": "2026-09-02",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-10",
     "synonyms": [
       "苹果换帅",
       "苹果CEO换帅",
@@ -636,7 +638,7 @@
     "tag": "Tennis Grand Slams",
     "tag_cn": "网球大满贯",
     "first_seen": "2026-01-12",
-    "last_seen": "2026-09-09",
+    "last_seen": "2026-09-10",
     "synonyms": [
       "大满贯赛季",
       "2026四大满贯",
@@ -737,7 +739,7 @@
     "tag": "UK Israel Settlement Ban",
     "tag_cn": "英国制裁以色列",
     "first_seen": "2026-09-09",
-    "last_seen": "2026-09-09",
+    "last_seen": "2026-09-10",
     "synonyms": [
       "英国禁止定居点商品",
       "英国制裁以色列定居点",
@@ -749,5 +751,20 @@
     ],
     "desc": "In Sept 2026 the UK, joined by France and Canada, banned imports of goods from Israeli settlements in the occupied West Bank and imposed targeted sanctions, with Foreign Secretary Miliband denouncing settler 'ethnic cleansing' and deeming Israel's occupation unlawful. A 12-nation joint statement backed the move; Israel retaliated by closing the UK consulate in East Jerusalem and barring British lawmakers.",
     "desc_cn": "2026年9月英国联合法国、加拿大宣布禁止进口约旦河西岸以色列定居点商品并实施定向制裁，英外交大臣米利班德谴责定居者“种族清洗”并认定以色列占领非法。12国联合声明支持此举；以色列报复关闭英驻东耶路撒冷领事馆并禁止英国议员入境。"
+  },
+  {
+    "tag": "Apple iPhone Duo",
+    "tag_cn": "苹果折叠屏手机",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
+    "synonyms": [
+      "iPhone Duo",
+      "苹果折叠屏iPhone",
+      "苹果首款折叠屏",
+      "Apple foldable iPhone",
+      "iPhone折叠屏"
+    ],
+    "desc": "Apple's first foldable smartphone, the iPhone Duo, unveiled at Apple's September 2026 event led by new CEO John Ternus. It marks Apple's long-awaited entry into the foldable phone market and the biggest iPhone design change in nearly two decades.",
+    "desc_cn": "苹果首款折叠屏智能手机iPhone Duo于2026年9月由新任CEO特努斯主持发布，标志苹果正式入局折叠屏赛道，为近二十年来iPhone最大设计变革。"
   }
 ]
