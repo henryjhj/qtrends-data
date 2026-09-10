@@ -11,8 +11,8 @@
       "Ukraine conflict",
       "Russia-Ukraine war"
     ],
-    "desc": "Ongoing military conflict between Russia and Ukraine since Feb 2022; the largest European land war since WWII. Putin addressed Eastern Economic Forum Sept 2026 expressing openness to negotiations; EU and NATO vowed stepped up pressure after Russian escalation in Germany.",
-    "desc_cn": "2022年2月起俄罗斯与乌克兰持续军事冲突，为二战后欧洲最大规模地面战争。2026年9月普京在东方经济论坛表示愿谈判，欧盟北约因德国无人机袭击升级誓言加强施压。"
+    "desc": "The Russo-Ukrainian War began in 2014 with Russia’s annexation of Crimea and conflict in Donbas. On February 24, 2022, Russia launched a full-scale invasion of Ukraine, escalating the war into a major armed conflict that continues today.",
+    "desc_cn": "俄乌战争始于2014年，起因涉及克里米亚问题及顿巴斯冲突。2022年2月24日，俄罗斯全面入侵乌克兰，战争升级为大规模武装冲突。此后双方持续作战，战争至今仍在进行。"
   },
   {
     "tag": "Israel Gaza War",
@@ -25,8 +25,8 @@
       "Gaza conflict",
       "Israel-Hamas war"
     ],
-    "desc": "Military conflict between Israel and Hamas in Gaza since Oct 2023. A 2026 ceasefire reduced large-scale fighting, but Israeli control over most of northern Gaza remains; Israeli president called settler violence in West Bank a shame.",
-    "desc_cn": "2023年10月起以色列与哈马斯在加沙地带交战，2026年停火后大规模战斗减弱。以色列总统称西岸定居者暴力是国家耻辱，以军仍控制加沙北部大部。"
+    "desc": "The Gaza War began on October 7, 2023, when Hamas-led Palestinian militants attacked Israel. Israel responded with extensive airstrikes and a ground offensive in Gaza, causing heavy casualties and a major humanitarian crisis.",
+    "desc_cn": "加沙战争始于2023年10月7日，哈马斯等巴勒斯坦武装袭击以色列，以色列随后对加沙展开大规模空袭和地面攻势。战争造成严重人员伤亡和人道危机，并引发地区冲突及国际影响。"
   },
   {
     "tag": "Sudan Civil War",
@@ -55,8 +55,8 @@
       "US-Israel-Iran war",
       "伊朗战争"
     ],
-    "desc": "Regional military confrontation between the US, Israel and Iran erupting Feb 2026. Sept 9 2026: US forces destroyed five Iranian oil tankers near Kharg Island and the Gulf of Oman after Iranian missile attempts on a US warship; Iran retaliated with missiles at a Jordanian airbase (18 intercepted), struck shipping and expanded a no-go zone across the Gulf of Oman and Arabian Sea. IAEA board voted to refer Iran to the UN Security Council; Trump said the war would end immediately after the Nov midterms. Brent crude surged past $100/bbl.",
-    "desc_cn": "2026年2月美以联合对伊朗发动大规模军事打击。2026年9月9日美军在哈尔克岛附近与阿曼湾摧毁5艘伊朗油轮，回应伊朗对美军舰的导弹袭击；伊朗报复打击约旦空军基地（18枚被拦截）、袭击海峡船只并将禁航区扩至阿曼湾与阿拉伯海。IAEA理事会投票将伊朗核问题提交联合国安理会；特朗普称战事将在11月中期选举后立即结束。布伦特原油突破每桶100美元。"
+    "desc": "The 2026 Iran War began on February 28, when the U.S. and Israel launched large-scale strikes on Iran. Iran retaliated, expanding the conflict across the Middle East. The war has affected military, nuclear and energy infrastructure.",
+    "desc_cn": "2026年2月28日，美国与以色列对伊朗发动大规模军事打击，伊朗随即反击，战争迅速扩大至中东多国。冲突涉及核设施、军事基地及能源设施，并一度引发霍尔木兹海峡航运危机。"
   },
   {
     "tag": "Strait of Hormuz Crisis",
@@ -69,8 +69,8 @@
       "Hormuz closure",
       "Strait of Hormuz closure"
     ],
-    "desc": "2026 closure and partial reopening of the Strait of Hormuz by Iran amid the US-Iran military confrontation. Sept 9 2026: Iran expanded its prohibited zone to cover parts of the Gulf of Oman and Arabian Sea, attacked transiting vessels and warned tankers in Kuwait/Bahrain ports. Brent crude jumped to $101.21/bbl, the first close above $100 since July, with roughly one-fifth of global oil transit at risk.",
-    "desc_cn": "2026年美伊冲突期间伊朗关闭并部分恢复霍尔木兹海峡通行。2026年9月9日伊朗将禁航区扩至阿曼湾与阿拉伯海部分海域，袭击过境船只并警告科威特、巴林港口油轮。布伦特原油跳升至每桶101.21美元，为7月以来首次收于100美元上方，全球约五分之一石油运输通道仍处风险之中。"
+    "desc": "The 2026 Strait of Hormuz crisis began when Iran restricted shipping during the Iran War, disrupting global energy supplies and maritime trade. The U.S. later imposed its own blockade, escalating tensions and creating a major international energy crisis.",
+    "desc_cn": "2026年伊朗战争期间，伊朗封锁霍尔木兹海峡，导致国际航运受阻、全球能源供应受到严重冲击。美国随后采取封锁措施，危机进一步升级，并引发国际社会对能源安全和地区局势的广泛担忧。"
   },
   {
     "tag": "Taiwan Strait Tensions",
@@ -735,11 +735,12 @@
   },
   {
     "tag": "UK Israel Settlement Ban",
-    "tag_cn": "英国制裁以色列定居点",
+    "tag_cn": "英国制裁以色列",
     "first_seen": "2026-09-09",
     "last_seen": "2026-09-09",
     "synonyms": [
       "英国禁止定居点商品",
+      "英国制裁以色列定居点",
       "英法加定居点禁令",
       "以色列定居点贸易禁令",
       "UK settlement goods ban",
