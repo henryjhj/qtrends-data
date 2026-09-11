@@ -3,7 +3,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-10",
+    "last_seen": "2026-09-11",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -18,7 +18,7 @@
     "tag": "Israel Gaza War",
     "tag_cn": "加沙战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-10",
+    "last_seen": "2026-09-11",
     "synonyms": [
       "加沙冲突",
       "以哈战争",
@@ -46,7 +46,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-09-10",
+    "last_seen": "2026-09-11",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -62,7 +62,7 @@
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-09-10",
+    "last_seen": "2026-09-11",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
@@ -179,20 +179,20 @@
     "tag": "DRC Ebola Outbreak",
     "tag_cn": "刚果埃博拉疫情",
     "first_seen": "2026-09-02",
-    "last_seen": "2026-09-09",
+    "last_seen": "2026-09-11",
     "synonyms": [
       "刚果金埃博拉",
       "DR Congo Ebola",
       "DRC Ebola epidemic"
     ],
-    "desc": "Major Ebola (Bundibugyo virus) outbreak in the Democratic Republic of the Congo declared May 2026, now the second-largest Ebola epidemic on record. As of Sept 7: 6757 confirmed cases and 3267 deaths (48.3% case fatality) across 61 health zones in six provinces; 1590 recovered. No approved vaccine or treatment exists for the Bundibugyo strain.",
-    "desc_cn": "2026年5月刚果（金）暴发的布恩迪布焦型埃博拉疫情，为有记录以来第二大埃博拉流行。截至9月7日累计确诊6757例、死亡3267例（病死率48.3%），波及6省61个卫生区，1590人治愈。目前尚无针对该病毒毒株的获批疫苗或疗法。"
+    "desc": "Major Ebola (Bundibugyo virus) outbreak in the Democratic Republic of the Congo declared May 2026, now the second-largest Ebola epidemic on record. As of Sept 10: 7022 confirmed cases and 3398 deaths (48.4% case fatality) across 62 health zones in seven provinces; 1671 recovered. No approved vaccine or treatment exists for the Bundibugyo strain.",
+    "desc_cn": "2026年5月刚果（金）暴发的布恩迪布焦型埃博拉疫情，为有记录以来第二大埃博拉流行。截至9月10日累计确诊7022例、死亡3398例（病死率48.4%），波及7省62个卫生区，1671人治愈。目前尚无针对该病毒毒株的获批疫苗或疗法。"
   },
   {
     "tag": "US Midterm Elections",
     "tag_cn": "美国中期选举",
     "first_seen": "2026-01-15",
-    "last_seen": "2026-09-10",
+    "last_seen": "2026-09-11",
     "synonyms": [
       "2026美国中期选举",
       "2026年国会选举",
@@ -300,7 +300,7 @@
     "tag": "Global Bond Market Crisis",
     "tag_cn": "全球债市危机",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-09",
+    "last_seen": "2026-09-11",
     "synonyms": [
       "全球债市暴跌",
       "债市危机",
@@ -334,7 +334,7 @@
     "tag": "Fed Rate Cut Cycle",
     "tag_cn": "美联储降息周期",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-09",
+    "last_seen": "2026-09-11",
     "synonyms": [
       "美联储降息",
       "美联储利率政策",
@@ -506,7 +506,7 @@
     "tag": "Apple CEO Succession",
     "tag_cn": "苹果CEO交接",
     "first_seen": "2026-09-02",
-    "last_seen": "2026-09-10",
+    "last_seen": "2026-09-11",
     "synonyms": [
       "苹果换帅",
       "苹果CEO换帅",
@@ -633,7 +633,7 @@
     "tag": "Tennis Grand Slams",
     "tag_cn": "网球大满贯",
     "first_seen": "2026-01-12",
-    "last_seen": "2026-09-10",
+    "last_seen": "2026-09-11",
     "synonyms": [
       "大满贯赛季",
       "2026四大满贯",
@@ -647,7 +647,7 @@
     "tag": "Aichi-Nagoya Asian Games",
     "tag_cn": "名古屋亚运会",
     "first_seen": "2026-06-08",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-11",
     "synonyms": [
       "爱知名古屋亚运会",
       "2026亚运会",
@@ -751,7 +751,7 @@
     "tag": "Apple iPhone Duo",
     "tag_cn": "苹果折叠屏手机",
     "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "last_seen": "2026-09-11",
     "synonyms": [
       "iPhone Duo",
       "苹果折叠屏iPhone",
@@ -761,5 +761,21 @@
     ],
     "desc": "Apple's first foldable smartphone, the iPhone Duo, unveiled at Apple's September 2026 event led by new CEO John Ternus. It marks Apple's long-awaited entry into the foldable phone market and the biggest iPhone design change in nearly two decades.",
     "desc_cn": "苹果首款折叠屏智能手机iPhone Duo于2026年9月由新任CEO特努斯主持发布，标志苹果正式入局折叠屏赛道，为近二十年来iPhone最大设计变革。"
+  },
+  {
+    "tag": "Houthi Yemen Offensive",
+    "tag_cn": "胡塞也门攻势",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "synonyms": [
+      "胡塞武装进攻",
+      "也门胡塞冲突",
+      "红海航运危机",
+      "Houthi Red Sea offensive",
+      "Yemen Houthi conflict",
+      "Red Sea shipping crisis"
+    ],
+    "desc": "In Sept 2026, Yemen's Houthi movement captured the Red Sea port of Mocha, threatening Bab el-Mandeb shipping. Drones from Iraq struck Saudi oil pipelines and the U.S. sent 100+ advisors to Saudi Arabia, expanding the Iran war's regional spillover.",
+    "desc_cn": "2026年9月也门胡塞武装大规模攻势攻占红海战略港口摩卡并威胁曼德海峡航运；伊拉克方向无人机袭击沙特输油管道，美国向沙特派遣逾百名军事顾问协助作战，美伊战争外溢进一步扩大。"
   }
 ]
