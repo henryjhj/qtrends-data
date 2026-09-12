@@ -3,7 +3,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-11",
+    "last_seen": "2026-09-12",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -46,7 +46,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-09-11",
+    "last_seen": "2026-09-12",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -62,7 +62,7 @@
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-09-11",
+    "last_seen": "2026-09-12",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
@@ -149,7 +149,7 @@
     "tag": "Israel Lebanon Strikes",
     "tag_cn": "以黎冲突",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-12",
     "synonyms": [
       "以黎战争",
       "以色列黎巴嫩冲突",
@@ -179,7 +179,7 @@
     "tag": "DRC Ebola Outbreak",
     "tag_cn": "刚果埃博拉疫情",
     "first_seen": "2026-09-02",
-    "last_seen": "2026-09-11",
+    "last_seen": "2026-09-12",
     "synonyms": [
       "刚果金埃博拉",
       "DR Congo Ebola",
@@ -192,7 +192,7 @@
     "tag": "US Midterm Elections",
     "tag_cn": "美国中期选举",
     "first_seen": "2026-01-15",
-    "last_seen": "2026-09-11",
+    "last_seen": "2026-09-12",
     "synonyms": [
       "2026美国中期选举",
       "2026年国会选举",
@@ -300,7 +300,7 @@
     "tag": "Global Bond Market Crisis",
     "tag_cn": "全球债市危机",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-11",
+    "last_seen": "2026-09-12",
     "synonyms": [
       "全球债市暴跌",
       "债市危机",
@@ -334,7 +334,7 @@
     "tag": "Fed Rate Cut Cycle",
     "tag_cn": "美联储降息周期",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-11",
+    "last_seen": "2026-09-12",
     "synonyms": [
       "美联储降息",
       "美联储利率政策",
@@ -647,7 +647,7 @@
     "tag": "Aichi-Nagoya Asian Games",
     "tag_cn": "名古屋亚运会",
     "first_seen": "2026-06-08",
-    "last_seen": "2026-09-11",
+    "last_seen": "2026-09-12",
     "synonyms": [
       "爱知名古屋亚运会",
       "2026亚运会",
@@ -718,7 +718,7 @@
     "tag": "US Canada Trade War",
     "tag_cn": "美加贸易战",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-09-09",
+    "last_seen": "2026-09-12",
     "synonyms": [
       "加拿大反制关税",
       "加拿大关税反击",
@@ -734,7 +734,7 @@
     "tag": "UK Israel Settlement Ban",
     "tag_cn": "英国制裁以色列",
     "first_seen": "2026-09-09",
-    "last_seen": "2026-09-10",
+    "last_seen": "2026-09-12",
     "synonyms": [
       "英国禁止定居点商品",
       "英国制裁以色列定居点",
@@ -751,7 +751,7 @@
     "tag": "Apple iPhone Duo",
     "tag_cn": "苹果折叠屏手机",
     "first_seen": "2026-09-10",
-    "last_seen": "2026-09-11",
+    "last_seen": "2026-09-12",
     "synonyms": [
       "iPhone Duo",
       "苹果折叠屏iPhone",
@@ -766,16 +766,19 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-09-11",
+    "last_seen": "2026-09-12",
     "synonyms": [
       "胡塞武装进攻",
       "也门胡塞冲突",
       "红海航运危机",
+      "胡塞攻占丕林岛",
       "Houthi Red Sea offensive",
       "Yemen Houthi conflict",
-      "Red Sea shipping crisis"
+      "Red Sea shipping crisis",
+      "Perim Island",
+      "Bab al-Mandeb Strait"
     ],
-    "desc": "In Sept 2026, Yemen's Houthi movement captured the Red Sea port of Mocha, threatening Bab el-Mandeb shipping. Drones from Iraq struck Saudi oil pipelines and the U.S. sent 100+ advisors to Saudi Arabia, expanding the Iran war's regional spillover.",
-    "desc_cn": "2026年9月也门胡塞武装大规模攻势攻占红海战略港口摩卡并威胁曼德海峡航运；伊拉克方向无人机袭击沙特输油管道，美国向沙特派遣逾百名军事顾问协助作战，美伊战争外溢进一步扩大。"
+    "desc": "In Sept 2026, Yemen's Houthi movement captured the Red Sea port of Mocha and strategic Perim Island, gaining control of Yemen's entire Red Sea coast and threatening Bab al-Mandeb shipping. Drones from Iraq struck Saudi Arabia's East-West oil pipeline, forcing its shutdown; Brent crude topped $100/bbl.",
+    "desc_cn": "2026年9月也门胡塞武装攻占红海港口摩卡及战略要地丕林岛，控制也门整个红海沿岸并威胁曼德海峡航运。伊拉克方向无人机袭击沙特东西输油管道迫使其关闭，布伦特原油突破每桶100美元。"
   }
 ]
