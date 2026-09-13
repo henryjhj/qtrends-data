@@ -3,7 +3,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-12",
+    "last_seen": "2026-09-13",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -18,7 +18,7 @@
     "tag": "Israel Gaza War",
     "tag_cn": "加沙战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-11",
+    "last_seen": "2026-09-13",
     "synonyms": [
       "加沙冲突",
       "以哈战争",
@@ -46,7 +46,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-09-12",
+    "last_seen": "2026-09-13",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -62,12 +62,14 @@
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-09-12",
+    "last_seen": "2026-09-13",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
       "Hormuz closure",
-      "Strait of Hormuz closure"
+      "Strait of Hormuz closure",
+      "霍尔木兹海峡通航谈判",
+      "Hormuz Oman talks"
     ],
     "desc": "The 2026 Strait of Hormuz crisis began when Iran restricted shipping during the Iran War, disrupting global energy supplies and maritime trade. The U.S. later imposed its own blockade, escalating tensions and creating a major international energy crisis.",
     "desc_cn": "2026年伊朗战争期间，伊朗封锁霍尔木兹海峡，导致国际航运受阻、全球能源供应受到严重冲击。美国随后采取封锁措施，危机进一步升级，并引发国际社会对能源安全和地区局势的广泛担忧。"
@@ -192,7 +194,7 @@
     "tag": "US Midterm Elections",
     "tag_cn": "美国中期选举",
     "first_seen": "2026-01-15",
-    "last_seen": "2026-09-12",
+    "last_seen": "2026-09-13",
     "synonyms": [
       "2026美国中期选举",
       "2026年国会选举",
@@ -300,7 +302,7 @@
     "tag": "Global Bond Market Crisis",
     "tag_cn": "全球债市危机",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-12",
+    "last_seen": "2026-09-13",
     "synonyms": [
       "全球债市暴跌",
       "债市危机",
@@ -334,7 +336,7 @@
     "tag": "Fed Rate Cut Cycle",
     "tag_cn": "美联储降息周期",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-12",
+    "last_seen": "2026-09-13",
     "synonyms": [
       "美联储降息",
       "美联储利率政策",
@@ -464,7 +466,7 @@
     "tag": "Global AI Regulation",
     "tag_cn": "全球AI监管",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-13",
     "synonyms": [
       "欧盟AI法案",
       "美国AI监管框架",
@@ -633,7 +635,7 @@
     "tag": "Tennis Grand Slams",
     "tag_cn": "网球大满贯",
     "first_seen": "2026-01-12",
-    "last_seen": "2026-09-11",
+    "last_seen": "2026-09-13",
     "synonyms": [
       "大满贯赛季",
       "2026四大满贯",
@@ -703,7 +705,7 @@
     "tag": "Germany AfD Election Win",
     "tag_cn": "德国选择党胜选",
     "first_seen": "2026-09-07",
-    "last_seen": "2026-09-09",
+    "last_seen": "2026-09-13",
     "synonyms": [
       "德国极右翼胜选",
       "AfD州选胜利",
@@ -766,7 +768,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-09-12",
+    "last_seen": "2026-09-13",
     "synonyms": [
       "胡塞武装进攻",
       "也门胡塞冲突",
@@ -776,7 +778,9 @@
       "Yemen Houthi conflict",
       "Red Sea shipping crisis",
       "Perim Island",
-      "Bab al-Mandeb Strait"
+      "Bab al-Mandeb Strait",
+      "胡塞袭击沙特军事基地",
+      "Houthi attack Saudi base"
     ],
     "desc": "In Sept 2026, Yemen's Houthi movement captured the Red Sea port of Mocha and strategic Perim Island, gaining control of Yemen's entire Red Sea coast and threatening Bab al-Mandeb shipping. Drones from Iraq struck Saudi Arabia's East-West oil pipeline, forcing its shutdown; Brent crude topped $100/bbl.",
     "desc_cn": "2026年9月也门胡塞武装攻占红海港口摩卡及战略要地丕林岛，控制也门整个红海沿岸并威胁曼德海峡航运。伊拉克方向无人机袭击沙特东西输油管道迫使其关闭，布伦特原油突破每桶100美元。"
