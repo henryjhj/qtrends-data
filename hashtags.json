@@ -3,7 +3,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -46,7 +46,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -62,7 +62,7 @@
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
@@ -194,7 +194,7 @@
     "tag": "US Midterm Elections",
     "tag_cn": "美国中期选举",
     "first_seen": "2026-01-15",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "synonyms": [
       "2026美国中期选举",
       "2026年国会选举",
@@ -209,7 +209,7 @@
     "tag": "USPS Mail-in Ballot Controversy",
     "tag_cn": "USPS邮寄选票争议",
     "first_seen": "2026-09-01",
-    "last_seen": "2026-09-10",
+    "last_seen": "2026-09-15",
     "synonyms": [
       "美国邮寄选票争议",
       "邮寄选票系统争议",
@@ -466,15 +466,15 @@
     "tag": "Global AI Regulation",
     "tag_cn": "全球AI监管",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "synonyms": [
       "欧盟AI法案",
       "美国AI监管框架",
       "EU AI Act enforcement",
       "US AI regulatory framework"
     ],
-    "desc": "2026 landmark year for global AI governance: EU AI Act entered full force with risk-tiered requirements; US unveiled federal regulatory framework; China and other jurisdictions issued complementary AI rules. In Sept 2026, Anthropic researchers warned of AI-driven human extinction risk, major CEOs called for slowing development, and AI stocks fell sharply worldwide.",
-    "desc_cn": "2026年为全球AI治理落地元年：欧盟AI法案全面生效并实施风险分级监管，美国出台联邦层面AI监管框架，中国等多司法辖区同步推出配套监管规则。2026年9月，Anthropic研究员警告AI可能导致人类灭绝，多家巨头CEO呼吁放缓研发，全球AI股大幅下跌。"
+    "desc": "2026 AI governance: EU AI Act in force; US and China issued rules. In Sept, AI CEOs warned of existential risk and urged slower development, but Trump called AI fears a 'hoax' with Nvidia's Huang; China said it entrenches US dominance.",
+    "desc_cn": "2026年全球AI治理落地：欧盟AI法案生效，中美出台监管规则。9月AI巨头警告生存风险呼吁减速，特朗普与黄仁勋通话称AI担忧是'骗局'反对减速，中国称此举固化美国优势，AI股大跌。"
   },
   {
     "tag": "Apple Intelligence",
@@ -768,7 +768,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "synonyms": [
       "胡塞武装进攻",
       "也门胡塞冲突",
@@ -784,5 +784,20 @@
     ],
     "desc": "In Sept 2026, Yemen's Houthi movement captured the Red Sea port of Mocha and strategic Perim Island, gaining control of Yemen's entire Red Sea coast and threatening Bab al-Mandeb shipping. Drones from Iraq struck Saudi Arabia's East-West oil pipeline, forcing its shutdown; Brent crude topped $100/bbl.",
     "desc_cn": "2026年9月也门胡塞武装攻占红海港口摩卡及战略要地丕林岛，控制也门整个红海沿岸并威胁曼德海峡航运。伊拉克方向无人机袭击沙特东西输油管道迫使其关闭，布伦特原油突破每桶100美元。"
+  },
+  {
+    "tag": "US Space Weapons Deployment",
+    "tag_cn": "美国太空武器部署",
+    "first_seen": "2026-09-15",
+    "last_seen": "2026-09-15",
+    "synonyms": [
+      "美国在轨太空武器",
+      "太空军事化",
+      "US on-orbit space weapons",
+      "space militarization",
+      "美军太空控制武器"
+    ],
+    "desc": "On Sept 14, 2026, Air Force Secretary Meink confirmed Space Force deployed on-orbit space control weapons, the first U.S. acknowledgment of offensive space arms. Tied to Trump's Golden Dome; China and Russia condemned it and urged demilitarization.",
+    "desc_cn": "2026年9月14日，美国空军部长迈因克公开确认美军太空部队已部署在轨太空控制武器，为美国首次官方承认拥有进攻性太空武器。该武器与特朗普金穹导弹防御计划相关，中俄谴责并呼吁太空非军事化。"
   }
 ]
