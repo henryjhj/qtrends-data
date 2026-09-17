@@ -3,7 +3,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-16",
+    "last_seen": "2026-09-17",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -18,7 +18,7 @@
     "tag": "Israel Gaza War",
     "tag_cn": "加沙战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-16",
+    "last_seen": "2026-09-17",
     "synonyms": [
       "加沙冲突",
       "以哈战争",
@@ -46,7 +46,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-09-16",
+    "last_seen": "2026-09-17",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -65,7 +65,7 @@
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-09-16",
+    "last_seen": "2026-09-17",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
@@ -285,7 +285,7 @@
     "tag": "Nepal Tibet Floods",
     "tag_cn": "尼泊尔特大洪灾",
     "first_seen": "2026-08-25",
-    "last_seen": "2026-09-10",
+    "last_seen": "2026-09-17",
     "synonyms": [
       "尼泊尔洪灾",
       "西藏洪灾",
@@ -298,14 +298,14 @@
       "Nepal floods",
       "Tibet floods"
     ],
-    "desc": "Catastrophic cross-border floods and landslides sweeping Nepal and China's Tibet Autonomous Region in late August 2026. Death toll rose to 1355 with thousands still missing by Sept 7, as rescue and recovery efforts continued across the devastated Trishuli river basin.",
-    "desc_cn": "2026年8月下旬冰川湖溃决叠加极端季风雨引发的尼泊尔与中国西藏跨境特大洪水与泥石流，至9月7日官方确认死亡人数升至1355人、仍有数千人失踪，特里苏里河流域重灾区搜救持续进行。"
+    "desc": "Catastrophic cross-border floods and landslides sweeping Nepal and China's Tibet Autonomous Region in late August 2026. Death toll rose to 1403 in Nepal (1446 including Tibet) with over 6,100 still missing as of Sept 16, as rescue efforts continued across the devastated Trishuli river basin.",
+    "desc_cn": "2026年8月下旬冰川湖溃决叠加极端季风雨引发的尼泊尔与中国西藏跨境特大洪水与泥石流，截至9月16日尼泊尔确认1403人死亡、逾6100人失踪（含西藏合计约1446死），特里苏里河流域重灾区搜救持续进行。"
   },
   {
     "tag": "Global Bond Market Crisis",
     "tag_cn": "全球债市危机",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-16",
+    "last_seen": "2026-09-17",
     "synonyms": [
       "全球债市暴跌",
       "债市危机",
@@ -339,15 +339,15 @@
     "tag": "Fed Rate Cut Cycle",
     "tag_cn": "美联储降息周期",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-16",
+    "last_seen": "2026-09-17",
     "synonyms": [
       "美联储降息",
       "美联储利率政策",
       "Fed rate cuts",
       "Federal Reserve easing"
     ],
-    "desc": "The U.S. Federal Reserve's 2026 monetary policy path amid sticky inflation and recession risk. Policy rate held at 3.5–3.75% through September; Brent crude surging past $100/bbl on the Iran war drove markets to price in a possible rate hike, with CME FedWatch showing over 50% odds of a 25bp increase in September/October, upending earlier easing expectations.",
-    "desc_cn": "2026年美联储在通胀黏性与衰退风险背景下的货币政策路径，9月政策利率仍维持3.5–3.75%。美伊冲突推升布伦特原油突破每桶100美元，市场转而预期加息，CME美联储观察显示9月/10月加息25基点概率过半，此前降息预期被颠覆。"
+    "desc": "The U.S. Federal Reserve's 2026 monetary policy path amid sticky inflation and recession risk. On Sept 16 the Fed raised its policy rate by 25bp to 3.75–4.00%, its first hike since 2023; Brent crude surging past $100/bbl on the Iran war drove the decision, with officials signaling one more hike in 2026 and upending earlier easing expectations.",
+    "desc_cn": "2026年美联储在通胀黏性与衰退风险背景下的货币政策路径。9月16日美联储加息25基点至3.75–4.00%，为2023年来首次加息；美伊冲突推升布伦特原油破百驱动此举，官员暗示年内或再加息一次，此前降息预期被颠覆。"
   },
   {
     "tag": "US Venezuela Oil Deal",
@@ -723,7 +723,7 @@
     "tag": "US Canada Trade War",
     "tag_cn": "美加贸易战",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-09-16",
+    "last_seen": "2026-09-17",
     "synonyms": [
       "加拿大反制关税",
       "加拿大关税反击",
@@ -771,7 +771,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-09-16",
+    "last_seen": "2026-09-17",
     "synonyms": [
       "胡塞武装进攻",
       "也门胡塞冲突",
@@ -802,5 +802,19 @@
     ],
     "desc": "On Sept 14, 2026, Air Force Secretary Meink confirmed Space Force deployed on-orbit space control weapons, the first U.S. acknowledgment of offensive space arms. Tied to Trump's Golden Dome; China and Russia condemned it and urged demilitarization.",
     "desc_cn": "2026年9月14日，美国空军部长迈因克公开确认美军太空部队已部署在轨太空控制武器，为美国首次官方承认拥有进攻性太空武器。该武器与特朗普金穹导弹防御计划相关，中俄谴责并呼吁太空非军事化。"
+  },
+  {
+    "tag": "EU Canada Associate Membership",
+    "tag_cn": "欧盟加拿大准成员",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "synonyms": [
+      "加拿大欧盟准成员",
+      "欧盟首个准成员",
+      "Canada EU associate member",
+      "EU Canada associate membership"
+    ],
+    "desc": "EU chief von der Leyen proposed in Sept 2026 that Canada become the EU's first-ever associate member, covering defense, energy, critical minerals and AI. PM Carney backed the plan; Trump called it a 'hostile act' and threatened heavy EU tariffs.",
+    "desc_cn": "2026年9月欧盟委员会主席冯德莱恩提议加拿大成为欧盟首个准成员，合作涵盖防务、能源、关键矿产与AI。加总理卡尼支持，特朗普则称此举为敌对行为并威胁对欧加征重税。"
   }
 ]
