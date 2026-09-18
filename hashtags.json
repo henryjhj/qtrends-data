@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-17",
+    "last_seen": "2026-09-18",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -50,7 +50,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-09-17",
+    "last_seen": "2026-09-18",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -70,7 +70,7 @@
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-09-17",
+    "last_seen": "2026-09-18",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
@@ -377,7 +377,7 @@
     "tag": "US Venezuela Oil Deal",
     "tag_cn": "美委石油协议",
     "first_seen": "2026-08-29",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-18",
     "synonyms": [
       "委内瑞拉石油协议",
       "美委能源协议",
@@ -386,8 +386,8 @@
       "Venezuela oil output expansion",
       "美委石油增产协议"
     ],
-    "desc": "Historic energy cooperation framework between the United States and Venezuela reached in late August 2026. Sept 3: Energy firms signed concrete output-boosting deals; Venezuela VP Delcy Rodriguez publicly thanked Trump for the energy agreements.",
-    "desc_cn": "2026年8月底美委达成的历史性能源合作框架协议。9月3日能源企业签署具体增产协议，委内瑞拉副总统德尔西·罗德里格斯公开感谢特朗普推动此能源合作。"
+    "desc": "Historic energy cooperation framework between the United States and Venezuela reached in late August 2026. In Sept, Trump claimed the U.S. had taken over Venezuela oil reserves, planning a UNGA meeting with VP Delcy Rodriguez.",
+    "desc_cn": "2026年8月底美委达成历史性能源合作框架协议，9月能源企业签署增产协议，特朗普称美方已接管委内瑞拉石油储备并拟在联大期间会晤委副总统罗德里格斯。"
   },
   {
     "tag_id": 25,
@@ -697,7 +697,7 @@
     "tag": "Aichi-Nagoya Asian Games",
     "tag_cn": "名古屋亚运会",
     "first_seen": "2026-06-08",
-    "last_seen": "2026-09-16",
+    "last_seen": "2026-09-18",
     "synonyms": [
       "爱知名古屋亚运会",
       "2026亚运会",
@@ -824,7 +824,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-09-17",
+    "last_seen": "2026-09-18",
     "synonyms": [
       "胡塞武装进攻",
       "也门胡塞冲突",
