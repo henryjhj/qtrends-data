@@ -494,15 +494,15 @@
     "desc_cn": "2026年苹果在iPhone、iPad与Mac产品线全面落地的Apple Intelligence个人AI平台，整合端侧生成式AI、升级Siri云端能力与全生态生产力工具。"
   },
   {
-    "tag": "NVIDIA Blackwell Chips",
-    "tag_cn": "英伟达Blackwell芯片",
+    "tag": "NVIDIA AI Chips",
+    "tag_cn": "英伟达AI芯片",
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-18",
     "synonyms": [
-      "英伟达AI芯片",
+      "英伟达Blackwell芯片",
       "Blackwell芯片",
       "NVIDIA Blackwell GPU",
-      "NVIDIA AI chips"
+      "NVIDIA Blackwell chips"
     ],
     "desc": "NVIDIA's next-generation AI accelerator lineup built on the Blackwell GPU architecture, unveiled with a massive $1 trillion AI chip production roadmap in early 2026.",
     "desc_cn": "英伟达基于Blackwell架构的新一代AI加速芯片家族及万亿美元级芯片产能管线，为全球AI训练与推理算力的核心供应。"
@@ -789,8 +789,8 @@
     "desc_cn": "2026年9月也门胡塞武装攻占红海港口摩卡及战略要地丕林岛，控制也门整个红海沿岸并威胁曼德海峡航运。伊拉克方向无人机袭击沙特东西输油管道迫使其关闭，布伦特原油突破每桶100美元。"
   },
   {
-    "tag": "US Space Weapons Deployment",
-    "tag_cn": "美国太空武器部署",
+    "tag": "US Space Weapons",
+    "tag_cn": "美国太空武器",
     "first_seen": "2026-09-15",
     "last_seen": "2026-09-16",
     "synonyms": [
@@ -805,11 +805,10 @@
   },
   {
     "tag": "EU Canada Associate Membership",
-    "tag_cn": "欧盟加拿大准成员",
+    "tag_cn": "加拿大欧盟准成员",
     "first_seen": "2026-09-17",
     "last_seen": "2026-09-17",
     "synonyms": [
-      "加拿大欧盟准成员",
       "欧盟首个准成员",
       "Canada EU associate member",
       "EU Canada associate membership"
