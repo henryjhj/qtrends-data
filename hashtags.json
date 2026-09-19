@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-18",
+    "last_seen": "2026-09-19",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -50,7 +50,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-09-18",
+    "last_seen": "2026-09-19",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -87,7 +87,7 @@
     "tag": "Taiwan Strait Tensions",
     "tag_cn": "台海局势",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-19",
     "synonyms": [
       "台海紧张",
       "两岸局势",
@@ -305,7 +305,7 @@
     "tag": "Nepal Tibet Floods",
     "tag_cn": "尼泊尔特大洪灾",
     "first_seen": "2026-08-25",
-    "last_seen": "2026-09-17",
+    "last_seen": "2026-09-19",
     "synonyms": [
       "尼泊尔洪灾",
       "西藏洪灾",
@@ -697,7 +697,7 @@
     "tag": "Aichi-Nagoya Asian Games",
     "tag_cn": "名古屋亚运会",
     "first_seen": "2026-06-08",
-    "last_seen": "2026-09-18",
+    "last_seen": "2026-09-19",
     "synonyms": [
       "爱知名古屋亚运会",
       "2026亚运会",
@@ -742,7 +742,7 @@
     "tag": "Super El Nino Wildfire Haze",
     "tag_cn": "超级厄尔尼诺野火雾霾",
     "first_seen": "2026-09-03",
-    "last_seen": "2026-09-16",
+    "last_seen": "2026-09-19",
     "synonyms": [
       "超强厄尔尼诺",
       "东南亚雾霾",
@@ -757,7 +757,7 @@
     "tag": "Germany AfD Election Win",
     "tag_cn": "德国选择党胜选",
     "first_seen": "2026-09-07",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-19",
     "synonyms": [
       "德国极右翼胜选",
       "AfD州选胜利",
@@ -873,15 +873,49 @@
   },
   {
     "tag_id": 56,
-    "tag_cn": "美国意图吞并格林兰"
+    "tag": "US Greenland Annexation",
+    "tag_cn": "美国意图吞并格林兰",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-19",
+    "synonyms": [
+      "美国吞并格陵兰",
+      "格陵兰安全协议",
+      "Infinite Life agreement",
+      "Greenland security deal",
+      "US Denmark Greenland deal"
+    ],
+    "desc": "Trump administration's push to control Greenland, culminating in a Sept 2026 'Infinite Life' security agreement with Denmark and Greenland granting the U.S. permanent security control, expanded military bases and veto over adversary investments, short of outright annexation.",
+    "desc_cn": "特朗普政府谋求控制格陵兰，2026年9月与丹麦及格陵兰达成“无限生命”安全协议，授予美国永久安全管控权、扩建军事基地及否决对手投资的权力，未实现直接吞并。"
   },
   {
     "tag_id": 57,
-    "tag_cn": "美国意图吞并加拿大"
+    "tag": "US Canada Annexation",
+    "tag_cn": "美国意图吞并加拿大",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "synonyms": [
+      "美国吞并加拿大",
+      "加拿大并入美国",
+      "US annex Canada",
+      "Canada US merger"
+    ],
+    "desc": "Trump administration's repeated public statements suggesting the U.S. should annex or acquire Canada, fueling bilateral tensions alongside trade disputes and the EU-Canada associate membership proposal.",
+    "desc_cn": "特朗普政府多次公开表态称美国应吞并或取得加拿大，叠加贸易争端与欧盟-加拿大准成员提议，加剧双边紧张关系。"
   },
   {
     "tag_id": 58,
+    "tag": "White House Media Ban",
     "tag_cn": "白宫媒体禁令",
+    "first_seen": "2026-09-18",
+    "last_seen": "2026-09-19",
+    "synonyms": [
+      "特朗普禁CNN入白宫",
+      "白宫驱逐CNN",
+      "Trump bans CNN",
+      "White House press ban",
+      "MS NOW Politico banned"
+    ],
+    "desc": "On Sept 18, 2026, Trump announced he is banning CNN, MS NOW and Politico from the White House 'effective immediately' over alleged fake news, with MS NOW staffers turned away and hard passes revoked on Sept 19. Legal scholars and press groups called the move unconstitutional.",
     "desc_cn": "特朗普禁止CNN、MS Now和Politico三家媒体的记者进入白宫，此举被批评为对新闻自由的打压。"
   }
 ]
