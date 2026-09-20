@@ -664,7 +664,7 @@
   },
   {
     "tag_id": 43,
-    "tag": "2026 FIFA World Cup",
+    "tag": "2026 World Cup",
     "tag_cn": "2026世界杯",
     "first_seen": "2026-06-11",
     "last_seen": "2026-07-19",
@@ -672,10 +672,11 @@
       "世界杯2026",
       "美加墨世界杯",
       "World Cup 2026",
-      "FIFA World Cup 2026"
+      "FIFA World Cup 2026",
+      "2026 FIFA World Cup"
     ],
     "desc": "The 23rd FIFA World Cup, co-hosted by the United States, Mexico and Canada, June 11 – July 19, 2026. First 48-team format; matches played across 16 cities in three countries.",
-    "desc_cn": "第23届国际足联世界杯，由美、墨、加三国联合举办，首次扩军至48支球队，横跨三国16座主办城市。"
+    "desc_cn": "第23届国际足联世界杯，由美、墨、加三国联合举办，首次扩军至48支球队，横跨三国16座主办城市。西班牙获得冠军，阿根廷获得亚军。"
   },
   {
     "tag_id": 44,
