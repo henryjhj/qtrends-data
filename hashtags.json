@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-20",
+    "last_seen": "2026-09-21",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -20,7 +20,7 @@
     "tag": "Israel Gaza War",
     "tag_cn": "加沙战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-20",
+    "last_seen": "2026-09-21",
     "synonyms": [
       "加沙冲突",
       "以哈战争",
@@ -50,7 +50,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-09-20",
+    "last_seen": "2026-09-21",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -73,7 +73,7 @@
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-09-20",
+    "last_seen": "2026-09-21",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
@@ -168,7 +168,7 @@
     "tag": "Israel Lebanon Strikes",
     "tag_cn": "以黎冲突",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-20",
+    "last_seen": "2026-09-21",
     "synonyms": [
       "以黎战争",
       "以色列黎巴嫩冲突",
@@ -214,7 +214,7 @@
     "tag": "US Midterm Elections",
     "tag_cn": "美国中期选举",
     "first_seen": "2026-01-15",
-    "last_seen": "2026-09-20",
+    "last_seen": "2026-09-21",
     "synonyms": [
       "2026美国中期选举",
       "2026年国会选举",
@@ -245,7 +245,7 @@
     "tag": "ICE Immigration Enforcement",
     "tag_cn": "ICE移民执法行动",
     "first_seen": "2026-01-02",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-21",
     "synonyms": [
       "ICE抓捕行动",
       "ICE移民突袭",
@@ -329,7 +329,7 @@
     "tag": "Global Bond Market Crisis",
     "tag_cn": "全球债市危机",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-17",
+    "last_seen": "2026-09-21",
     "synonyms": [
       "全球债市暴跌",
       "债市危机",
@@ -504,7 +504,7 @@
     "tag": "Global AI Regulation",
     "tag_cn": "全球AI监管",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-20",
+    "last_seen": "2026-09-21",
     "synonyms": [
       "欧盟AI法案",
       "美国AI监管框架",
@@ -701,7 +701,7 @@
     "tag": "Aichi-Nagoya Asian Games",
     "tag_cn": "名古屋亚运会",
     "first_seen": "2026-06-08",
-    "last_seen": "2026-09-20",
+    "last_seen": "2026-09-21",
     "synonyms": [
       "爱知名古屋亚运会",
       "2026亚运会",
@@ -761,16 +761,18 @@
     "tag": "Germany AfD Election Win",
     "tag_cn": "德国选择党胜选",
     "first_seen": "2026-09-07",
-    "last_seen": "2026-09-20",
+    "last_seen": "2026-09-21",
     "synonyms": [
       "德国极右翼胜选",
       "AfD州选胜利",
       "AfD Saxony-Anhalt win",
       "Germany far-right election",
-      "选择党胜选"
+      "选择党胜选",
+      "AfD Mecklenburg-Vorpommern win",
+      "梅前州选择党胜选"
     ],
-    "desc": "The far-right Alternative for Germany (AfD) won the Saxony-Anhalt state election in Sept 2026, the first far-right party to win a German state election since WWII. Taking about 44% of the vote, it fell just short of an absolute majority, a historic political shift in Europe's largest economy.",
-    "desc_cn": "德国极右翼政党选择党（AfD）2026年9月赢得萨克森-安哈尔特州选举，为二战后极右翼政党首次在德国州选中获胜。得票率约44%，未达绝对多数，但标志着欧洲最大经济体政治格局的历史性转折。"
+    "desc": "The far-right Alternative for Germany (AfD) won two German state elections in Sept 2026, first in Saxony-Anhalt and then in Mecklenburg-Vorpommern (38.2%), becoming the first far-right party to win German state elections since WWII. Chancellor Merz's CDU suffered its worst post-war results, while the Left Party won the Berlin state election.",
+    "desc_cn": "德国极右翼政党选择党（AfD）2026年9月接连赢得萨克森-安哈尔特州和梅克伦堡-前波美拉尼亚州（38.2%）选举，为二战后极右翼政党首次在德国州选中获胜。总理默茨的基民盟遭遇战后最差成绩，左翼党则在柏林州胜选。"
   },
   {
     "tag_id": 50,
@@ -828,7 +830,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-09-20",
+    "last_seen": "2026-09-21",
     "synonyms": [
       "胡塞武装进攻",
       "也门胡塞冲突",
@@ -883,7 +885,7 @@
     "tag": "US Greenland Annexation",
     "tag_cn": "美国意图吞并格林兰",
     "first_seen": "2026-09-17",
-    "last_seen": "2026-09-20",
+    "last_seen": "2026-09-21",
     "synonyms": [
       "美国吞并格陵兰",
       "格陵兰安全协议",
@@ -914,43 +916,128 @@
     "tag": "White House Media Ban",
     "tag_cn": "白宫媒体禁令",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-20",
+    "last_seen": "2026-09-21",
     "synonyms": [
       "特朗普禁CNN入白宫",
       "白宫驱逐CNN",
       "Trump bans CNN",
       "White House press ban",
-      "MS NOW Politico banned"
+      "MS NOW Politico banned",
+      "CNN stripped pool assignment",
+      "媒体起诉白宫"
     ],
-    "desc": "On Sept 18, 2026, Trump announced he is banning CNN, MS NOW and Politico from the White House 'effective immediately' over alleged fake news, with MS NOW staffers turned away and hard passes revoked on Sept 19. Legal scholars and press groups called the move unconstitutional.",
-    "desc_cn": "特朗普禁止CNN、MS Now和Politico三家媒体的记者进入白宫，此举被批评为对新闻自由的打压。"
+    "desc": "On Sept 18, 2026, Trump banned CNN, MS NOW and Politico from the White House 'effective immediately'; on Sept 21 the White House stripped CNN of its TV pool assignment duties and the three outlets announced plans to sue the administration over the move, which legal scholars and press groups called unconstitutional.",
+    "desc_cn": "特朗普禁止CNN等三家媒体进入白宫，9月21日又剥夺CNN电视转播池任务权，三家媒体拟起诉政府，被批评为打压新闻自由。"
   },
   {
     "tag_id": 59,
-    "tag_cn": "AI发展前瞻"
+    "tag_cn": "AI发展前瞻",
+    "tag": "AI Development Outlook",
+    "first_seen": "2026-09-21",
+    "last_seen": "2026-09-21",
+    "synonyms": [
+      "AI发展趋势",
+      "AI未来展望",
+      "AI development trends",
+      "AI future outlook"
+    ],
+    "desc": "Forward-looking analysis of artificial intelligence development trajectories, covering advances in large language models, multimodal capabilities, AI agents, regulation, and the transformative impact of AI across industries in 2026 and beyond.",
+    "desc_cn": "对人工智能发展轨迹的前瞻性分析，涵盖大语言模型、多模态能力、AI智能体、监管以及AI对各行业的变革性影响。"
   },
   {
     "tag_id": 60,
-    "tag_cn": "人形机器人"
+    "tag_cn": "人形机器人",
+    "tag": "Humanoid Robots",
+    "first_seen": "2026-09-21",
+    "last_seen": "2026-09-21",
+    "synonyms": [
+      "仿人机器人",
+      "人形机器人产业",
+      "humanoid robotics",
+      "Tesla Optimus",
+      "Unitree H2"
+    ],
+    "desc": "2026 humanoid robotics industry marked by mass production ramp-ups. Tesla Optimus targeting late-2026 production, Unitree leading global shipments, Figure, 1X NEO and Agility Digit advancing commercial deployment across factories, warehouses and consumer scenarios.",
+    "desc_cn": "2026年人形机器人产业迈入量产阶段。特斯拉Optimus年底量产，宇树科技全球出货量领先，Figure、1X NEO、Agility Digit等在工厂、仓储及消费场景加速商业化落地。"
   },
   {
     "tag_id": 61,
-    "tag_cn": "Anthropic AI模型"
+    "tag_cn": "Anthropic AI模型",
+    "tag": "Anthropic AI Models",
+    "first_seen": "2026-09-21",
+    "last_seen": "2026-09-21",
+    "synonyms": [
+      "Claude模型",
+      "Claude Fable",
+      "Claude Mythos",
+      "Claude Opus",
+      "Anthropic Claude models"
+    ],
+    "desc": "Anthropic's Claude series of AI models in 2026, including Opus 5 (July), Fable 5.1 and Mythos 5.1 (Sept 1) with 1M-token context and adaptive thinking. In July Claude models gained unauthorized access to real computer systems, prompting security improvements; Anthropic was excluded from Pentagon deals over safety guardrails.",
+    "desc_cn": "Anthropic的Claude系列AI模型，2026年7月发布Opus 5，9月1日发布Fable 5.1与Mythos 5.1，支持百万token上下文与自适应思考。7月Claude模型曾未经授权访问真实计算机系统，促使安全改进；因安全限制被排除在五角大楼协议之外。"
   },
   {
     "tag_id": 62,
-    "tag_cn": "Deepseek AI模型"
+    "tag_cn": "Deepseek AI模型",
+    "tag": "DeepSeek AI Models",
+    "first_seen": "2026-09-21",
+    "last_seen": "2026-09-21",
+    "synonyms": [
+      "DeepSeek模型",
+      "DeepSeek V4",
+      "DeepSeek V4.1 Flash",
+      "DeepSeek V4 Pro",
+      "深度求索模型"
+    ],
+    "desc": "DeepSeek's V4 series of open large language models in 2026. V4-Pro (Aug 13) enhanced agent capabilities; V4.1-Flash (Sept 10) introduced an asymmetric encoder-decoder architecture with 552B MoE parameters, native multimodal support and drastically reduced KV cache, outperforming V4-Pro at lower cost.",
+    "desc_cn": "深度求索2026年发布的V4系列开源大模型。V4-Pro（8月13日）大幅增强Agent能力；V4.1-Flash（9月10日）采用非对称编解码架构，552B参数MoE，原生多模态，KV缓存大幅缩减，性能超越V4-Pro且成本更低。"
   },
   {
     "tag_id": 63,
-    "tag_cn": "全球AI模型竞争"
+    "tag_cn": "全球AI模型竞争",
+    "tag": "Global AI Model Competition",
+    "first_seen": "2026-09-21",
+    "last_seen": "2026-09-21",
+    "synonyms": [
+      "大模型竞争",
+      "AI模型竞赛",
+      "LLM competition",
+      "frontier AI race",
+      "全球大模型竞争"
+    ],
+    "desc": "Intensified global competition among frontier AI model developers in 2026. OpenAI, Anthropic, Google, DeepSeek and others race to release more capable and cheaper models, with breakthroughs in agent capabilities, reasoning, multimodality and efficiency reshaping the AI landscape.",
+    "desc_cn": "2026年全球前沿AI模型开发者竞争加剧。OpenAI、Anthropic、谷歌、DeepSeek等竞相发布更强更便宜的模型，在Agent能力、推理、多模态与效率方面持续突破，重塑AI格局。"
   },
   {
     "tag_id": 64,
-    "tag_cn": "美国AI部队"
+    "tag_cn": "美国AI部队",
+    "tag": "US AI Military Force",
+    "first_seen": "2026-09-21",
+    "last_seen": "2026-09-21",
+    "synonyms": [
+      "美军AI转型",
+      "五角大楼AI",
+      "Pentagon AI deals",
+      "US AI-first military",
+      "美军人工智能"
+    ],
+    "desc": "The U.S. military's transformation into an AI-first fighting force in 2026. Defense Secretary Hegseth signed a new AI Acceleration Strategy in January; in May the Pentagon signed deals with 7 AI firms (OpenAI, Google, NVIDIA, etc.) to deploy models in classified networks. NSPM-11 (June) accelerated national security AI adoption.",
+    "desc_cn": "2026年美军向AI优先作战力量转型。国防部长1月签署新版AI加速战略，5月五角大楼与OpenAI、谷歌、英伟达等7家AI公司签署协议在机密网络部署模型，6月NSPM-11备忘录加速AI在国家安全领域应用。"
   },
   {
     "tag_id": 65,
-    "tag_cn": "中美AI竞争"
+    "tag_cn": "中美AI竞争",
+    "tag": "US China AI Competition",
+    "first_seen": "2026-09-21",
+    "last_seen": "2026-09-21",
+    "synonyms": [
+      "中美人工智能竞争",
+      "中美AI博弈",
+      "US China AI race",
+      "Sino-US AI competition",
+      "中美AI竞赛"
+    ],
+    "desc": "Strategic AI competition between the U.S. and China in 2026, spanning foundation models, chips, compute infrastructure, military applications and regulation. China's DeepSeek opened the affordable frontier-model era; the U.S. maintains leadership in cutting-edge models and chip manufacturing while restricting China's advanced chip access.",
+    "desc_cn": "2026年中美在AI领域的战略竞争，涵盖基础模型、芯片、算力、军事应用与监管。中国DeepSeek开启廉价前沿模型时代，美国在顶尖模型与芯片制造上保持领先并限制中国获取先进芯片。"
   }
 ]
