@@ -457,8 +457,8 @@
   },
   {
     "tag_id": 29,
-    "tag": "GPT-5 Series Launch",
-    "tag_cn": "GPT-5系列发布",
+    "tag": "OpenAI AI Models",
+    "tag_cn": "OpenAI AI模型",
     "first_seen": "2026-01-20",
     "last_seen": "2026-06-27",
     "synonyms": [
@@ -487,8 +487,8 @@
   },
   {
     "tag_id": 31,
-    "tag": "Google Gemini Omni",
-    "tag_cn": "谷歌Gemini Omni",
+    "tag": "Google AI Models",
+    "tag_cn": "谷歌AI模型",
     "first_seen": "2026-05-19",
     "last_seen": "2026-05-19",
     "synonyms": [
@@ -516,8 +516,8 @@
   },
   {
     "tag_id": 33,
-    "tag": "Apple Intelligence",
-    "tag_cn": "苹果AI",
+    "tag": "Apple AI Features",
+    "tag_cn": "苹果AI功能",
     "first_seen": "2026-01-01",
     "last_seen": "2026-09-03",
     "synonyms": [
@@ -932,5 +932,17 @@
   {
     "tag_id": 60,
     "tag_cn": "人形机器人"
+  },
+  {
+    "tag_id": 61,
+    "tag_cn": "Anthropic AI模型"
+  },
+  {
+    "tag_id": 62,
+    "tag_cn": "Deepseek AI模型"
+  },
+  {
+    "tag_id": 63,
+    "tag_cn": "全球AI模型竞争"
   }
 ]
