@@ -761,18 +761,16 @@
     "tag": "Germany AfD Election Win",
     "tag_cn": "德国选择党胜选",
     "first_seen": "2026-09-07",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-20",
     "synonyms": [
       "德国极右翼胜选",
       "AfD州选胜利",
       "AfD Saxony-Anhalt win",
       "Germany far-right election",
-      "选择党胜选",
-      "AfD Mecklenburg-Vorpommern win",
-      "梅前州选择党胜选"
+      "选择党胜选"
     ],
-    "desc": "The far-right Alternative for Germany (AfD) won two German state elections in Sept 2026, first in Saxony-Anhalt and then in Mecklenburg-Vorpommern (38.2%), becoming the first far-right party to win German state elections since WWII. Chancellor Merz's CDU suffered its worst post-war results, while the Left Party won the Berlin state election.",
-    "desc_cn": "德国极右翼政党选择党（AfD）2026年9月接连赢得萨克森-安哈尔特州和梅克伦堡-前波美拉尼亚州（38.2%）选举，为二战后极右翼政党首次在德国州选中获胜。总理默茨的基民盟遭遇战后最差成绩，左翼党则在柏林州胜选。"
+    "desc": "The far-right Alternative for Germany (AfD) won the Saxony-Anhalt state election in Sept 2026, the first far-right party to win a German state election since WWII. Taking about 44% of the vote, it fell just short of an absolute majority, a historic political shift in Europe's largest economy.",
+    "desc_cn": "德国极右翼政党选择党（AfD）2026年9月赢得萨克森-安哈尔特州选举，为二战后极右翼政党首次在德国州选中获胜。得票率约44%，未达绝对多数，但标志着欧洲最大经济体政治格局的历史性转折。"
   },
   {
     "tag_id": 50,
@@ -916,18 +914,16 @@
     "tag": "White House Media Ban",
     "tag_cn": "白宫媒体禁令",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-20",
     "synonyms": [
       "特朗普禁CNN入白宫",
       "白宫驱逐CNN",
       "Trump bans CNN",
       "White House press ban",
-      "MS NOW Politico banned",
-      "CNN stripped pool assignment",
-      "媒体起诉白宫"
+      "MS NOW Politico banned"
     ],
-    "desc": "On Sept 18, 2026, Trump banned CNN, MS NOW and Politico from the White House 'effective immediately'; on Sept 21 the White House stripped CNN of its TV pool assignment duties and the three outlets announced plans to sue the administration over the move, which legal scholars and press groups called unconstitutional.",
-    "desc_cn": "特朗普禁止CNN等三家媒体进入白宫，9月21日又剥夺CNN电视转播池任务权，三家媒体拟起诉政府，被批评为打压新闻自由。"
+    "desc": "On Sept 18, 2026, Trump announced he is banning CNN, MS NOW and Politico from the White House 'effective immediately' over alleged fake news, with MS NOW staffers turned away and hard passes revoked on Sept 19. Legal scholars and press groups called the move unconstitutional.",
+    "desc_cn": "特朗普禁止CNN、MS Now和Politico三家媒体的记者进入白宫，此举被批评为对新闻自由的打压。"
   },
   {
     "tag_id": 59,
