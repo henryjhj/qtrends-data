@@ -1,5 +1,7 @@
-These are trends hashtags collected by AI for [Qtrends.now](https://qtrends.now).
+* These are trending hashtags for [Qtrends.now](https://qtrends.now).
 
-The json file is updated once every day.
+* The JSON file is updated once a day.
 
-Everyone can use it, but changes are not accepted.
+* They are collected by AI (Trae Work) and may not be accurate.
+
+* Everyone can use them at their own risk. We do not accept requests for changes.
