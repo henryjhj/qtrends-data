@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-22",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -20,7 +20,7 @@
     "tag": "Israel Gaza War",
     "tag_cn": "加沙战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-22",
     "synonyms": [
       "加沙冲突",
       "以哈战争",
@@ -50,7 +50,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-22",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -73,7 +73,7 @@
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-22",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
@@ -168,7 +168,7 @@
     "tag": "Israel Lebanon Strikes",
     "tag_cn": "以黎冲突",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-22",
     "synonyms": [
       "以黎战争",
       "以色列黎巴嫩冲突",
@@ -214,7 +214,7 @@
     "tag": "US Midterm Elections",
     "tag_cn": "美国中期选举",
     "first_seen": "2026-01-15",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-22",
     "synonyms": [
       "2026美国中期选举",
       "2026年国会选举",
@@ -245,7 +245,7 @@
     "tag": "ICE Immigration Enforcement",
     "tag_cn": "ICE移民执法行动",
     "first_seen": "2026-01-02",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-22",
     "synonyms": [
       "ICE抓捕行动",
       "ICE移民突袭",
@@ -701,7 +701,7 @@
     "tag": "Aichi-Nagoya Asian Games",
     "tag_cn": "名古屋亚运会",
     "first_seen": "2026-06-08",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-22",
     "synonyms": [
       "爱知名古屋亚运会",
       "2026亚运会",
@@ -761,7 +761,7 @@
     "tag": "Germany AfD Election Win",
     "tag_cn": "德国选择党胜选",
     "first_seen": "2026-09-07",
-    "last_seen": "2026-09-20",
+    "last_seen": "2026-09-22",
     "synonyms": [
       "德国极右翼胜选",
       "AfD州选胜利",
@@ -769,8 +769,8 @@
       "Germany far-right election",
       "选择党胜选"
     ],
-    "desc": "The far-right Alternative for Germany (AfD) won the Saxony-Anhalt state election in Sept 2026, the first far-right party to win a German state election since WWII. Taking about 44% of the vote, it fell just short of an absolute majority, a historic political shift in Europe's largest economy.",
-    "desc_cn": "德国极右翼政党选择党（AfD）2026年9月赢得萨克森-安哈尔特州选举，为二战后极右翼政党首次在德国州选中获胜。得票率约44%，未达绝对多数，但标志着欧洲最大经济体政治格局的历史性转折。"
+    "desc": "The far-right Alternative for Germany (AfD) won multiple German state elections in Sept 2026, first in Saxony-Anhalt (~44%) and then Mecklenburg-Vorpommern (38.2%), becoming the first far-right party to win German state elections since WWII, a historic political shift in Europe's largest economy.",
+    "desc_cn": "德国极右翼政党选择党（AfD）2026年9月接连赢得萨克森-安哈尔特州（约44%）和梅克伦堡-前波美拉尼亚州（38.2%）选举，为二战后极右翼政党首次在德国州选中获胜，标志欧洲最大经济体政治格局的历史性转折。"
   },
   {
     "tag_id": 50,
@@ -828,7 +828,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-22",
     "synonyms": [
       "胡塞武装进攻",
       "也门胡塞冲突",
@@ -914,7 +914,7 @@
     "tag": "White House Media Ban",
     "tag_cn": "白宫媒体禁令",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-20",
+    "last_seen": "2026-09-22",
     "synonyms": [
       "特朗普禁CNN入白宫",
       "白宫驱逐CNN",
@@ -922,13 +922,13 @@
       "White House press ban",
       "MS NOW Politico banned"
     ],
-    "desc": "On Sept 18, 2026, Trump announced he is banning CNN, MS NOW and Politico from the White House 'effective immediately' over alleged fake news, with MS NOW staffers turned away and hard passes revoked on Sept 19. Legal scholars and press groups called the move unconstitutional.",
-    "desc_cn": "特朗普禁止CNN、MS Now和Politico三家媒体的记者进入白宫，此举被批评为对新闻自由的打压。"
+    "desc": "On Sept 18, 2026, Trump banned CNN, MS NOW and Politico from the White House over alleged fake news, with hard passes revoked on Sept 19. On Sept 22 the three outlets filed a First Amendment lawsuit against Trump; major TV networks declined to replace CNN's White House pool coverage in solidarity.",
+    "desc_cn": "特朗普禁CNN等三家媒体入白宫并吊销通行证，9月22日三家媒体起诉其违反第一修正案，各大电视网声援拒绝接替采访池。"
   },
   {
     "tag_id": 59,
-    "tag_cn": "AI发展前瞻",
     "tag": "AI Development Outlook",
+    "tag_cn": "AI发展前瞻",
     "first_seen": "2026-09-21",
     "last_seen": "2026-09-21",
     "synonyms": [
@@ -942,8 +942,8 @@
   },
   {
     "tag_id": 60,
-    "tag_cn": "人形机器人",
     "tag": "Humanoid Robots",
+    "tag_cn": "人形机器人",
     "first_seen": "2026-09-21",
     "last_seen": "2026-09-21",
     "synonyms": [
@@ -958,8 +958,8 @@
   },
   {
     "tag_id": 61,
-    "tag_cn": "Anthropic AI模型",
     "tag": "Anthropic AI Models",
+    "tag_cn": "Anthropic AI模型",
     "first_seen": "2026-09-21",
     "last_seen": "2026-09-21",
     "synonyms": [
@@ -974,8 +974,8 @@
   },
   {
     "tag_id": 62,
-    "tag_cn": "Deepseek AI模型",
     "tag": "DeepSeek AI Models",
+    "tag_cn": "Deepseek AI模型",
     "first_seen": "2026-09-21",
     "last_seen": "2026-09-21",
     "synonyms": [
@@ -990,8 +990,8 @@
   },
   {
     "tag_id": 63,
-    "tag_cn": "全球AI模型竞争",
     "tag": "Global AI Model Competition",
+    "tag_cn": "全球AI模型竞争",
     "first_seen": "2026-09-21",
     "last_seen": "2026-09-21",
     "synonyms": [
@@ -1006,8 +1006,8 @@
   },
   {
     "tag_id": 64,
-    "tag_cn": "美国AI部队",
     "tag": "US AI Military Force",
+    "tag_cn": "美国AI部队",
     "first_seen": "2026-09-21",
     "last_seen": "2026-09-21",
     "synonyms": [
@@ -1022,8 +1022,8 @@
   },
   {
     "tag_id": 65,
-    "tag_cn": "中美AI竞争",
     "tag": "US China AI Competition",
+    "tag_cn": "中美AI竞争",
     "first_seen": "2026-09-21",
     "last_seen": "2026-09-21",
     "synonyms": [
@@ -1035,5 +1035,20 @@
     ],
     "desc": "Strategic AI competition between the U.S. and China in 2026, spanning foundation models, chips, compute infrastructure, military applications and regulation. China's DeepSeek opened the affordable frontier-model era; the U.S. maintains leadership in cutting-edge models and chip manufacturing while restricting China's advanced chip access.",
     "desc_cn": "2026年中美在AI领域的战略竞争，涵盖基础模型、芯片、算力、军事应用与监管。中国DeepSeek开启廉价前沿模型时代，美国在顶尖模型与芯片制造上保持领先并限制中国获取先进芯片。"
+  },
+  {
+    "tag_id": 66,
+    "tag": "Japan Typhoon Dujuan",
+    "tag_cn": "日本台风杜鹃",
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-09-22",
+    "synonyms": [
+      "台风杜鹃",
+      "日本台风",
+      "Typhoon Dujuan Japan",
+      "Dujuan typhoon"
+    ],
+    "desc": "Typhoon Dujuan, Japan's 25th typhoon of 2026, battered eastern Japan on Sept 21-22, triggering landslides that killed at least 4 people and left several missing; nearly 2 million people were placed under evacuation orders across the Kanto region.",
+    "desc_cn": "2026年第25号台风杜鹃9月21-22日袭击日本关东地区，引发山体滑坡，造成至少4人死亡、数人失联，近200万人被下令疏散。"
   }
 ]
