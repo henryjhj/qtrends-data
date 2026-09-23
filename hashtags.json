@@ -1105,32 +1105,31 @@
   },
   {
     "tag_id": 69,
-    "tag": "Trump Tariffs",
+    "tag": "Trump Trade Tariff",
     "tag_cn": "特朗普关税",
     "first_seen": "2026-09-23",
     "last_seen": "2026-09-23",
     "synonyms": [
       "特朗普关税政策",
       "美国关税",
-      "Trump's tariffs",
-      "Trump tariff policy",
-      "US tariffs on imports"
+      "Trump tariffs",
+      "US import tariffs",
+      "trade tariff policy"
     ],
     "desc": "Tariffs imposed by the Trump administration in 2026 on trading partners worldwide — including China, Canada, the EU and dozens of other nations — along with retaliatory measures, trade negotiations and the economic effects on prices and businesses.",
     "desc_cn": "2026年特朗普政府对全球贸易伙伴（包括中国、加拿大、欧盟及数十个国家）征收的关税，以及反制措施、贸易谈判和对物价与企业的经济影响。"
   },
   {
     "tag_id": 70,
-    "tag": "Xi-Trump Summit",
+    "tag": "Xi-Trump Summit Parley",
     "tag_cn": "习特会",
     "first_seen": "2026-09-23",
     "last_seen": "2026-09-23",
     "synonyms": [
       "习特峰会",
       "中美元首会晤",
-      "Trump-Xi summit",
-      "Xi Jinping Trump meeting",
-      "Trump Xi meeting"
+      "Xi Trump Meeting Parley",
+      "Xi Trump Talks Parley"
     ],
     "desc": "Meetings and summits between U.S. President Donald Trump and Chinese President Xi Jinping in 2026, covering trade agreements, tariff negotiations and other bilateral outcomes reached at the summits.",
     "desc_cn": "2026年美国总统特朗普与中国国家主席习近平之间的会晤与峰会，涉及贸易协议、关税谈判及峰会达成的双边成果。"
