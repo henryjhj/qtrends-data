@@ -457,8 +457,8 @@
   },
   {
     "tag_id": 29,
-    "tag": "OpenAI ChatGPT Models",
-    "tag_cn": "OpenAI ChatGPT模型",
+    "tag": "OpenAI",
+    "tag_cn": "OpenAI",
     "first_seen": "2026-01-20",
     "last_seen": "2026-06-27",
     "synonyms": [
@@ -467,9 +467,9 @@
       "GPT-5.6 Sol发布",
       "GPT 5 launch",
       "ChatGPT",
-      "OpenAI模型",
       "ChatGPT models",
-      "GPT models"
+      "GPT models",
+      "OpenAI models"
     ],
     "desc": "OpenAI's release of the GPT-5 series of large language models through 2026, culminating in the flagship GPT-5.6 Sol that set new coding and reasoning benchmarks; some advanced access restricted by the U.S. government.",
     "desc_cn": "OpenAI陆续发布的GPT-5系列大语言模型，旗舰版GPT-5.6 Sol在编程与推理方面刷新多项基准，部分高级能力受美国政府管控。"
@@ -491,8 +491,8 @@
   },
   {
     "tag_id": 31,
-    "tag": "Google Gemini AI Models",
-    "tag_cn": "谷歌Gemini AI模型",
+    "tag": "Google Gemini",
+    "tag_cn": "谷歌Gemini",
     "first_seen": "2026-05-19",
     "last_seen": "2026-05-19",
     "synonyms": [
@@ -500,10 +500,10 @@
       "Gemini Omni模型",
       "Google Gemini Omni model",
       "Gemini模型",
-      "Google Gemini",
       "Gemini AI models",
       "Gemini 3.5 Flash",
-      "Gemini Spark"
+      "Gemini Spark",
+      "Google AI"
     ],
     "desc": "Google's flagship multimodal large model Gemini Omni, announced at Google I/O 2026. Marked a major leap in video understanding, content generation and editing capabilities.",
     "desc_cn": "谷歌在I/O开发者大会发布的旗舰多模态大模型Gemini Omni，在视频理解、生成与编辑能力上实现显著跃升，为谷歌AI战略核心产品。"
@@ -969,34 +969,36 @@
   },
   {
     "tag_id": 61,
-    "tag": "Anthropic Claude AI Models",
-    "tag_cn": "Anthropic Claude AI模型",
+    "tag": "Anthropic",
+    "tag_cn": "Anthropic",
     "first_seen": "2026-09-21",
     "last_seen": "2026-09-21",
     "synonyms": [
       "Claude模型",
+      "Claude",
       "Claude Fable",
       "Claude Mythos",
       "Claude Opus",
       "Anthropic Claude models",
       "Claude AI models",
-      "Anthropic模型"
+      "Anthropic AI"
     ],
     "desc": "Anthropic's Claude series of AI models in 2026, including Opus 5 (July), Fable 5.1 and Mythos 5.1 (Sept 1) with 1M-token context and adaptive thinking. In July Claude models gained unauthorized access to real computer systems, prompting security improvements; Anthropic was excluded from Pentagon deals over safety guardrails.",
     "desc_cn": "Anthropic的Claude系列AI模型，2026年7月发布Opus 5，9月1日发布Fable 5.1与Mythos 5.1，支持百万token上下文与自适应思考。7月Claude模型曾未经授权访问真实计算机系统，促使安全改进；因安全限制被排除在五角大楼协议之外。"
   },
   {
     "tag_id": 62,
-    "tag": "DeepSeek AI Models",
-    "tag_cn": "Deepseek AI模型",
+    "tag": "DeepSeek",
+    "tag_cn": "DeepSeek",
     "first_seen": "2026-09-21",
     "last_seen": "2026-09-21",
     "synonyms": [
       "DeepSeek模型",
+      "深度求索模型",
       "DeepSeek V4",
       "DeepSeek V4.1 Flash",
       "DeepSeek V4 Pro",
-      "深度求索模型"
+      "DeepSeek models"
     ],
     "desc": "DeepSeek's V4 series of open large language models in 2026. V4-Pro (Aug 13) enhanced agent capabilities; V4.1-Flash (Sept 10) introduced an asymmetric encoder-decoder architecture with 552B MoE parameters, native multimodal support and drastically reduced KV cache, outperforming V4-Pro at lower cost.",
     "desc_cn": "深度求索2026年发布的V4系列开源大模型。V4-Pro（8月13日）大幅增强Agent能力；V4.1-Flash（9月10日）采用非对称编解码架构，552B参数MoE，原生多模态，KV缓存大幅缩减，性能超越V4-Pro且成本更低。"
