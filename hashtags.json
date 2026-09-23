@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-22",
+    "last_seen": "2026-09-24",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -50,7 +50,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-09-22",
+    "last_seen": "2026-09-24",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -63,7 +63,10 @@
       "Lindsey Graham sanctions act",
       "美伊核谈判",
       "Iran nuclear talks",
-      "美伊重启谈判"
+      "美伊重启谈判",
+      "Iran UN speech",
+      "伊朗联大演讲",
+      "Pezeshkian UN address"
     ],
     "desc": "The 2026 Iran War began on February 28, when the U.S. and Israel launched large-scale strikes on Iran. Iran retaliated, expanding the conflict across the Middle East. The war has affected military, nuclear and energy infrastructure.",
     "desc_cn": "2026年2月28日，美国与以色列对伊朗发动大规模军事打击，伊朗随即反击，战争迅速扩大至中东多国。冲突涉及核设施、军事基地及能源设施，并一度引发霍尔木兹海峡航运危机。"
@@ -775,7 +778,7 @@
     "tag": "Germany AfD Election Win",
     "tag_cn": "德国选择党胜选",
     "first_seen": "2026-09-07",
-    "last_seen": "2026-09-22",
+    "last_seen": "2026-09-24",
     "synonyms": [
       "德国极右翼胜选",
       "AfD州选胜利",
@@ -1124,14 +1127,32 @@
     "tag": "Xi-Trump Summit Visit",
     "tag_cn": "习特会",
     "first_seen": "2026-09-23",
-    "last_seen": "2026-09-23",
+    "last_seen": "2026-09-24",
     "synonyms": [
       "习特峰会",
       "中美元首会晤",
       "Xi Trump Meeting Parley",
-      "Xi Trump Talks Parley"
+      "Xi Trump Talks Parley",
+      "习近平访美",
+      "Xi US visit",
+      "Xi Jinping US visit"
     ],
     "desc": "Meetings and summits between U.S. President Donald Trump and Chinese President Xi Jinping in 2026, covering trade agreements, tariff negotiations and other bilateral outcomes reached at the summits.",
     "desc_cn": "2026年美国总统特朗普与中国国家主席习近平之间的会晤与峰会，涉及贸易协议、关税谈判及峰会达成的双边成果。"
+  },
+  {
+    "tag_id": 71,
+    "tag": "Hurricane Polo",
+    "tag_cn": "飓风保罗",
+    "first_seen": "2026-09-24",
+    "last_seen": "2026-09-24",
+    "synonyms": [
+      "Mexico hurricane",
+      "墨西哥飓风",
+      "Category 5 hurricane",
+      "五级飓风"
+    ],
+    "desc": "Hurricane Polo intensified to a rare Category 5 storm off Mexico's Pacific coast in late September 2026, with maximum sustained winds of 180 mph. It threatened Guerrero and Michoacán with life-threatening flooding and mudslides, causing coastal damage and supply chain disruptions.",
+    "desc_cn": "2026年9月下旬飓风保罗在墨西哥太平洋沿岸增强为罕见的五级飓风，持续风速达每小时180英里，威胁格雷罗州和米却肯州，引发洪涝和泥石流风险，造成沿海损毁及供应链中断。"
   }
 ]
