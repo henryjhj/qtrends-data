@@ -362,15 +362,18 @@
   },
   {
     "tag_id": 23,
-    "tag": "Fed Rate Cut Cycle",
-    "tag_cn": "美联储降息周期",
+    "tag": "Fed Interest Rate Policy",
+    "tag_cn": "美联储利率政策",
     "first_seen": "2026-01-01",
     "last_seen": "2026-09-17",
     "synonyms": [
       "美联储降息",
+      "美联储加息",
       "美联储利率政策",
       "Fed rate cuts",
-      "Federal Reserve easing"
+      "Fed rate hikes",
+      "Federal Reserve easing",
+      "Federal Reserve monetary policy"
     ],
     "desc": "The U.S. Federal Reserve's 2026 monetary policy path amid sticky inflation and recession risk. On Sept 16 the Fed raised its policy rate by 25bp to 3.75–4.00%, its first hike since 2023; Brent crude surging past $100/bbl on the Iran war drove the decision, with officials signaling one more hike in 2026 and upending earlier easing expectations.",
     "desc_cn": "2026年美联储在通胀黏性与衰退风险背景下的货币政策路径。9月16日美联储加息25基点至3.75–4.00%，为2023年来首次加息；美伊冲突推升布伦特原油破百驱动此举，官员暗示年内或再加息一次，此前降息预期被颠覆。"
@@ -1083,5 +1086,53 @@
     ],
     "desc": "ICC T20 Cricket World Cup coverage, including the men's and women's tournaments: team guides, fixtures, results, standings and live match reports. Australia beat England in the 2026 Women's T20 World Cup final to claim their seventh title.",
     "desc_cn": "国际板球理事会（ICC）T20板球世界杯报道，涵盖男子与女子赛事的球队巡礼、赛程、赛果、积分榜与实时战报。2026年女子T20世界杯决赛中澳大利亚击败英格兰，第七次夺冠。"
+  },
+  {
+    "tag_id": 68,
+    "tag": "US China Trade War",
+    "tag_cn": "美中贸易战",
+    "first_seen": "2026-09-23",
+    "last_seen": "2026-09-23",
+    "synonyms": [
+      "中美贸易战",
+      "美中关税战",
+      "Sino-US trade war",
+      "China US trade war",
+      "US-China tariffs"
+    ],
+    "desc": "The 2026 trade conflict between the United States and China: tit-for-tat tariffs, export controls, retaliatory measures, trade negotiations, and their impact on markets, supply chains, technology firms and agriculture.",
+    "desc_cn": "2026年美中两国之间的贸易冲突：互征关税、出口管制、反制措施与贸易谈判，及其对市场、供应链、科技企业与农业的影响。"
+  },
+  {
+    "tag_id": 69,
+    "tag": "Trump Tariffs",
+    "tag_cn": "特朗普关税",
+    "first_seen": "2026-09-23",
+    "last_seen": "2026-09-23",
+    "synonyms": [
+      "特朗普关税政策",
+      "美国关税",
+      "Trump's tariffs",
+      "Trump tariff policy",
+      "US tariffs on imports"
+    ],
+    "desc": "Tariffs imposed by the Trump administration in 2026 on trading partners worldwide — including China, Canada, the EU and dozens of other nations — along with retaliatory measures, trade negotiations and the economic effects on prices and businesses.",
+    "desc_cn": "2026年特朗普政府对全球贸易伙伴（包括中国、加拿大、欧盟及数十个国家）征收的关税，以及反制措施、贸易谈判和对物价与企业的经济影响。"
+  },
+  {
+    "tag_id": 70,
+    "tag": "Xi-Trump Summit",
+    "tag_cn": "习特会",
+    "first_seen": "2026-09-23",
+    "last_seen": "2026-09-23",
+    "synonyms": [
+      "习特峰会",
+      "中美元首会晤",
+      "Trump-Xi summit",
+      "Xi Jinping Trump meeting",
+      "Trump Xi meeting"
+    ],
+    "desc": "Meetings and summits between U.S. President Donald Trump and Chinese President Xi Jinping in 2026, covering trade agreements, tariff negotiations and other bilateral outcomes reached at the summits.",
+    "desc_cn": "2026年美国总统特朗普与中国国家主席习近平之间的会晤与峰会，涉及贸易协议、关税谈判及峰会达成的双边成果。"
   }
 ]
