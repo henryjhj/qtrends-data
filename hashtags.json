@@ -1050,5 +1050,17 @@
     ],
     "desc": "Typhoon Dujuan, Japan's 25th typhoon of 2026, battered eastern Japan on Sept 21-22, triggering landslides that killed at least 4 people and left several missing; nearly 2 million people were placed under evacuation orders across the Kanto region.",
     "desc_cn": "2026年第25号台风杜鹃9月21-22日袭击日本关东地区，引发山体滑坡，造成至少4人死亡、数人失联，近200万人被下令疏散。"
-  }
+  },
+  {
+    "tag_id": 67,
+    "tag": "T20 Cricket World Cup",
+    "tag_cn": "T20板球世界杯",
+    "first_seen": "2026-09-23",
+    "last_seen": "2026-09-23",
+    "synonyms": ["T20世界杯", "板球世界杯", "2026 T20 World Cup",
+               "ICC Men's T20 World Cup", "ICC Women's T20 World Cup",
+               "Women's T20 World Cup 2026", "T20 Cricket World Cup 2026"],
+    "desc": "ICC T20 Cricket World Cup coverage, including the men's and women's tournaments: team guides, fixtures, results, standings and live match reports. Australia beat England in the 2026 Women's T20 World Cup final to claim their seventh title.",
+    "desc_cn": "国际板球理事会（ICC）T20板球世界杯报道，涵盖男子与女子赛事的球队巡礼、赛程、赛果、积分榜与实时战报。2026年女子T20世界杯决赛中澳大利亚击败英格兰，第七次夺冠。"
+ }
 ]
