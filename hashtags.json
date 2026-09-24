@@ -1115,14 +1115,13 @@
   },
   {
     "tag_id": 69,
-    "tag": "Trump Trade Tariff",
+    "tag": "Trump Tariffs",
     "tag_cn": "特朗普关税",
     "first_seen": "2026-09-23",
     "last_seen": "2026-09-23",
     "synonyms": [
       "特朗普关税政策",
       "美国关税",
-      "Trump tariffs",
       "US import tariffs",
       "trade tariff policy"
     ],
@@ -1131,7 +1130,7 @@
   },
   {
     "tag_id": 70,
-    "tag": "Xi-Trump Summit Visit",
+    "tag": "Xi-Trump Summit",
     "tag_cn": "习特会",
     "first_seen": "2026-09-23",
     "last_seen": "2026-09-24",
