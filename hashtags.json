@@ -463,8 +463,8 @@
   },
   {
     "tag_id": 29,
-    "tag": "OpenAI",
-    "tag_cn": "OpenAI",
+    "tag": "OpenAI AI",
+    "tag_cn": "OpenAI AI",
     "first_seen": "2026-01-20",
     "last_seen": "2026-06-27",
     "synonyms": [
@@ -497,8 +497,8 @@
   },
   {
     "tag_id": 31,
-    "tag": "Google Gemini",
-    "tag_cn": "谷歌Gemini",
+    "tag": "Google AI",
+    "tag_cn": "谷歌AI",
     "first_seen": "2026-05-19",
     "last_seen": "2026-05-19",
     "synonyms": [
@@ -531,8 +531,8 @@
   },
   {
     "tag_id": 33,
-    "tag": "Apple AI Features",
-    "tag_cn": "苹果AI功能",
+    "tag": "Apple AI",
+    "tag_cn": "苹果AI",
     "first_seen": "2026-01-01",
     "last_seen": "2026-09-03",
     "synonyms": [
@@ -577,8 +577,8 @@
   },
   {
     "tag_id": 36,
-    "tag": "SpaceX Starship V3",
-    "tag_cn": "SpaceX星舰V3",
+    "tag": "SpaceX Starship",
+    "tag_cn": "SpaceX星舰",
     "first_seen": "2026-05-22",
     "last_seen": "2026-09-01",
     "synonyms": [
@@ -975,8 +975,8 @@
   },
   {
     "tag_id": 61,
-    "tag": "Anthropic",
-    "tag_cn": "Anthropic",
+    "tag": "Anthropic AI",
+    "tag_cn": "Anthropic AI",
     "first_seen": "2026-09-21",
     "last_seen": "2026-09-21",
     "synonyms": [
@@ -994,8 +994,8 @@
   },
   {
     "tag_id": 62,
-    "tag": "DeepSeek",
-    "tag_cn": "DeepSeek",
+    "tag": "DeepSeek AI",
+    "tag_cn": "DeepSeek AI",
     "first_seen": "2026-09-21",
     "last_seen": "2026-09-21",
     "synonyms": [
@@ -1154,5 +1154,33 @@
     ],
     "desc": "Hurricane Polo intensified to a rare Category 5 storm off Mexico's Pacific coast in late September 2026, with maximum sustained winds of 180 mph. It threatened Guerrero and Michoacán with life-threatening flooding and mudslides, causing coastal damage and supply chain disruptions.",
     "desc_cn": "2026年9月下旬飓风保罗在墨西哥太平洋沿岸增强为罕见的五级飓风，持续风速达每小时180英里，威胁格雷罗州和米却肯州，引发洪涝和泥石流风险，造成沿海损毁及供应链中断。"
+  },
+  {
+    "tag_id": 72,
+    "tag": "SapceX AI"
+  },
+  {
+    "tag_id": 73,
+    "tag": "AI Security"
+  },
+  {
+    "tag_id": 74,
+    "tag_cn": "宇树机器人"
+  },
+  {
+    "tag_id": 75,
+    "tag_cn": "特斯拉机器人"
+  },
+  {
+    "tag_id": 76,
+    "tag_cn": "新能源"
+  },
+  {
+    "tag_id": 77,
+    "tag_cn": "电动汽车"
+  },
+  {
+    "tag_id": 78,
+    "tag": "AI Agent"
   }
 ]
