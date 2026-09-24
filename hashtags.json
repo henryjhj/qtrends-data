@@ -76,7 +76,7 @@
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-09-22",
+    "last_seen": "2026-09-25",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
@@ -845,7 +845,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-09-22",
+    "last_seen": "2026-09-25",
     "synonyms": [
       "胡塞武装进攻",
       "也门胡塞冲突",
@@ -860,10 +860,18 @@
       "Houthi attack Saudi base",
       "胡塞袭击利雅得",
       "Houthi attack Riyadh",
-      "胡塞袭击沙特首都"
+      "胡塞袭击沙特首都",
+      "法国派兵保护沙特",
+      "马克龙派兵沙特",
+      "France protects Yanbu",
+      "Macron troops Saudi",
+      "胡塞袭击吉赞",
+      "Houthi attack Jizan",
+      "French defense systems Yanbu",
+      "胡塞9月24日袭击"
     ],
-    "desc": "In Sept 2026, Yemen's Houthi movement captured the Red Sea port of Mocha and strategic Perim Island, gaining control of Yemen's entire Red Sea coast. On Sept 19-20 the Houthis fired ballistic missiles and drones at Saudi capital Riyadh and the Yanbu energy hub, the first direct strike on Riyadh; Brent crude topped $100/bbl.",
-    "desc_cn": "2026年9月也门胡塞武装攻占红海港口摩卡及战略要地丕林岛，控制也门整个红海沿岸。9月19-20日胡塞向沙特首都利雅得及延布发射弹道导弹和无人机，系冲突以来首次袭击利雅得，布伦特原油突破每桶100美元。"
+    "desc": "In Sept 2026, Yemen's Houthi movement captured Red Sea port Mocha and Perim Island, controlling Yemen's entire Red Sea coast. Houthis fired missiles/drones at Saudi capital Riyadh and Yanbu energy hub Sept 19-20 (first direct strike on Riyadh) and again Sept 24. France's Macron announced troops, radars, defense systems to protect Yanbu oil facilities; Brent crude topped $100/bbl.",
+    "desc_cn": "2026年9月也门胡塞武装攻占红海港口摩卡及丕林岛，控制也门红海沿岸。胡塞9月19-20日及24日多次袭击沙特利雅得、延布阿美设施和吉赞军事目标，系首次袭击沙特首都。法国马克龙宣布派兵保护延布石油设施；布伦特原油破百美元。"
   },
   {
     "tag_id": 54,
@@ -1151,7 +1159,7 @@
     "tag": "Hurricane Polo",
     "tag_cn": "飓风保罗",
     "first_seen": "2026-09-24",
-    "last_seen": "2026-09-24",
+    "last_seen": "2026-09-25",
     "synonyms": [
       "Mexico hurricane",
       "墨西哥飓风",
@@ -1276,7 +1284,7 @@
     "tag": "Tropical Storm Nolo",
     "tag_cn": "热带风暴诺洛",
     "first_seen": "2026-09-24",
-    "last_seen": "2026-09-24",
+    "last_seen": "2026-09-25",
     "synonyms": [
       "Hurricane Nolo",
       "Nolo Hawaii",
@@ -1287,5 +1295,20 @@
     ],
     "desc": "Tropical Storm Nolo formed in the Central Pacific in late Sept 2026, triggering a hurricane watch for Hawaii. Forecast to strengthen into a hurricane and possibly a major hurricane near the islands, bringing dangerous winds, surf and flooding.",
     "desc_cn": "2026年9月下旬热带风暴诺洛在中太平洋生成，引发夏威夷飓风警报。预计将增强为飓风乃至强飓风并逼近夏威夷群岛，带来强风、巨浪与洪涝风险。"
+  },
+  {
+    "tag_id": 80,
+    "tag": "Colombia Iran Diplomatic Break",
+    "tag_cn": "哥伦比亚与伊朗断交",
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "synonyms": [
+      "哥伦比亚伊朗外交关系破裂",
+      "Colombia severs Iran ties",
+      "Colombia Iran relations cut",
+      "哥伦比亚断交伊朗"
+    ],
+    "desc": "Colombia's foreign ministry announced on Sept 24, 2026 it had formally severed diplomatic relations with Iran, effective Sept 19, citing national security, regional stability and anti-transnational-crime principles. Consular ties remain intact.",
+    "desc_cn": "哥伦比亚外交部2026年9月24日宣布自9月19日起正式与伊朗断绝外交关系，理由为国家安全、地区稳定及打击跨国犯罪原则。两国领事关系不受影响。"
   }
 ]
