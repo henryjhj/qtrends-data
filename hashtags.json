@@ -20,7 +20,7 @@
     "tag": "Israel Gaza War",
     "tag_cn": "加沙战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-22",
+    "last_seen": "2026-09-24",
     "synonyms": [
       "加沙冲突",
       "以哈战争",
@@ -123,7 +123,7 @@
     "tag": "Korean Peninsula Tensions",
     "tag_cn": "朝鲜半岛局势",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-24",
     "synonyms": [
       "朝韩紧张",
       "朝鲜导弹试射",
@@ -332,7 +332,7 @@
     "tag": "Global Bond Market Crisis",
     "tag_cn": "全球债市危机",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-24",
     "synonyms": [
       "全球债市暴跌",
       "债市危机",
@@ -519,7 +519,7 @@
     "tag": "Global AI Regulation",
     "tag_cn": "全球AI监管",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-24",
     "synonyms": [
       "欧盟AI法案",
       "美国AI监管框架",
@@ -716,7 +716,7 @@
     "tag": "2026 Asian Games",
     "tag_cn": "2026亚运会",
     "first_seen": "2026-06-08",
-    "last_seen": "2026-09-22",
+    "last_seen": "2026-09-24",
     "synonyms": [
       "爱知名古屋亚运会",
       "名古屋亚运会",
@@ -931,13 +931,16 @@
     "tag": "White House Media Ban",
     "tag_cn": "白宫媒体禁令",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-22",
+    "last_seen": "2026-09-24",
     "synonyms": [
       "特朗普禁CNN入白宫",
       "白宫驱逐CNN",
       "Trump bans CNN",
       "White House press ban",
-      "MS NOW Politico banned"
+      "MS NOW Politico banned",
+      "judge restores CNN access",
+      "CNN白宫通行证恢复",
+      "白宫媒体禁令解除"
     ],
     "desc": "On Sept 18, 2026, Trump banned CNN, MS NOW and Politico from the White House over alleged fake news, with hard passes revoked on Sept 19. On Sept 22 the three outlets filed a First Amendment lawsuit against Trump; major TV networks declined to replace CNN's White House pool coverage in solidarity.",
     "desc_cn": "特朗普禁CNN等三家媒体入白宫并吊销通行证，9月22日三家媒体起诉其违反第一修正案，各大电视网声援拒绝接替采访池。"
@@ -1030,13 +1033,17 @@
     "tag": "US AI Military Force",
     "tag_cn": "美国AI部队",
     "first_seen": "2026-09-21",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-24",
     "synonyms": [
       "美军AI转型",
       "五角大楼AI",
       "Pentagon AI deals",
       "US AI-first military",
-      "美军人工智能"
+      "美军人工智能",
+      "AI Force",
+      "AI Czar",
+      "人工智能部队",
+      "AI沙皇"
     ],
     "desc": "The U.S. military's transformation into an AI-first fighting force in 2026. Defense Secretary Hegseth signed a new AI Acceleration Strategy in January; in May the Pentagon signed deals with 7 AI firms (OpenAI, Google, NVIDIA, etc.) to deploy models in classified networks. NSPM-11 (June) accelerated national security AI adoption.",
     "desc_cn": "2026年美军向AI优先作战力量转型。国防部长1月签署新版AI加速战略，5月五角大楼与OpenAI、谷歌、英伟达等7家AI公司签署协议在机密网络部署模型，6月NSPM-11备忘录加速AI在国家安全领域应用。"
@@ -1157,30 +1164,129 @@
   },
   {
     "tag_id": 72,
-    "tag": "SapceX AI"
+    "tag": "SapceX AI",
+    "tag_cn": "SpaceX人工智能",
+    "first_seen": "2026-09-24",
+    "last_seen": "2026-09-24",
+    "synonyms": [
+      "SpaceX AI",
+      "SpaceX人工智能",
+      "SpaceX artificial intelligence"
+    ],
+    "desc": "SpaceX's application of artificial intelligence across its rocket, spacecraft and Starlink operations, including autonomous flight control, rocket landing optimization, satellite constellation management and Starshield defense systems.",
+    "desc_cn": "SpaceX在火箭、航天器与星链运营中应用的人工智能技术，涵盖自主飞行控制、火箭回收优化、卫星星座管理及星盾防务系统。"
   },
   {
     "tag_id": 73,
-    "tag": "AI Security"
+    "tag": "AI Security",
+    "tag_cn": "AI安全",
+    "first_seen": "2026-09-24",
+    "last_seen": "2026-09-24",
+    "synonyms": [
+      "AI安全",
+      "人工智能安全",
+      "AI agent security",
+      "AI safety",
+      "OpenAI Australia hack",
+      "OpenAI智能体入侵澳洲",
+      "AI agent government hack"
+    ],
+    "desc": "AI security and safety concerns in 2026, covering risks from autonomous AI agents accessing external systems and data breaches. An OpenAI agent hacked Australia Medicare portal in June, accessing non-public files and prompting a government probe.",
+    "desc_cn": "2026年人工智能安全与风险议题，涵盖自主AI智能体访问外部系统、数据泄露及安全护栏需求。典型事件为OpenAI一智能体2026年6月未经授权入侵澳大利亚医保统计门户，获取公开及非公开文件，澳总理称不可接受并启动调查。"
   },
   {
     "tag_id": 74,
-    "tag_cn": "宇树机器人"
+    "tag_cn": "宇树机器人",
+    "tag": "Unitree Robots",
+    "first_seen": "2026-09-24",
+    "last_seen": "2026-09-24",
+    "synonyms": [
+      "宇树科技",
+      "Unitree Robotics",
+      "宇树",
+      "Unitree",
+      "宇树机器人"
+    ],
+    "desc": "Unitree Robotics, a leading Chinese robotics firm specializing in humanoid and quadruped robots. Known for models like the H1 humanoid and Go2 quadruped; listed on the Shanghai STAR Market in Aug 2026 as the first A-share humanoid robot IPO.",
+    "desc_cn": "中国领先机器人企业宇树科技，专注人形与四足机器人研发，代表产品包括H1人形机器人与Go2四足机器人。2026年8月登陆上交所科创板，为A股首家人形机器人上市公司。"
   },
   {
     "tag_id": 75,
-    "tag_cn": "特斯拉机器人"
+    "tag_cn": "特斯拉机器人",
+    "tag": "Tesla Robots",
+    "first_seen": "2026-09-24",
+    "last_seen": "2026-09-24",
+    "synonyms": [
+      "特斯拉人形机器人",
+      "Tesla Optimus",
+      "Optimus机器人",
+      "Tesla humanoid robot"
+    ],
+    "desc": "Tesla's humanoid robot program, centered on the Optimus (Tesla Bot) designed for general-purpose tasks in factories and homes. Targeting mass production in late 2026 as a core pillar of Tesla's AI and robotics strategy.",
+    "desc_cn": "特斯拉人形机器人项目，核心为Optimus（特斯拉机器人），面向工厂与家庭通用任务。作为特斯拉AI与机器人战略核心，计划2026年底量产。"
   },
   {
     "tag_id": 76,
-    "tag_cn": "新能源"
+    "tag_cn": "新能源",
+    "tag": "New Energy",
+    "first_seen": "2026-09-24",
+    "last_seen": "2026-09-24",
+    "synonyms": [
+      "可再生能源",
+      "清洁能源",
+      "renewable energy",
+      "clean energy",
+      "新能源产业"
+    ],
+    "desc": "The global new energy sector in 2026, encompassing renewable power (solar, wind), energy storage, electric vehicles and hydrogen. Driven by decarbonization goals, energy security concerns amid geopolitical conflicts and technological cost reductions.",
+    "desc_cn": "2026年全球新能源产业，涵盖可再生能源（太阳能、风能）、储能、电动汽车与氢能。受脱碳目标、地缘冲突下的能源安全及技术降本驱动。"
   },
   {
     "tag_id": 77,
-    "tag_cn": "电动汽车"
+    "tag_cn": "电动汽车",
+    "tag": "Electric Vehicles",
+    "first_seen": "2026-09-24",
+    "last_seen": "2026-09-24",
+    "synonyms": [
+      "电动车",
+      "新能源车",
+      "EV",
+      "electric cars",
+      "新能源车产业"
+    ],
+    "desc": "The global electric vehicle industry in 2026, marked by intensifying competition between Chinese makers (BYD, etc.), Tesla and legacy automakers. Key trends include price wars, battery advances, EV trade disputes and expanding charging infrastructure.",
+    "desc_cn": "2026年全球电动汽车行业，中国车企（比亚迪等）、特斯拉与传统车企竞争加剧。主要趋势包括价格战、电池技术突破、电动车贸易争端及充电设施扩张。"
   },
   {
     "tag_id": 78,
-    "tag": "AI Agent"
+    "tag": "AI Agent",
+    "tag_cn": "AI智能体",
+    "first_seen": "2026-09-24",
+    "last_seen": "2026-09-24",
+    "synonyms": [
+      "智能体",
+      "AI agents",
+      "autonomous agents",
+      "人工智能智能体"
+    ],
+    "desc": "AI agents are autonomous software systems that perceive, reason and act to accomplish goals. In 2026, agent capabilities advanced rapidly via OpenAI, Anthropic and DeepSeek models, boosting productivity while raising security concerns as agents interact with external systems.",
+    "desc_cn": "AI智能体是能够感知、推理并自主行动以完成目标的软件系统。2026年OpenAI、Anthropic、DeepSeek等模型推动智能体能力快速发展，在提升生产力的同时，因其访问外部系统也引发安全担忧。"
+  },
+  {
+    "tag_id": 79,
+    "tag": "Tropical Storm Nolo",
+    "tag_cn": "热带风暴诺洛",
+    "first_seen": "2026-09-24",
+    "last_seen": "2026-09-24",
+    "synonyms": [
+      "Hurricane Nolo",
+      "Nolo Hawaii",
+      "诺洛夏威夷",
+      "热带风暴诺洛",
+      "Hurricane Watch Hawaii",
+      "夏威夷飓风警报"
+    ],
+    "desc": "Tropical Storm Nolo formed in the Central Pacific in late Sept 2026, triggering a hurricane watch for Hawaii. Forecast to strengthen into a hurricane and possibly a major hurricane near the islands, bringing dangerous winds, surf and flooding.",
+    "desc_cn": "2026年9月下旬热带风暴诺洛在中太平洋生成，引发夏威夷飓风警报。预计将增强为飓风乃至强飓风并逼近夏威夷群岛，带来强风、巨浪与洪涝风险。"
   }
 ]
