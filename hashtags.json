@@ -76,17 +76,19 @@
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-09-25",
+    "last_seen": "2026-09-26",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
       "Hormuz closure",
       "Strait of Hormuz closure",
       "霍尔木兹海峡通航谈判",
-      "Hormuz Oman talks"
+      "Hormuz Oman talks",
+      "Hormuz reopening talks",
+      "美伊霍尔木兹谈判"
     ],
-    "desc": "The 2026 Strait of Hormuz crisis began when Iran restricted shipping during the Iran War, disrupting global energy supplies and maritime trade. The U.S. later imposed its own blockade, escalating tensions and creating a major international energy crisis.",
-    "desc_cn": "2026年伊朗战争期间，伊朗封锁霍尔木兹海峡，导致国际航运受阻、全球能源供应受到严重冲击。美国随后采取封锁措施，危机进一步升级，并引发国际社会对能源安全和地区局势的广泛担忧。"
+    "desc": "The 2026 Strait of Hormuz crisis began when Iran restricted shipping during the Iran War, disrupting global energy supplies. In late September, Iran offered a seven-day reopening plan and talks, with U.S.-Iran negotiators exploring a phased deal.",
+    "desc_cn": "2026年伊朗战争期间，伊朗封锁霍尔木兹海峡，导致国际航运受阻、全球能源供应受到严重冲击。9月下旬伊朗提出七日重启方案并恢复谈判，美伊就分阶段恢复通航展开磋商。"
   },
   {
     "tag_id": 6,
@@ -519,7 +521,7 @@
     "tag": "Global AI Regulation",
     "tag_cn": "全球AI监管",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-24",
+    "last_seen": "2026-09-26",
     "synonyms": [
       "欧盟AI法案",
       "美国AI监管框架",
@@ -939,7 +941,7 @@
     "tag": "White House Media Ban",
     "tag_cn": "白宫媒体禁令",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-24",
+    "last_seen": "2026-09-26",
     "synonyms": [
       "特朗普禁CNN入白宫",
       "白宫驱逐CNN",
@@ -948,10 +950,11 @@
       "MS NOW Politico banned",
       "judge restores CNN access",
       "CNN白宫通行证恢复",
-      "白宫媒体禁令解除"
+      "白宫媒体禁令解除",
+      "judge orders access restored"
     ],
-    "desc": "On Sept 18, 2026, Trump banned CNN, MS NOW and Politico from the White House over alleged fake news, with hard passes revoked on Sept 19. On Sept 22 the three outlets filed a First Amendment lawsuit against Trump; major TV networks declined to replace CNN's White House pool coverage in solidarity.",
-    "desc_cn": "特朗普禁CNN等三家媒体入白宫并吊销通行证，9月22日三家媒体起诉其违反第一修正案，各大电视网声援拒绝接替采访池。"
+    "desc": "On Sept 18, 2026, Trump banned CNN, MS NOW and Politico from the White House, revoking hard passes. The outlets sued on Sept 22. On Sept 25 a federal judge ordered immediate restoration of credentials, issuing a 14-day temporary restraining order.",
+    "desc_cn": "2026年9月18日特朗普禁CNN等三家媒体入白宫并吊销通行证，9月22日三家媒体起诉其违反第一修正案。9月25日联邦法官下令立即恢复三家媒体的采访资格，并发出14天临时限制令。"
   },
   {
     "tag_id": 59,
@@ -1298,6 +1301,18 @@
   },
   {
     "tag_id": 80,
-    "tag_cn": "智能眼镜"
+    "tag": "Smart Glasses",
+    "tag_cn": "智能眼镜",
+    "first_seen": "2026-09-24",
+    "last_seen": "2026-09-26",
+    "synonyms": [
+      "AI glasses",
+      "AR glasses",
+      "智能眼镜",
+      "AI眼镜",
+      "Ray-Ban Meta"
+    ],
+    "desc": "Smart glasses with integrated AI and audio capabilities, highlighted by Meta's September 2026 Connect announcements expanding Ray-Ban Meta Audio and AI glasses styles with EssilorLuxottica.",
+    "desc_cn": "集成AI与音频功能的智能眼镜。2026年9月Meta Connect发布与依视路陆逊梯卡合作的Ray-Ban Meta Audio及多款AI眼镜新品，为该领域重要进展。"
   }
 ]
