@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-24",
+    "last_seen": "2026-09-27",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -50,7 +50,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-09-24",
+    "last_seen": "2026-09-27",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -76,7 +76,7 @@
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-09-26",
+    "last_seen": "2026-09-27",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
@@ -85,10 +85,12 @@
       "霍尔木兹海峡通航谈判",
       "Hormuz Oman talks",
       "Hormuz reopening talks",
-      "美伊霍尔木兹谈判"
+      "美伊霍尔木兹谈判",
+      "特朗普拒绝霍尔木兹重开方案",
+      "Trump rejects Hormuz reopening"
     ],
-    "desc": "The 2026 Strait of Hormuz crisis began when Iran restricted shipping during the Iran War, disrupting global energy supplies. In late September, Iran offered a seven-day reopening plan and talks, with U.S.-Iran negotiators exploring a phased deal.",
-    "desc_cn": "2026年伊朗战争期间，伊朗封锁霍尔木兹海峡，导致国际航运受阻、全球能源供应受到严重冲击。9月下旬伊朗提出七日重启方案并恢复谈判，美伊就分阶段恢复通航展开磋商。"
+    "desc": "The 2026 Strait of Hormuz crisis began when Iran restricted shipping during the Iran War, disrupting global energy supplies. In late September, Iran proposed a seven-day reopening plan, but Trump rejected it, claiming full U.S. control of the strait as talks stalled.",
+    "desc_cn": "2026年伊朗战争期间，伊朗封锁霍尔木兹海峡，导致国际航运受阻、全球能源供应受到严重冲击。9月下旬伊朗提出七日重启方案，但特朗普拒绝该提议，称美方完全控制海峡，谈判陷入僵局。"
   },
   {
     "tag_id": 6,
@@ -718,7 +720,7 @@
     "tag": "2026 Asian Games",
     "tag_cn": "2026亚运会",
     "first_seen": "2026-06-08",
-    "last_seen": "2026-09-24",
+    "last_seen": "2026-09-27",
     "synonyms": [
       "爱知名古屋亚运会",
       "名古屋亚运会",
@@ -1162,7 +1164,7 @@
     "tag": "Hurricane Polo",
     "tag_cn": "飓风保罗",
     "first_seen": "2026-09-24",
-    "last_seen": "2026-09-25",
+    "last_seen": "2026-09-27",
     "synonyms": [
       "Mexico hurricane",
       "墨西哥飓风",
@@ -1287,7 +1289,7 @@
     "tag": "Tropical Storm Nolo",
     "tag_cn": "热带风暴诺洛",
     "first_seen": "2026-09-24",
-    "last_seen": "2026-09-25",
+    "last_seen": "2026-09-27",
     "synonyms": [
       "Hurricane Nolo",
       "Nolo Hawaii",
@@ -1314,5 +1316,22 @@
     ],
     "desc": "Smart glasses with integrated AI and audio capabilities, highlighted by Meta's September 2026 Connect announcements expanding Ray-Ban Meta Audio and AI glasses styles with EssilorLuxottica.",
     "desc_cn": "集成AI与音频功能的智能眼镜。2026年9月Meta Connect发布与依视路陆逊梯卡合作的Ray-Ban Meta Audio及多款AI眼镜新品，为该领域重要进展。"
+  },
+  {
+    "tag_id": 81,
+    "tag": "US East Coast Nor'easter",
+    "tag_cn": "美国东海岸东北风暴",
+    "first_seen": "2026-09-27",
+    "last_seen": "2026-09-27",
+    "synonyms": [
+      "东北风暴",
+      "美东风暴",
+      "九月东北风暴",
+      "Nor'easter storm",
+      "East Coast storm",
+      "September nor'easter"
+    ],
+    "desc": "A rare September nor'easter battered the U.S. East Coast on Sept 26-27, 2026, bringing damaging winds, severe coastal flooding and heavy rain from the mid-Atlantic through New England. Nearly 100,000 lost power, hundreds of flights were cancelled, and tens of millions were affected.",
+    "desc_cn": "2026年9月26-27日一场罕见的九月东北风暴猛烈袭击美国东海岸，从中大西洋至新英格兰带来强风、严重沿海洪涝与暴雨。近10万户断电，数百航班取消，数千万人受灾。"
   }
 ]
