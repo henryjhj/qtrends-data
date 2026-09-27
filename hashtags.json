@@ -20,7 +20,7 @@
     "tag": "Israel Gaza War",
     "tag_cn": "加沙战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-24",
+    "last_seen": "2026-09-28",
     "synonyms": [
       "加沙冲突",
       "以哈战争",
@@ -50,7 +50,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-09-27",
+    "last_seen": "2026-09-28",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -66,17 +66,22 @@
       "美伊重启谈判",
       "Iran UN speech",
       "伊朗联大演讲",
-      "Pezeshkian UN address"
+      "Pezeshkian UN address",
+      "伊朗捕获美国潜航器",
+      "Iran captures US underwater drone",
+      "US Iran restart talks",
+      "特朗普考虑恢复打击",
+      "Trump considers resuming strikes"
     ],
-    "desc": "The 2026 Iran War began on February 28, when the U.S. and Israel launched large-scale strikes on Iran. Iran retaliated, expanding the conflict across the Middle East. The war has affected military, nuclear and energy infrastructure.",
-    "desc_cn": "2026年2月28日，美国与以色列对伊朗发动大规模军事打击，伊朗随即反击，战争迅速扩大至中东多国。冲突涉及核设施、军事基地及能源设施，并一度引发霍尔木兹海峡航运危机。"
+    "desc": "The 2026 Iran War began Feb 28 when the U.S. and Israel struck Iran; Iran retaliated across the Middle East. In late Sept, Iran captured a U.S. underwater drone and proposed reopening Hormuz, but Trump rejected it while indicating talks may restart soon.",
+    "desc_cn": "2026年2月28日美以对伊朗发动大规模打击，伊朗反击使冲突扩大至中东。9月下旬伊朗捕获美国无人潜航器并提出重开霍尔木兹海峡方案，特朗普拒绝但表示数日内或重启谈判。"
   },
   {
     "tag_id": 5,
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-09-27",
+    "last_seen": "2026-09-28",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
@@ -87,7 +92,9 @@
       "Hormuz reopening talks",
       "美伊霍尔木兹谈判",
       "特朗普拒绝霍尔木兹重开方案",
-      "Trump rejects Hormuz reopening"
+      "Trump rejects Hormuz reopening",
+      "伊朗捕获美国潜航器",
+      "Iran captures US drone"
     ],
     "desc": "The 2026 Strait of Hormuz crisis began when Iran restricted shipping during the Iran War, disrupting global energy supplies. In late September, Iran proposed a seven-day reopening plan, but Trump rejected it, claiming full U.S. control of the strait as talks stalled.",
     "desc_cn": "2026年伊朗战争期间，伊朗封锁霍尔木兹海峡，导致国际航运受阻、全球能源供应受到严重冲击。9月下旬伊朗提出七日重启方案，但特朗普拒绝该提议，称美方完全控制海峡，谈判陷入僵局。"
@@ -849,7 +856,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-09-25",
+    "last_seen": "2026-09-28",
     "synonyms": [
       "胡塞武装进攻",
       "也门胡塞冲突",
@@ -1333,5 +1340,21 @@
     ],
     "desc": "A rare September nor'easter battered the U.S. East Coast on Sept 26-27, 2026, bringing damaging winds, severe coastal flooding and heavy rain from the mid-Atlantic through New England. Nearly 100,000 lost power, hundreds of flights were cancelled, and tens of millions were affected.",
     "desc_cn": "2026年9月26-27日一场罕见的九月东北风暴猛烈袭击美国东海岸，从中大西洋至新英格兰带来强风、严重沿海洪涝与暴雨。近10万户断电，数百航班取消，数千万人受灾。"
+  },
+  {
+    "tag_id": 82,
+    "tag": "Vucic Resigns",
+    "tag_cn": "武契奇辞职",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28",
+    "synonyms": [
+      "Serbia political shakeup",
+      "Vucic steps down",
+      "塞尔维亚政局变动",
+      "武契奇竞选总理",
+      "Vucic prime minister bid"
+    ],
+    "desc": "Serbian President Aleksandar Vucic resigned on Sept 27, 2026, to run for prime minister in October's parliamentary election. The move ends his presidency and could shift Serbia's political power structure, drawing international attention to Balkan stability.",
+    "desc_cn": "塞尔维亚总统武契奇2026年9月27日辞去总统职务，准备参加10月议会选举竞选总理。此举终结其总统任期，可能改变塞尔维亚权力结构，引发国际社会对巴尔干地区稳定的关注。"
   }
 ]
