@@ -57,23 +57,7 @@
       "美以伊冲突",
       "Iran-US war",
       "US-Israel-Iran war",
-      "伊朗战争",
-      "美对俄伊制裁法案",
-      "US Russia Iran sanctions",
-      "Lindsey Graham sanctions act",
-      "美伊核谈判",
-      "Iran nuclear talks",
-      "美伊重启谈判",
-      "Iran UN speech",
-      "伊朗联大演讲",
-      "Pezeshkian UN address",
-      "伊朗捕获美国潜航器",
-      "Iran captures US underwater drone",
-      "US Iran restart talks",
-      "特朗普考虑恢复打击",
-      "Trump considers resuming strikes",
-      "伊朗否认英基地牵连",
-      "Iran denies UK base link"
+      "伊朗战争"
     ],
     "desc": "The 2026 Iran War began Feb 28 when the U.S. and Israel struck Iran; Iran retaliated across the Middle East. In late Sept, Iran captured a U.S. underwater drone and proposed reopening Hormuz, but Trump rejected it while indicating talks may restart soon.",
     "desc_cn": "2026年2月28日美以对伊朗发动大规模打击，伊朗反击使冲突扩大至中东。9月下旬伊朗捕获美国无人潜航器并提出重开霍尔木兹海峡方案，特朗普拒绝但表示数日内或重启谈判。"
@@ -88,15 +72,7 @@
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
       "Hormuz closure",
-      "Strait of Hormuz closure",
-      "霍尔木兹海峡通航谈判",
-      "Hormuz Oman talks",
-      "Hormuz reopening talks",
-      "美伊霍尔木兹谈判",
-      "特朗普拒绝霍尔木兹重开方案",
-      "Trump rejects Hormuz reopening",
-      "伊朗捕获美国潜航器",
-      "Iran captures US drone"
+      "Strait of Hormuz closure"
     ],
     "desc": "The 2026 Strait of Hormuz crisis began when Iran restricted shipping during the Iran War, disrupting global energy supplies. In late September, Iran proposed a seven-day reopening plan, but Trump rejected it, claiming full U.S. control of the strait as talks stalled.",
     "desc_cn": "2026年伊朗战争期间，伊朗封锁霍尔木兹海峡，导致国际航运受阻、全球能源供应受到严重冲击。9月下旬伊朗提出七日重启方案，但特朗普拒绝该提议，称美方完全控制海峡，谈判陷入僵局。"
@@ -323,10 +299,7 @@
       "Bond market crash",
       "Global bond selloff",
       "Bond market rout",
-      "bond market wildfire",
-      "债市野火",
-      "UK borrowing costs surge",
-      "英国借贷成本飙升"
+      "bond market wildfire"
     ],
     "desc": "2026 global bond market selloff driven by sticky inflation, elevated rates and geopolitical risk. Sept 3: BBC economics editor described 'bond market wildfire keeping world leaders up at night'; UK PM Burnham pressed at first PMQs on surging borrowing costs.",
     "desc_cn": "2026年受黏性通胀、高利率与地缘风险冲击的全球债市大幅抛售。9月3日BBC经济主编形容债市野火令各国领导人夜不能寐，英国首相伯纳姆首次首相问答就借贷成本飙升遭激烈质询。"
@@ -1044,11 +1017,7 @@
       "美中关税战",
       "Sino-US trade war",
       "China US trade war",
-      "US-China tariffs",
-      "300亿对300亿",
-      "中美贸易理事会",
-      "China-US trade council",
-      "300 billion tariff reduction"
+      "US-China tariffs"
     ],
     "desc": "The 2026 trade conflict between the United States and China: tit-for-tat tariffs, export controls, retaliatory measures, trade negotiations, and their impact on markets, supply chains, technology firms and agriculture.",
     "desc_cn": "2026年美中两国之间的贸易冲突：互征关税、出口管制、反制措施与贸易谈判，及其对市场、供应链、科技企业与农业的影响。"
@@ -1242,21 +1211,5 @@
     ],
     "desc": "May 2026 Andes virus outbreak aboard the M/V Hondius cruise ship in the Atlantic Ocean. A passenger exposed in South America spread hantavirus pulmonary syndrome to crew and passengers from 23 countries, causing multiple deaths.",
     "desc_cn": "2026年5月大西洋M/V Hondius邮轮暴发安第斯病毒疫情，源于一名曾在南美户外活动的乘客，船上来自23国的乘客和船员感染汉坦病毒肺综合征，致多人死亡。"
-  },
-  {
-    "tag_id": 84,
-    "tag": "UK Terror Plot Arrests",
-    "tag_cn": "英国恐袭阴谋被捕",
-    "first_seen": "2026-09-29",
-    "last_seen": "2026-09-29",
-    "synonyms": [
-      "RAF Fairford arrests",
-      "UK terror suspects arrested",
-      "英国空军基地恐袭阴谋",
-      "费尔福德基地逮捕",
-      "英国反恐逮捕"
-    ],
-    "desc": "On Sept 27, 2026, five British men in their 20s were arrested near RAF Fairford, a UK airbase used by the U.S. military for strikes on Iran. Counter-terrorism police detained them on suspicion of explosives and terrorism offences, foiling an alleged plot to attack the base.",
-    "desc_cn": "2026年9月27日，5名20余岁的英国男子在美军用于打击伊朗的费尔福德皇家空军基地附近被捕，涉嫌爆炸物和恐怖主义罪行，英国反恐警方挫败了一起袭击该基地的阴谋。"
   }
 ]
