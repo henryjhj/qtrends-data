@@ -148,21 +148,6 @@
     "desc_cn": "2026年朝鲜半岛局势持续紧张。特朗普称计划年内与金正恩会面，尽管朝方否认直接沟通；朝鲜导弹试验与美韩联合军演持续进行。"
   },
   {
-    "tag_id": 10,
-    "tag": "Haiti Gang Violence",
-    "tag_cn": "海地黑帮危机",
-    "first_seen": "2025-12-31",
-    "last_seen": "2026-09-03",
-    "synonyms": [
-      "海地危机",
-      "海地帮派暴力",
-      "Haiti crisis",
-      "Haiti gang crisis"
-    ],
-    "desc": "Severe gang-dominated security and humanitarian crisis in Haiti. State authority effectively collapsed since 2024; chronic massacres, extreme food insecurity and mass displacement persist, exacerbated by tropical storm systems.",
-    "desc_cn": "海地国家权威崩溃背景下由武装帮派主导的严重安全与人道主义危机。大规模屠杀、极端粮食不安全和人口流离失所长期持续，热带风暴系统进一步加剧灾情。"
-  },
-  {
     "tag_id": 11,
     "tag": "Israel Lebanon Strikes",
     "tag_cn": "以黎冲突",
