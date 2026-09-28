@@ -50,7 +50,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-09-28",
+    "last_seen": "2026-09-29",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -71,7 +71,9 @@
       "Iran captures US underwater drone",
       "US Iran restart talks",
       "特朗普考虑恢复打击",
-      "Trump considers resuming strikes"
+      "Trump considers resuming strikes",
+      "伊朗否认英基地牵连",
+      "Iran denies UK base link"
     ],
     "desc": "The 2026 Iran War began Feb 28 when the U.S. and Israel struck Iran; Iran retaliated across the Middle East. In late Sept, Iran captured a U.S. underwater drone and proposed reopening Hormuz, but Trump rejected it while indicating talks may restart soon.",
     "desc_cn": "2026年2月28日美以对伊朗发动大规模打击，伊朗反击使冲突扩大至中东。9月下旬伊朗捕获美国无人潜航器并提出重开霍尔木兹海峡方案，特朗普拒绝但表示数日内或重启谈判。"
@@ -244,7 +246,7 @@
   },
   {
     "tag_id": 17,
-    "tag": "",
+    "tag": "India Education Reform Protest",
     "tag_cn": "印度“蟑螂运动”",
     "first_seen": "2026-07-15",
     "last_seen": "2026-07-21",
@@ -714,7 +716,7 @@
     "tag": "Super El Nino",
     "tag_cn": "超级厄尔尼诺",
     "first_seen": "2026-09-03",
-    "last_seen": "2026-09-19",
+    "last_seen": "2026-09-29",
     "synonyms": [
       "超强厄尔尼诺",
       "东南亚雾霾",
@@ -726,7 +728,7 @@
   },
   {
     "tag_id": 49,
-    "tag": "",
+    "tag": "Germany Far-right Rise",
     "tag_cn": "德国极右翼崛起",
     "first_seen": "2026-09-07",
     "last_seen": "2026-09-24",
@@ -808,7 +810,7 @@
       "Houthi attack Saudi base",
       "胡塞袭击利雅得",
       "Houthi attack Riyadh",
-      "胡塞袭击沙特首都",
+      "胡塞袭击沙特首都"
     ],
     "desc": "In Sept 2026, Yemen's Houthi movement captured Red Sea port Mocha and Perim Island, controlling Yemen's entire Red Sea coast. Houthis fired missiles/drones at Saudi capital Riyadh and Yanbu energy hub Sept 19-20 (first direct strike on Riyadh) and again Sept 24. France's Macron announced troops, radars, defense systems to protect Yanbu oil facilities; Brent crude topped $100/bbl.",
     "desc_cn": "2026年9月也门胡塞武装攻占红海港口摩卡及丕林岛，控制也门红海沿岸。胡塞9月19-20日及24日多次袭击沙特利雅得、延布阿美设施和吉赞军事目标，系首次袭击沙特首都。法国马克龙宣布派兵保护延布石油设施；布伦特原油破百美元。"
@@ -1036,13 +1038,17 @@
     "tag": "US China Trade War",
     "tag_cn": "美中贸易战",
     "first_seen": "2026-09-23",
-    "last_seen": "2026-09-23",
+    "last_seen": "2026-09-29",
     "synonyms": [
       "中美贸易战",
       "美中关税战",
       "Sino-US trade war",
       "China US trade war",
-      "US-China tariffs"
+      "US-China tariffs",
+      "300亿对300亿",
+      "中美贸易理事会",
+      "China-US trade council",
+      "300 billion tariff reduction"
     ],
     "desc": "The 2026 trade conflict between the United States and China: tit-for-tat tariffs, export controls, retaliatory measures, trade negotiations, and their impact on markets, supply chains, technology firms and agriculture.",
     "desc_cn": "2026年美中两国之间的贸易冲突：互征关税、出口管制、反制措施与贸易谈判，及其对市场、供应链、科技企业与农业的影响。"
@@ -1224,6 +1230,33 @@
   },
   {
     "tag_id": 83,
-    "tag_cn": "邮轮汉坦病毒疫情"
+    "tag_cn": "邮轮汉坦病毒疫情",
+    "tag": "Cruise Ship Hantavirus Outbreak",
+    "first_seen": "2026-05-02",
+    "last_seen": "2026-05-12",
+    "synonyms": [
+      "邮轮汉坦病毒",
+      "Andes virus outbreak",
+      "MV Hondius outbreak",
+      "汉坦病毒疫情"
+    ],
+    "desc": "May 2026 Andes virus outbreak aboard the M/V Hondius cruise ship in the Atlantic Ocean. A passenger exposed in South America spread hantavirus pulmonary syndrome to crew and passengers from 23 countries, causing multiple deaths.",
+    "desc_cn": "2026年5月大西洋M/V Hondius邮轮暴发安第斯病毒疫情，源于一名曾在南美户外活动的乘客，船上来自23国的乘客和船员感染汉坦病毒肺综合征，致多人死亡。"
+  },
+  {
+    "tag_id": 84,
+    "tag": "UK Terror Plot Arrests",
+    "tag_cn": "英国恐袭阴谋被捕",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29",
+    "synonyms": [
+      "RAF Fairford arrests",
+      "UK terror suspects arrested",
+      "英国空军基地恐袭阴谋",
+      "费尔福德基地逮捕",
+      "英国反恐逮捕"
+    ],
+    "desc": "On Sept 27, 2026, five British men in their 20s were arrested near RAF Fairford, a UK airbase used by the U.S. military for strikes on Iran. Counter-terrorism police detained them on suspicion of explosives and terrorism offences, foiling an alleged plot to attack the base.",
+    "desc_cn": "2026年9月27日，5名20余岁的英国男子在美军用于打击伊朗的费尔福德皇家空军基地附近被捕，涉嫌爆炸物和恐怖主义罪行，英国反恐警方挫败了一起袭击该基地的阴谋。"
   }
 ]
