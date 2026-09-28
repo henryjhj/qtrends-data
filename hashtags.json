@@ -1025,21 +1025,6 @@
     "desc_cn": "2026年中美在AI领域的战略竞争，涵盖基础模型、芯片、算力、军事应用与监管。中国DeepSeek开启廉价前沿模型时代，美国在顶尖模型与芯片制造上保持领先并限制中国获取先进芯片。"
   },
   {
-    "tag_id": 66,
-    "tag": "Japan Typhoon Dujuan",
-    "tag_cn": "日本台风杜鹃",
-    "first_seen": "2026-09-22",
-    "last_seen": "2026-09-22",
-    "synonyms": [
-      "台风杜鹃",
-      "日本台风",
-      "Typhoon Dujuan Japan",
-      "Dujuan typhoon"
-    ],
-    "desc": "Typhoon Dujuan, Japan's 25th typhoon of 2026, battered eastern Japan on Sept 21-22, triggering landslides that killed at least 4 people and left several missing; nearly 2 million people were placed under evacuation orders across the Kanto region.",
-    "desc_cn": "2026年第25号台风杜鹃9月21-22日袭击日本关东地区，引发山体滑坡，造成至少4人死亡、数人失联，近200万人被下令疏散。"
-  },
-  {
     "tag_id": 67,
     "tag": "T20 Cricket World Cup",
     "tag_cn": "T20板球世界杯",
@@ -1105,21 +1090,6 @@
     ],
     "desc": "Meetings and summits between U.S. President Donald Trump and Chinese President Xi Jinping in 2026, covering trade agreements, tariff negotiations and other bilateral outcomes reached at the summits.",
     "desc_cn": "2026年美国总统特朗普与中国国家主席习近平之间的会晤与峰会，涉及贸易协议、关税谈判及峰会达成的双边成果。"
-  },
-  {
-    "tag_id": 71,
-    "tag": "Hurricane Polo",
-    "tag_cn": "飓风保罗",
-    "first_seen": "2026-09-24",
-    "last_seen": "2026-09-27",
-    "synonyms": [
-      "Mexico hurricane",
-      "墨西哥飓风",
-      "Category 5 hurricane",
-      "五级飓风"
-    ],
-    "desc": "Hurricane Polo intensified to a rare Category 5 storm off Mexico's Pacific coast in late September 2026, with maximum sustained winds of 180 mph. It threatened Guerrero and Michoacán with life-threatening flooding and mudslides, causing coastal damage and supply chain disruptions.",
-    "desc_cn": "2026年9月下旬飓风保罗在墨西哥太平洋沿岸增强为罕见的五级飓风，持续风速达每小时180英里，威胁格雷罗州和米却肯州，引发洪涝和泥石流风险，造成沿海损毁及供应链中断。"
   },
   {
     "tag_id": 72,
@@ -1232,23 +1202,6 @@
     "desc_cn": "AI智能体是能够感知、推理并自主行动以完成目标的软件系统。2026年OpenAI、Anthropic、DeepSeek等模型推动智能体能力快速发展，在提升生产力的同时，因其访问外部系统也引发安全担忧。"
   },
   {
-    "tag_id": 79,
-    "tag": "Tropical Storm Nolo",
-    "tag_cn": "热带风暴诺洛",
-    "first_seen": "2026-09-24",
-    "last_seen": "2026-09-27",
-    "synonyms": [
-      "Hurricane Nolo",
-      "Nolo Hawaii",
-      "诺洛夏威夷",
-      "热带风暴诺洛",
-      "Hurricane Watch Hawaii",
-      "夏威夷飓风警报"
-    ],
-    "desc": "Tropical Storm Nolo formed in the Central Pacific in late Sept 2026, triggering a hurricane watch for Hawaii. Forecast to strengthen into a hurricane and possibly a major hurricane near the islands, bringing dangerous winds, surf and flooding.",
-    "desc_cn": "2026年9月下旬热带风暴诺洛在中太平洋生成，引发夏威夷飓风警报。预计将增强为飓风乃至强飓风并逼近夏威夷群岛，带来强风、巨浪与洪涝风险。"
-  },
-  {
     "tag_id": 80,
     "tag": "Smart Glasses",
     "tag_cn": "智能眼镜",
@@ -1263,23 +1216,6 @@
     ],
     "desc": "Smart glasses with integrated AI and audio capabilities, highlighted by Meta's September 2026 Connect announcements expanding Ray-Ban Meta Audio and AI glasses styles with EssilorLuxottica.",
     "desc_cn": "集成AI与音频功能的智能眼镜。2026年9月Meta Connect发布与依视路陆逊梯卡合作的Ray-Ban Meta Audio及多款AI眼镜新品，为该领域重要进展。"
-  },
-  {
-    "tag_id": 81,
-    "tag": "US Northeast Storm",
-    "tag_cn": "美国东北风暴",
-    "first_seen": "2026-09-27",
-    "last_seen": "2026-09-27",
-    "synonyms": [
-      "东北风暴",
-      "美东风暴",
-      "九月东北风暴",
-      "Nor'easter storm",
-      "East Coast storm",
-      "September nor'easter"
-    ],
-    "desc": "A rare September nor'easter battered the U.S. East Coast on Sept 26-27, 2026, bringing damaging winds, severe coastal flooding and heavy rain from the mid-Atlantic through New England. Nearly 100,000 lost power, hundreds of flights were cancelled, and tens of millions were affected.",
-    "desc_cn": "2026年9月26-27日一场罕见的九月东北风暴猛烈袭击美国东海岸，从中大西洋至新英格兰带来强风、严重沿海洪涝与暴雨。近10万户断电，数百航班取消，数千万人受灾。"
   },
   {
     "tag_id": 82,
