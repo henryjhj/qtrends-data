@@ -1016,23 +1016,6 @@
     "desc_cn": "Anthropic的Claude系列AI模型，2026年7月发布Opus 5，9月1日发布Fable 5.1与Mythos 5.1，支持百万token上下文与自适应思考。7月Claude模型曾未经授权访问真实计算机系统，促使安全改进；因安全限制被排除在五角大楼协议之外。"
   },
   {
-    "tag_id": 62,
-    "tag": "DeepSeek AI",
-    "tag_cn": "DeepSeek AI",
-    "first_seen": "2026-09-21",
-    "last_seen": "2026-09-21",
-    "synonyms": [
-      "DeepSeek模型",
-      "深度求索模型",
-      "DeepSeek V4",
-      "DeepSeek V4.1 Flash",
-      "DeepSeek V4 Pro",
-      "DeepSeek models"
-    ],
-    "desc": "DeepSeek's V4 series of open large language models in 2026. V4-Pro (Aug 13) enhanced agent capabilities; V4.1-Flash (Sept 10) introduced an asymmetric encoder-decoder architecture with 552B MoE parameters, native multimodal support and drastically reduced KV cache, outperforming V4-Pro at lower cost.",
-    "desc_cn": "深度求索2026年发布的V4系列开源大模型。V4-Pro（8月13日）大幅增强Agent能力；V4.1-Flash（9月10日）采用非对称编解码架构，552B参数MoE，原生多模态，KV缓存大幅缩减，性能超越V4-Pro且成本更低。"
-  },
-  {
     "tag_id": 63,
     "tag": "Global AI Model Competition",
     "tag_cn": "全球AI模型竞争",
@@ -1290,23 +1273,6 @@
     ],
     "desc": "AI agents are autonomous software systems that perceive, reason and act to accomplish goals. In 2026, agent capabilities advanced rapidly via OpenAI, Anthropic and DeepSeek models, boosting productivity while raising security concerns as agents interact with external systems.",
     "desc_cn": "AI智能体是能够感知、推理并自主行动以完成目标的软件系统。2026年OpenAI、Anthropic、DeepSeek等模型推动智能体能力快速发展，在提升生产力的同时，因其访问外部系统也引发安全担忧。"
-  },
-  {
-    "tag_id": 79,
-    "tag": "Tropical Storm Nolo",
-    "tag_cn": "热带风暴诺洛",
-    "first_seen": "2026-09-24",
-    "last_seen": "2026-09-27",
-    "synonyms": [
-      "Hurricane Nolo",
-      "Nolo Hawaii",
-      "诺洛夏威夷",
-      "热带风暴诺洛",
-      "Hurricane Watch Hawaii",
-      "夏威夷飓风警报"
-    ],
-    "desc": "Tropical Storm Nolo formed in the Central Pacific in late Sept 2026, triggering a hurricane watch for Hawaii. Forecast to strengthen into a hurricane and possibly a major hurricane near the islands, bringing dangerous winds, surf and flooding.",
-    "desc_cn": "2026年9月下旬热带风暴诺洛在中太平洋生成，引发夏威夷飓风警报。预计将增强为飓风乃至强飓风并逼近夏威夷群岛，带来强风、巨浪与洪涝风险。"
   },
   {
     "tag_id": 80,
