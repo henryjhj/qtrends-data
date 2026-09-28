@@ -148,21 +148,6 @@
     "desc_cn": "2026年朝鲜半岛局势持续紧张。特朗普称计划年内与金正恩会面，尽管朝方否认直接沟通；朝鲜导弹试验与美韩联合军演持续进行。"
   },
   {
-    "tag_id": 9,
-    "tag": "Myanmar Crisis",
-    "tag_cn": "缅甸危机",
-    "first_seen": "2025-12-31",
-    "last_seen": "2026-02-01",
-    "synonyms": [
-      "缅甸冲突",
-      "缅甸军事政变危机",
-      "Myanmar conflict",
-      "Burma crisis"
-    ],
-    "desc": "Political and military crisis following the Feb 2021 Myanmar coup, escalating into a multi-front civil war. 2026 military-organized elections were widely rejected, intensifying nationwide violence.",
-    "desc_cn": "2021年2月缅甸军方政变后陷入全面政治与军事危机，演变为多阵线内战。2026年军政府举行的选举遭广泛抵制，全国暴力升级。"
-  },
-  {
     "tag_id": 10,
     "tag": "Haiti Gang Violence",
     "tag_cn": "海地黑帮危机",
