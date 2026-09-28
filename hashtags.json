@@ -244,8 +244,8 @@
   },
   {
     "tag_id": 17,
-    "tag": "India Education Protests",
-    "tag_cn": "印度教育抗议",
+    "tag": "",
+    "tag_cn": "印度“蟑螂运动”",
     "first_seen": "2026-07-15",
     "last_seen": "2026-07-21",
     "synonyms": [
@@ -413,8 +413,8 @@
   },
   {
     "tag_id": 27,
-    "tag": "Crypto Bull Market",
-    "tag_cn": "加密货币牛市",
+    "tag": "Crypto Market",
+    "tag_cn": "加密货币市场",
     "first_seen": "2026-01-01",
     "last_seen": "2026-09-03",
     "synonyms": [
@@ -603,8 +603,8 @@
   },
   {
     "tag_id": 40,
-    "tag": "SCO Bishkek Summit",
-    "tag_cn": "上合组织比什凯克峰会",
+    "tag": "SCO Summit",
+    "tag_cn": "上合组织峰会",
     "first_seen": "2026-09-01",
     "last_seen": "2026-09-03",
     "synonyms": [
@@ -711,8 +711,8 @@
   },
   {
     "tag_id": 48,
-    "tag": "Super El Nino Wildfire Haze",
-    "tag_cn": "超级厄尔尼诺野火雾霾",
+    "tag": "Super El Nino",
+    "tag_cn": "超级厄尔尼诺",
     "first_seen": "2026-09-03",
     "last_seen": "2026-09-19",
     "synonyms": [
@@ -726,8 +726,8 @@
   },
   {
     "tag_id": 49,
-    "tag": "Germany AfD Election Win",
-    "tag_cn": "德国选择党胜选",
+    "tag": "",
+    "tag_cn": "德国极右翼崛起",
     "first_seen": "2026-09-07",
     "last_seen": "2026-09-24",
     "synonyms": [
@@ -799,27 +799,16 @@
     "last_seen": "2026-09-28",
     "synonyms": [
       "胡塞武装进攻",
-      "也门胡塞冲突",
       "红海航运危机",
       "胡塞攻占丕林岛",
       "Houthi Red Sea offensive",
       "Yemen Houthi conflict",
       "Red Sea shipping crisis",
-      "Perim Island",
-      "Bab al-Mandeb Strait",
       "胡塞袭击沙特军事基地",
       "Houthi attack Saudi base",
       "胡塞袭击利雅得",
       "Houthi attack Riyadh",
       "胡塞袭击沙特首都",
-      "法国派兵保护沙特",
-      "马克龙派兵沙特",
-      "France protects Yanbu",
-      "Macron troops Saudi",
-      "胡塞袭击吉赞",
-      "Houthi attack Jizan",
-      "French defense systems Yanbu",
-      "胡塞9月24日袭击"
     ],
     "desc": "In Sept 2026, Yemen's Houthi movement captured Red Sea port Mocha and Perim Island, controlling Yemen's entire Red Sea coast. Houthis fired missiles/drones at Saudi capital Riyadh and Yanbu energy hub Sept 19-20 (first direct strike on Riyadh) and again Sept 24. France's Macron announced troops, radars, defense systems to protect Yanbu oil facilities; Brent crude topped $100/bbl.",
     "desc_cn": "2026年9月也门胡塞武装攻占红海港口摩卡及丕林岛，控制也门红海沿岸。胡塞9月19-20日及24日多次袭击沙特利雅得、延布阿美设施和吉赞军事目标，系首次袭击沙特首都。法国马克龙宣布派兵保护延布石油设施；布伦特原油破百美元。"
