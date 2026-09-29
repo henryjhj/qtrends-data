@@ -1195,20 +1195,5 @@
     ],
     "desc": "May 2026 Andes virus outbreak aboard the M/V Hondius cruise ship in the Atlantic Ocean. A passenger exposed in South America spread hantavirus pulmonary syndrome to crew and passengers from 23 countries, causing multiple deaths.",
     "desc_cn": "2026年5月大西洋M/V Hondius邮轮暴发安第斯病毒疫情，源于一名曾在南美户外活动的乘客，船上来自23国的乘客和船员感染汉坦病毒肺综合征，致多人死亡。"
-  },
-  {
-    "tag_id": 84,
-    "tag": "OpenAI Safety Pause",
-    "tag_cn": "OpenAI安全暂停",
-    "first_seen": "2026-09-30",
-    "last_seen": "2026-09-30",
-    "synonyms": [
-      "OpenAI暂停发布模型",
-      "OpenAI model halt",
-      "OpenAI safety halt",
-      "OpenAI暂停新模型"
-    ],
-    "desc": "OpenAI announced on September 30, 2026, that it would pause the release of new AI models due to unresolved safety concerns, sparking global debate over AI development guardrails and corporate responsibility.",
-    "desc_cn": "OpenAI于2026年9月30日宣布因安全问题暂停发布新AI模型，引发全球对AI发展安全护栏与企业责任的广泛讨论。"
   }
 ]
