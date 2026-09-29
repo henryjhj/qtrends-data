@@ -50,7 +50,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-09-29",
+    "last_seen": "2026-09-30",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -59,8 +59,8 @@
       "US-Israel-Iran war",
       "伊朗战争"
     ],
-    "desc": "The 2026 Iran War began Feb 28 when the U.S. and Israel struck Iran; Iran retaliated across the Middle East. In late Sept, Iran captured a U.S. underwater drone and proposed reopening Hormuz, but Trump rejected it while indicating talks may restart soon.",
-    "desc_cn": "2026年2月28日美以对伊朗发动大规模打击，伊朗反击使冲突扩大至中东。9月下旬伊朗捕获美国无人潜航器并提出重开霍尔木兹海峡方案，特朗普拒绝但表示数日内或重启谈判。"
+    "desc": "The 2026 Iran War began Feb 28 when the U.S. and Israel struck Iran; Iran retaliated across the Middle East. In late Sept, Iran captured a U.S. underwater drone and proposed reopening Hormuz, but Trump rejected it. By Sept 30 the sides exchanged messages via mediators while keeping military options open.",
+    "desc_cn": "2026年2月28日美以对伊朗发动大规模打击，伊朗反击使冲突扩大至中东。9月下旬伊朗捕获美国无人潜航器并提出重开霍尔木兹海峡方案，特朗普拒绝。9月30日双方通过调解方交换信息，但均保留军事选项。"
   },
   {
     "tag_id": 5,
@@ -657,7 +657,7 @@
     "tag": "2026 Asian Games",
     "tag_cn": "2026亚运会",
     "first_seen": "2026-06-08",
-    "last_seen": "2026-09-27",
+    "last_seen": "2026-09-30",
     "synonyms": [
       "爱知名古屋亚运会",
       "名古屋亚运会",
@@ -720,7 +720,7 @@
     "tag": "US Canada Trade War",
     "tag_cn": "美加贸易战",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-09-17",
+    "last_seen": "2026-09-30",
     "synonyms": [
       "加拿大反制关税",
       "加拿大关税反击",
@@ -729,8 +729,8 @@
       "US-Canada trade war",
       "加拿大对美加征关税"
     ],
-    "desc": "2026 US-Canada trade war escalation. After the US imposed 50% tariffs on $20B of Canadian goods and talks collapsed on Aug 21, Canada imposed retaliatory tariffs up to 50% on $20B of US goods including steel, aluminum, dairy and apparel on Sept 8, targeting Trump swing states.",
-    "desc_cn": "2026年美加贸易战升级。美国对200亿加元商品加征50%关税且8月21日谈判破裂后，加拿大9月8日对钢铁、铝、乳制品、服装等200亿美元美国商品加征最高50%反制关税，精准打击特朗普摇摆州。"
+    "desc": "2026 US-Canada trade war escalation. After the US imposed 50% tariffs on $20B of Canadian goods and talks collapsed on Aug 21, Canada retaliated on Sept 8. On Sept 29 the US implemented an import ban on ~$967M of Canadian alcohol, dairy and motorcycles.",
+    "desc_cn": "2026年美加贸易战升级。8月21日谈判破裂后，加拿大9月8日对200亿美元美国商品加征最高50%反制关税；9月29日美国对约9.67亿美元加拿大酒类、乳制品和摩托车实施进口禁令。"
   },
   {
     "tag_id": 51,
@@ -771,7 +771,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-09-28",
+    "last_seen": "2026-09-30",
     "synonyms": [
       "胡塞武装进攻",
       "红海航运危机",
@@ -785,8 +785,8 @@
       "Houthi attack Riyadh",
       "胡塞袭击沙特首都"
     ],
-    "desc": "In Sept 2026, Yemen's Houthi movement captured Red Sea port Mocha and Perim Island, controlling Yemen's entire Red Sea coast. Houthis fired missiles/drones at Saudi capital Riyadh and Yanbu energy hub Sept 19-20 (first direct strike on Riyadh) and again Sept 24. France's Macron announced troops, radars, defense systems to protect Yanbu oil facilities; Brent crude topped $100/bbl.",
-    "desc_cn": "2026年9月也门胡塞武装攻占红海港口摩卡及丕林岛，控制也门红海沿岸。胡塞9月19-20日及24日多次袭击沙特利雅得、延布阿美设施和吉赞军事目标，系首次袭击沙特首都。法国马克龙宣布派兵保护延布石油设施；布伦特原油破百美元。"
+    "desc": "In Sept 2026, Yemen's Houthi movement captured Red Sea port Mocha and Perim Island, controlling Yemen's entire Red Sea coast. Houthis fired missiles/drones at Saudi capital Riyadh and Yanbu energy hub Sept 19-20 (first direct strike on Riyadh) and again Sept 24. France's Macron announced troops, radars, defense systems to protect Yanbu oil facilities; Brent crude topped $100/bbl. Saudi launched retaliatory airstrikes on Sept 29.",
+    "desc_cn": "2026年9月也门胡塞武装攻占红海港口摩卡及丕林岛，控制也门红海沿岸。胡塞9月19-20日及24日多次袭击沙特利雅得、延布阿美设施和吉赞军事目标，系首次袭击沙特首都。法国马克龙宣布派兵保护延布石油设施；布伦特原油破百美元。9月29日沙特发动报复性空袭反击。"
   },
   {
     "tag_id": 54,
@@ -1089,8 +1089,8 @@
   },
   {
     "tag_id": 74,
-    "tag_cn": "宇树机器人",
     "tag": "Unitree Robots",
+    "tag_cn": "宇树机器人",
     "first_seen": "2026-09-24",
     "last_seen": "2026-09-24",
     "synonyms": [
@@ -1105,8 +1105,8 @@
   },
   {
     "tag_id": 75,
-    "tag_cn": "特斯拉机器人",
     "tag": "Tesla Robots",
+    "tag_cn": "特斯拉机器人",
     "first_seen": "2026-09-24",
     "last_seen": "2026-09-24",
     "synonyms": [
@@ -1120,8 +1120,8 @@
   },
   {
     "tag_id": 76,
-    "tag_cn": "新能源",
     "tag": "New Energy",
+    "tag_cn": "新能源",
     "first_seen": "2026-09-24",
     "last_seen": "2026-09-24",
     "synonyms": [
@@ -1136,8 +1136,8 @@
   },
   {
     "tag_id": 77,
-    "tag_cn": "电动汽车",
     "tag": "Electric Vehicles",
+    "tag_cn": "电动汽车",
     "first_seen": "2026-09-24",
     "last_seen": "2026-09-24",
     "synonyms": [
@@ -1183,8 +1183,8 @@
   },
   {
     "tag_id": 83,
-    "tag_cn": "邮轮汉坦病毒疫情",
     "tag": "Cruise Hantavirus Outbreak",
+    "tag_cn": "邮轮汉坦病毒疫情",
     "first_seen": "2026-05-02",
     "last_seen": "2026-05-12",
     "synonyms": [
@@ -1195,5 +1195,20 @@
     ],
     "desc": "May 2026 Andes virus outbreak aboard the M/V Hondius cruise ship in the Atlantic Ocean. A passenger exposed in South America spread hantavirus pulmonary syndrome to crew and passengers from 23 countries, causing multiple deaths.",
     "desc_cn": "2026年5月大西洋M/V Hondius邮轮暴发安第斯病毒疫情，源于一名曾在南美户外活动的乘客，船上来自23国的乘客和船员感染汉坦病毒肺综合征，致多人死亡。"
+  },
+  {
+    "tag_id": 84,
+    "tag": "OpenAI Safety Pause",
+    "tag_cn": "OpenAI安全暂停",
+    "first_seen": "2026-09-30",
+    "last_seen": "2026-09-30",
+    "synonyms": [
+      "OpenAI暂停发布模型",
+      "OpenAI model halt",
+      "OpenAI safety halt",
+      "OpenAI暂停新模型"
+    ],
+    "desc": "OpenAI announced on September 30, 2026, that it would pause the release of new AI models due to unresolved safety concerns, sparking global debate over AI development guardrails and corporate responsibility.",
+    "desc_cn": "OpenAI于2026年9月30日宣布因安全问题暂停发布新AI模型，引发全球对AI发展安全护栏与企业责任的广泛讨论。"
   }
 ]
