@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-27",
+    "last_seen": "2026-10-01",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -50,7 +50,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-09-30",
+    "last_seen": "2026-10-01",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -460,7 +460,7 @@
     "tag": "Global AI Regulation",
     "tag_cn": "全球AI监管",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-26",
+    "last_seen": "2026-10-01",
     "synonyms": [
       "欧盟AI法案",
       "美国AI监管框架",
@@ -657,7 +657,7 @@
     "tag": "2026 Asian Games",
     "tag_cn": "2026亚运会",
     "first_seen": "2026-06-08",
-    "last_seen": "2026-09-30",
+    "last_seen": "2026-10-01",
     "synonyms": [
       "爱知名古屋亚运会",
       "名古屋亚运会",
@@ -1195,5 +1195,22 @@
     ],
     "desc": "May 2026 Andes virus outbreak aboard the M/V Hondius cruise ship in the Atlantic Ocean. A passenger exposed in South America spread hantavirus pulmonary syndrome to crew and passengers from 23 countries, causing multiple deaths.",
     "desc_cn": "2026年5月大西洋M/V Hondius邮轮暴发安第斯病毒疫情，源于一名曾在南美户外活动的乘客，船上来自23国的乘客和船员感染汉坦病毒肺综合征，致多人死亡。"
+  },
+  {
+    "tag_id": 84,
+    "tag": "Flydubai Cockpit Stabbing",
+    "tag_cn": "迪拜航空驾驶舱袭击",
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-01",
+    "synonyms": [
+      "迪拜航空劫机未遂",
+      "迪拜航空塔布克迫降",
+      "Flydubai FZ1073 stabbing",
+      "Flydubai cockpit attack",
+      "迪拜航空副驾驶刺伤机长",
+      "迪拜航空蓄意坠机"
+    ],
+    "desc": "On Sept 30, 2026, Flydubai FZ1073 (Dubai–Tel Aviv) diverted to Saudi Tabuk after the Omani co-pilot stabbed the captain and tried to crash the plane. Passengers subdued the attacker; all 174 aboard survived. Netanyahu called it a 9/11-style attempt.",
+    "desc_cn": "2026年9月30日迪拜航空FZ1073由迪拜飞特拉维夫途中，阿曼籍副驾驶刺伤阿联酋籍机长并蓄意坠机。机组与乘客制服袭击者，飞机紧急迫降沙特塔布克机场，174人全部生还。内塔尼亚胡称系蓄意重演9·11。"
   }
 ]
