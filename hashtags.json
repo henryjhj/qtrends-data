@@ -622,7 +622,7 @@
   {
     "tag_id": 43,
     "tag": "FIFA World Cup",
-    "tag_cn": "足球世界杯",
+    "tag_cn": "国际足联世界杯",
     "first_seen": "2025-12-31",
     "last_seen": "2026-07-19",
     "synonyms": [
@@ -1308,7 +1308,7 @@
   },
   {
     "tag_id": 93,
-    "tag": "UEFA Euro",
+    "tag": "European Championship",
     "tag_cn": "欧洲杯",
     "first_seen": "2025-12-31",
     "last_seen": "2026-09-26",
