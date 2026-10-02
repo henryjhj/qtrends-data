@@ -608,30 +608,34 @@
   },
   {
     "tag_id": 42,
-    "tag": "Winter Olympics",
-    "tag_cn": "冬奥会",
-    "first_seen": "2025-12-31",
+    "tag": "Milano Cortina Olympics",
+    "tag_cn": "米兰冬奥会",
+    "first_seen": "2026-02-06",
     "last_seen": "2026-02-22",
     "synonyms": [
-      "冬季奥运会",
-      "Winter Olympic Games"
+      "2026冬奥会",
+      "科尔蒂纳冬奥会",
+      "2026 Winter Olympics",
+      "Milano Cortina 2026"
     ],
-    "desc": "The world's premier multi-sport winter event, held every four years, featuring elite athletes competing in skiing, ice hockey, figure skating and other winter sports.",
-    "desc_cn": "全球最高级别的综合性冬季体育赛事，每四年举办一次，涵盖滑雪、冰球、花样滑冰、速度滑冰等项目，汇集各国顶尖冬季运动员。"
+    "desc": "The XXV Olympic Winter Games, jointly hosted by Milan and Cortina d'Ampezzo, Italy, Feb 6–22, 2026. Eight sports and 116 events; first Italian Winter Olympics since 2006.",
+    "desc_cn": "第25届冬季奥林匹克运动会，由意大利米兰与科尔蒂纳丹佩佐联合举办，设8大项116小项，为意大利2006年都灵冬奥后再度主办冬季奥运会。"
   },
   {
     "tag_id": 43,
-    "tag": "FIFA World Cup",
-    "tag_cn": "足球世界杯",
-    "first_seen": "2025-12-31",
+    "tag": "2026 World Cup",
+    "tag_cn": "2026世界杯",
+    "first_seen": "2026-06-11",
     "last_seen": "2026-07-19",
     "synonyms": [
-      "FIFA世界杯",
-      "世界杯",
-      "World Cup"
+      "世界杯2026",
+      "美加墨世界杯",
+      "World Cup 2026",
+      "FIFA World Cup 2026",
+      "2026 FIFA World Cup"
     ],
-    "desc": "The premier international men's football tournament, held every four years, bringing together national teams from around the world to compete for the most widely recognized title in football.",
-    "desc_cn": "全球最高水平的男子国家队足球赛事，每四年举办一次，汇集各大洲顶尖球队，拥有庞大的国际观众群体，是足球运动最具代表性的赛事。"
+    "desc": "The 23rd FIFA World Cup, co-hosted by the United States, Mexico and Canada, June 11 – July 19, 2026. First 48-team format; matches played across 16 cities in three countries.",
+    "desc_cn": "第23届国际足联世界杯，由美、墨、加三国联合举办，首次扩军至48支球队，横跨三国16座主办城市。西班牙获得冠军，阿根廷获得亚军。"
   },
   {
     "tag_id": 44,
@@ -655,15 +659,20 @@
   },
   {
     "tag_id": 45,
-    "tag": "Asian Games",
-    "tag_cn": "亚运会",
-    "first_seen": "2025-12-31",
-    "last_seen": "2026-10-02",
+    "tag": "2026 Asian Games",
+    "tag_cn": "2026亚运会",
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-10-01",
     "synonyms": [
-      "亚洲运动会"
+      "爱知名古屋亚运会",
+      "名古屋亚运会",
+      "爱知亚运会",
+      "Asian Games Nagoya",
+      "Aichi Asian Games",
+      "Aichi-Nagoya Asian Games"
     ],
-    "desc": "Asia's largest multi-sport event, held every four years, bringing together athletes from across the continent to compete in Olympic and regional sports and promoting international sporting and cultural exchange.",
-    "desc_cn": "亚洲规模最大的综合性体育赛事，每四年举办一次，汇集亚洲各国家和地区的运动员，涵盖奥运项目及亚洲特色运动，促进区域体育交流与文化联系。"
+    "desc": "The 20th Asian Games, scheduled for Sept 19 – Oct 4, 2026 in Aichi Prefecture and Nagoya, Japan. Asia's largest multi-sport event featuring 40 sports across multiple venues; preparation coverage intensified in early September.",
+    "desc_cn": "第20届亚洲运动会，于2026年9月19日至10月4日在日本爱知县与名古屋市联合举办，为亚洲最大规模综合体育赛事，设40个大项，9月上旬筹备与预热报道密集升温。"
   },
   {
     "tag_id": 47,
@@ -985,21 +994,22 @@
     "desc_cn": "2026年中美在AI领域的战略竞争，涵盖基础模型、芯片、算力、军事应用与监管。中国DeepSeek开启廉价前沿模型时代，美国在顶尖模型与芯片制造上保持领先并限制中国获取先进芯片。"
   },
   {
-  "tag_id": 67,
-  "tag": "Cricket World Cups",
-  "tag_cn": "板球世界杯",
-  "synonyms": [
-    "T20板球世界杯",
-    "单日制板球世界杯",
-    "50回合制板球世界杯",
-    "T20 World Cup",
-    "ICC Cricket World Cup",
-    "ICC T20 World Cup"
-  ],
-  "first_seen": "2025-12-31",
-  "last_seen": "2026-10-01",
-  "desc": "The major ICC international cricket World Cups, covering the 50-over Cricket World Cup and T20 World Cup for men and women. They bring together leading national teams and attract large audiences worldwide.",
-  "desc_cn": "国际板球理事会旗下主要世界杯赛事，涵盖男女50回合制和T20世界杯，汇集各国顶尖国家队，在全球尤其板球流行地区拥有广泛影响力。"
+    "tag_id": 67,
+    "tag": "T20 Cricket World Cup",
+    "tag_cn": "T20板球世界杯",
+    "first_seen": "2026-09-23",
+    "last_seen": "2026-09-23",
+    "synonyms": [
+      "T20世界杯",
+      "板球世界杯",
+      "2026 T20 World Cup",
+      "ICC Men's T20 World Cup",
+      "ICC Women's T20 World Cup",
+      "Women's T20 World Cup 2026",
+      "T20 Cricket World Cup 2026"
+    ],
+    "desc": "ICC T20 Cricket World Cup coverage, including the men's and women's tournaments: team guides, fixtures, results, standings and live match reports. Australia beat England in the 2026 Women's T20 World Cup final to claim their seventh title.",
+    "desc_cn": "国际板球理事会（ICC）T20板球世界杯报道，涵盖男子与女子赛事的球队巡礼、赛程、赛果、积分榜与实时战报。2026年女子T20世界杯决赛中澳大利亚击败英格兰，第七次夺冠。"
   },
   {
     "tag_id": 68,
