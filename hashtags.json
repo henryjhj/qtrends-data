@@ -608,66 +608,62 @@
   },
   {
     "tag_id": 42,
-    "tag": "Milano Cortina Olympics",
-    "tag_cn": "米兰冬奥会",
-    "first_seen": "2026-02-06",
+    "tag": "Winter Olympics",
+    "tag_cn": "冬奥会",
+    "first_seen": "2025-12-31",
     "last_seen": "2026-02-22",
     "synonyms": [
-      "2026冬奥会",
-      "科尔蒂纳冬奥会",
-      "2026 Winter Olympics",
-      "Milano Cortina 2026"
+      "冬季奥运会",
+      "Winter Olympic Games"
     ],
-    "desc": "The XXV Olympic Winter Games, jointly hosted by Milan and Cortina d'Ampezzo, Italy, Feb 6–22, 2026. Eight sports and 116 events; first Italian Winter Olympics since 2006.",
-    "desc_cn": "第25届冬季奥林匹克运动会，由意大利米兰与科尔蒂纳丹佩佐联合举办，设8大项116小项，为意大利2006年都灵冬奥后再度主办冬季奥运会。"
+    "desc": "The world's premier multi-sport winter event, held every four years, featuring elite athletes competing in skiing, ice hockey, figure skating and other winter sports.",
+    "desc_cn": "全球最高级别的综合性冬季体育赛事，每四年举办一次，涵盖滑雪、冰球、花样滑冰、速度滑冰等项目，汇集各国顶尖冬季运动员。"
   },
   {
     "tag_id": 43,
-    "tag": "2026 World Cup",
-    "tag_cn": "2026世界杯",
-    "first_seen": "2026-06-11",
+    "tag": "FIFA World Cup",
+    "tag_cn": "足球世界杯",
+    "first_seen": "2025-12-31",
     "last_seen": "2026-07-19",
     "synonyms": [
-      "世界杯2026",
-      "美加墨世界杯",
-      "World Cup 2026",
-      "FIFA World Cup 2026",
-      "2026 FIFA World Cup"
+      "FIFA世界杯",
+      "世界杯",
+      "World Cup",
     ],
-    "desc": "The 23rd FIFA World Cup, co-hosted by the United States, Mexico and Canada, June 11 – July 19, 2026. First 48-team format; matches played across 16 cities in three countries.",
-    "desc_cn": "第23届国际足联世界杯，由美、墨、加三国联合举办，首次扩军至48支球队，横跨三国16座主办城市。西班牙获得冠军，阿根廷获得亚军。"
+    "desc": "The premier international men's football tournament, held every four years, bringing together national teams from around the world to compete for the most widely recognized title in football.",
+    "desc_cn": "全球最高水平的男子国家队足球赛事，每四年举办一次，汇集各大洲顶尖球队，拥有庞大的国际观众群体，是足球运动最具代表性的赛事。"
   },
   {
     "tag_id": 44,
     "tag": "Tennis Grand Slams",
     "tag_cn": "网球大满贯",
-    "first_seen": "2026-01-12",
+    "first_seen": "2025-12-31",
     "last_seen": "2026-09-16",
     "synonyms": [
       "大满贯赛季",
       "2026四大满贯",
-      "2026 Grand Slam season",
-      "Tennis majors"
+      "四大满贯",
+      "澳网",
+      "法网",
+      "温网",
+      "美网",
+      "Tennis majors",
+      "Grand Slam tournaments"
     ],
-    "desc": "Tennis Grand Slam season comprising the Australian Open, French Open, Wimbledon and US Open. Headlined by Alcaraz completing the career slam at the Australian Open and Sinner's first Wimbledon crown.",
-    "desc_cn": "本赛季网球四大满贯赛事（澳网、法网、温网、美网），阿尔卡拉斯澳网夺冠实现职业生涯全满贯，辛纳首夺温网男单冠军。"
+    "desc": "The four most prestigious annual tennis tournaments: the Australian Open, French Open, Wimbledon and US Open. They feature the world's leading players across hard, clay and grass courts.",
+    "desc_cn": "网球四大满贯赛事，包括澳网、法网、温网和美网，是网球运动中最具声望的年度赛事，采用硬地、红土和草地场地，吸引全球顶尖男女选手参加。"
   },
   {
     "tag_id": 45,
-    "tag": "2026 Asian Games",
-    "tag_cn": "2026亚运会",
-    "first_seen": "2026-06-08",
-    "last_seen": "2026-10-01",
+    "tag": "Asian Games",
+    "tag_cn": "亚运会",
+    "first_seen": "2025-12-31",
+    "last_seen": "2026-10-02",
     "synonyms": [
-      "爱知名古屋亚运会",
-      "名古屋亚运会",
-      "爱知亚运会",
-      "Asian Games Nagoya",
-      "Aichi Asian Games",
-      "Aichi-Nagoya Asian Games"
+      "亚洲运动会"
     ],
-    "desc": "The 20th Asian Games, scheduled for Sept 19 – Oct 4, 2026 in Aichi Prefecture and Nagoya, Japan. Asia's largest multi-sport event featuring 40 sports across multiple venues; preparation coverage intensified in early September.",
-    "desc_cn": "第20届亚洲运动会，于2026年9月19日至10月4日在日本爱知县与名古屋市联合举办，为亚洲最大规模综合体育赛事，设40个大项，9月上旬筹备与预热报道密集升温。"
+    "desc": "Asia's largest multi-sport event, held every four years, bringing together athletes from across the continent to compete in Olympic and regional sports and promoting international sporting and cultural exchange.",
+    "desc_cn": "亚洲规模最大的综合性体育赛事，每四年举办一次，汇集亚洲各国家和地区的运动员，涵盖奥运项目及亚洲特色运动，促进区域体育交流与文化联系。"
   },
   {
     "tag_id": 47,
@@ -989,23 +985,22 @@
     "desc_cn": "2026年中美在AI领域的战略竞争，涵盖基础模型、芯片、算力、军事应用与监管。中国DeepSeek开启廉价前沿模型时代，美国在顶尖模型与芯片制造上保持领先并限制中国获取先进芯片。"
   },
   {
-    "tag_id": 67,
-    "tag": "T20 Cricket World Cup",
-    "tag_cn": "T20板球世界杯",
-    "first_seen": "2026-09-23",
-    "last_seen": "2026-09-23",
-    "synonyms": [
-      "T20世界杯",
-      "板球世界杯",
-      "2026 T20 World Cup",
-      "ICC Men's T20 World Cup",
-      "ICC Women's T20 World Cup",
-      "Women's T20 World Cup 2026",
-      "T20 Cricket World Cup 2026"
-    ],
-    "desc": "ICC T20 Cricket World Cup coverage, including the men's and women's tournaments: team guides, fixtures, results, standings and live match reports. Australia beat England in the 2026 Women's T20 World Cup final to claim their seventh title.",
-    "desc_cn": "国际板球理事会（ICC）T20板球世界杯报道，涵盖男子与女子赛事的球队巡礼、赛程、赛果、积分榜与实时战报。2026年女子T20世界杯决赛中澳大利亚击败英格兰，第七次夺冠。"
-  },
+  "tag_id": 67,
+  "tag": "Cricket World Cups",
+  "tag_cn": "板球世界杯",
+  "synonyms": [
+    "T20板球世界杯",
+    "单日制板球世界杯",
+    "50回合制板球世界杯",
+    "T20 World Cup",
+    "ICC Cricket World Cup",
+    "ICC T20 World Cup",
+  ],
+  "first_seen": "2025-12-31",
+  "last_seen": "2026-10-01",
+  "desc": "The major ICC international cricket World Cups, covering the 50-over Cricket World Cup and T20 World Cup for men and women. They bring together leading national teams and attract large audiences worldwide.",
+  "desc_cn": "国际板球理事会旗下主要世界杯赛事，涵盖男女50回合制和T20世界杯，汇集各国顶尖国家队，在全球尤其板球流行地区拥有广泛影响力。"
+}
   {
     "tag_id": 68,
     "tag": "US China Trade War",
@@ -1212,5 +1207,130 @@
     ],
     "desc": "On Sept 30, 2026, Flydubai FZ1073 (Dubai–Tel Aviv) diverted to Saudi Tabuk after the Omani co-pilot stabbed the captain and tried to crash the plane. Passengers subdued the attacker; all 174 aboard survived. Netanyahu called it a 9/11-style attempt.",
     "desc_cn": "2026年9月30日迪拜航空FZ1073由迪拜飞特拉维夫途中，阿曼籍副驾驶刺伤阿联酋籍机长并蓄意坠机。机组与乘客制服袭击者，飞机紧急迫降沙特塔布克机场，174人全部生还。内塔尼亚胡称系蓄意重演9·11。"
+  },
+  {
+    "tag_id": 85,
+    "tag": "Olympics Games",
+    "tag_cn": "奥运会",
+    "first_seen": "2025-12-31",
+    "last_seen": "2026-08-23",
+    "synonyms": [
+      "夏季奥运会",
+      "夏奥会",
+      "Olympics",
+      "Summer Olympics"
+    ],
+    "desc": "The world's leading multi-sport event, held every four years, bringing together elite athletes from around the globe across dozens of sports and attracting extensive international media and public attention.",
+    "desc_cn": "全球规模和影响力最大的综合性体育赛事之一，每四年举办一次，汇集世界各地顶尖运动员，涵盖数十个运动项目，具有广泛的国际影响力和文化意义。"
+  },
+  {
+    "tag_id": 86,
+    "tag": "Champions League",
+    "tag_cn": "欧冠联赛",
+    "first_seen": "2025-12-31",
+    "last_seen": "2026-05-30",
+    "synonyms": [
+      "欧冠",
+      "欧洲冠军联赛",
+      "UEFA Champions League",
+      "UCL"
+    ],
+    "desc": "Europe's premier club football competition, held annually, featuring leading teams from domestic leagues across the continent and attracting a global audience through elite competition and world-class players.",
+    "desc_cn": "欧洲顶级俱乐部足球赛事，每个赛季举办一次，汇集欧洲各国优秀俱乐部和世界级球星，拥有广泛的国际球迷基础及较高的媒体关注度和商业价值。"
+  },
+  {
+    "tag_id": 87,
+    "tag": "Super Bowl",
+    "tag_cn": "超级碗",
+    "first_seen": "2025-12-31",
+    "last_seen": "2026-02-08",
+    "synonyms": [
+      "NFL总决赛",
+      "Super Bowl LX"
+    ],
+    "desc": "The annual championship game of the NFL, one of the biggest events in American sports, combining professional football with high-profile halftime entertainment and major advertising campaigns.",
+    "desc_cn": "美国职业橄榄球大联盟的年度冠军赛，通常采用单场决胜制，融合顶级橄榄球竞技、大型音乐表演和广告营销，是美国最受关注的体育及娱乐盛事之一。"
+  },
+  {
+    "tag_id": 88,
+    "tag": "Formula 1",
+    "tag_cn": "一级方程式",
+    "first_seen": "2025-12-31",
+    "last_seen": "2026-10-02",
+    "synonyms": [
+      "F1",
+      "一级方程式赛车",
+      "F1赛车",
+      "Formula One"
+    ],
+    "desc": "The world's premier international motor racing championship, featuring a season of Grand Prix races across multiple countries, where elite drivers and constructors compete using advanced automotive technology.",
+    "desc_cn": "全球顶级赛车赛事，每年在多个国家和地区举行分站赛，通过全年积分决出车手和车队冠军，融合尖端汽车技术、竞技表现和全球商业运营。"
+  },
+  {
+    "tag_id": 89,
+    "tag": "Tour de France",
+    "tag_cn": "环法自行车赛",
+    "first_seen": "2025-12-31",
+    "last_seen": "2026-07-26",
+    "synonyms": [
+      "环法",
+      "环法赛",
+      "Le Tour"
+    ],
+    "desc": "One of the world's most prestigious road cycling races, held annually over approximately three weeks, featuring challenging mountain stages, time trials and long-distance racing across France and neighboring regions.",
+    "desc_cn": "世界著名的年度公路自行车赛，赛程通常持续约三周，途经法国及周边地区，设有山地赛段和计时赛，以漫长赛程、复杂地形和悠久历史闻名。"
+  },
+  {
+    "tag_id": 91,
+    "tag": "NBA Finals",
+    "tag_cn": "NBA总决赛",
+    "first_seen": "2025-12-31",
+    "last_seen": "2026-06-14",
+    "synonyms": [
+      "NBA Championship",
+      "NBA冠军赛"
+    ],
+    "desc": "The annual championship series of the National Basketball Association, in which the Eastern and Western Conference champions compete in a best-of-seven series for the league title.",
+    "desc_cn": "美国职业篮球联赛的年度冠军争夺战，由东西部冠军球队进行最多七场的系列赛，决出赛季总冠军，汇集全球顶尖篮球运动员，拥有广泛的国际球迷和商业影响力。"
+  },
+  {
+    "tag_id": 92,
+    "tag": "Rugby World Cup",
+    "tag_cn": "橄榄球世界杯",
+    "first_seen": "2025-12-31",
+    "last_seen": "2026-09-30",
+    "synonyms": [
+      "英式橄榄球世界杯",
+      "RWC"
+    ],
+    "desc": "The premier international men's rugby union tournament, held every four years, bringing together national teams to compete for the world title and attracting major audiences in Europe, Oceania and southern Africa.",
+    "desc_cn": "男子英式橄榄球的顶级国家队赛事，每四年举办一次，各国球队争夺世界冠军，在欧洲、大洋洲和南非等地区拥有深厚的体育传统和广泛的观众基础。"
+  },
+  {
+    "tag_id": 93,
+    "tag": "UEFA Euro",
+    "tag_cn": "欧洲杯",
+    "first_seen": "2025-12-31",
+    "last_seen": "2026-09-26",
+    "synonyms": [
+      "足球欧洲杯",
+      "欧洲足球锦标赛",
+      "UEFA European Championship"
+    ],
+    "desc": "The European national team football championship, held every four years, bringing together the continent's leading teams in a major international tournament with a broad global audience.",
+    "desc_cn": "欧洲国家队最高级别的足球锦标赛，每四年举办一次，汇集欧洲各国顶尖球队，具有悠久历史，在欧洲及全球足球观众中拥有很高的知名度。"
+  },
+  {
+    "tag_id": 94,
+    "tag": "World Athletics Championships",
+    "tag_cn": "田径世锦赛",
+    "first_seen": "2025-12-31",
+    "last_seen": "2026-09-15",
+    "synonyms": [
+      "世界田径锦标赛",
+      "World Championships in Athletics"
+    ],
+    "desc": "The premier global championship in track and field, featuring elite athletes in sprinting, distance running, jumping, throwing and race walking, and serving as a major international event outside the Olympic Games.",
+    "desc_cn": "世界田径领域的顶级单项锦标赛，涵盖短跑、中长跑、跳跃、投掷和竞走等项目，汇集各国顶尖运动员，是奥运会之外田径运动的重要国际赛事。"
   }
 ]
