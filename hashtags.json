@@ -50,7 +50,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-10-02",
+    "last_seen": "2026-10-03",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -67,7 +67,7 @@
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-09-28",
+    "last_seen": "2026-10-03",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
@@ -767,7 +767,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-09-30",
+    "last_seen": "2026-10-03",
     "synonyms": [
       "胡塞武装进攻",
       "红海航运危机",
@@ -985,21 +985,21 @@
     "desc_cn": "2026年中美在AI领域的战略竞争，涵盖基础模型、芯片、算力、军事应用与监管。中国DeepSeek开启廉价前沿模型时代，美国在顶尖模型与芯片制造上保持领先并限制中国获取先进芯片。"
   },
   {
-  "tag_id": 67,
-  "tag": "Cricket World Cups",
-  "tag_cn": "板球世界杯",
-  "synonyms": [
-    "T20板球世界杯",
-    "单日制板球世界杯",
-    "50回合制板球世界杯",
-    "T20 World Cup",
-    "ICC Cricket World Cup",
-    "ICC T20 World Cup"
-  ],
-  "first_seen": "2025-12-31",
-  "last_seen": "2026-10-01",
-  "desc": "The major ICC international cricket World Cups, covering the 50-over Cricket World Cup and T20 World Cup for men and women. They bring together leading national teams and attract large audiences worldwide.",
-  "desc_cn": "国际板球理事会旗下主要世界杯赛事，涵盖男女50回合制和T20世界杯，汇集各国顶尖国家队，在全球尤其板球流行地区拥有广泛影响力。"
+    "tag_id": 67,
+    "tag": "Cricket World Cups",
+    "tag_cn": "板球世界杯",
+    "synonyms": [
+      "T20板球世界杯",
+      "单日制板球世界杯",
+      "50回合制板球世界杯",
+      "T20 World Cup",
+      "ICC Cricket World Cup",
+      "ICC T20 World Cup"
+    ],
+    "first_seen": "2025-12-31",
+    "last_seen": "2026-10-01",
+    "desc": "The major ICC international cricket World Cups, covering the 50-over Cricket World Cup and T20 World Cup for men and women. They bring together leading national teams and attract large audiences worldwide.",
+    "desc_cn": "国际板球理事会旗下主要世界杯赛事，涵盖男女50回合制和T20世界杯，汇集各国顶尖国家队，在全球尤其板球流行地区拥有广泛影响力。"
   },
   {
     "tag_id": 68,
@@ -1332,5 +1332,21 @@
     ],
     "desc": "The premier global championship in track and field, featuring elite athletes in sprinting, distance running, jumping, throwing and race walking, and serving as a major international event outside the Olympic Games.",
     "desc_cn": "世界田径领域的顶级单项锦标赛，涵盖短跑、中长跑、跳跃、投掷和竞走等项目，汇集各国顶尖运动员，是奥运会之外田径运动的重要国际赛事。"
+  },
+  {
+    "tag_id": 95,
+    "tag": "France Student Protests",
+    "tag_cn": "法国学生抗议",
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "synonyms": [
+      "French school protests",
+      "France education protests",
+      "法国校园抗议",
+      "法国教育抗议",
+      "法国高中抗议"
+    ],
+    "desc": "Nationwide high school protests in France in late Sept–early Oct 2026 over teacher shortages and dilapidated facilities. Over 400 schools closed, dozens wounded and thousands arrested in clashes with police.",
+    "desc_cn": "2026年9月底至10月初法国高中生因师资短缺和校舍破败发起的全国性抗议浪潮，超400所学校被迫关闭，冲突导致数十人受伤、数千人被捕。"
   }
 ]
