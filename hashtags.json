@@ -1332,21 +1332,5 @@
     ],
     "desc": "The premier global championship in track and field, featuring elite athletes in sprinting, distance running, jumping, throwing and race walking, and serving as a major international event outside the Olympic Games.",
     "desc_cn": "世界田径领域的顶级单项锦标赛，涵盖短跑、中长跑、跳跃、投掷和竞走等项目，汇集各国顶尖运动员，是奥运会之外田径运动的重要国际赛事。"
-  },
-  {
-    "tag_id": 95,
-    "tag": "France Student Protests",
-    "tag_cn": "法国学生抗议",
-    "first_seen": "2026-10-03",
-    "last_seen": "2026-10-03",
-    "synonyms": [
-      "French school protests",
-      "France education protests",
-      "法国校园抗议",
-      "法国教育抗议",
-      "法国高中抗议"
-    ],
-    "desc": "Nationwide high school protests in France in late Sept–early Oct 2026 over teacher shortages and dilapidated facilities. Over 400 schools closed, dozens wounded and thousands arrested in clashes with police.",
-    "desc_cn": "2026年9月底至10月初法国高中生因师资短缺和校舍破败发起的全国性抗议浪潮，超400所学校被迫关闭，冲突导致数十人受伤、数千人被捕。"
   }
 ]
