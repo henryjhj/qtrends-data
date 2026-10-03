@@ -1332,5 +1332,24 @@
     ],
     "desc": "The premier global championship in track and field, featuring elite athletes in sprinting, distance running, jumping, throwing and race walking, and serving as a major international event outside the Olympic Games.",
     "desc_cn": "世界田径领域的顶级单项锦标赛，涵盖短跑、中长跑、跳跃、投掷和竞走等项目，汇集各国顶尖运动员，是奥运会之外田径运动的重要国际赛事。"
-  }
+  },
+  {
+  "tag_id": 95,
+  "tag": "Golf Majors",
+  "tag_cn": "高尔夫大满贯",
+  "synonyms": [
+    "高尔夫四大赛",
+    "高尔夫四大满贯",
+    "男子高尔夫大满贯",
+    "Masters",
+    "The Masters",
+    "Masters Tournament",
+    "The Open Championship",
+    "The Open"
+  ],
+  "first_seen": "2025-12-31",
+  "last_seen": "2026-10-01",
+  "desc": "The four major championships in men's professional golf: The Masters, U.S. Open, The Open Championship and PGA Championship. Held annually, they form the sport's most prestigious series and attract worldwide media attention.",
+  "desc_cn": "男子职业高尔夫四大赛，包括美国大师赛、美国公开赛、英国公开赛和PGA锦标赛，每年举行，是高尔夫最具影响力的顶级赛事。"
+}
 ]
