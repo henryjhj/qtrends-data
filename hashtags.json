@@ -50,7 +50,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-10-04",
+    "last_seen": "2026-10-05",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -67,7 +67,7 @@
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-10-04",
+    "last_seen": "2026-10-05",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
@@ -460,15 +460,19 @@
     "tag": "Global AI Regulation",
     "tag_cn": "全球AI监管",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-10-02",
+    "last_seen": "2026-10-05",
     "synonyms": [
       "欧盟AI法案",
       "美国AI监管框架",
       "EU AI Act enforcement",
-      "US AI regulatory framework"
+      "US AI regulatory framework",
+      "Super Intelligence Task Force",
+      "超级智能工作组",
+      "AI Czar",
+      "AI沙皇"
     ],
-    "desc": "2026 AI governance: EU AI Act in force; US and China issued rules. In Sept, AI CEOs warned of existential risk, but Trump called AI fears a 'hoax'. On Sept 30, the US FTC launched a broad probe into safety at OpenAI, Anthropic and other AI labs.",
-    "desc_cn": "2026年全球AI治理落地：欧盟AI法案生效，中美出台监管规则。9月AI巨头警告生存风险，特朗普称AI担忧是'骗局'。9月30日美国FTC对OpenAI、Anthropic等发起广泛安全调查。"
+    "desc": "2026 AI governance: EU AI Act in force; US and China issued rules. On Oct 4, Trump announced a White House Super Intelligence Task Force led by AI czar Jay Clayton to assess AI risks and opportunities within 120 days.",
+    "desc_cn": "2026年全球AI治理落地：欧盟AI法案生效，中美出台监管规则。10月4日特朗普宣布组建白宫超级智能工作组，由国家情报总监Jay Clayton担任AI沙皇，120天内评估AI风险与机遇。"
   },
   {
     "tag_id": 33,
@@ -767,7 +771,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-10-03",
+    "last_seen": "2026-10-05",
     "synonyms": [
       "胡塞武装进攻",
       "红海航运危机",
@@ -779,10 +783,14 @@
       "Houthi attack Saudi base",
       "胡塞袭击利雅得",
       "Houthi attack Riyadh",
-      "胡塞袭击沙特首都"
+      "胡塞袭击沙特首都",
+      "Yemen government offensive",
+      "也门政府军收复战",
+      "Yemen civil war escalation",
+      "也门内战升级"
     ],
-    "desc": "In Sept 2026, Yemen's Houthi movement captured Red Sea port Mocha and Perim Island, controlling Yemen's entire Red Sea coast. Houthis fired missiles/drones at Saudi capital Riyadh and Yanbu energy hub Sept 19-20 (first direct strike on Riyadh) and again Sept 24. France's Macron announced troops, radars, defense systems to protect Yanbu oil facilities; Brent crude topped $100/bbl. Saudi launched retaliatory airstrikes on Sept 29.",
-    "desc_cn": "2026年9月也门胡塞武装攻占红海港口摩卡及丕林岛，控制也门红海沿岸。胡塞9月19-20日及24日多次袭击沙特利雅得、延布阿美设施和吉赞军事目标，系首次袭击沙特首都。法国马克龙宣布派兵保护延布石油设施；布伦特原油破百美元。9月29日沙特发动报复性空袭反击。"
+    "desc": "In Sept 2026, Yemen's Houthi movement captured Red Sea port Mocha and Perim Island. On Oct 4, the Yemeni government launched a large-scale offensive with Saudi coalition air support to retake Houthi-held territory. Houthis retaliated by striking Saudi Aramco oil facilities.",
+    "desc_cn": "2026年9月也门胡塞武装攻占红海港口摩卡及丕林岛。10月4日也门政府在沙特联军空中支援下发起大规模攻势收复胡塞控制区，胡塞反击袭击沙特阿美石油设施，地区紧张局势急剧升级。"
   },
   {
     "tag_id": 54,
@@ -988,6 +996,8 @@
     "tag_id": 67,
     "tag": "Cricket World Cups",
     "tag_cn": "板球世界杯",
+    "first_seen": "2025-12-31",
+    "last_seen": "2026-10-01",
     "synonyms": [
       "T20板球世界杯",
       "单日制板球世界杯",
@@ -996,8 +1006,6 @@
       "ICC Cricket World Cup",
       "ICC T20 World Cup"
     ],
-    "first_seen": "2025-12-31",
-    "last_seen": "2026-10-01",
     "desc": "The major ICC international cricket World Cups, covering the 50-over Cricket World Cup and T20 World Cup for men and women. They bring together leading national teams and attract large audiences worldwide.",
     "desc_cn": "国际板球理事会旗下主要世界杯赛事，涵盖男女50回合制和T20世界杯，汇集各国顶尖国家队，在全球尤其板球流行地区拥有广泛影响力。"
   },
@@ -1334,22 +1342,22 @@
     "desc_cn": "世界田径领域的顶级单项锦标赛，涵盖短跑、中长跑、跳跃、投掷和竞走等项目，汇集各国顶尖运动员，是奥运会之外田径运动的重要国际赛事。"
   },
   {
-  "tag_id": 95,
-  "tag": "Golf Majors",
-  "tag_cn": "高尔夫大满贯",
-  "synonyms": [
-    "高尔夫四大赛",
-    "高尔夫四大满贯",
-    "男子高尔夫大满贯",
-    "Masters",
-    "The Masters",
-    "Masters Tournament",
-    "The Open Championship",
-    "The Open"
-  ],
-  "first_seen": "2025-12-31",
-  "last_seen": "2026-10-01",
-  "desc": "The four major championships in men's professional golf: The Masters, U.S. Open, The Open Championship and PGA Championship. Held annually, they form the sport's most prestigious series and attract worldwide media attention.",
-  "desc_cn": "男子职业高尔夫四大赛，包括美国大师赛、美国公开赛、英国公开赛和PGA锦标赛，每年举行，是高尔夫最具影响力的顶级赛事。"
-}
+    "tag_id": 95,
+    "tag": "Golf Majors",
+    "tag_cn": "高尔夫大满贯",
+    "first_seen": "2025-12-31",
+    "last_seen": "2026-10-01",
+    "synonyms": [
+      "高尔夫四大赛",
+      "高尔夫四大满贯",
+      "男子高尔夫大满贯",
+      "Masters",
+      "The Masters",
+      "Masters Tournament",
+      "The Open Championship",
+      "The Open"
+    ],
+    "desc": "The four major championships in men's professional golf: The Masters, U.S. Open, The Open Championship and PGA Championship. Held annually, they form the sport's most prestigious series and attract worldwide media attention.",
+    "desc_cn": "男子职业高尔夫四大赛，包括美国大师赛、美国公开赛、英国公开赛和PGA锦标赛，每年举行，是高尔夫最具影响力的顶级赛事。"
+  }
 ]
