@@ -1346,21 +1346,6 @@
     "desc_cn": "男子职业高尔夫四大赛，包括美国大师赛、美国公开赛、英国公开赛和PGA锦标赛，每年举行，是高尔夫最具影响力的顶级赛事。"
   },
   {
-    "tag_id": 96,
-    "tag": "US Bombers UK Withdrawal",
-    "tag_cn": "美军撤离英国基地",
-    "first_seen": "2026-10-06",
-    "last_seen": "2026-10-06",
-    "synonyms": [
-      "美军撤出英国",
-      "RAF Fairford withdrawal",
-      "US bombers leave UK",
-      "Bombers leave UK"
-    ],
-    "desc": "Withdrawal of all US strategic bombers from RAF Fairford, England, on October 5, 2026, after President Trump cited a 'specific threat' to the base. The B-1, B-2 and B-52 fleet was redeployed to US home stations.",
-    "desc_cn": "2026年10月5日，美国总统特朗普称英国费尔福德皇家空军基地面临'具体威胁'后，美军将全部战略轰炸机撤离该基地并重新部署回美国本土。"
-  },
-  {
     "tag_id": 97,
     "tag": "Brazil Presidential Runoff",
     "tag_cn": "巴西总统选举",
