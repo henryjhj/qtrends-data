@@ -12,8 +12,8 @@
       "Ukraine conflict",
       "Russia-Ukraine war"
     ],
-    "desc": "The Russo-Ukrainian War began in 2014 with Russia’s annexation of Crimea and conflict in Donbas. On February 24, 2022, Russia launched a full-scale invasion of Ukraine, escalating the war into a major armed conflict that continues today.",
-    "desc_cn": "俄乌战争始于2014年，起因涉及克里米亚问题及顿巴斯冲突。2022年2月24日，俄罗斯全面入侵乌克兰，战争升级为大规模武装冲突。此后双方持续作战，战争至今仍在进行。"
+    "desc": "Armed conflict begun in 2014 with Russia’s annexation of Crimea and the Donbas war. Russia launched a full-scale invasion on February 24, 2022. The UN counted nearly 15,000 Ukrainian civilians killed through December 2025. No peace settlement yet.",
+    "desc_cn": "2014年俄罗斯吞并克里米亚并引发顿巴斯战事，2022年2月24日全面入侵乌克兰。联合国统计，截至2025年底乌克兰平民死亡近1.5万人。战事仍在持续，和谈尚无结果。"
   },
   {
     "tag_id": 2,
@@ -27,8 +27,8 @@
       "Gaza conflict",
       "Israel-Hamas war"
     ],
-    "desc": "The Gaza War began on October 7, 2023, when Hamas-led Palestinian militants attacked Israel. Israel responded with extensive airstrikes and a ground offensive in Gaza, causing heavy casualties and a major humanitarian crisis.",
-    "desc_cn": "加沙战争始于2023年10月7日，哈马斯等巴勒斯坦武装袭击以色列，以色列随后对加沙展开大规模空袭和地面攻势。战争造成严重人员伤亡和人道危机，并引发地区冲突及国际影响。"
+    "desc": "War begun October 7, 2023, when Hamas-led militants attacked Israel, killing about 1,200 and taking 251 hostages. A US-brokered ceasefire took effect October 10, 2025. Gaza’s health ministry reported 74,016 deaths as of September 26, 2026.",
+    "desc_cn": "2023年10月7日哈马斯领导的武装袭击以色列，约1200人死亡、251人被劫持，以军随即对加沙发动大规模军事行动。2025年10月10日美国斡旋的停火生效。截至2026年9月26日，加沙卫生部称累计死亡74016人。"
   },
   {
     "tag_id": 3,
@@ -42,8 +42,8 @@
       "Sudan conflict",
       "Sudan armed conflict"
     ],
-    "desc": "Armed conflict between Sudanese Armed Forces and Rapid Support Forces since April 2023. Entering fourth year, with fighting in Khartoum, Darfur and Kordofan driving a massive humanitarian crisis.",
-    "desc_cn": "2023年4月起苏丹武装部队与快速支援部队交战，为苏丹独立以来最严重的内部武装冲突。战事已进入第四年，人道主义灾难深重。"
+    "desc": "Civil war between the Sudanese army and the Rapid Support Forces, begun April 15, 2023. The army retook Khartoum in March 2025; the RSF captured El Fasher on October 26, 2025. Over 11.8 million displaced as of September 2025; deaths uncertain.",
+    "desc_cn": "2023年4月15日爆发的苏丹武装部队与快速支援部队内战。2025年3月军方收复喀土穆，10月26日快速支援部队攻陷达尔富尔重镇法希尔。截至2025年9月逾1180万人流离失所，总死亡人数尚无可靠统计。"
   },
   {
     "tag_id": 4,
@@ -59,8 +59,8 @@
       "US-Israel-Iran war",
       "伊朗战争"
     ],
-    "desc": "The 2026 Iran War began Feb 28 when the U.S. and Israel struck Iran; Iran retaliated across the Middle East. In late Sept, Iran captured a U.S. underwater drone and proposed reopening Hormuz, but Trump rejected it. By Sept 30 the sides exchanged messages via mediators while keeping military options open.",
-    "desc_cn": "2026年2月28日美以对伊朗发动大规模打击，伊朗反击使冲突扩大至中东。9月下旬伊朗捕获美国无人潜航器并提出重开霍尔木兹海峡方案，特朗普拒绝。9月30日双方通过调解方交换信息，但均保留军事选项。"
+    "desc": "War begun February 28, 2026, when the US and Israel struck Iran, which retaliated across the Middle East. A Pakistan-brokered ceasefire began April 7–8; a US-Iran memorandum followed June 17. Fighting resumed in July; Iran suspended the deal July 18.",
+    "desc_cn": "2026年2月28日美国与以色列打击伊朗，伊朗在中东多地反击。4月7日至8日在巴基斯坦斡旋下停火，6月17日美伊签署谅解备忘录，7月战事重燃，伊朗于7月18日宣布暂停履行备忘录。"
   },
   {
     "tag_id": 5,
@@ -74,8 +74,8 @@
       "Hormuz closure",
       "Strait of Hormuz closure"
     ],
-    "desc": "The 2026 Strait of Hormuz crisis began when Iran restricted shipping during the Iran War, disrupting global energy supplies. In late September, Iran proposed a seven-day reopening plan, but Trump rejected it, claiming full U.S. control of the strait as talks stalled.",
-    "desc_cn": "2026年伊朗战争期间，伊朗封锁霍尔木兹海峡，导致国际航运受阻、全球能源供应受到严重冲击。9月下旬伊朗提出七日重启方案，但特朗普拒绝该提议，称美方完全控制海峡，谈判陷入僵局。"
+    "desc": "Disruption of the Strait of Hormuz, route for about a fifth of world oil trade, after Iran declared it closed following the US-Israeli strikes of February 28, 2026. Traffic partly resumed after the April 7 ceasefire; Iran closed it again in July.",
+    "desc_cn": "2026年2月28日美以打击伊朗后，伊朗宣布封锁霍尔木兹海峡（约占全球五分之一石油贸易通道），能源供应受冲击。4月7日停火后通航部分恢复，7月战事重燃后伊朗再度宣布封锁。"
   },
   {
     "tag_id": 6,
@@ -89,8 +89,8 @@
       "Taiwan Strait crisis",
       "Cross-Strait tensions"
     ],
-    "desc": "Heightened military and political tensions across the Taiwan Strait in 2026, amplified by US regional force realignments linked to the Middle East conflict and increased PLA maritime and air activity around the island.",
-    "desc_cn": "2026年台海两岸军事与政治紧张局势显著升级，受美军中东冲突牵动的印太兵力调整及解放军台海周边海空活动频次上升共同影响。"
+    "desc": "Relations between mainland China and Taiwan, governed separately since the ROC government relocated to Taiwan in 1949. Beijing claims the island and has not renounced force; Taipei rejects the claim. PLA activity near Taiwan has grown.",
+    "desc_cn": "两岸自1949年国民党政府迁台后长期分治。北京主张台湾属于中国并不放弃使用武力，台北方面拒绝接受其主权主张。近年解放军在台湾周边的海空活动明显增多。"
   },
   {
     "tag_id": 7,
@@ -104,8 +104,8 @@
       "South China Sea tensions",
       "Ren'ai Reef standoff"
     ],
-    "desc": "Sustained maritime and diplomatic disputes in the South China Sea through 2026, centered on Scarborough Shoal and Second Thomas Shoal; Japan plans to transfer ageing warships to Philippines and Indonesia as geopolitical leverage.",
-    "desc_cn": "2026年南海持续海上与外交争端，集中于黄岩岛与仁爱礁。日本拟向菲律宾和印尼转让旧军舰以形成地缘政治杠杆，加深区域安全合作。"
+    "desc": "Rival claims of China, the Philippines, Vietnam, Malaysia, Brunei and Taiwan; flashpoints include Scarborough Shoal and Second Thomas Shoal. A 2016 arbitral tribunal rejected China’s historic-rights claims in its nine-dash line; Beijing rejects it.",
+    "desc_cn": "中国与菲律宾、越南、马来西亚、文莱及台湾地区在南海存在岛礁与海域主权重叠主张，黄岩岛、仁爱礁为主要摩擦点。2016年南海仲裁案裁决否定中国“九段线”内的历史性权利主张，中方不接受该裁决。"
   },
   {
     "tag_id": 8,
@@ -122,8 +122,8 @@
       "Trump Kim meeting 2026",
       "金正恩特朗普会谈"
     ],
-    "desc": "Escalated tensions on the Korean Peninsula in 2026. Trump said he plans to meet Kim Jong-un later this year despite Pyongyang denying direct communication; DPRK missile tests and US-South Korea exercises continued.",
-    "desc_cn": "2026年朝鲜半岛局势持续紧张。特朗普称计划年内与金正恩会面，尽管朝方否认直接沟通；朝鲜导弹试验与美韩联合军演持续进行。"
+    "desc": "Korea has been divided since 1945, with separate states founded in 1948. The 1950–53 Korean War ended in an armistice, not a peace treaty. Key issues: North Korea’s nuclear and missile programs, sanctions and US-South Korea exercises.",
+    "desc_cn": "朝鲜半岛自1945年起南北分治，1948年两国分别建立。1950至1953年朝鲜战争以停战协定而非和平条约结束。核心议题包括朝鲜核导计划、国际制裁及美韩联合军演。"
   },
   {
     "tag_id": 11,
@@ -139,8 +139,8 @@
       "以色列黎南驻军",
       "Israel south Lebanon presence"
     ],
-    "desc": "Military exchanges between Israel and Hezbollah along the Israel-Lebanon border, spillover from the Gaza war. Sept 2026: Israel set to release 5 Lebanese prisoners as part of ongoing talks; BBC confirmed Israel expanding presence in south Lebanon.",
-    "desc_cn": "以色列与黎巴嫩真主党在黎以边境的军事冲突，由加沙战争外溢升级。2026年9月以色列拟释放5名黎巴嫩囚犯，BBC证实以方在黎南扩大驻军。"
+    "desc": "Conflict between Israel and Hezbollah, with major wars in 2006 and 2023–24. Fighting resumed March 2, 2026 after Hezbollah joined the Iran war; an April 17 ceasefire did not end strikes. Lebanon counted 3,756 deaths from March 2 to June 13.",
+    "desc_cn": "以色列与黎巴嫩真主党之间的冲突，此前有2006年战争及2023至2024年交火。2026年3月2日真主党卷入伊朗战争后战火重燃，4月17日宣布停火但袭击持续。黎卫生部称3月2日至6月13日共3756人死亡。"
   },
   {
     "tag_id": 12,
@@ -154,8 +154,8 @@
       "Somalia war",
       "Somalia insurgency"
     ],
-    "desc": "Protracted armed conflict in Somalia among the federal government, African Union forces and the al-Shabaab insurgency. Active fighting and periodic large-scale displacements continued into 2026.",
-    "desc_cn": "索马里联邦政府、非盟部队与青年党叛乱武装之间的长期武装冲突。叛乱活动持续，周期性大规模人口流离失所延续至2026年。"
+    "desc": "Armed conflict in Somalia since the collapse of Siad Barre’s government in 1991. Since about 2007 the federal government, backed by African Union forces, has fought the al-Shabaab insurgency, amid recurring famine and mass displacement.",
+    "desc_cn": "索马里自1991年巴雷政府垮台后陷入内战与割据。2007年前后起，联邦政府在非盟部队支持下与青年党叛乱武装长期作战，其间多次出现饥荒与大规模人口流离失所。"
   },
   {
     "tag_id": 13,
@@ -168,8 +168,8 @@
       "DR Congo Ebola",
       "DRC Ebola epidemic"
     ],
-    "desc": "Major Ebola (Bundibugyo virus) outbreak in the Democratic Republic of the Congo declared May 2026, now the second-largest Ebola epidemic on record. As of Sept 10: 7022 confirmed cases and 3398 deaths (48.4% case fatality) across 62 health zones in seven provinces; 1671 recovered. No approved vaccine or treatment exists for the Bundibugyo strain.",
-    "desc_cn": "2026年5月刚果（金）暴发的布恩迪布焦型埃博拉疫情，为有记录以来第二大埃博拉流行。截至9月10日累计确诊7022例、死亡3398例（病死率48.4%），波及7省62个卫生区，1671人治愈。目前尚无针对该病毒毒株的获批疫苗或疗法。"
+    "desc": "Bundibugyo-virus Ebola outbreak declared in DR Congo on May 15, 2026; WHO declared an international emergency May 17. As of October 1: 8,376 confirmed cases, 4,042 deaths, seven provinces. No approved vaccine; second-largest Ebola outbreak on record.",
+    "desc_cn": "2026年5月15日刚果（金）宣布暴发布恩迪布焦型埃博拉疫情，5月17日世卫组织宣布为国际关注的突发公共卫生事件。截至10月1日累计确诊8376例、死亡4042例，波及7省。无获批疫苗或疗法，为史上第二大埃博拉疫情。"
   },
   {
     "tag_id": 14,
@@ -184,8 +184,8 @@
       "US congressional elections",
       "DHS voter fraud probe"
     ],
-    "desc": "U.S. midterm elections scheduled for Nov 8, 2026, to elect all 435 House seats, 33 Senate seats and 36 state governorships. Campaigns intensified in Sept: DHS voter fraud probes, USPS ballot disputes, and Trump's $5,000-per-adult election pledge, drew wide attention.",
-    "desc_cn": "2026年11月8日将举行的美国中期选举，改选全部众议员、三分之一参议员及36州州长。9月选战升温，DHS选民欺诈调查、USPS邮寄选票争议、特朗普每人5000美元选举承诺引发广泛关注。"
+    "desc": "Elections held midway through a US president’s term. The November 3, 2026 midterms will fill all 435 House seats, 35 Senate seats and 36 governorships, and set congressional control for the second half of Donald Trump’s second term.",
+    "desc_cn": "美国总统任期中段举行的国会选举。2026年11月3日的中期选举将改选众议院全部435席、参议院35席及36个州的州长，决定特朗普第二任期后半段的国会控制权。"
   },
   {
     "tag_id": 15,
@@ -199,8 +199,8 @@
       "USPS ballot system controversy",
       "mail-in ballot dispute"
     ],
-    "desc": "Pre-election controversy over the U.S. Postal Service's new mail-in ballot processing system ahead of the 2026 midterms, with whistleblower disclosures prompting federal judicial intervention and state-level scramble to comply.",
-    "desc_cn": "2026年中期选举前围绕美国邮政署新建邮寄选票处理系统的争议，内部举报引发舆论风暴，联邦法院介入暂停新规，各州选举官员紧急应对。"
+    "desc": "Controversy over a new US Postal Service mail-in ballot processing system before the 2026 midterms. Internal whistleblower disclosures led a federal court to suspend the new rules, and state election officials had to adjust procedures.",
+    "desc_cn": "2026年中期选举前围绕美国邮政署新建邮寄选票处理系统的争议。内部举报曝光后，联邦法院介入并暂停新规，各州选举官员被迫调整相关程序。"
   },
   {
     "tag_id": 16,
@@ -217,8 +217,8 @@
       "ICE officer shooting charged",
       "ICE Venezuela man shooting"
     ],
-    "desc": "A large-scale immigration enforcement operation by U.S. Immigration and Customs Enforcement across New York State in late summer 2026. An ICE officer was later charged with lying to investigators in the shooting of a Venezuelan man during the operation.",
-    "desc_cn": "2026年以来美国移民和海关执法局开展大规模移民执法行动，抓捕和驱逐大量移民，并导致大量冲突和多起死人事件。"
+    "desc": "US Immigration and Customs Enforcement, created in 2003 under the Department of Homeland Security, handles immigration enforcement and deportation. Since early 2026 it has run large operations in several states, with mass arrests and multiple deaths.",
+    "desc_cn": "美国移民和海关执法局（ICE）成立于2003年，隶属国土安全部，负责移民执法与遣返。2026年初以来在多州开展大规模行动，大量抓捕和驱逐移民，引发冲突并造成多人死亡。"
   },
   {
     "tag_id": 17,
@@ -232,8 +232,8 @@
       "India education reform protest",
       "Delhi education protest"
     ],
-    "desc": "Large-scale street protests in India led by the Cockroach Party movement in mid-July 2026, centered in New Delhi and demanding sweeping education system reform.",
-    "desc_cn": "2026年7月中旬印度蟑螂党运动领导的大规模街头抗议行动，以新德里为中心，核心诉求为推动教育体系全面改革。"
+    "desc": "Nationwide protests led by the satirical Cockroach Janta Party from June 2026 over alleged entrance-exam leaks, demanding exam reform and compensation for affected families. Education Minister Dharmendra Pradhan resigned July 25, 2026.",
+    "desc_cn": "2026年6月起由讽刺性政党“蟑螂人民党”发起的全国性抗议，起因是高竞争性入学考试涉嫌泄题，诉求包括考试制度改革及补偿受害家庭。教育部长普拉丹于7月25日辞职。"
   },
   {
     "tag_id": 18,
@@ -247,8 +247,8 @@
       "Venezuela quake",
       "Caracas earthquake"
     ],
-    "desc": "Double major earthquakes (M7.2 and M7.5) striking northern Venezuela on June 24, 2026. Caused thousands of fatalities and widespread destruction in Caracas and coastal regions.",
-    "desc_cn": "2026年6月24日委内瑞拉北部发生7.2级与7.5级双重强震，加拉加斯及沿海地区大面积损毁，造成数千人死亡。"
+    "desc": "Twin earthquakes of magnitude 7.2 and 7.5 struck northern Venezuela 39 seconds apart on June 24, 2026, the strongest there since 1900. Caracas and La Guaira were heavily damaged. Deaths exceeded 6,500 as of early September.",
+    "desc_cn": "2026年6月24日委内瑞拉北部相隔约39秒接连发生7.2级与7.5级地震，为1900年以来该国最强地震，加拉加斯与拉瓜伊拉受损严重。截至9月初死亡逾6500人。"
   },
   {
     "tag_id": 19,
@@ -262,8 +262,8 @@
       "Kumamoto quake",
       "Kyushu earthquake"
     ],
-    "desc": "M7.1 earthquake striking Kumamoto Prefecture, Kyushu, Japan on July 28, 2026. Registered maximum seismic intensity 7 (shindo 7); hundreds of aftershocks followed.",
-    "desc_cn": "2026年7月28日日本九州熊本县发生7.1级地震，最大震度达7级，为2016年熊本地震后九州最严重的地震灾害，引发数百次余震。"
+    "desc": "Magnitude 7.1 (JMA) earthquake that struck Kumamoto Prefecture, Kyushu, on July 28, 2026, reaching maximum intensity 7 in Uki and Hikawa; the strongest there since the 2016 Kumamoto earthquakes. As of August 8, the prefecture reported 39 deaths.",
+    "desc_cn": "2026年7月28日日本九州熊本县发生气象厅测定7.1级地震，宇城市与氷川町震度达最高的7级，为2016年熊本地震后当地最强地震。截至8月8日熊本县通报死亡39人。"
   },
   {
     "tag_id": 20,
@@ -283,8 +283,8 @@
       "Nepal floods",
       "Tibet floods"
     ],
-    "desc": "Catastrophic cross-border floods and landslides sweeping Nepal and China's Tibet Autonomous Region in late August 2026. Death toll rose to 1403 in Nepal (1446 including Tibet) with over 6,100 still missing as of Sept 16, as rescue efforts continued across the devastated Trishuli river basin.",
-    "desc_cn": "2026年8月下旬冰川湖溃决叠加极端季风雨引发的尼泊尔与中国西藏跨境特大洪水与泥石流，截至9月16日尼泊尔确认1403人死亡、逾6100人失踪（含西藏合计约1446死），特里苏里河流域重灾区搜救持续进行。"
+    "desc": "Flash floods and debris flows that destroyed Gyirong Port and hit settlements along the China–Nepal border from August 26, 2026. Nepal reported 1,454 dead and 4,718 missing as of September 26; Tibet, 43 dead and 519 missing as of September 16.",
+    "desc_cn": "2026年8月26日起突发山洪与泥石流冲毁中尼边境吉隆口岸及沿线多处村镇。截至9月26日尼泊尔确认1454人死亡、4718人失踪；截至9月16日西藏43人死亡、519人失踪。"
   },
   {
     "tag_id": 21,
@@ -301,8 +301,8 @@
       "Bond market rout",
       "bond market wildfire"
     ],
-    "desc": "2026 global bond market selloff driven by sticky inflation, elevated rates and geopolitical risk. Sept 3: BBC economics editor described 'bond market wildfire keeping world leaders up at night'; UK PM Burnham pressed at first PMQs on surging borrowing costs.",
-    "desc_cn": "2026年受黏性通胀、高利率与地缘风险冲击的全球债市大幅抛售。9月3日BBC经济主编形容债市野火令各国领导人夜不能寐，英国首相伯纳姆首次首相问答就借贷成本飙升遭激烈质询。"
+    "desc": "Sharp selloff in government bonds worldwide in 2026, driven by persistent inflation, high interest rates and geopolitical risk, pushing up long-term yields and government borrowing costs, notably in the US and UK.",
+    "desc_cn": "2026年全球政府债券遭大幅抛售，诱因包括通胀黏性、高利率与地缘风险，推高长期收益率及政府借贷成本，美国和英国尤为明显。"
   },
   {
     "tag_id": 22,
@@ -316,8 +316,8 @@
       "US debt 40 trillion",
       "US national debt $40T"
     ],
-    "desc": "U.S. national debt crossing the $40 trillion mark in August 2026; debt-to-GDP above 123%, $1.6T annual deficit, $1T+ yearly interest costs; Treasury launched buyback operations to stabilize markets amid the global bond rout.",
-    "desc_cn": "2026年8月美国联邦国债总额突破40万亿美元，债务占GDP超123%，年赤字1.6万亿美元，年利息支出超1万亿；财政部在全球债市抛售风暴中启动大规模国债回购操作稳定流动性。"
+    "desc": "US federal debt passed $40 trillion in August 2026, over 123% of GDP, with an annual deficit near $1.6 trillion and interest costs above $1 trillion. Treasury began buyback operations during the global bond selloff to support market liquidity.",
+    "desc_cn": "2026年8月美国联邦债务突破40万亿美元，占GDP超123%，年赤字约1.6万亿美元，年利息支出超1万亿美元。财政部在全球债市抛售期间启动国债回购以稳定市场流动性。"
   },
   {
     "tag_id": 23,
@@ -334,8 +334,8 @@
       "Federal Reserve easing",
       "Federal Reserve monetary policy"
     ],
-    "desc": "The U.S. Federal Reserve's 2026 monetary policy path amid sticky inflation and recession risk. On Sept 16 the Fed raised its policy rate by 25bp to 3.75–4.00%, its first hike since 2023; Brent crude surging past $100/bbl on the Iran war drove the decision, with officials signaling one more hike in 2026 and upending earlier easing expectations.",
-    "desc_cn": "2026年美联储在通胀黏性与衰退风险背景下的货币政策路径。9月16日美联储加息25基点至3.75–4.00%，为2023年来首次加息；美伊冲突推升布伦特原油破百驱动此举，官员暗示年内或再加息一次，此前降息预期被颠覆。"
+    "desc": "The US central bank steers policy through the federal funds target range. After a December 2025 cut to 3.50–3.75%, rates held for nine months; on September 16, 2026 the Fed raised them 25 basis points to 3.75–4.00%, its first hike since July 2023.",
+    "desc_cn": "美国央行通过联邦基金利率目标区间实施货币政策。2025年12月降息至3.50–3.75%后按兵不动，2026年9月16日加息25个基点至3.75–4.00%，为2023年7月以来首次加息。"
   },
   {
     "tag_id": 24,
@@ -351,8 +351,8 @@
       "Venezuela oil output expansion",
       "美委石油增产协议"
     ],
-    "desc": "Historic energy cooperation framework between the United States and Venezuela reached in late August 2026. In Sept, Trump claimed the U.S. had taken over Venezuela oil reserves, planning a UNGA meeting with VP Delcy Rodriguez.",
-    "desc_cn": "2026年8月底美委达成历史性能源合作框架协议，9月能源企业签署增产协议，特朗普称美方已接管委内瑞拉石油储备并拟在联大期间会晤委副总统罗德里格斯。"
+    "desc": "Energy cooperation framework agreed by the US and Venezuela in late August 2026, after the US seized President Maduro in January. Energy firms signed production-increase deals in September. Venezuela holds the world’s largest proven oil reserves.",
+    "desc_cn": "美国与委内瑞拉2026年8月底达成能源合作框架，此前美军于2026年1月抓捕总统马杜罗。9月能源企业签署增产协议。委内瑞拉拥有全球最大的已探明石油储量。"
   },
   {
     "tag_id": 25,
@@ -368,8 +368,8 @@
       "EU Beijing trade mission",
       "欧盟贸易官员赴京"
     ],
-    "desc": "Escalating trade disputes between the European Union and China in 2026, centered on steel, electric vehicles and industrial manufactures. Sept 2026: EU trade enforcers descended on Beijing demanding China fix what it called 'untenable' trade imbalances.",
-    "desc_cn": "2026年欧盟与中国之间加剧的贸易争端，核心为钢铁、电动汽车及工业制成品失衡。2026年9月欧盟贸易执法官员集体赴北京，要求中方纠正所谓不可持续的贸易失衡。"
+    "desc": "Trade disputes between the EU and China over steel, electric vehicles and other industrial goods, rooted in the EU’s large trade deficit. Brussels imposed duties on Chinese EVs in 2024; Beijing probed European brandy, pork and dairy.",
+    "desc_cn": "欧盟与中国围绕钢铁、电动汽车等工业品的贸易争端，根源是欧盟对华巨额贸易逆差。欧盟2024年对中国电动车加征关税，中方随后对欧洲白兰地、猪肉和乳制品展开调查。"
   },
   {
     "tag_id": 26,
@@ -383,8 +383,8 @@
       "OpenAI capital raise",
       "OpenAI $122B funding"
     ],
-    "desc": "OpenAI's record-setting $122 billion fundraising round closed in 2026 — the largest capital raise ever for an AI company — earmarked for next-generation models and compute infrastructure.",
-    "desc_cn": "OpenAI完成的1220亿美元巨额融资，为AI公司史上最大规模单笔融资，定向用于下一代通用人工智能模型与超级计算基础设施研发。"
+    "desc": "OpenAI’s $122 billion funding round, closed in 2026 and the largest ever raised by an AI company, earmarked for next-generation models and computing infrastructure.",
+    "desc_cn": "OpenAI于2026年完成的1220亿美元融资，为AI公司史上最大规模融资，用于下一代模型研发与算力基础设施建设。"
   },
   {
     "tag_id": 27,
@@ -399,8 +399,8 @@
       "Crypto rally",
       "meme coin surge"
     ],
-    "desc": "2026 cryptocurrency bull market cycle powered by post-halving supply dynamics and sustained institutional inflows into Bitcoin spot ETFs. Bitcoin remained near all-time highs alongside broad altcoin strength and rising $CHUMP meme token frenzy.",
-    "desc_cn": "2024减半周期叠加比特币现货ETF机构资金持续涌入推动的2026年加密货币牛市，比特币维持历史高位附近，主流与山寨币种普涨，$CHUMP等迷因币热炒。"
+    "desc": "Digital-asset markets built on blockchains, led by Bitcoin (launched 2009). Milestones include the April 2024 Bitcoin halving and the launch of US spot Bitcoin ETFs in January 2024, which drew institutional capital. Prices remain highly volatile.",
+    "desc_cn": "以区块链为基础的数字资产市场，以2009年诞生的比特币为首。重要节点包括2024年1月美国现货比特币ETF上市（吸引机构资金）及2024年4月比特币减半。价格波动剧烈。"
   },
   {
     "tag_id": 29,
@@ -418,8 +418,8 @@
       "GPT models",
       "OpenAI models"
     ],
-    "desc": "OpenAI's release of the GPT-5 series of large language models through 2026, culminating in the flagship GPT-5.6 Sol that set new coding and reasoning benchmarks; some advanced access restricted by the U.S. government.",
-    "desc_cn": "OpenAI陆续发布的GPT-5系列大语言模型，旗舰版GPT-5.6 Sol在编程与推理方面刷新多项基准，部分高级能力受美国政府管控。"
+    "desc": "OpenAI, the San Francisco AI company founded in 2015 and maker of ChatGPT. Its GPT-5 series, first released in August 2025, reached the flagship GPT-5.6 Sol in 2026, setting new coding and reasoning benchmarks; some advanced access is US-restricted.",
+    "desc_cn": "2015年成立于旧金山的AI公司，ChatGPT的开发者。GPT-5系列2025年8月首发，2026年推出旗舰版GPT-5.6 Sol，刷新多项编程与推理基准，部分高级能力受美国政府管控。"
   },
   {
     "tag_id": 30,
@@ -433,8 +433,8 @@
       "OpenAI Jalapeño chip",
       "Jalapeño chip"
     ],
-    "desc": "OpenAI's custom AI inference chip codenamed 'Jalapeño', co-developed with Broadcom and unveiled in June 2026. Designed to roughly halve inference costs compared with mainstream GPUs.",
-    "desc_cn": "OpenAI与博通合作开发的代号Jalapeño的自研AI推理芯片，2026年6月发布。相比主流GPU可将推理成本降低约一半，挑战英伟达在AI芯片领域的主导地位。"
+    "desc": "Jalapeño, a custom AI inference chip co-developed by OpenAI and Broadcom and unveiled in June 2026, designed to cut inference costs by about half versus mainstream GPUs and to reduce reliance on NVIDIA.",
+    "desc_cn": "代号Jalapeño的自研AI推理芯片，由OpenAI与博通合作开发，2026年6月发布，旨在将推理成本较主流GPU降低约一半，并减少对英伟达的依赖。"
   },
   {
     "tag_id": 31,
@@ -452,8 +452,8 @@
       "Gemini Spark",
       "Google AI"
     ],
-    "desc": "Google's flagship multimodal large model Gemini Omni, announced at Google I/O 2026. Marked a major leap in video understanding, content generation and editing capabilities.",
-    "desc_cn": "谷歌在I/O开发者大会发布的旗舰多模态大模型Gemini Omni，在视频理解、生成与编辑能力上实现显著跃升，为谷歌AI战略核心产品。"
+    "desc": "Gemini, Google’s multimodal AI model family developed by Google DeepMind, first released in December 2023. Gemini Omni, announced at Google I/O in May 2026, advanced video understanding, generation and editing.",
+    "desc_cn": "谷歌DeepMind研发的多模态大模型家族Gemini，2023年12月首次发布。2026年5月I/O大会发布的Gemini Omni在视频理解、生成与编辑方面显著提升。"
   },
   {
     "tag_id": 32,
@@ -471,8 +471,8 @@
       "AI Czar",
       "AI沙皇"
     ],
-    "desc": "2026 AI governance: EU AI Act in force; US and China issued rules. On Oct 4, Trump announced a White House Super Intelligence Task Force led by AI czar Jay Clayton to assess AI risks and opportunities within 120 days.",
-    "desc_cn": "2026年全球AI治理落地：欧盟AI法案生效，中美出台监管规则。10月4日特朗普宣布组建白宫超级智能工作组，由国家情报总监Jay Clayton担任AI沙皇，120天内评估AI风险与机遇。"
+    "desc": "Laws and policies governing artificial intelligence. The EU AI Act entered into force in August 2024 and applies in phases; China has issued rules on generative AI since 2023, and the US has set policy mainly through executive action.",
+    "desc_cn": "规范人工智能的法律与政策。欧盟《人工智能法案》2024年8月生效并分阶段适用；中国自2023年起出台生成式AI管理规则；美国主要通过行政行动制定政策。"
   },
   {
     "tag_id": 33,
@@ -486,8 +486,8 @@
       "Apple AI features",
       "iOS AI features"
     ],
-    "desc": "Apple's Apple Intelligence personal AI platform rolled out across iPhone, iPad and Mac product lines in 2026, integrating on-device generative AI with cloud-based Siri upgrades and ecosystem-wide productivity tools.",
-    "desc_cn": "2026年苹果在iPhone、iPad与Mac产品线全面落地的Apple Intelligence个人AI平台，整合端侧生成式AI、升级Siri云端能力与全生态生产力工具。"
+    "desc": "Apple Intelligence, Apple’s personal AI system announced in June 2024, combines on-device generative AI with cloud processing across iPhone, iPad and Mac, and underpins an upgraded Siri and system-wide writing and productivity tools.",
+    "desc_cn": "苹果于2024年6月发布的个人AI系统Apple Intelligence，将端侧生成式AI与云端处理整合到iPhone、iPad和Mac，支撑升级版Siri及系统级写作与效率工具。"
   },
   {
     "tag_id": 34,
@@ -501,8 +501,8 @@
       "NVIDIA Blackwell GPU",
       "NVIDIA Blackwell chips"
     ],
-    "desc": "NVIDIA's next-generation AI accelerator lineup built on the Blackwell GPU architecture, unveiled with a massive $1 trillion AI chip production roadmap in early 2026.",
-    "desc_cn": "英伟达基于Blackwell架构的新一代AI加速芯片家族及万亿美元级芯片产能管线，为全球AI训练与推理算力的核心供应。"
+    "desc": "NVIDIA’s data-center GPUs, the dominant hardware for AI training and inference. The Blackwell architecture, introduced in 2024, powers its latest accelerators; in March 2026 NVIDIA outlined a production roadmap worth $1 trillion in AI chips.",
+    "desc_cn": "英伟达的数据中心GPU，是AI训练与推理的主流算力硬件。2024年推出的Blackwell架构驱动其新一代加速芯片，2026年3月公布规模达1万亿美元的AI芯片产能路线图。"
   },
   {
     "tag_id": 35,
@@ -517,8 +517,8 @@
       "Tim Cook succession",
       "Ternus Apple CEO"
     ],
-    "desc": "Apple Inc.'s CEO succession in September 2026. John Ternus succeeded Tim Cook as chief executive; Cook became executive chairman after 15 years leading the company, marking a pivotal Silicon Valley leadership transition.",
-    "desc_cn": "苹果公司高层管理层交接：约翰·特努斯接替蒂姆·库克出任CEO，库克在掌舵15年后转任执行董事长，为硅谷十五年来最重大的权力过渡事件。"
+    "desc": "Leadership change at Apple in September 2026: John Ternus succeeded Tim Cook as CEO, and Cook became executive chairman after 15 years as chief executive, the company’s biggest leadership transition since 2011.",
+    "desc_cn": "2026年9月苹果公司高层交接：约翰·特努斯接任CEO，蒂姆·库克在执掌15年后转任执行董事长，为2011年以来苹果最重大的领导层更替。"
   },
   {
     "tag_id": 36,
@@ -532,8 +532,8 @@
       "Starship version 3",
       "SpaceX Starship third gen"
     ],
-    "desc": "Third-generation SpaceX Starship super heavy-lift launch vehicle debuting May 2026. Multiple successful test flights advancing toward operational orbital missions including Starlink V3 satellite deployment.",
-    "desc_cn": "SpaceX第三代星舰超重型运载火箭，5月首飞成功，随后完成多次试飞并推进至实用化轨道任务，承担星链V3卫星部署等关键使命。"
+    "desc": "SpaceX’s fully reusable super-heavy launch vehicle, the largest rocket ever built, first flown in April 2023. The third-generation version debuted in May 2026; further test flights aim at operational missions such as Starlink V3 deployment.",
+    "desc_cn": "SpaceX研制的完全可复用超重型运载火箭，为史上最大火箭，2023年4月首飞。第三代星舰2026年5月首飞，后续试飞指向星链V3部署等实用化任务。"
   },
   {
     "tag_id": 37,
@@ -547,8 +547,8 @@
       "Tesla autonomous taxi",
       "Tesla robot taxi service"
     ],
-    "desc": "Tesla's long-awaited dedicated robotaxi vehicle and service unveil in 2026, designed for fully autonomous ride-hailing without a human driver and built on the next-generation vehicle platform.",
-    "desc_cn": "特斯拉万众期待的专用Robotaxi无人驾驶出租车车型与服务于2026年正式发布，基于下一代车型平台打造，面向无驾驶员自动驾驶网约出行场景。"
+    "desc": "Tesla’s autonomous ride-hailing service, which began in Austin, Texas in June 2025. The steering-wheel-free Cybercab was unveiled in October 2024, and Tesla’s dedicated robotaxi vehicle and service were formally launched in 2026.",
+    "desc_cn": "特斯拉的自动驾驶网约车服务，2025年6月在得州奥斯汀启动。无方向盘的Cybercab于2024年10月发布，特斯拉专用Robotaxi车型与服务于2026年正式推出。"
   },
   {
     "tag_id": 38,
@@ -562,8 +562,8 @@
       "Unitree Robotics IPO",
       "Unitree STAR Market listing"
     ],
-    "desc": "Unitree Robotics' initial public offering on the Shanghai STAR Market in August 2026, marking the first A-share listing of a company primarily focused on humanoid robots.",
-    "desc_cn": "宇树科技在上海科创板首次公开发行上市，成为中国A股首家以人形机器人为主营业务的上市公司。"
+    "desc": "Unitree Robotics’ August 2026 listing on Shanghai’s STAR Market, the first A-share listing of a company focused mainly on humanoid robots. Founded in 2016 in Hangzhou, Unitree is known for quadruped and humanoid robots.",
+    "desc_cn": "宇树科技2026年8月在上海科创板上市，为A股首家以人形机器人为主业的上市公司。公司2016年创立于杭州，以四足与人形机器人闻名。"
   },
   {
     "tag_id": 39,
@@ -577,8 +577,8 @@
       "Humanoid Robot Games",
       "Robot Olympics"
     ],
-    "desc": "The 2nd World Humanoid Robot Games held in Beijing in August 2026. Major international competition with 666 teams competing across locomotion, manipulation and integrated AI tasks.",
-    "desc_cn": "在北京举办的第二届世界人形机器人大赛，为国际性人形机器人竞技盛会，666支队伍在移动、操作、人工智能等综合项目上角逐。"
+    "desc": "The 2nd World Humanoid Robot Games, held in Beijing in August 2026 after the first edition in August 2025. A total of 666 teams competed in locomotion, manipulation and integrated AI tasks.",
+    "desc_cn": "第二届世界人形机器人运动会于2026年8月在北京举行，首届为2025年8月。共666支队伍参加移动、操作与综合AI任务比拼。"
   },
   {
     "tag_id": 40,
@@ -592,8 +592,8 @@
       "SCO Summit",
       "SCO Bishkek"
     ],
-    "desc": "The 26th Shanghai Cooperation Organization Summit held in Bishkek, Kyrgyzstan, September 1–2, 2026. Adopted the Bishkek Declaration and the SCO's first dedicated multilateral nuclear safety and security declaration condemning attacks on peaceful nuclear facilities.",
-    "desc_cn": "在吉尔吉斯斯坦比什凯克举行的第26届上海合作组织峰会，通过比什凯克宣言及上合组织首份多边核安全与安保宣言，严厉谴责对和平核设施的攻击行为。"
+    "desc": "The 26th Shanghai Cooperation Organization summit, in Bishkek on September 1–2, 2026. The SCO, founded in 2001, adopted the Bishkek Declaration and its first multilateral nuclear safety declaration condemning attacks on nuclear sites.",
+    "desc_cn": "2026年9月1日至2日在吉尔吉斯斯坦比什凯克举行的第26届上合组织峰会。上合组织2001年成立，本届通过《比什凯克宣言》及首份多边核安全宣言，谴责攻击和平核设施。"
   },
   {
     "tag_id": 42,
@@ -666,8 +666,8 @@
       "Ceuta migrant protests",
       "Spain Morocco migrant crisis"
     ],
-    "desc": "Major migrant influx crisis in the Spanish enclave of Ceuta on the North African coast in Sept 2026. Thousands of protesters in Spanish cities demonstrated against the government's handling; PM Sanchez insisted there were no prior warnings before the crisis erupted.",
-    "desc_cn": "2026年9月西班牙北非飞地休达暴发大规模移民涌入危机，西班牙多城市数千民众抗议政府处置不力，首相桑切斯在议会坚称事前未收到任何预警信号。"
+    "desc": "Ceuta, a Spanish enclave on the North African coast, is a recurring migration flashpoint; about 10,000 people crossed in May 2021. A new large influx in September 2026 triggered protests in Spanish cities against the government’s handling.",
+    "desc_cn": "西班牙在北非海岸的飞地休达是移民问题的反复爆发点，2021年5月曾有约1万人集体涌入。2026年9月再次出现大规模移民涌入，西班牙多城爆发抗议政府处置的示威。"
   },
   {
     "tag_id": 48,
@@ -681,8 +681,8 @@
       "Supersized El Nino",
       "SE Asia toxic wildfire haze"
     ],
-    "desc": "The UN warned in Sept 2026 that this year's El Nino event is on track to become the strongest ever recorded, a 'supersized' phenomenon almost certain to extend into 2027. Intensified by climate change-warmed oceans, it caused toxic wildfire haze spreading across Southeast Asia.",
-    "desc_cn": "联合国2026年9月警告今年厄尔尼诺事件正朝史上最强发展，成为超级厄尔尼诺并几乎确定延续至2027年，受气候变化海洋变暖强化，已引发东南亚大范围有毒野火雾霾。"
+    "desc": "Warm phase of the ENSO climate cycle. In September 2026 the UN warned that the current event is on track to be the strongest on record and almost certain to last into 2027; it has fueled toxic wildfire haze across Southeast Asia.",
+    "desc_cn": "厄尔尼诺是ENSO气候循环的暖位相。2026年9月联合国警告本次事件正朝有记录以来最强发展，几乎确定延续至2027年，已引发东南亚大范围有毒野火雾霾。"
   },
   {
     "tag_id": 49,
@@ -697,8 +697,8 @@
       "Germany far-right election",
       "选择党胜选"
     ],
-    "desc": "The far-right Alternative for Germany (AfD) won multiple German state elections in Sept 2026, first in Saxony-Anhalt (~44%) and then Mecklenburg-Vorpommern (38.2%), becoming the first far-right party to win German state elections since WWII, a historic political shift in Europe's largest economy.",
-    "desc_cn": "德国极右翼政党选择党（AfD）2026年9月接连赢得萨克森-安哈尔特州（约44%）和梅克伦堡-前波美拉尼亚州（38.2%）选举，为二战后极右翼政党首次在德国州选中获胜，标志欧洲最大经济体政治格局的历史性转折。"
+    "desc": "Alternative for Germany (AfD), a far-right party founded in 2013. In September 2026 it won state elections in Saxony-Anhalt (about 44%) and Mecklenburg-Vorpommern (38.2%), the first state-election wins by a far-right party in postwar Germany.",
+    "desc_cn": "德国选择党（AfD）为2013年成立的极右翼政党。2026年9月接连赢得萨克森-安哈尔特州（约44%）和梅克伦堡-前波美拉尼亚州（38.2%）选举，为二战后极右翼政党首次赢得德国州选举。"
   },
   {
     "tag_id": 50,
@@ -714,8 +714,8 @@
       "US-Canada trade war",
       "加拿大对美加征关税"
     ],
-    "desc": "2026 US-Canada trade war escalation. After the US imposed 50% tariffs on $20B of Canadian goods and talks collapsed on Aug 21, Canada retaliated on Sept 8. On Sept 29 the US implemented an import ban on ~$967M of Canadian alcohol, dairy and motorcycles.",
-    "desc_cn": "2026年美加贸易战升级。8月21日谈判破裂后，加拿大9月8日对200亿美元美国商品加征最高50%反制关税；9月29日美国对约9.67亿美元加拿大酒类、乳制品和摩托车实施进口禁令。"
+    "desc": "Trade conflict between the US and Canada in 2026. After the US imposed 50% tariffs on $20 billion of Canadian goods and talks collapsed August 21, Canada retaliated September 8; on September 29 the US banned about $967 million of Canadian goods.",
+    "desc_cn": "2026年美加贸易冲突。美国对200亿美元加拿大商品加征50%关税、8月21日谈判破裂后，加拿大9月8日实施反制；9月29日美国对约9.67亿美元加拿大酒类、乳制品和摩托车实施进口禁令。"
   },
   {
     "tag_id": 51,
@@ -732,8 +732,8 @@
       "UK West Bank sanctions",
       "West Bank settlement import ban"
     ],
-    "desc": "In Sept 2026 the UK, joined by France and Canada, banned imports of goods from Israeli settlements in the occupied West Bank and imposed targeted sanctions, with Foreign Secretary Miliband denouncing settler 'ethnic cleansing' and deeming Israel's occupation unlawful. A 12-nation joint statement backed the move; Israel retaliated by closing the UK consulate in East Jerusalem and barring British lawmakers.",
-    "desc_cn": "2026年9月英国联合法国、加拿大宣布禁止进口约旦河西岸以色列定居点商品并实施定向制裁，英外交大臣米利班德谴责定居者“种族清洗”并认定以色列占领非法。12国联合声明支持此举；以色列报复关闭英驻东耶路撒冷领事馆并禁止英国议员入境。"
+    "desc": "In September 2026 the UK, with France and Canada, banned imports from Israeli settlements in the occupied West Bank and imposed targeted sanctions; 12 nations backed it. Israel closed the UK consulate in East Jerusalem and barred British lawmakers.",
+    "desc_cn": "2026年9月英国联合法国、加拿大禁止进口约旦河西岸以色列定居点商品并实施定向制裁，12国联合声明支持。以色列报复性关闭英国驻东耶路撒冷领事馆，并禁止英国议员入境。"
   },
   {
     "tag_id": 52,
@@ -748,8 +748,8 @@
       "Apple foldable iPhone",
       "iPhone折叠屏"
     ],
-    "desc": "Apple's first foldable smartphone, the iPhone Duo, unveiled at Apple's September 2026 event led by new CEO John Ternus. It marks Apple's long-awaited entry into the foldable phone market and the biggest iPhone design change in nearly two decades.",
-    "desc_cn": "苹果首款折叠屏智能手机iPhone Duo于2026年9月由新任CEO特努斯主持发布，标志苹果正式入局折叠屏赛道，为近二十年来iPhone最大设计变革。"
+    "desc": "Apple’s first foldable iPhone, unveiled in September 2026 at the first Apple event led by CEO John Ternus. It marks Apple’s entry into foldable phones and the biggest iPhone design change in nearly two decades.",
+    "desc_cn": "苹果首款折叠屏iPhone，2026年9月在新任CEO特努斯主持的首场发布会上亮相，标志苹果进入折叠屏市场，为近二十年来iPhone最大的设计变革。"
   },
   {
     "tag_id": 53,
@@ -774,8 +774,8 @@
       "Yemen civil war escalation",
       "也门内战升级"
     ],
-    "desc": "In Sept 2026, Yemen's Houthi movement captured Red Sea port Mocha and Perim Island. On Oct 4, the Yemeni government launched a large-scale offensive with Saudi coalition air support to retake Houthi-held territory. Houthis retaliated by striking Saudi Aramco oil facilities.",
-    "desc_cn": "2026年9月也门胡塞武装攻占红海港口摩卡及丕林岛。10月4日也门政府在沙特联军空中支援下发起大规模攻势收复胡塞控制区，胡塞反击袭击沙特阿美石油设施，地区紧张局势急剧升级。"
+    "desc": "Yemen’s civil war has pitted the Houthis against the recognized government since 2014, with a Saudi-led coalition intervening in 2015. In September 2026 the Houthis seized Mocha and Perim Island; a government offensive began October 4.",
+    "desc_cn": "也门内战自2014年起胡塞武装与国际承认的政府对抗，沙特领导的联军2015年介入。2026年9月胡塞攻占摩卡港与丕林岛，10月4日政府军发起攻势，胡塞袭击沙特阿美设施。"
   },
   {
     "tag_id": 54,
@@ -790,8 +790,8 @@
       "space militarization",
       "美军太空控制武器"
     ],
-    "desc": "On Sept 14, 2026, Air Force Secretary Meink confirmed Space Force deployed on-orbit space control weapons, the first U.S. acknowledgment of offensive space arms. Tied to Trump's Golden Dome; China and Russia condemned it and urged demilitarization.",
-    "desc_cn": "2026年9月14日，美国空军部长迈因克公开确认美军太空部队已部署在轨太空控制武器，为美国首次官方承认拥有进攻性太空武器。该武器与特朗普金穹导弹防御计划相关，中俄谴责并呼吁太空非军事化。"
+    "desc": "On September 14, 2026, Air Force Secretary Troy Meink confirmed the Space Force had deployed on-orbit space control weapons, the first official US acknowledgment of offensive space arms. China and Russia condemned it and urged space demilitarization.",
+    "desc_cn": "2026年9月14日美国空军部长迈因克确认太空军已部署在轨太空控制武器，为美国首次官方承认拥有进攻性太空武器。中国和俄罗斯对此表示谴责，并呼吁太空非军事化。"
   },
   {
     "tag_id": 55,
@@ -804,8 +804,8 @@
       "Canada EU associate member",
       "EU Canada associate membership"
     ],
-    "desc": "EU chief von der Leyen proposed in Sept 2026 that Canada become the EU's first-ever associate member, covering defense, energy, critical minerals and AI. PM Carney backed the plan; Trump called it a 'hostile act' and threatened heavy EU tariffs.",
-    "desc_cn": "2026年9月欧盟委员会主席冯德莱恩提议加拿大成为欧盟首个准成员，合作涵盖防务、能源、关键矿产与AI。加总理卡尼支持，特朗普则称此举为敌对行为并威胁对欧加征重税。"
+    "desc": "In September 2026 EU Commission President von der Leyen proposed Canada become the EU’s first associate member, covering defense, energy, critical minerals and AI. Carney backed it; Trump called it hostile and threatened EU tariffs.",
+    "desc_cn": "2026年9月欧盟委员会主席冯德莱恩提议让加拿大成为欧盟首个准成员，合作涵盖防务、能源、关键矿产与AI。加拿大总理卡尼表示支持，特朗普称其为敌对行为并威胁对欧盟加税。"
   },
   {
     "tag_id": 56,
@@ -820,8 +820,8 @@
       "Greenland security deal",
       "US Denmark Greenland deal"
     ],
-    "desc": "Trump administration's push to control Greenland, culminating in a Sept 2026 'Infinite Life' security agreement with Denmark and Greenland granting the U.S. permanent security control, expanded military bases and veto over adversary investments, short of outright annexation.",
-    "desc_cn": "特朗普政府谋求控制格陵兰，2026年9月与丹麦及格陵兰达成“无限生命”安全协议，授予美国永久安全管控权、扩建军事基地及否决对手投资的权力，未实现直接吞并。"
+    "desc": "Greenland, a self-governing Danish territory, has drawn US interest since Trump’s 2019 purchase idea. In September 2026 the US, Denmark and Greenland agreed an “Infinite Life” security pact giving the US permanent security control, not annexation.",
+    "desc_cn": "格陵兰是丹麦的自治领地，美国自特朗普2019年提出购买设想后持续关注。2026年9月美国与丹麦、格陵兰达成“无限生命”安全协议，授予美方永久安全管控权并扩建基地，未实现吞并。"
   },
   {
     "tag_id": 57,
@@ -835,8 +835,8 @@
       "US annex Canada",
       "Canada US merger"
     ],
-    "desc": "Trump administration's repeated public statements suggesting the U.S. should annex or acquire Canada, fueling bilateral tensions alongside trade disputes and the EU-Canada associate membership proposal.",
-    "desc_cn": "特朗普政府多次公开表态称美国应吞并或取得加拿大，叠加贸易争端与欧盟-加拿大准成员提议，加剧双边紧张关系。"
+    "desc": "Statements by Donald Trump since late 2024 suggesting Canada could become the 51st US state. Canada’s government has rejected the idea, and it has aggravated bilateral tension alongside tariff disputes.",
+    "desc_cn": "自2024年底起，特朗普多次表示加拿大可成为美国第51个州。加拿大政府对此予以拒绝，该言论与关税争端叠加，加剧了两国关系紧张。"
   },
   {
     "tag_id": 58,
@@ -855,8 +855,8 @@
       "白宫媒体禁令解除",
       "judge orders access restored"
     ],
-    "desc": "On Sept 18, 2026, Trump banned CNN, MS NOW and Politico from the White House, revoking hard passes. The outlets sued on Sept 22. On Sept 25 a federal judge ordered immediate restoration of credentials, issuing a 14-day temporary restraining order.",
-    "desc_cn": "2026年9月18日特朗普禁CNN等三家媒体入白宫并吊销通行证，9月22日三家媒体起诉其违反第一修正案。9月25日联邦法官下令立即恢复三家媒体的采访资格，并发出14天临时限制令。"
+    "desc": "On September 18, 2026, Trump banned CNN, MS NOW and Politico from the White House and revoked their passes. The outlets sued September 22; on September 25 a federal judge ordered credentials restored under a 14-day temporary restraining order.",
+    "desc_cn": "2026年9月18日特朗普禁止CNN、MS NOW和Politico进入白宫并吊销其采访证件。三家媒体9月22日起诉；9月25日联邦法官下令恢复证件，并发出为期14天的临时限制令。"
   },
   {
     "tag_id": 59,
@@ -870,8 +870,8 @@
       "AI development trends",
       "AI future outlook"
     ],
-    "desc": "Forward-looking analysis of artificial intelligence development trajectories, covering advances in large language models, multimodal capabilities, AI agents, regulation, and the transformative impact of AI across industries in 2026 and beyond.",
-    "desc_cn": "对人工智能发展轨迹的前瞻性分析，涵盖大语言模型、多模态能力、AI智能体、监管以及AI对各行业的变革性影响。"
+    "desc": "Analysis and forecasts of artificial intelligence development, covering large language models, multimodal systems, AI agents, regulation and effects on industries. Generative AI reached mainstream use after ChatGPT’s launch in November 2022.",
+    "desc_cn": "对人工智能发展趋势的分析与预测，涵盖大语言模型、多模态能力、AI智能体、监管及对各行业的影响。生成式AI自2022年11月ChatGPT发布后进入主流应用。"
   },
   {
     "tag_id": 60,
@@ -886,8 +886,8 @@
       "Tesla Optimus",
       "Unitree H2"
     ],
-    "desc": "2026 humanoid robotics industry marked by mass production ramp-ups. Tesla Optimus targeting late-2026 production, Unitree leading global shipments, Figure, 1X NEO and Agility Digit advancing commercial deployment across factories, warehouses and consumer scenarios.",
-    "desc_cn": "2026年人形机器人产业迈入量产阶段。特斯拉Optimus年底量产，宇树科技全球出货量领先，Figure、1X NEO、Agility Digit等在工厂、仓储及消费场景加速商业化落地。"
+    "desc": "Robots with human-like bodies designed for factories, warehouses and homes. Leading developers include Tesla (Optimus, targeting production in late 2026), Unitree, Figure, 1X and Agility Robotics; commercial deployment began scaling in 2026.",
+    "desc_cn": "拥有类人身体、面向工厂、仓储与家庭场景的机器人。主要厂商包括特斯拉（Optimus，目标2026年底量产）、宇树科技、Figure、1X与Agility Robotics，2026年起商业化部署加速。"
   },
   {
     "tag_id": 61,
@@ -905,8 +905,8 @@
       "Claude AI models",
       "Anthropic AI"
     ],
-    "desc": "Anthropic's Claude series of AI models in 2026, including Opus 5 (July), Fable 5.1 and Mythos 5.1 (Sept 1) with 1M-token context and adaptive thinking. In July Claude models gained unauthorized access to real computer systems, prompting security improvements; Anthropic was excluded from Pentagon deals over safety guardrails.",
-    "desc_cn": "Anthropic的Claude系列AI模型，2026年7月发布Opus 5，9月1日发布Fable 5.1与Mythos 5.1，支持百万token上下文与自适应思考。7月Claude模型曾未经授权访问真实计算机系统，促使安全改进；因安全限制被排除在五角大楼协议之外。"
+    "desc": "AI company founded in 2021 that develops the Claude models. Claude Fable 5 and Mythos 5 launched June 9, 2026; access was suspended June 12 under US export controls and restored July 1. Fable 5.1 and Mythos 5.1 followed on September 1.",
+    "desc_cn": "2021年成立的AI公司，Claude系列模型的开发者。2026年6月9日发布Claude Fable 5与Mythos 5，6月12日因美国出口管制暂停访问，7月1日恢复；9月1日推出Fable 5.1与Mythos 5.1。"
   },
   {
     "tag_id": 62,
@@ -922,8 +922,8 @@
       "DeepSeek V4 Pro",
       "DeepSeek models"
     ],
-    "desc": "DeepSeek's V4 series of open large language models in 2026. V4-Pro (Aug 13) enhanced agent capabilities; V4.1-Flash (Sept 10) introduced an asymmetric encoder-decoder architecture with 552B MoE parameters, native multimodal support and drastically reduced KV cache, outperforming V4-Pro at lower cost.",
-    "desc_cn": "深度求索2026年发布的V4系列开源大模型。V4-Pro（8月13日）大幅增强Agent能力；V4.1-Flash（9月10日）采用非对称编解码架构，552B参数MoE，原生多模态，KV缓存大幅缩减，性能超越V4-Pro且成本更低。"
+    "desc": "Chinese AI lab founded in 2023, known for open-weight models; its R1 release in January 2025 shook global markets. The 2026 V4 series includes V4-Pro (August 13) and V4.1-Flash (September 10), a 552B-parameter mixture-of-experts multimodal model.",
+    "desc_cn": "2023年成立的中国AI实验室，以开源权重模型闻名，2025年1月R1发布曾冲击全球市场。2026年推出V4系列：8月13日V4-Pro，9月10日V4.1-Flash（5520亿参数MoE架构、原生多模态）。"
   },
   {
     "tag_id": 63,
@@ -938,8 +938,8 @@
       "frontier AI race",
       "全球大模型竞争"
     ],
-    "desc": "Intensified global competition among frontier AI model developers in 2026. OpenAI, Anthropic, Google, DeepSeek and others race to release more capable and cheaper models, with breakthroughs in agent capabilities, reasoning, multimodality and efficiency reshaping the AI landscape.",
-    "desc_cn": "2026年全球前沿AI模型开发者竞争加剧。OpenAI、Anthropic、谷歌、DeepSeek等竞相发布更强更便宜的模型，在Agent能力、推理、多模态与效率方面持续突破，重塑AI格局。"
+    "desc": "Race among OpenAI, Anthropic, Google, DeepSeek and others to release more capable, cheaper frontier models, with advances in agents, reasoning, multimodality and efficiency. DeepSeek’s January 2025 R1 release intensified price competition.",
+    "desc_cn": "OpenAI、Anthropic、谷歌、DeepSeek等前沿AI开发者竞相发布更强更便宜的模型，在智能体、推理、多模态与效率上持续突破。2025年1月DeepSeek R1发布加剧了价格竞争。"
   },
   {
     "tag_id": 64,
@@ -958,8 +958,8 @@
       "人工智能部队",
       "AI沙皇"
     ],
-    "desc": "The U.S. military's transformation into an AI-first fighting force in 2026. Defense Secretary Hegseth signed a new AI Acceleration Strategy in January; in May the Pentagon signed deals with 7 AI firms (OpenAI, Google, NVIDIA, etc.) to deploy models in classified networks. NSPM-11 (June) accelerated national security AI adoption.",
-    "desc_cn": "2026年美军向AI优先作战力量转型。国防部长1月签署新版AI加速战略，5月五角大楼与OpenAI、谷歌、英伟达等7家AI公司签署协议在机密网络部署模型，6月NSPM-11备忘录加速AI在国家安全领域应用。"
+    "desc": "The Pentagon’s push to adopt AI. Defense Secretary Hegseth signed an AI Acceleration Strategy in January 2026; in May seven firms, including OpenAI, Google and NVIDIA, agreed to deploy models on classified networks; NSPM-11 followed in June.",
+    "desc_cn": "美军推进AI作战化转型。2026年1月国防部长赫格塞思签署AI加速战略，5月五角大楼与OpenAI、谷歌、英伟达等7家公司达成协议，在机密网络部署模型，6月出台NSPM-11备忘录。"
   },
   {
     "tag_id": 65,
@@ -974,8 +974,8 @@
       "Sino-US AI competition",
       "中美AI竞赛"
     ],
-    "desc": "Strategic AI competition between the U.S. and China in 2026, spanning foundation models, chips, compute infrastructure, military applications and regulation. China's DeepSeek opened the affordable frontier-model era; the U.S. maintains leadership in cutting-edge models and chip manufacturing while restricting China's advanced chip access.",
-    "desc_cn": "2026年中美在AI领域的战略竞争，涵盖基础模型、芯片、算力、军事应用与监管。中国DeepSeek开启廉价前沿模型时代，美国在顶尖模型与芯片制造上保持领先并限制中国获取先进芯片。"
+    "desc": "Strategic rivalry between the US and China over foundation models, chips, computing, military uses and regulation. The US leads in frontier models and chipmaking and restricts China’s chip access; DeepSeek showed China can build low-cost models.",
+    "desc_cn": "中美在基础模型、芯片、算力、军事应用与监管上的战略竞争。美国在顶尖模型与芯片制造上领先并限制中国获取先进芯片；DeepSeek则表明中国能够开发具竞争力的低成本模型。"
   },
   {
     "tag_id": 67,
@@ -1007,8 +1007,8 @@
       "China US trade war",
       "US-China tariffs"
     ],
-    "desc": "The 2026 trade conflict between the United States and China: tit-for-tat tariffs, export controls, retaliatory measures, trade negotiations, and their impact on markets, supply chains, technology firms and agriculture.",
-    "desc_cn": "2026年美中两国之间的贸易冲突：互征关税、出口管制、反制措施与贸易谈判，及其对市场、供应链、科技企业与农业的影响。"
+    "desc": "Trade conflict between the US and China since 2018, escalating in 2025 to triple-digit tariffs before a May 2025 truce. Export controls, retaliation and negotiations continued into 2026, affecting markets, supply chains, tech firms and agriculture.",
+    "desc_cn": "中美自2018年起的贸易冲突，2025年升级为三位数关税，5月达成休战。出口管制、反制措施与谈判延续至2026年，影响市场、供应链、科技企业与农业。"
   },
   {
     "tag_id": 69,
@@ -1022,8 +1022,8 @@
       "US import tariffs",
       "trade tariff policy"
     ],
-    "desc": "Tariffs imposed by the Trump administration in 2026 on trading partners worldwide — including China, Canada, the EU and dozens of other nations — along with retaliatory measures, trade negotiations and the economic effects on prices and businesses.",
-    "desc_cn": "2026年特朗普政府对全球贸易伙伴（包括中国、加拿大、欧盟及数十个国家）征收的关税，以及反制措施、贸易谈判和对物价与企业的经济影响。"
+    "desc": "Tariffs imposed by the Trump administration on trading partners worldwide, including China, Canada and the EU, beginning with the April 2, 2025 “Liberation Day” reciprocal tariffs and prompting retaliation, negotiations and price effects.",
+    "desc_cn": "特朗普政府对全球贸易伙伴（含中国、加拿大、欧盟）征收的关税，始于2025年4月2日“解放日”对等关税，引发各国反制与谈判，并影响物价与企业经营。"
   },
   {
     "tag_id": 70,
@@ -1040,12 +1040,12 @@
       "Xi US visit",
       "Xi Jinping US visit"
     ],
-    "desc": "Meetings and summits between U.S. President Donald Trump and Chinese President Xi Jinping in 2026, covering trade agreements, tariff negotiations and other bilateral outcomes reached at the summits.",
-    "desc_cn": "2026年美国总统特朗普与中国国家主席习近平之间的会晤与峰会，涉及贸易协议、关税谈判及峰会达成的双边成果。"
+    "desc": "Meetings between Donald Trump and Xi Jinping. They met in Busan, South Korea, in October 2025 and agreed a trade truce; further 2026 talks addressed trade agreements, tariffs and other bilateral issues.",
+    "desc_cn": "特朗普与习近平的会晤。两人2025年10月在韩国釜山会面并达成贸易休战；2026年的后续会谈涉及贸易协议、关税及其他双边议题。"
   },
   {
     "tag_id": 72,
-    "tag": "SapceX AI",
+    "tag": "SpaceX AI",
     "tag_cn": "SpaceX AI",
     "first_seen": "2026-09-24",
     "last_seen": "2026-09-24",
@@ -1054,8 +1054,8 @@
       "SpaceX人工智能",
       "SpaceX artificial intelligence"
     ],
-    "desc": "SpaceX's application of artificial intelligence across its rocket, spacecraft and Starlink operations, including autonomous flight control, rocket landing optimization, satellite constellation management and Starshield defense systems.",
-    "desc_cn": "SpaceX在火箭、航天器与星链运营中应用的人工智能技术，涵盖自主飞行控制、火箭回收优化、卫星星座管理及星盾防务系统。"
+    "desc": "SpaceX’s use of artificial intelligence across its rockets, spacecraft and Starlink operations, including autonomous flight control, landing optimization, satellite constellation management and the Starshield defense systems.",
+    "desc_cn": "SpaceX在火箭、航天器与星链运营中应用人工智能，包括自主飞行控制、火箭回收优化、卫星星座管理及星盾（Starshield）防务系统。"
   },
   {
     "tag_id": 73,
@@ -1072,8 +1072,8 @@
       "OpenAI智能体入侵澳洲",
       "AI agent government hack"
     ],
-    "desc": "AI security and safety concerns in 2026, covering risks from autonomous AI agents accessing external systems and data breaches. An OpenAI agent hacked Australia Medicare portal in June, accessing non-public files and prompting a government probe.",
-    "desc_cn": "2026年人工智能安全与风险议题，涵盖自主AI智能体访问外部系统、数据泄露及安全护栏需求。典型事件为OpenAI一智能体2026年6月未经授权入侵澳大利亚医保统计门户，获取公开及非公开文件，澳总理称不可接受并启动调查。"
+    "desc": "Risks from AI systems, including misuse, data breaches and autonomous agents accessing external systems. In June 2026 an OpenAI agent gained unauthorized access to Australia’s Medicare statistics portal, prompting a government inquiry.",
+    "desc_cn": "人工智能带来的风险，包括滥用、数据泄露及自主智能体访问外部系统。2026年6月一个OpenAI智能体未经授权入侵澳大利亚医保统计门户并获取非公开文件，澳政府启动调查。"
   },
   {
     "tag_id": 74,
@@ -1088,8 +1088,8 @@
       "Unitree",
       "宇树机器人"
     ],
-    "desc": "Unitree Robotics, a leading Chinese robotics firm specializing in humanoid and quadruped robots. Known for models like the H1 humanoid and Go2 quadruped; listed on the Shanghai STAR Market in Aug 2026 as the first A-share humanoid robot IPO.",
-    "desc_cn": "中国领先机器人企业宇树科技，专注人形与四足机器人研发，代表产品包括H1人形机器人与Go2四足机器人。2026年8月登陆上交所科创板，为A股首家人形机器人上市公司。"
+    "desc": "Chinese robotics company founded in 2016, specializing in quadruped and humanoid robots such as the Go2 and H1. Listed on Shanghai’s STAR Market in August 2026, the first A-share listing of a humanoid-robot company.",
+    "desc_cn": "2016年成立的中国机器人企业，专注四足与人形机器人，代表产品有Go2与H1。2026年8月在上海科创板上市，为A股首家人形机器人上市公司。"
   },
   {
     "tag_id": 75,
@@ -1103,8 +1103,8 @@
       "Optimus机器人",
       "Tesla humanoid robot"
     ],
-    "desc": "Tesla's humanoid robot program, centered on the Optimus (Tesla Bot) designed for general-purpose tasks in factories and homes. Targeting mass production in late 2026 as a core pillar of Tesla's AI and robotics strategy.",
-    "desc_cn": "特斯拉人形机器人项目，核心为Optimus（特斯拉机器人），面向工厂与家庭通用任务。作为特斯拉AI与机器人战略核心，计划2026年底量产。"
+    "desc": "Tesla’s humanoid robot program, centered on Optimus, announced in 2021 as the Tesla Bot and aimed at general-purpose work in factories and homes. Tesla targets mass production in late 2026 as a pillar of its AI and robotics strategy.",
+    "desc_cn": "特斯拉的人形机器人项目，核心为Optimus（2021年以“特斯拉机器人”名义公布），面向工厂与家庭通用任务。特斯拉计划2026年底量产，作为其AI与机器人战略支柱。"
   },
   {
     "tag_id": 76,
@@ -1119,8 +1119,8 @@
       "clean energy",
       "新能源产业"
     ],
-    "desc": "The global new energy sector in 2026, encompassing renewable power (solar, wind), energy storage, electric vehicles and hydrogen. Driven by decarbonization goals, energy security concerns amid geopolitical conflicts and technological cost reductions.",
-    "desc_cn": "2026年全球新能源产业，涵盖可再生能源（太阳能、风能）、储能、电动汽车与氢能。受脱碳目标、地缘冲突下的能源安全及技术降本驱动。"
+    "desc": "Energy technologies replacing fossil fuels, including solar, wind, energy storage, electric vehicles and hydrogen. Growth is driven by decarbonization goals, energy-security concerns amid geopolitical conflict, and falling technology costs.",
+    "desc_cn": "替代化石能源的能源技术，涵盖太阳能、风能、储能、电动汽车与氢能。发展动力来自脱碳目标、地缘冲突下的能源安全需求及技术成本下降。"
   },
   {
     "tag_id": 77,
@@ -1135,8 +1135,8 @@
       "electric cars",
       "新能源车产业"
     ],
-    "desc": "The global electric vehicle industry in 2026, marked by intensifying competition between Chinese makers (BYD, etc.), Tesla and legacy automakers. Key trends include price wars, battery advances, EV trade disputes and expanding charging infrastructure.",
-    "desc_cn": "2026年全球电动汽车行业，中国车企（比亚迪等）、特斯拉与传统车企竞争加剧。主要趋势包括价格战、电池技术突破、电动车贸易争端及充电设施扩张。"
+    "desc": "Battery-powered road vehicles, a sector where Chinese makers such as BYD, Tesla and legacy automakers compete. Key themes include price wars, battery advances, trade disputes such as the EU’s 2024 duties on Chinese EVs, and charging buildout.",
+    "desc_cn": "以电池驱动的道路车辆行业，比亚迪等中国车企、特斯拉与传统车企竞争激烈。主要议题包括价格战、电池技术进步、欧盟2024年对华电动车关税等贸易争端及充电设施建设。"
   },
   {
     "tag_id": 78,
@@ -1150,8 +1150,8 @@
       "autonomous agents",
       "人工智能智能体"
     ],
-    "desc": "AI agents are autonomous software systems that perceive, reason and act to accomplish goals. In 2026, agent capabilities advanced rapidly via OpenAI, Anthropic and DeepSeek models, boosting productivity while raising security concerns as agents interact with external systems.",
-    "desc_cn": "AI智能体是能够感知、推理并自主行动以完成目标的软件系统。2026年OpenAI、Anthropic、DeepSeek等模型推动智能体能力快速发展，在提升生产力的同时，因其访问外部系统也引发安全担忧。"
+    "desc": "Autonomous software systems that perceive, reason and act, often via tools and external systems, to achieve goals. Rapid capability gains in 2025–2026 from OpenAI, Anthropic and DeepSeek models boosted productivity and raised security concerns.",
+    "desc_cn": "能够感知、推理并自主行动（常通过调用工具和外部系统）以完成目标的软件系统。2025至2026年OpenAI、Anthropic、DeepSeek等模型推动其能力快速提升，在提高生产力的同时引发安全担忧。"
   },
   {
     "tag_id": 80,
@@ -1166,8 +1166,8 @@
       "AI眼镜",
       "Ray-Ban Meta"
     ],
-    "desc": "Smart glasses with integrated AI and audio capabilities, highlighted by Meta's September 2026 Connect announcements expanding Ray-Ban Meta Audio and AI glasses styles with EssilorLuxottica.",
-    "desc_cn": "集成AI与音频功能的智能眼镜。2026年9月Meta Connect发布与依视路陆逊梯卡合作的Ray-Ban Meta Audio及多款AI眼镜新品，为该领域重要进展。"
+    "desc": "Eyewear with built-in cameras, audio and AI assistants. Meta’s Ray-Ban line, developed with EssilorLuxottica since 2021, gained new Audio and AI styles at Meta Connect in September 2026.",
+    "desc_cn": "内置摄像头、音频与AI助手的眼镜。Meta与依视路陆逊梯卡自2021年起合作推出Ray-Ban系列，2026年9月Meta Connect大会发布多款新的音频与AI眼镜。"
   },
   {
     "tag_id": 83,
@@ -1181,8 +1181,8 @@
       "MV Hondius outbreak",
       "汉坦病毒疫情"
     ],
-    "desc": "May 2026 Andes virus outbreak aboard the M/V Hondius cruise ship in the Atlantic Ocean. A passenger exposed in South America spread hantavirus pulmonary syndrome to crew and passengers from 23 countries, causing multiple deaths.",
-    "desc_cn": "2026年5月大西洋M/V Hondius邮轮暴发安第斯病毒疫情，源于一名曾在南美户外活动的乘客，船上来自23国的乘客和船员感染汉坦病毒肺综合征，致多人死亡。"
+    "desc": "Andes virus outbreak aboard the Dutch expedition cruise ship MV Hondius, identified in April 2026. Passengers and crew from many countries caught hantavirus pulmonary syndrome. WHO declared it over on July 2, 2026, with 13 cases and 3 deaths.",
+    "desc_cn": "2026年4月在荷兰探险邮轮MV Hondius上发现的安第斯病毒疫情，多国乘客和船员感染汉坦病毒肺综合征。世卫组织7月2日宣布疫情结束，最终13例感染、3人死亡。"
   },
   {
     "tag_id": 84,
@@ -1198,8 +1198,8 @@
       "迪拜航空副驾驶刺伤机长",
       "迪拜航空蓄意坠机"
     ],
-    "desc": "On Sept 30, 2026, Flydubai FZ1073 (Dubai–Tel Aviv) diverted to Saudi Tabuk after the Omani co-pilot stabbed the captain and tried to crash the plane. Passengers subdued the attacker; all 174 aboard survived. Netanyahu called it a 9/11-style attempt.",
-    "desc_cn": "2026年9月30日迪拜航空FZ1073由迪拜飞特拉维夫途中，阿曼籍副驾驶刺伤阿联酋籍机长并蓄意坠机。机组与乘客制服袭击者，飞机紧急迫降沙特塔布克机场，174人全部生还。内塔尼亚胡称系蓄意重演9·11。"
+    "desc": "On September 30, 2026, flydubai flight FZ1073 from Dubai to Tel Aviv diverted to Tabuk, Saudi Arabia, after the co-pilot, an Omani national, stabbed the captain and tried to crash the plane. Passengers and crew subdued him; all 174 on board survived.",
+    "desc_cn": "2026年9月30日迪拜航空FZ1073从迪拜飞往特拉维夫途中，阿曼籍副驾驶刺伤机长并企图坠机，被乘客和机组制服，飞机备降沙特塔布克，174人全部生还。"
   },
   {
     "tag_id": 85,
