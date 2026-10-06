@@ -611,12 +611,13 @@
   {
     "tag_id": 43,
     "tag": "FIFA World Cup",
-    "tag_cn": "国际足联世界杯",
+    "tag_cn": "足球世界杯",
     "first_seen": "2025-12-31",
     "last_seen": "2026-07-19",
     "synonyms": [
       "FIFA世界杯",
       "世界杯",
+      "国际足联世界杯",
       "World Cup"
     ],
     "desc": "The premier international men's football tournament, held every four years, bringing together national teams from around the world to compete for the most widely recognized title in football.",
