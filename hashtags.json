@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-10-04",
+    "last_seen": "2026-10-07",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -20,15 +20,15 @@
     "tag": "Israel Gaza War",
     "tag_cn": "加沙战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-28",
+    "last_seen": "2026-10-07",
     "synonyms": [
       "加沙冲突",
       "以哈战争",
       "Gaza conflict",
       "Israel-Hamas war"
     ],
-    "desc": "War begun October 7, 2023, when Hamas-led militants attacked Israel, killing about 1,200 and taking 251 hostages. A US-brokered ceasefire took effect October 10, 2025. Gaza’s health ministry reported 74,016 deaths as of September 26, 2026.",
-    "desc_cn": "2023年10月7日哈马斯领导的武装袭击以色列，约1200人死亡、251人被劫持，以军随即对加沙发动大规模军事行动。2025年10月10日美国斡旋的停火生效。截至2026年9月26日，加沙卫生部称累计死亡74016人。"
+    "desc": "War begun October 7, 2023, when Hamas-led militants attacked Israel, killing about 1,200 and taking 251 hostages. The third anniversary fell under a US-brokered ceasefire since October 10, 2025. Gaza reported 74,245 deaths by October 6, 2026.",
+    "desc_cn": "2023年10月7日哈马斯武装袭击以色列，约1200人死亡、251人被劫持，以军随即对加沙大规模军事行动。2025年10月10日美国斡旋停火生效，三周年之际仍在持续。截至2026年10月6日加沙累计死亡74245人，停火后又1456人丧。"
   },
   {
     "tag_id": 3,
@@ -757,7 +757,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-10-06",
+    "last_seen": "2026-10-07",
     "synonyms": [
       "胡塞武装进攻",
       "红海航运危机",
@@ -775,8 +775,8 @@
       "Yemen civil war escalation",
       "也门内战升级"
     ],
-    "desc": "Yemen’s civil war has pitted the Houthis against the recognized government since 2014, with a Saudi-led coalition intervening in 2015. In September 2026 the Houthis seized Mocha and Perim Island; a government offensive began October 4.",
-    "desc_cn": "也门内战自2014年起胡塞武装与国际承认的政府对抗，沙特领导的联军2015年介入。2026年9月胡塞攻占摩卡港与丕林岛，10月4日政府军发起攻势，胡塞袭击沙特阿美设施。"
+    "desc": "Yemen's civil war pits Houthis against the government since 2014, with Saudi intervention. In September 2026 the Houthis seized Mocha and Perim Island; on October 5 they hit Riyadh airport and an Aramco refinery, prompting a Saudi counteroffensive.",
+    "desc_cn": "也门内战自2014年起胡塞武装对抗政府，沙特联军2015年介入。2026年9月胡塞攻占摩卡港与丕林岛，10月5日袭击利雅得机场和阿美炼油厂，引发沙特大规模反攻。"
   },
   {
     "tag_id": 54,
