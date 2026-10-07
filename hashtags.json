@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-10-07",
+    "last_seen": "2026-10-08",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -20,7 +20,7 @@
     "tag": "Israel Gaza War",
     "tag_cn": "加沙战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-10-07",
+    "last_seen": "2026-10-08",
     "synonyms": [
       "加沙冲突",
       "以哈战争",
@@ -50,7 +50,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-10-06",
+    "last_seen": "2026-10-08",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -59,15 +59,15 @@
       "US-Israel-Iran war",
       "伊朗战争"
     ],
-    "desc": "War begun February 28, 2026, when the US and Israel struck Iran, which retaliated across the Middle East. A Pakistan-brokered ceasefire began April 7–8; a US-Iran memorandum followed June 17. Fighting resumed in July; Iran suspended the deal July 18.",
-    "desc_cn": "2026年2月28日美国与以色列打击伊朗，伊朗在中东多地反击。4月7日至8日在巴基斯坦斡旋下停火，6月17日美伊签署谅解备忘录，7月战事重燃，伊朗于7月18日宣布暂停履行备忘录。"
+    "desc": "War begun February 28, 2026, when the US and Israel struck Iran. A Pakistan-brokered ceasefire began April 7–8; a US-Iran memorandum followed June 17. Fighting resumed in July. By October 5, 81 US aircraft had been lost or damaged.",
+    "desc_cn": "2026年2月28日美以打击伊朗，伊朗在中东多地反击。4月7日至8日巴基斯坦斡旋停火，6月17日美伊签署谅解备忘录，7月战事重燃。截至10月5日美报告81架军机受损或被毁。"
   },
   {
     "tag_id": 5,
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-10-06",
+    "last_seen": "2026-10-08",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
@@ -162,7 +162,7 @@
     "tag": "DRC Ebola Outbreak",
     "tag_cn": "刚果埃博拉疫情",
     "first_seen": "2026-09-02",
-    "last_seen": "2026-09-12",
+    "last_seen": "2026-10-08",
     "synonyms": [
       "刚果金埃博拉",
       "DR Congo Ebola",
@@ -757,7 +757,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-10-07",
+    "last_seen": "2026-10-08",
     "synonyms": [
       "胡塞武装进攻",
       "红海航运危机",
@@ -1363,14 +1363,62 @@
   },
   {
     "tag_id": 98,
-    "tag": "Meta AI"
+    "tag": "Meta AI",
+    "tag_cn": "Meta AI",
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-24",
+    "synonyms": [
+      "Llama 4",
+      "Meta Llama",
+      "Meta AI models",
+      "Llama模型"
+    ],
+    "desc": "Meta's AI division, developer of the Llama open-weight model family. Llama 4, released in September 2026, surpassed 1.2 billion downloads by late September, making it the most widely adopted open-weights AI model series.",
+    "desc_cn": "Meta的人工智能部门，Llama开源权重模型系列的开发者。2026年9月发布的Llama 4至9月底下载量突破12亿次，成为应用最广的开源AI模型。"
   },
   {
     "tag_id": 99,
-    "tag_cn": "法国学生抗议"
+    "tag_cn": "法国学生抗议",
+    "tag": "France Student Protests",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-29",
+    "synonyms": [
+      "法国高中生抗议",
+      "法国教育抗议",
+      "France education protest",
+      "French student demonstrations"
+    ],
+    "desc": "Nationwide protests by French high school students from September 2026 over class sizes, schedules and education budget cuts. Demonstrations spread to hundreds of schools, with clashes, fires and hundreds of arrests reported.",
+    "desc_cn": "2026年9月法国高中生因不满班级人数、课程安排及教育预算削减而发起的全国性抗议，蔓延至数百所学校，出现冲突、纵火事件，警方实施数百次拘捕。"
   },
   {
     "tag_id": 100,
-    "tag_cn": "诺贝尔奖"
+    "tag_cn": "诺贝尔奖",
+    "tag": "Nobel Prize 2026",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-07",
+    "synonyms": [
+      "诺贝尔化学奖",
+      "诺贝尔生理学奖",
+      "Nobel Prizes",
+      "Nobel laureates"
+    ],
+    "desc": "Annual international awards established in 1901 for achievements in physics, chemistry, medicine, literature, peace and economics. In 2026 the physiology or medicine prize was awarded October 5; the chemistry prize on October 7.",
+    "desc_cn": "1901年设立的年度国际奖项，涵盖物理、化学、生理学或医学、文学、和平及经济学领域。2026年生理学或医学奖于10月5日揭晓，化学奖于10月7日揭晓。"
+  },
+  {
+    "tag_id": 101,
+    "tag": "Russia Plague Lab Death",
+    "tag_cn": "俄鼠疫研究所死亡事件",
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08",
+    "synonyms": [
+      "俄实验室鼠疫泄漏",
+      "伊尔库茨克鼠疫研究所",
+      "Russian plague institute death",
+      "Russia lab leak plague"
+    ],
+    "desc": "Death of a laboratory worker at Russia's Irkutsk anti-plague research institute on October 2, 2026, after a suspected September 25 laboratory accident involving Yersinia pestis. WHO is monitoring; Russian authorities opened a criminal investigation.",
+    "desc_cn": "2026年10月2日俄罗斯伊尔库茨克抗鼠疫研究所一名实验人员死亡，疑似9月25日实验室操作鼠疫耶尔森菌时发生意外。世卫组织正密切关注，俄方已启动刑事调查。"
   }
 ]
