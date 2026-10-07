@@ -1360,5 +1360,17 @@
     ],
     "desc": "Brazil's 2026 presidential election first round on October 4 saw Senator Flávio Bolsonaro lead with 47.31% against incumbent Luiz Inácio Lula da Silva's 44.83%. As no candidate reached 50%, a runoff is scheduled for October 25.",
     "desc_cn": "2026年10月4日巴西总统选举首轮，参议员弗拉维奥·博索纳罗获47.31%选票领先，现任总统卢拉得44.83%，因无人过半，将于10月25日举行第二轮对决。"
+  },
+  {
+    "tag_id": 98,
+    "tag": "Meta AI"
+  },
+  {
+    "tag_id": 99,
+    "tag_cn": "法国学生抗议"
+  },
+  {
+    "tag_id": 100,
+    "tag_cn": "诺贝尔奖"
   }
 ]
