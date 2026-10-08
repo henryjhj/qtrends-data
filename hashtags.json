@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-10-08",
+    "last_seen": "2026-10-09",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -50,7 +50,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-10-08",
+    "last_seen": "2026-10-09",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -757,7 +757,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-10-08",
+    "last_seen": "2026-10-09",
     "synonyms": [
       "胡塞武装进攻",
       "红海航运危机",
@@ -773,10 +773,12 @@
       "Yemen government offensive",
       "也门政府军收复战",
       "Yemen civil war escalation",
-      "也门内战升级"
+      "也门内战升级",
+      "胡塞袭击沙特机场",
+      "Houthi attack Saudi airports"
     ],
-    "desc": "Yemen's civil war pits Houthis against the government since 2014, with Saudi intervention. In September 2026 the Houthis seized Mocha and Perim Island; on October 5 they hit Riyadh airport and an Aramco refinery, prompting a Saudi counteroffensive.",
-    "desc_cn": "也门内战自2014年起胡塞武装对抗政府，沙特联军2015年介入。2026年9月胡塞攻占摩卡港与丕林岛，10月5日袭击利雅得机场和阿美炼油厂，引发沙特大规模反攻。"
+    "desc": "Yemen's civil war pits Houthis against the government since 2014, with Saudi intervention. In September 2026 the Houthis seized Mocha and Perim Island; on October 6-7 they struck Abha and Riyadh airports, killing 3 and wounding 36, prompting Saudi forces to destroy 82 Houthi targets.",
+    "desc_cn": "也门内战自2014年起胡塞武装对抗政府，沙特联军2015年介入。2026年9月胡塞攻占摩卡港与丕林岛，10月6日至7日袭击艾卜哈与利雅得机场致3死36伤，沙特联军摧毁82处目标。"
   },
   {
     "tag_id": 54,
@@ -1396,7 +1398,7 @@
     "tag_cn": "诺贝尔奖",
     "tag": "Nobel Prize 2026",
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-07",
+    "last_seen": "2026-10-09",
     "synonyms": [
       "诺贝尔化学奖",
       "诺贝尔生理学奖",
@@ -1411,14 +1413,29 @@
     "tag": "Russia Plague Lab Death",
     "tag_cn": "俄鼠疫研究所死亡事件",
     "first_seen": "2026-10-08",
-    "last_seen": "2026-10-08",
+    "last_seen": "2026-10-09",
     "synonyms": [
       "俄实验室鼠疫泄漏",
       "伊尔库茨克鼠疫研究所",
       "Russian plague institute death",
       "Russia lab leak plague"
     ],
-    "desc": "Death of a laboratory worker at Russia's Irkutsk anti-plague research institute on October 2, 2026, after a suspected September 25 laboratory accident involving Yersinia pestis. WHO is monitoring; Russian authorities opened a criminal investigation.",
-    "desc_cn": "2026年10月2日俄罗斯伊尔库茨克抗鼠疫研究所一名实验人员死亡，疑似9月25日实验室操作鼠疫耶尔森菌时发生意外。世卫组织正密切关注，俄方已启动刑事调查。"
+    "desc": "Death of a laboratory worker at Russia's Irkutsk anti-plague research institute on October 2, 2026, after a suspected September 25 laboratory accident. On October 8 authorities completed preventive quarantine after testing found no dangerous pathogen; a criminal probe continues.",
+    "desc_cn": "2026年10月2日俄罗斯伊尔库茨克抗鼠疫研究所一名实验人员死亡，疑似9月25日实验室操作鼠疫耶尔森菌时发生意外。10月8日检疫措施完成、未检出危险病原体，刑事调查仍在进行。"
+  },
+  {
+    "tag_id": 102,
+    "tag": "Hurricane Isaias",
+    "tag_cn": "飓风伊萨亚斯",
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-09",
+    "synonyms": [
+      "飓风伊萨亚斯",
+      "伊萨亚斯飓风",
+      "Tropical Storm Isaias",
+      "Isaias Gulf Coast"
+    ],
+    "desc": "First hurricane of the 2026 Atlantic season, forming in the Gulf of Mexico in early October. It intensified to Category 2 with 100 mph winds and struck the US Gulf Coast on October 9-10, bringing life-threatening storm surge and flooding.",
+    "desc_cn": "2026年大西洋飓风季首场飓风，10月初于墨西哥湾生成并增强至2级、风速约每小时160公里。10月9日至10日登陆美国墨西哥湾北部沿岸，引发致命风暴潮与洪涝灾害。"
   }
 ]
