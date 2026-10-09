@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-10-09",
+    "last_seen": "2026-10-10",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -50,7 +50,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-10-09",
+    "last_seen": "2026-10-10",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -162,7 +162,7 @@
     "tag": "DRC Ebola Outbreak",
     "tag_cn": "刚果埃博拉疫情",
     "first_seen": "2026-09-02",
-    "last_seen": "2026-10-08",
+    "last_seen": "2026-10-10",
     "synonyms": [
       "刚果金埃博拉",
       "DR Congo Ebola",
@@ -757,7 +757,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-10-09",
+    "last_seen": "2026-10-10",
     "synonyms": [
       "胡塞武装进攻",
       "红海航运危机",
@@ -846,7 +846,7 @@
     "tag": "White House Media Ban",
     "tag_cn": "白宫媒体禁令",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-26",
+    "last_seen": "2026-10-10",
     "synonyms": [
       "特朗普禁CNN入白宫",
       "白宫驱逐CNN",
@@ -1380,8 +1380,8 @@
   },
   {
     "tag_id": 99,
-    "tag_cn": "法国学生抗议",
     "tag": "France Student Protests",
+    "tag_cn": "法国学生抗议",
     "first_seen": "2026-09-10",
     "last_seen": "2026-09-29",
     "synonyms": [
@@ -1395,10 +1395,10 @@
   },
   {
     "tag_id": 100,
-    "tag_cn": "诺贝尔奖",
     "tag": "Nobel Prize 2026",
+    "tag_cn": "诺贝尔奖",
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-09",
+    "last_seen": "2026-10-10",
     "synonyms": [
       "诺贝尔化学奖",
       "诺贝尔生理学奖",
@@ -1437,5 +1437,35 @@
     ],
     "desc": "First hurricane of the 2026 Atlantic season, forming in the Gulf of Mexico in early October. It intensified to Category 2 with 100 mph winds and struck the US Gulf Coast on October 9-10, bringing life-threatening storm surge and flooding.",
     "desc_cn": "2026年大西洋飓风季首场飓风，10月初于墨西哥湾生成并增强至2级、风速约每小时160公里。10月9日至10日登陆美国墨西哥湾北部沿岸，引发致命风暴潮与洪涝灾害。"
+  },
+  {
+    "tag_id": 103,
+    "tag": "Panama Earthquake",
+    "tag_cn": "巴拿马强震",
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "synonyms": [
+      "巴拿马地震",
+      "Panama quake",
+      "Panama 7.6 earthquake"
+    ],
+    "desc": "Magnitude 7.6 quake struck central-southern Panama near Pitaloza on October 9, 2026 (depth 10 km), followed by multiple aftershocks including a 6.9. Panama City felt strong shaking; main airport was briefly closed. No confirmed fatalities yet.",
+    "desc_cn": "2026年10月9日巴拿马中南部皮塔洛萨附近发生7.6级地震，震源深度10公里。随后发生多次余震含6.9级。首都巴拿马城震感强烈，最大国际机场临时关闭，尚无确认死亡报告。"
+  },
+  {
+    "tag_id": 104,
+    "tag": "US Sanctions ICC",
+    "tag_cn": "美制裁国际刑院",
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "synonyms": [
+      "美国制裁ICC",
+      "ICC制裁",
+      "US ICC sanctions",
+      "美国制裁国际刑事法院",
+      "国际刑事法院制裁"
+    ],
+    "desc": "On October 9, 2026, the US added the International Criminal Court (ICC) as an institution to its sanctions list, cutting off access to US financial services, tech firms and dollar transactions. It follows sanctions on 17 ICC individuals earlier.",
+    "desc_cn": "2026年10月9日美国将国际刑事法院（ICC）作为机构整体列入制裁名单，切断其与美国金融服务、科技公司及美元交易的联系。此前美国已对17名ICC官员实施制裁。"
   }
 ]
