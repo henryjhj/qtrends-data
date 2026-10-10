@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-10-10",
+    "last_seen": "2026-10-11",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -20,15 +20,15 @@
     "tag": "Israel Gaza War",
     "tag_cn": "加沙战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-10-08",
+    "last_seen": "2026-10-11",
     "synonyms": [
       "加沙冲突",
       "以哈战争",
       "Gaza conflict",
       "Israel-Hamas war"
     ],
-    "desc": "War begun October 7, 2023, when Hamas-led militants attacked Israel, killing about 1,200 and taking 251 hostages. The third anniversary fell under a US-brokered ceasefire since October 10, 2025. Gaza reported 74,245 deaths by October 6, 2026.",
-    "desc_cn": "2023年10月7日哈马斯武装袭击以色列，约1200人死亡、251人被劫持，以军随即对加沙大规模军事行动。2025年10月10日美国斡旋停火生效，三周年之际仍在持续。截至2026年10月6日加沙累计死亡74245人，停火后又1456人丧。"
+    "desc": "War begun October 7, 2023, when Hamas-led militants attacked Israel, killing about 1,200 and taking 251 hostages. A US-brokered ceasefire took effect October 10, 2025. Gaza reported 74,250 deaths by October 7, 2026; violence continued.",
+    "desc_cn": "2023年10月7日哈马斯武装袭击以色列，约1200人死亡、251人被劫持，以军随即对加沙大规模军事行动。2025年10月10日美国斡旋停火生效。截至2026年10月7日加沙累计死亡74250人，停火后仍有暴力冲突。"
   },
   {
     "tag_id": 3,
@@ -50,7 +50,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-10-10",
+    "last_seen": "2026-10-11",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -67,7 +67,7 @@
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-10-08",
+    "last_seen": "2026-10-11",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
@@ -757,7 +757,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-10-10",
+    "last_seen": "2026-10-11",
     "synonyms": [
       "胡塞武装进攻",
       "红海航运危机",
@@ -777,8 +777,8 @@
       "胡塞袭击沙特机场",
       "Houthi attack Saudi airports"
     ],
-    "desc": "Yemen's civil war pits Houthis against the government since 2014, with Saudi intervention. In September 2026 the Houthis seized Mocha and Perim Island; on October 6-7 they struck Abha and Riyadh airports, killing 3 and wounding 36, prompting Saudi forces to destroy 82 Houthi targets.",
-    "desc_cn": "也门内战自2014年起胡塞武装对抗政府，沙特联军2015年介入。2026年9月胡塞攻占摩卡港与丕林岛，10月6日至7日袭击艾卜哈与利雅得机场致3死36伤，沙特联军摧毁82处目标。"
+    "desc": "Yemen's civil war pits Houthis against the government since 2014, with Saudi intervention. In September 2026 the Houthis seized Mocha and Perim Island; they struck Saudi airports October 6-7 (3 dead, 36 injured) and October 10 (12 dead, 309 injured).",
+    "desc_cn": "也门内战自2014年起胡塞武装对抗政府，沙特联军2015年介入。2026年9月胡塞攻占摩卡港与丕林岛，10月6-7日袭击沙特机场致3死36伤，10月10日再袭利雅得机场，12死309伤。"
   },
   {
     "tag_id": 54,
@@ -1398,15 +1398,15 @@
     "tag": "Nobel Prize",
     "tag_cn": "诺贝尔奖",
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-10",
+    "last_seen": "2026-10-11",
     "synonyms": [
       "诺贝尔化学奖",
       "诺贝尔生理学奖",
       "Nobel Prizes",
       "Nobel laureates"
     ],
-    "desc": "Annual international awards established in 1901 for achievements in physics, chemistry, medicine, literature, peace and economics. In 2026 the physiology or medicine prize was awarded October 5; the chemistry prize on October 7.",
-    "desc_cn": "1901年设立的年度国际奖项，涵盖物理、化学、生理学或医学、文学、和平及经济学领域。2026年生理学或医学奖于10月5日揭晓，化学奖于10月7日揭晓。"
+    "desc": "Annual international awards established in 1901 for achievements in physics, chemistry, medicine, literature, peace and economics. In 2026 prizes so far: physiology or medicine Oct 5, physics Oct 6, chemistry Oct 7, literature and peace Oct 9.",
+    "desc_cn": "1901年设立的年度国际奖项，涵盖物理、化学、生理学或医学、文学、和平及经济学领域。2026年生理医学奖10月5日、物理奖6日、化学奖7日、文学奖与和平奖9日先后揭晓。"
   },
   {
     "tag_id": 101,
@@ -1420,7 +1420,7 @@
       "Russian plague institute death",
       "Russia lab leak plague"
     ],
-    "desc": "Death of a laboratory worker at Russia's Irkutsk anti-plague research institute on October 2, 2026, after a suspected September 25 laboratory accident. On October 8 authorities completed preventive quarantine after testing found no dangerous pathogen; a criminal probe continues.",
+    "desc": "Death of a lab worker at Russia's Irkutsk anti-plague institute on October 2, 2026, after a suspected September 25 lab accident. On October 8 authorities ended quarantine; tests found no dangerous pathogen. Criminal probe continues.",
     "desc_cn": "2026年10月2日俄罗斯伊尔库茨克抗鼠疫研究所一名实验人员死亡，疑似9月25日实验室操作鼠疫耶尔森菌时发生意外。10月8日检疫措施完成、未检出危险病原体，刑事调查仍在进行。"
   },
   {
@@ -1428,29 +1428,29 @@
     "tag": "Hurricane Isaias",
     "tag_cn": "飓风伊萨亚斯",
     "first_seen": "2026-10-09",
-    "last_seen": "2026-10-09",
+    "last_seen": "2026-10-11",
     "synonyms": [
       "飓风伊萨亚斯",
       "伊萨亚斯飓风",
       "Tropical Storm Isaias",
       "Isaias Gulf Coast"
     ],
-    "desc": "First hurricane of the 2026 Atlantic season, forming in the Gulf of Mexico in early October. It intensified to Category 2 with 100 mph winds and struck the US Gulf Coast on October 9-10, bringing life-threatening storm surge and flooding.",
-    "desc_cn": "2026年大西洋飓风季首场飓风，10月初于墨西哥湾生成并增强至2级、风速约每小时160公里。10月9日至10日登陆美国墨西哥湾北部沿岸，引发致命风暴潮与洪涝灾害。"
+    "desc": "First hurricane of the 2026 Atlantic season, forming in the Gulf of Mexico in early October. It intensified to Category 2 with 100 mph winds and struck the US Gulf Coast on October 9-10, killing at least 4 and leaving over 620,000 without power.",
+    "desc_cn": "2026年大西洋飓风季首场飓风，10月初于墨西哥湾生成并增强至2级。10月9日至10日登陆美国墨西哥湾北部沿岸，截至10月11日已造成至少4人死亡、超62万用户断电。"
   },
   {
     "tag_id": 103,
     "tag": "Panama Earthquake",
     "tag_cn": "巴拿马强震",
     "first_seen": "2026-10-10",
-    "last_seen": "2026-10-10",
+    "last_seen": "2026-10-11",
     "synonyms": [
       "巴拿马地震",
       "Panama quake",
       "Panama 7.6 earthquake"
     ],
-    "desc": "Magnitude 7.6 quake struck central-southern Panama near Pitaloza on October 9, 2026 (depth 10 km), followed by multiple aftershocks including a 6.9. Panama City felt strong shaking; main airport was briefly closed. No confirmed fatalities yet.",
-    "desc_cn": "2026年10月9日巴拿马中南部皮塔洛萨附近发生7.6级地震，震源深度10公里。随后发生多次余震含6.9级。首都巴拿马城震感强烈，最大国际机场临时关闭，尚无确认死亡报告。"
+    "desc": "Magnitude 7.6 quake struck central-southern Panama near Pitaloza on October 9, 2026 (depth 10 km), followed by over 100 aftershocks including a 6.9. As of October 11, at least 27 injuries were reported; no confirmed fatalities.",
+    "desc_cn": "2026年10月9日巴拿马中南部皮塔洛萨附近发生7.6级地震，震源深度10公里。已发生逾100次余震含6.9级。截至10月11日已致27人受伤，尚无确认死亡报告。"
   },
   {
     "tag_id": 104,
@@ -1467,5 +1467,20 @@
     ],
     "desc": "On October 9, 2026, the US added the International Criminal Court (ICC) as an institution to its sanctions list, cutting off access to US financial services, tech firms and dollar transactions. It follows sanctions on 17 ICC individuals earlier.",
     "desc_cn": "2026年10月9日美国将国际刑事法院（ICC）作为机构整体列入制裁名单，切断其与美国金融服务、科技公司及美元交易的联系。此前美国已对17名ICC官员实施制裁。"
+  },
+  {
+    "tag_id": 105,
+    "tag": "Erie Pennsylvania Mass Shooting",
+    "tag_cn": "美国宾州伊利枪击案",
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11",
+    "synonyms": [
+      "Erie PA shooting",
+      "Pennsylvania mass shooting",
+      "伊利市枪击事件",
+      "宾州大规模枪击"
+    ],
+    "desc": "Mass shooting in a residential area of Erie, Pennsylvania, on October 9, 2026. A 45-year-old man shot and killed 8 people, including 2 children and a pregnant woman, before taking his own life. The shooter was related to 7 of the victims.",
+    "desc_cn": "2026年10月9日美国宾夕法尼亚州伊利市居民区发生大规模枪击案。一名45岁男子枪杀8人（含2名儿童与1名孕妇）后自尽。据警方称，枪手与7名死者有亲属关系。"
   }
 ]
