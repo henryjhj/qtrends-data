@@ -611,17 +611,17 @@
   {
     "tag_id": 43,
     "tag": "FIFA World Cup",
-    "tag_cn": "足球世界杯",
+    "tag_cn": "FIFA世界杯",
     "first_seen": "2025-12-31",
     "last_seen": "2026-07-19",
     "synonyms": [
-      "FIFA世界杯",
+      "足球世界杯",
       "世界杯",
       "国际足联世界杯",
       "World Cup"
     ],
     "desc": "The premier international men's football tournament, held every four years, bringing together national teams from around the world to compete for the most widely recognized title in football.",
-    "desc_cn": "全球最高水平的男子国家队足球赛事，每四年举办一次，汇集各大洲顶尖球队，拥有庞大的国际观众群体，是足球运动最具代表性的赛事。"
+    "desc_cn": "全球最高水平的国家队足球赛事，FIFA组织每四年举办一次（男子/女子），汇集各大洲顶尖球队，拥有庞大的国际观众群体，是足球运动最具代表性的赛事。"
   },
   {
     "tag_id": 44,
