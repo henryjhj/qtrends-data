@@ -4,13 +4,15 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-10-12",
+    "last_seen": "2026-10-13",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
       "乌克兰战争",
       "Ukraine conflict",
-      "Russia-Ukraine war"
+      "Russia-Ukraine war",
+      "美威胁切断对乌军援",
+      "US threatens Ukraine arms cutoff"
     ],
     "desc": "Armed conflict begun in 2014 with Russia’s annexation of Crimea and the Donbas war. Russia launched a full-scale invasion on February 24, 2022. The UN counted nearly 15,000 Ukrainian civilians killed through December 2025. No peace settlement yet.",
     "desc_cn": "2014年俄罗斯吞并克里米亚并引发顿巴斯战事，2022年2月24日全面入侵乌克兰。联合国统计，截至2025年底乌克兰平民死亡近1.5万人。战事仍在持续，和谈尚无结果。"
@@ -50,7 +52,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-10-12",
+    "last_seen": "2026-10-13",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -67,12 +69,14 @@
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-10-11",
+    "last_seen": "2026-10-13",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
       "Hormuz closure",
-      "Strait of Hormuz closure"
+      "Strait of Hormuz closure",
+      "霍尔木兹船只遇袭",
+      "Hormuz ship attacks"
     ],
     "desc": "Disruption of the Strait of Hormuz, route for about a fifth of world oil trade, after Iran declared it closed following the US-Israeli strikes of February 28, 2026. Traffic partly resumed after the April 7 ceasefire; Iran closed it again in July.",
     "desc_cn": "2026年2月28日美以打击伊朗后，伊朗宣布封锁霍尔木兹海峡（约占全球五分之一石油贸易通道），能源供应受冲击。4月7日停火后通航部分恢复，7月战事重燃后伊朗再度宣布封锁。"
@@ -757,7 +761,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-10-12",
+    "last_seen": "2026-10-13",
     "synonyms": [
       "胡塞武装进攻",
       "红海航运危机",
@@ -777,8 +781,8 @@
       "胡塞袭击沙特机场",
       "Houthi attack Saudi airports"
     ],
-    "desc": "Yemen's civil war pits Houthis against the government since 2014, with Saudi intervention. In September 2026 the Houthis seized Mocha and Perim Island; they struck Saudi airports October 6-7 (3 dead, 36 injured) and October 10 (12 dead, 309 injured).",
-    "desc_cn": "也门内战自2014年起胡塞武装对抗政府，沙特联军2015年介入。2026年9月胡塞攻占摩卡港与丕林岛，10月6-7日袭击沙特机场致3死36伤，10月10日再袭利雅得机场，12死309伤。"
+    "desc": "Yemen's civil war pits Houthis against the government since 2014, with Saudi intervention. In September 2026 the Houthis seized Mocha and Perim Island; they struck Saudi airports October 6-7 (3 dead, 36 injured) and October 10-12 (13 dead, about 320 injured).",
+    "desc_cn": "也门内战自2014年起胡塞武装对抗政府，沙特联军2015年介入。2026年9月胡塞攻占摩卡港与丕林岛，10月6-7日袭击沙特机场致3死36伤，10月10-12日再袭利雅得机场，截至10月13日累计13死约320伤。"
   },
   {
     "tag_id": 54,
@@ -1398,15 +1402,15 @@
     "tag": "Nobel Prize",
     "tag_cn": "诺贝尔奖",
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-11",
+    "last_seen": "2026-10-13",
     "synonyms": [
       "诺贝尔化学奖",
       "诺贝尔生理学奖",
       "Nobel Prizes",
       "Nobel laureates"
     ],
-    "desc": "Annual international awards established in 1901 for achievements in physics, chemistry, medicine, literature, peace and economics. In 2026 prizes so far: physiology or medicine Oct 5, physics Oct 6, chemistry Oct 7, literature and peace Oct 9.",
-    "desc_cn": "1901年设立的年度国际奖项，涵盖物理、化学、生理学或医学、文学、和平及经济学领域。2026年生理医学奖10月5日、物理奖6日、化学奖7日、文学奖与和平奖9日先后揭晓。"
+    "desc": "Annual international awards established in 1901 for achievements in physics, chemistry, medicine, literature, peace and economics. In 2026 prizes so far: physiology or medicine Oct 5, physics Oct 6, chemistry Oct 7, literature and peace Oct 9, economics Oct 12.",
+    "desc_cn": "1901年设立的年度国际奖项，涵盖物理、化学、生理学或医学、文学、和平及经济学领域。2026年生理医学奖10月5日、物理奖6日、化学奖7日、文学奖与和平奖9日、经济学奖12日先后揭晓。"
   },
   {
     "tag_id": 101,
@@ -1428,7 +1432,7 @@
     "tag": "Hurricane Isaias",
     "tag_cn": "飓风伊萨亚斯",
     "first_seen": "2026-10-09",
-    "last_seen": "2026-10-11",
+    "last_seen": "2026-10-13",
     "synonyms": [
       "飓风伊萨亚斯",
       "伊萨亚斯飓风",
@@ -1443,7 +1447,7 @@
     "tag": "Panama Earthquake",
     "tag_cn": "巴拿马强震",
     "first_seen": "2026-10-10",
-    "last_seen": "2026-10-11",
+    "last_seen": "2026-10-13",
     "synonyms": [
       "巴拿马地震",
       "Panama quake",
@@ -1457,7 +1461,7 @@
     "tag": "US Sanctions ICC",
     "tag_cn": "美制裁国际刑院",
     "first_seen": "2026-10-10",
-    "last_seen": "2026-10-10",
+    "last_seen": "2026-10-13",
     "synonyms": [
       "美国制裁ICC",
       "ICC制裁",
