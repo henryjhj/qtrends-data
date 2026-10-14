@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-10-13",
+    "last_seen": "2026-10-15",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -22,15 +22,15 @@
     "tag": "Israel Gaza War",
     "tag_cn": "加沙战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-10-11",
+    "last_seen": "2026-10-15",
     "synonyms": [
       "加沙冲突",
       "以哈战争",
       "Gaza conflict",
       "Israel-Hamas war"
     ],
-    "desc": "War begun October 7, 2023, when Hamas-led militants attacked Israel, killing about 1,200 and taking 251 hostages. A US-brokered ceasefire took effect October 10, 2025. Gaza reported 74,250 deaths by October 7, 2026; violence continued.",
-    "desc_cn": "2023年10月7日哈马斯武装袭击以色列，约1200人死亡、251人被劫持，以军随即对加沙大规模军事行动。2025年10月10日美国斡旋停火生效。截至2026年10月7日加沙累计死亡74250人，停火后仍有暴力冲突。"
+    "desc": "War begun October 7, 2023, when Hamas-led militants attacked Israel, killing about 1,200 and taking 251 hostages. A US-brokered ceasefire took effect October 10, 2025. Gaza reported 74,389 deaths by October 13, 2026; violence continued.",
+    "desc_cn": "2023年10月7日哈马斯武装袭击以色列，约1200人死亡、251人被劫持，以军随即对加沙大规模军事行动。2025年10月10日美国斡旋停火生效。截至2026年10月13日加沙累计死亡74389人，停火后仍有暴力冲突。"
   },
   {
     "tag_id": 3,
@@ -52,7 +52,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-10-13",
+    "last_seen": "2026-10-15",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -69,7 +69,7 @@
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-10-13",
+    "last_seen": "2026-10-15",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
@@ -116,7 +116,7 @@
     "tag": "Korean Peninsula Tensions",
     "tag_cn": "朝鲜半岛局势",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-24",
+    "last_seen": "2026-10-15",
     "synonyms": [
       "朝韩紧张",
       "朝鲜导弹试射",
@@ -180,7 +180,7 @@
     "tag": "US Midterm Elections",
     "tag_cn": "美国中期选举",
     "first_seen": "2026-01-15",
-    "last_seen": "2026-09-22",
+    "last_seen": "2026-10-15",
     "synonyms": [
       "2026美国中期选举",
       "2026年国会选举",
@@ -761,7 +761,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-10-13",
+    "last_seen": "2026-10-15",
     "synonyms": [
       "胡塞武装进攻",
       "红海航运危机",
@@ -850,7 +850,7 @@
     "tag": "White House Media Ban",
     "tag_cn": "白宫媒体禁令",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-10-10",
+    "last_seen": "2026-10-15",
     "synonyms": [
       "特朗普禁CNN入白宫",
       "白宫驱逐CNN",
@@ -1387,7 +1387,7 @@
     "tag": "France Student Protests",
     "tag_cn": "法国学生抗议",
     "first_seen": "2026-09-10",
-    "last_seen": "2026-09-29",
+    "last_seen": "2026-10-15",
     "synonyms": [
       "法国高中生抗议",
       "法国教育抗议",
@@ -1490,6 +1490,50 @@
   {
     "tag_id": 106,
     "tag": "Other AI news",
-    "tag_cn": "AI其它"
+    "tag_cn": "AI其它",
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "synonyms": [
+      "AI其他动态",
+      "AI杂项新闻",
+      "Other AI updates",
+      "Miscellaneous AI news"
+    ],
+    "desc": "Umbrella category collecting miscellaneous artificial intelligence developments that do not fit other dedicated AI topics, such as general industry news, research notes and regulatory updates.",
+    "desc_cn": "用于归类不属于其他专门AI话题的零散人工智能动态，如行业消息、研究进展与监管政策等。"
+  },
+  {
+    "tag_id": 107,
+    "tag": "France Debt Crisis",
+    "tag_cn": "法国债务危机",
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "synonyms": [
+      "法国财政危机",
+      "法国公共债务危机",
+      "法国预算危机",
+      "France fiscal crisis",
+      "French debt crisis",
+      "France budget crisis"
+    ],
+    "desc": "France's public debt reached about 3.6 trillion euros in mid-2026, 119% of GDP, the highest since 1946. Bond yields topped 5% in early October amid a political crisis that toppled three governments in a year, raising eurozone contagion fears.",
+    "desc_cn": "法国公共债务2026年年中达约3.6万亿欧元，占GDP的119%，为1946年以来最高。10月初国债收益率突破5%，政治危机使一年内三届政府垮台，引发欧元区风险外溢担忧。"
+  },
+  {
+    "tag_id": 108,
+    "tag": "Pope Leo Lung Cancer",
+    "tag_cn": "教皇利奥患肺癌",
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "synonyms": [
+      "教皇患肺癌",
+      "教皇利奥十四世",
+      "教皇肺部手术",
+      "Pope Leo XIV",
+      "Pope lung cancer",
+      "Pope Leo surgery"
+    ],
+    "desc": "On October 13, 2026, Pope Leo XIV underwent about 90 minutes of surgery at Rome's Gemelli hospital to remove the lower lobe of his right lung; tests confirmed lung adenocarcinoma. The Vatican said his postoperative course was proceeding normally.",
+    "desc_cn": "2026年10月13日，教皇利奥十四世在罗马杰梅利医院接受约90分钟手术，切除右肺下叶，病理检查确诊肺腺癌。梵蒂冈表示其术后恢复情况正常。"
   }
 ]
