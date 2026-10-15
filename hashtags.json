@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-16",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -12,7 +12,9 @@
       "Ukraine conflict",
       "Russia-Ukraine war",
       "美威胁切断对乌军援",
-      "US threatens Ukraine arms cutoff"
+      "US threatens Ukraine arms cutoff",
+      "能源停火",
+      "energy ceasefire"
     ],
     "desc": "Armed conflict begun in 2014 with Russia’s annexation of Crimea and the Donbas war. Russia launched a full-scale invasion on February 24, 2022. The UN counted nearly 15,000 Ukrainian civilians killed through December 2025. No peace settlement yet.",
     "desc_cn": "2014年俄罗斯吞并克里米亚并引发顿巴斯战事，2022年2月24日全面入侵乌克兰。联合国统计，截至2025年底乌克兰平民死亡近1.5万人。战事仍在持续，和谈尚无结果。"
@@ -22,22 +24,22 @@
     "tag": "Israel Gaza War",
     "tag_cn": "加沙战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-16",
     "synonyms": [
       "加沙冲突",
       "以哈战争",
       "Gaza conflict",
       "Israel-Hamas war"
     ],
-    "desc": "War begun October 7, 2023, when Hamas-led militants attacked Israel, killing about 1,200 and taking 251 hostages. A US-brokered ceasefire took effect October 10, 2025. Gaza reported 74,389 deaths by October 13, 2026; violence continued.",
-    "desc_cn": "2023年10月7日哈马斯武装袭击以色列，约1200人死亡、251人被劫持，以军随即对加沙大规模军事行动。2025年10月10日美国斡旋停火生效。截至2026年10月13日加沙累计死亡74389人，停火后仍有暴力冲突。"
+    "desc": "War begun October 7, 2023, when Hamas-led militants attacked Israel, killing about 1,200 and taking 251 hostages. A US-brokered ceasefire took effect October 10, 2025. Gaza reported 74,396 deaths by October 15, 2026; violence continued.",
+    "desc_cn": "2023年10月7日哈马斯武装袭击以色列，约1200人死亡、251人被劫持，以军随即对加沙大规模军事行动。2025年10月10日美国斡旋停火生效。截至2026年10月15日加沙累计死亡74396人，停火后仍有暴力冲突。"
   },
   {
     "tag_id": 3,
     "tag": "Sudan Civil War",
     "tag_cn": "苏丹内战",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-08-24",
+    "last_seen": "2026-10-16",
     "synonyms": [
       "苏丹冲突",
       "苏丹武装冲突",
@@ -52,14 +54,17 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-16",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
       "美以伊冲突",
       "Iran-US war",
       "US-Israel-Iran war",
-      "伊朗战争"
+      "伊朗战争",
+      "炸弹之母",
+      "MOAB",
+      "Mother of all bombs"
     ],
     "desc": "War begun February 28, 2026, when the US and Israel struck Iran. A Pakistan-brokered ceasefire began April 7–8; a US-Iran memorandum followed June 17. Fighting resumed in July. By October 5, 81 US aircraft had been lost or damaged.",
     "desc_cn": "2026年2月28日美以打击伊朗，伊朗在中东多地反击。4月7日至8日巴基斯坦斡旋停火，6月17日美伊签署谅解备忘录，7月战事重燃。截至10月5日美报告81架军机受损或被毁。"
@@ -116,7 +121,7 @@
     "tag": "Korean Peninsula Tensions",
     "tag_cn": "朝鲜半岛局势",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-16",
     "synonyms": [
       "朝韩紧张",
       "朝鲜导弹试射",
@@ -124,7 +129,9 @@
       "DPRK missile launches",
       "特朗普金正恩会面",
       "Trump Kim meeting 2026",
-      "金正恩特朗普会谈"
+      "金正恩特朗普会谈",
+      "潜射巡航导弹试射",
+      "submarine-launched cruise missile test"
     ],
     "desc": "Korea has been divided since 1945, with separate states founded in 1948. The 1950–53 Korean War ended in an armistice, not a peace treaty. Key issues: North Korea’s nuclear and missile programs, sanctions and US-South Korea exercises.",
     "desc_cn": "朝鲜半岛自1945年起南北分治，1948年两国分别建立。1950至1953年朝鲜战争以停战协定而非和平条约结束。核心议题包括朝鲜核导计划、国际制裁及美韩联合军演。"
@@ -134,14 +141,16 @@
     "tag": "Israel Lebanon Strikes",
     "tag_cn": "以黎冲突",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-09-22",
+    "last_seen": "2026-10-16",
     "synonyms": [
       "以黎战争",
       "以色列黎巴嫩冲突",
       "Lebanon war",
       "Israel-Lebanon conflict",
       "以色列黎南驻军",
-      "Israel south Lebanon presence"
+      "Israel south Lebanon presence",
+      "以色列扩大黎南占领",
+      "Israel expands south Lebanon zone"
     ],
     "desc": "Conflict between Israel and Hezbollah, with major wars in 2006 and 2023–24. Fighting resumed March 2, 2026 after Hezbollah joined the Iran war; an April 17 ceasefire did not end strikes. Lebanon counted 3,756 deaths from March 2 to June 13.",
     "desc_cn": "以色列与黎巴嫩真主党之间的冲突，此前有2006年战争及2023至2024年交火。2026年3月2日真主党卷入伊朗战争后战火重燃，4月17日宣布停火但袭击持续。黎卫生部称3月2日至6月13日共3756人死亡。"
@@ -180,7 +189,7 @@
     "tag": "US Midterm Elections",
     "tag_cn": "美国中期选举",
     "first_seen": "2026-01-15",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-16",
     "synonyms": [
       "2026美国中期选举",
       "2026年国会选举",
@@ -761,7 +770,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-16",
     "synonyms": [
       "胡塞武装进攻",
       "红海航运危机",
@@ -779,10 +788,12 @@
       "Yemen civil war escalation",
       "也门内战升级",
       "胡塞袭击沙特机场",
-      "Houthi attack Saudi airports"
+      "Houthi attack Saudi airports",
+      "胡塞袭击亚丁总统府",
+      "Houthi attack Aden palace"
     ],
-    "desc": "Yemen's civil war pits Houthis against the government since 2014, with Saudi intervention. In September 2026 the Houthis seized Mocha and Perim Island; they struck Saudi airports October 6-7 (3 dead, 36 injured) and October 10-12 (13 dead, about 320 injured).",
-    "desc_cn": "也门内战自2014年起胡塞武装对抗政府，沙特联军2015年介入。2026年9月胡塞攻占摩卡港与丕林岛，10月6-7日袭击沙特机场致3死36伤，10月10-12日再袭利雅得机场，截至10月13日累计13死约320伤。"
+    "desc": "Yemen's civil war pits Houthis against the government since 2014. In September 2026 they seized Mocha and Perim Island, then struck Saudi airports; the Saudi-led coalition said attacks on Riyadh airport since October 1 killed 17 and injured 333 by October 15, when missiles hit Aden's presidential palace.",
+    "desc_cn": "也门内战自2014年起胡塞武装对抗政府。2026年9月胡塞攻占摩卡港与丕林岛，此后密集袭击沙特机场，沙特联军称截至10月15日利雅得机场遇袭20次致17死333伤；同日胡塞导弹袭击亚丁总统府，安理会予以谴责。"
   },
   {
     "tag_id": 54,
@@ -1357,7 +1368,7 @@
     "tag": "Brazil Presidential Runoff",
     "tag_cn": "巴西总统选举",
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-06",
+    "last_seen": "2026-10-16",
     "synonyms": [
       "Brazil election",
       "巴西大选",
@@ -1477,7 +1488,7 @@
     "tag": "Erie Pennsylvania Mass Shooting",
     "tag_cn": "美国宾州伊利枪击案",
     "first_seen": "2026-10-11",
-    "last_seen": "2026-10-11",
+    "last_seen": "2026-10-16",
     "synonyms": [
       "Erie PA shooting",
       "Pennsylvania mass shooting",
@@ -1524,7 +1535,7 @@
     "tag": "Pope Leo Lung Cancer",
     "tag_cn": "教皇利奥患肺癌",
     "first_seen": "2026-10-15",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-16",
     "synonyms": [
       "教皇患肺癌",
       "教皇利奥十四世",
@@ -1535,5 +1546,22 @@
     ],
     "desc": "On October 13, 2026, Pope Leo XIV underwent about 90 minutes of surgery at Rome's Gemelli hospital to remove the lower lobe of his right lung; tests confirmed lung adenocarcinoma. The Vatican said his postoperative course was proceeding normally.",
     "desc_cn": "2026年10月13日，教皇利奥十四世在罗马杰梅利医院接受约90分钟手术，切除右肺下叶，病理检查确诊肺腺癌。梵蒂冈表示其术后恢复情况正常。"
+  },
+  {
+    "tag_id": 109,
+    "tag": "Global Stock Market Selloff",
+    "tag_cn": "全球股市抛售",
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-16",
+    "synonyms": [
+      "全球股市暴跌",
+      "韩国股市熔断",
+      "AI泡沫",
+      "Global stock selloff",
+      "KOSPI circuit breaker",
+      "AI bubble selloff"
+    ],
+    "desc": "Sharp selloff in global equities in October 2026, led by AI-related chip and tech shares. On October 15 South Korea's KOSPI fell over 7%, triggering its tenth circuit breaker of 2026, while Wall Street's Nasdaq slid on AI-return and rate worries.",
+    "desc_cn": "2026年10月全球股市大幅抛售，AI相关芯片与科技股领跌。10月15日韩国KOSPI指数暴跌逾7%，触发年内第十次熔断；美股纳指亦因AI回报与利率担忧下挫。"
   }
 ]
