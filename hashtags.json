@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-10-17",
+    "last_seen": "2026-10-18",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -16,7 +16,9 @@
       "能源停火",
       "energy ceasefire",
       "乌袭击俄炼油厂",
-      "Ukraine refinery strikes"
+      "Ukraine refinery strikes",
+      "特朗普暂缓对俄制裁",
+      "Trump pauses Russia sanctions"
     ],
     "desc": "Armed conflict begun in 2014 with Russia’s annexation of Crimea and the Donbas war. Russia launched a full-scale invasion on February 24, 2022. The UN counted nearly 15,000 Ukrainian civilians killed through December 2025. No peace settlement yet.",
     "desc_cn": "2014年俄罗斯吞并克里米亚并引发顿巴斯战事，2022年2月24日全面入侵乌克兰。联合国统计，截至2025年底乌克兰平民死亡近1.5万人。战事仍在持续，和谈尚无结果。"
@@ -26,7 +28,7 @@
     "tag": "Israel Gaza War",
     "tag_cn": "加沙战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-10-16",
+    "last_seen": "2026-10-18",
     "synonyms": [
       "加沙冲突",
       "以哈战争",
@@ -41,7 +43,7 @@
     "tag": "Sudan Civil War",
     "tag_cn": "苏丹内战",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-10-16",
+    "last_seen": "2026-10-18",
     "synonyms": [
       "苏丹冲突",
       "苏丹武装冲突",
@@ -56,7 +58,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-10-17",
+    "last_seen": "2026-10-18",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -78,7 +80,7 @@
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-18",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
@@ -193,7 +195,7 @@
     "tag": "US Midterm Elections",
     "tag_cn": "美国中期选举",
     "first_seen": "2026-01-15",
-    "last_seen": "2026-10-17",
+    "last_seen": "2026-10-18",
     "synonyms": [
       "2026美国中期选举",
       "2026年国会选举",
@@ -776,7 +778,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-10-17",
+    "last_seen": "2026-10-18",
     "synonyms": [
       "胡塞武装进攻",
       "红海航运危机",
@@ -1406,15 +1408,19 @@
     "tag": "France Student Protests",
     "tag_cn": "法国学生抗议",
     "first_seen": "2026-09-10",
-    "last_seen": "2026-10-17",
+    "last_seen": "2026-10-18",
     "synonyms": [
       "法国高中生抗议",
       "法国教育抗议",
       "France education protest",
-      "French student demonstrations"
+      "French student demonstrations",
+      "法国生活成本抗议",
+      "France cost-of-living protests",
+      "法国全国抗议",
+      "France nationwide protests"
     ],
-    "desc": "Nationwide protests by French high school students from September 2026 over class sizes, schedules and education budget cuts. Demonstrations spread to hundreds of schools, with clashes, fires and hundreds of arrests reported.",
-    "desc_cn": "2026年9月法国高中生因不满班级人数、课程安排及教育预算削减而发起的全国性抗议，蔓延至数百所学校，出现冲突、纵火事件，警方实施数百次拘捕。"
+    "desc": "Nationwide protests across France since September 2026, begun by high school students over education budget cuts and later broadened into cost-of-living rallies, with clashes, fires and hundreds of arrests.",
+    "desc_cn": "2026年9月起法国高中生因教育预算削减发起全国抗议，后扩展为反对生活成本上涨的全国性示威，出现冲突、纵火与抢劫，数百人被捕。"
   },
   {
     "tag_id": 100,
@@ -1543,7 +1549,7 @@
     "tag": "Pope Leo Lung Cancer",
     "tag_cn": "教皇利奥患肺癌",
     "first_seen": "2026-10-15",
-    "last_seen": "2026-10-17",
+    "last_seen": "2026-10-18",
     "synonyms": [
       "教皇患肺癌",
       "教皇利奥十四世",
@@ -1571,5 +1577,22 @@
     ],
     "desc": "Sharp selloff in global equities in October 2026, led by AI-related chip and tech shares. On October 15 South Korea's KOSPI fell over 7%, triggering its tenth circuit breaker of 2026, while Wall Street's Nasdaq slid on AI-return and rate worries.",
     "desc_cn": "2026年10月全球股市大幅抛售，AI相关芯片与科技股领跌。10月15日韩国KOSPI指数暴跌逾7%，触发年内第十次熔断；美股纳指亦因AI回报与利率担忧下挫。"
+  },
+  {
+    "tag_id": 110,
+    "tag": "West Bank Settler Violence",
+    "tag_cn": "约旦河西岸定居者暴力",
+    "first_seen": "2026-10-18",
+    "last_seen": "2026-10-18",
+    "synonyms": [
+      "以色列定居者袭击外交官",
+      "约旦河西岸定居者袭击",
+      "Israeli settlers attack diplomats",
+      "West Bank settler attacks",
+      "橄榄收获季袭击",
+      "olive harvest attacks"
+    ],
+    "desc": "Violence by Israeli settlers against Palestinians in the occupied West Bank. On October 17, 2026, masked settlers attacked a European diplomatic delegation, including the Belgian consul-general and French and Polish envoys, during the olive harvest.",
+    "desc_cn": "以色列定居者在约旦河西岸对巴勒斯坦人实施的暴力。2026年10月17日，法国、比利时、波兰外交官在橄榄收获活动期间遭蒙面定居者袭击，一名法国市长被殴打。"
   }
 ]
