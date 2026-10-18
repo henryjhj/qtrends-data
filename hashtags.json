@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-10-18",
+    "last_seen": "2026-10-19",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -28,7 +28,7 @@
     "tag": "Israel Gaza War",
     "tag_cn": "加沙战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-10-18",
+    "last_seen": "2026-10-19",
     "synonyms": [
       "加沙冲突",
       "以哈战争",
@@ -58,7 +58,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-10-18",
+    "last_seen": "2026-10-19",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -80,7 +80,7 @@
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-10-18",
+    "last_seen": "2026-10-19",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
@@ -195,7 +195,7 @@
     "tag": "US Midterm Elections",
     "tag_cn": "美国中期选举",
     "first_seen": "2026-01-15",
-    "last_seen": "2026-10-18",
+    "last_seen": "2026-10-19",
     "synonyms": [
       "2026美国中期选举",
       "2026年国会选举",
@@ -778,7 +778,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-10-18",
+    "last_seen": "2026-10-19",
     "synonyms": [
       "胡塞武装进攻",
       "红海航运危机",
@@ -1408,7 +1408,7 @@
     "tag": "France Student Protests",
     "tag_cn": "法国学生抗议",
     "first_seen": "2026-09-10",
-    "last_seen": "2026-10-18",
+    "last_seen": "2026-10-19",
     "synonyms": [
       "法国高中生抗议",
       "法国教育抗议",
@@ -1417,10 +1417,14 @@
       "法国生活成本抗议",
       "France cost-of-living protests",
       "法国全国抗议",
-      "France nationwide protests"
+      "France nationwide protests",
+      "法国骚乱",
+      "France riots",
+      "欧洲生活成本抗议",
+      "Europe cost-of-living protests"
     ],
-    "desc": "Nationwide protests across France since September 2026, begun by high school students over education budget cuts and later broadened into cost-of-living rallies, with clashes, fires and hundreds of arrests.",
-    "desc_cn": "2026年9月起法国高中生因教育预算削减发起全国抗议，后扩展为反对生活成本上涨的全国性示威，出现冲突、纵火与抢劫，数百人被捕。"
+    "desc": "Nationwide protests across France since September 2026 over education cuts that broadened into cost-of-living rallies. By October 18 unrest spread to Lisbon and Milan, with about 2,400 arrests as Macron denounced the rioting.",
+    "desc_cn": "2026年9月起法国学生因教育预算削减发起全国抗议，后扩展为反生活成本示威。截至10月18日骚乱蔓延至里斯本、米兰，约2400人被捕，马克龙谴责暴力。"
   },
   {
     "tag_id": 100,
@@ -1549,7 +1553,7 @@
     "tag": "Pope Leo Lung Cancer",
     "tag_cn": "教皇利奥患肺癌",
     "first_seen": "2026-10-15",
-    "last_seen": "2026-10-18",
+    "last_seen": "2026-10-19",
     "synonyms": [
       "教皇患肺癌",
       "教皇利奥十四世",
@@ -1583,7 +1587,7 @@
     "tag": "West Bank Settler Violence",
     "tag_cn": "约旦河西岸定居者暴力",
     "first_seen": "2026-10-18",
-    "last_seen": "2026-10-18",
+    "last_seen": "2026-10-19",
     "synonyms": [
       "以色列定居者袭击外交官",
       "约旦河西岸定居者袭击",
