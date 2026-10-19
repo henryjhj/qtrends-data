@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-10-19",
+    "last_seen": "2026-10-20",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -18,7 +18,9 @@
       "乌袭击俄炼油厂",
       "Ukraine refinery strikes",
       "特朗普暂缓对俄制裁",
-      "Trump pauses Russia sanctions"
+      "Trump pauses Russia sanctions",
+      "特朗普称应更换乌克兰谈判代表",
+      "Trump urges replacing Ukraine negotiator"
     ],
     "desc": "Armed conflict begun in 2014 with Russia’s annexation of Crimea and the Donbas war. Russia launched a full-scale invasion on February 24, 2022. The UN counted nearly 15,000 Ukrainian civilians killed through December 2025. No peace settlement yet.",
     "desc_cn": "2014年俄罗斯吞并克里米亚并引发顿巴斯战事，2022年2月24日全面入侵乌克兰。联合国统计，截至2025年底乌克兰平民死亡近1.5万人。战事仍在持续，和谈尚无结果。"
@@ -28,12 +30,14 @@
     "tag": "Israel Gaza War",
     "tag_cn": "加沙战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-10-19",
+    "last_seen": "2026-10-20",
     "synonyms": [
       "加沙冲突",
       "以哈战争",
       "Gaza conflict",
-      "Israel-Hamas war"
+      "Israel-Hamas war",
+      "加沙空袭",
+      "Gaza air strikes"
     ],
     "desc": "War begun October 7, 2023, when Hamas-led militants attacked Israel, killing about 1,200 and taking 251 hostages. A US-brokered ceasefire took effect October 10, 2025. Gaza reported 74,396 deaths by October 15, 2026; violence continued.",
     "desc_cn": "2023年10月7日哈马斯武装袭击以色列，约1200人死亡、251人被劫持，以军随即对加沙大规模军事行动。2025年10月10日美国斡旋停火生效。截至2026年10月15日加沙累计死亡74396人，停火后仍有暴力冲突。"
@@ -43,12 +47,16 @@
     "tag": "Sudan Civil War",
     "tag_cn": "苏丹内战",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-10-18",
+    "last_seen": "2026-10-20",
     "synonyms": [
       "苏丹冲突",
       "苏丹武装冲突",
       "Sudan conflict",
-      "Sudan armed conflict"
+      "Sudan armed conflict",
+      "苏丹无人机袭击",
+      "Sudan drone strikes",
+      "阿卜耶伊市场遇袭",
+      "Abyei market attack"
     ],
     "desc": "Civil war between the Sudanese army and the Rapid Support Forces, begun April 15, 2023. The army retook Khartoum in March 2025; the RSF captured El Fasher on October 26, 2025. Over 11.8 million displaced as of September 2025; deaths uncertain.",
     "desc_cn": "2023年4月15日爆发的苏丹武装部队与快速支援部队内战。2025年3月军方收复喀土穆，10月26日快速支援部队攻陷达尔富尔重镇法希尔。截至2025年9月逾1180万人流离失所，总死亡人数尚无可靠统计。"
@@ -58,7 +66,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-10-19",
+    "last_seen": "2026-10-20",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -70,7 +78,10 @@
       "MOAB",
       "Mother of all bombs",
       "美或打击伊朗核设施",
-      "US Iran nuclear strike"
+      "US Iran nuclear strike",
+      "以色列下令推翻伊朗政权",
+      "Netanyahu to topple Iran regime",
+      "内塔尼亚胡下令推翻伊朗"
     ],
     "desc": "War begun February 28, 2026, when the US and Israel struck Iran. A Pakistan-brokered ceasefire began April 7–8; a US-Iran memorandum followed June 17. Fighting resumed in July. By October 5, 81 US aircraft had been lost or damaged.",
     "desc_cn": "2026年2月28日美以打击伊朗，伊朗在中东多地反击。4月7日至8日巴基斯坦斡旋停火，6月17日美伊签署谅解备忘录，7月战事重燃。截至10月5日美报告81架军机受损或被毁。"
@@ -80,14 +91,18 @@
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-10-19",
+    "last_seen": "2026-10-20",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
       "Hormuz closure",
       "Strait of Hormuz closure",
       "霍尔木兹船只遇袭",
-      "Hormuz ship attacks"
+      "Hormuz ship attacks",
+      "霍尔木兹海底光缆",
+      "Hormuz undersea cables",
+      "波斯湾船舶违规名单",
+      "Persian Gulf ship blacklist"
     ],
     "desc": "Disruption of the Strait of Hormuz, route for about a fifth of world oil trade, after Iran declared it closed following the US-Israeli strikes of February 28, 2026. Traffic partly resumed after the April 7 ceasefire; Iran closed it again in July.",
     "desc_cn": "2026年2月28日美以打击伊朗后，伊朗宣布封锁霍尔木兹海峡（约占全球五分之一石油贸易通道），能源供应受冲击。4月7日停火后通航部分恢复，7月战事重燃后伊朗再度宣布封锁。"
@@ -147,7 +162,7 @@
     "tag": "Israel Lebanon Strikes",
     "tag_cn": "以黎冲突",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-10-16",
+    "last_seen": "2026-10-20",
     "synonyms": [
       "以黎战争",
       "以色列黎巴嫩冲突",
@@ -156,7 +171,9 @@
       "以色列黎南驻军",
       "Israel south Lebanon presence",
       "以色列扩大黎南占领",
-      "Israel expands south Lebanon zone"
+      "Israel expands south Lebanon zone",
+      "以军空袭黎巴嫩南部",
+      "Israeli strikes south Lebanon"
     ],
     "desc": "Conflict between Israel and Hezbollah, with major wars in 2006 and 2023–24. Fighting resumed March 2, 2026 after Hezbollah joined the Iran war; an April 17 ceasefire did not end strikes. Lebanon counted 3,756 deaths from March 2 to June 13.",
     "desc_cn": "以色列与黎巴嫩真主党之间的冲突，此前有2006年战争及2023至2024年交火。2026年3月2日真主党卷入伊朗战争后战火重燃，4月17日宣布停火但袭击持续。黎卫生部称3月2日至6月13日共3756人死亡。"
@@ -696,7 +713,7 @@
     "tag": "Super El Nino",
     "tag_cn": "超级厄尔尼诺",
     "first_seen": "2026-09-03",
-    "last_seen": "2026-09-29",
+    "last_seen": "2026-10-20",
     "synonyms": [
       "超强厄尔尼诺",
       "东南亚雾霾",
@@ -778,7 +795,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-10-19",
+    "last_seen": "2026-10-20",
     "synonyms": [
       "胡塞武装进攻",
       "红海航运危机",
@@ -800,7 +817,13 @@
       "胡塞袭击亚丁总统府",
       "Houthi attack Aden palace",
       "胡塞袭击亚丁机场",
-      "Houthi attack Aden airport"
+      "Houthi attack Aden airport",
+      "胡塞袭击也门军事基地",
+      "Houthi strike on Yemen military base",
+      "舍卜沃军事基地遇袭",
+      "Shabwa military base missile attack",
+      "胡塞48小时6袭沙特",
+      "Houthi six strikes on Saudi in 48 hours"
     ],
     "desc": "Yemen's civil war pits Houthis against the government since 2014. In September 2026 they seized Mocha and Perim Island, then struck Saudi airports; the Saudi-led coalition said attacks on Riyadh airport since October 1 killed 17 and injured 333 by October 15, when missiles hit Aden's presidential palace.",
     "desc_cn": "也门内战自2014年起胡塞武装对抗政府。2026年9月胡塞攻占摩卡港与丕林岛，此后密集袭击沙特机场，沙特联军称截至10月15日利雅得机场遇袭20次致17死333伤；同日胡塞导弹袭击亚丁总统府，安理会予以谴责。"
@@ -1408,7 +1431,7 @@
     "tag": "France Student Protests",
     "tag_cn": "法国学生抗议",
     "first_seen": "2026-09-10",
-    "last_seen": "2026-10-19",
+    "last_seen": "2026-10-20",
     "synonyms": [
       "法国高中生抗议",
       "法国教育抗议",
@@ -1421,10 +1444,14 @@
       "法国骚乱",
       "France riots",
       "欧洲生活成本抗议",
-      "Europe cost-of-living protests"
+      "Europe cost-of-living protests",
+      "法国宵禁",
+      "France curfew",
+      "巴黎宵禁",
+      "Paris curfew"
     ],
-    "desc": "Nationwide protests across France since September 2026 over education cuts that broadened into cost-of-living rallies. By October 18 unrest spread to Lisbon and Milan, with about 2,400 arrests as Macron denounced the rioting.",
-    "desc_cn": "2026年9月起法国学生因教育预算削减发起全国抗议，后扩展为反生活成本示威。截至10月18日骚乱蔓延至里斯本、米兰，约2400人被捕，马克龙谴责暴力。"
+    "desc": "Nationwide protests across France since September 2026 over education cuts that broadened into cost-of-living rallies. By October 19 unrest had spread to Lisbon and Milan, with about 2,513 arrests nationwide and localized curfews imposed in Paris and northern towns.",
+    "desc_cn": "2026年9月起法国学生因教育预算削减发起全国抗议，后扩展为反生活成本示威。截至10月19日全国约2513人被捕，骚乱蔓延至里斯本、米兰，巴黎及北部多镇实施局部宵禁。"
   },
   {
     "tag_id": 100,
@@ -1553,7 +1580,7 @@
     "tag": "Pope Leo Lung Cancer",
     "tag_cn": "教皇利奥患肺癌",
     "first_seen": "2026-10-15",
-    "last_seen": "2026-10-19",
+    "last_seen": "2026-10-20",
     "synonyms": [
       "教皇患肺癌",
       "教皇利奥十四世",
@@ -1587,7 +1614,7 @@
     "tag": "West Bank Settler Violence",
     "tag_cn": "约旦河西岸定居者暴力",
     "first_seen": "2026-10-18",
-    "last_seen": "2026-10-19",
+    "last_seen": "2026-10-20",
     "synonyms": [
       "以色列定居者袭击外交官",
       "约旦河西岸定居者袭击",
@@ -1600,19 +1627,19 @@
     "desc_cn": "以色列定居者在约旦河西岸对巴勒斯坦人实施的暴力。2026年10月17日，法国、比利时、波兰外交官在橄榄收获活动期间遭蒙面定居者袭击，一名法国市长被殴打。"
   },
   {
-  "tag_id": 111,
-  "tag": "Tesla Roadster",
-  "tag_cn": "特斯拉Roadster跑车",
-  "first_seen": "2026-10-15",
-  "last_seen": "2026-10-19",
-  "synonyms": [
-    "Roadster",
-    "特斯拉Roadster",
-    "特斯拉全新Roadster",
-    "Tesla Roadster 2",
-    "特斯拉超跑"
-  ],
-  "desc": "Tesla's second-generation Roadster sports car, officially unveiled in October 2026. Featuring SpaceX cold-gas thruster technology option, it claims a 0-60 mph acceleration in under 1 second, marking a major milestone in high-performance electric supercars.",
-  "desc_cn": "特斯拉第二代Roadster跑车，于2026年10月正式发布。该车搭载SpaceX冷气推进器选装包，宣称0-60英里/小时加速进入1秒以内，标志着纯电超跑性能领域的又一重大突破。"
-}
+    "tag_id": 111,
+    "tag": "Tesla Roadster",
+    "tag_cn": "特斯拉Roadster跑车",
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-19",
+    "synonyms": [
+      "Roadster",
+      "特斯拉Roadster",
+      "特斯拉全新Roadster",
+      "Tesla Roadster 2",
+      "特斯拉超跑"
+    ],
+    "desc": "Tesla's second-generation Roadster sports car, officially unveiled in October 2026. Featuring SpaceX cold-gas thruster technology option, it claims a 0-60 mph acceleration in under 1 second, marking a major milestone in high-performance electric supercars.",
+    "desc_cn": "特斯拉第二代Roadster跑车，于2026年10月正式发布。该车搭载SpaceX冷气推进器选装包，宣称0-60英里/小时加速进入1秒以内，标志着纯电超跑性能领域的又一重大突破。"
+  }
 ]
