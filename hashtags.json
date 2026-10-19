@@ -1598,5 +1598,21 @@
     ],
     "desc": "Violence by Israeli settlers against Palestinians in the occupied West Bank. On October 17, 2026, masked settlers attacked a European diplomatic delegation, including the Belgian consul-general and French and Polish envoys, during the olive harvest.",
     "desc_cn": "以色列定居者在约旦河西岸对巴勒斯坦人实施的暴力。2026年10月17日，法国、比利时、波兰外交官在橄榄收获活动期间遭蒙面定居者袭击，一名法国市长被殴打。"
-  }
+  },
+  {
+  "tag_id": 111,
+  "tag": "Tesla Roadster",
+  "tag_cn": "特斯拉Roadster跑车",
+  "first_seen": "2026-10-15",
+  "last_seen": "2026-10-19",
+  "synonyms": [
+    "Roadster",
+    "特斯拉Roadster",
+    "特斯拉全新Roadster",
+    "Tesla Roadster 2",
+    "特斯拉超跑"
+  ],
+  "desc": "Tesla's second-generation Roadster sports car, officially unveiled in October 2026. Featuring SpaceX cold-gas thruster technology option, it claims a 0-60 mph acceleration in under 1 second, marking a major milestone in high-performance electric supercars.",
+  "desc_cn": "特斯拉第二代Roadster跑车，于2026年10月正式发布。该车搭载SpaceX冷气推进器选装包，宣称0-60英里/小时加速进入1秒以内，标志着纯电超跑性能领域的又一重大突破。"
+}
 ]
