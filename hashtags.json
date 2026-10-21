@@ -10,27 +10,7 @@
       "俄乌军事冲突",
       "乌克兰战争",
       "Ukraine conflict",
-      "Russia-Ukraine war",
-      "美威胁切断对乌军援",
-      "US threatens Ukraine arms cutoff",
-      "能源停火",
-      "energy ceasefire",
-      "乌袭击俄炼油厂",
-      "Ukraine refinery strikes",
-      "特朗普暂缓对俄制裁",
-      "Trump pauses Russia sanctions",
-      "特朗普称应更换乌克兰谈判代表",
-      "Trump urges replacing Ukraine negotiator",
-      "美乌关系紧张",
-      "US-Ukraine tensions",
-      "美恢复对乌情报共享",
-      "Ukraine intelligence sharing resumes",
-      "乌克兰城市大停电",
-      "Ukraine city blackout",
-      "基辅遭弹道导弹袭击",
-      "Kyiv missile strike",
-      "特朗普普京会晤搁置",
-      "Trump-Putin summit shelved"
+      "Russia-Ukraine war"
     ],
     "desc": "Armed conflict begun in 2014 with Russia’s annexation of Crimea and the Donbas war. Russia launched a full-scale invasion on February 24, 2022. The UN counted nearly 15,000 Ukrainian civilians killed through December 2025. No peace settlement yet.",
     "desc_cn": "2014年俄罗斯吞并克里米亚并引发顿巴斯战事，2022年2月24日全面入侵乌克兰。联合国统计，截至2025年底乌克兰平民死亡近1.5万人。战事仍在持续，和谈尚无结果。"
@@ -47,13 +27,7 @@
       "Gaza conflict",
       "Israel-Hamas war",
       "加沙空袭",
-      "Gaza air strikes",
-      "加沙停火违约",
-      "Gaza ceasefire violations",
-      "加沙黄线",
-      "Gaza yellow line",
-      "英国军官监督停火",
-      "British officers Gaza ceasefire"
+      "Gaza air strikes"
     ],
     "desc": "War begun October 7, 2023, when Hamas-led militants attacked Israel, killing about 1,200 and taking 251 hostages. A US-brokered ceasefire took effect October 10, 2025. Gaza reported 74,469 deaths by October 17, 2026; violence continued.",
     "desc_cn": "2023年10月7日哈马斯武装袭击以色列，约1200人死亡、251人被劫持，以军随即对加沙大规模军事行动。2025年10月10日美国斡旋停火生效。截至2026年10月17日加沙累计死亡74469人，停火后仍有暴力冲突。"
@@ -1704,21 +1678,5 @@
     ],
     "desc": "Referendum in Alberta, Canada, on October 19, 2026, on whether the province should remain in Canada or seek independence. Media projections put the remain option at about 76% to 24%; Prime Minister Mark Carney called it a clear choice for unity.",
     "desc_cn": "2026年10月19日加拿大艾伯塔省就“继续留在联邦还是启动独立程序”举行公投。媒体测算留联邦选项以约76%对24%获胜，总理卡尼称选民作出了维护团结的明确选择。"
-  },
-  {
-    "tag_id": 113,
-    "tag": "Meta $25B Privacy Fine",
-    "tag_cn": "Meta250亿美元隐私罚款",
-    "first_seen": "2026-10-22",
-    "last_seen": "2026-10-22",
-    "synonyms": [
-      "Meta privacy fine",
-      "Meta 25 billion verdict",
-      "Meta数据隐私罚款",
-      "新墨西哥州250亿罚款",
-      "Cambridge Analytica verdict"
-    ],
-    "desc": "On October 21, 2026, a New Mexico judge ordered Meta to pay $25 billion for misleading users about data privacy and content moderation; a jury found over 43 million consumer-protection violations. It arose from the 2018 Cambridge Analytica scandal.",
-    "desc_cn": "2026年10月21日，美国新墨西哥州法官裁定Meta须支付250亿美元罚款，陪审团认定其在数据隐私与内容审核方面误导用户，违反消费者保护法逾4300万次。案件源于2018年剑桥分析丑闻。"
   }
 ]
