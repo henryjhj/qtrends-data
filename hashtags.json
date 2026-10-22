@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-10-22",
+    "last_seen": "2026-10-23",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -37,7 +37,7 @@
     "tag": "Sudan Civil War",
     "tag_cn": "苏丹内战",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-10-22",
+    "last_seen": "2026-10-23",
     "synonyms": [
       "苏丹冲突",
       "苏丹武装冲突",
@@ -60,7 +60,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-10-22",
+    "last_seen": "2026-10-23",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -89,7 +89,7 @@
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-10-22",
+    "last_seen": "2026-10-23",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
@@ -168,7 +168,7 @@
     "tag": "Israel Lebanon Strikes",
     "tag_cn": "以黎冲突",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-10-23",
     "synonyms": [
       "以黎战争",
       "以色列黎巴嫩冲突",
@@ -204,21 +204,21 @@
     "tag": "DRC Ebola Outbreak",
     "tag_cn": "刚果埃博拉疫情",
     "first_seen": "2026-09-02",
-    "last_seen": "2026-10-10",
+    "last_seen": "2026-10-23",
     "synonyms": [
       "刚果金埃博拉",
       "DR Congo Ebola",
       "DRC Ebola epidemic"
     ],
-    "desc": "Bundibugyo-virus Ebola outbreak declared in DR Congo on May 15, 2026; WHO declared an international emergency May 17. As of October 1: 8,376 confirmed cases, 4,042 deaths, seven provinces. No approved vaccine; second-largest Ebola outbreak on record.",
-    "desc_cn": "2026年5月15日刚果（金）宣布暴发布恩迪布焦型埃博拉疫情，5月17日世卫组织宣布为国际关注的突发公共卫生事件。截至10月1日累计确诊8376例、死亡4042例，波及7省。无获批疫苗或疗法，为史上第二大埃博拉疫情。"
+    "desc": "Bundibugyo-virus Ebola outbreak declared in DR Congo on May 15, 2026; WHO declared an international emergency May 17. By October 19: 9,637 cases and 4,646 deaths in seven provinces. No approved vaccine; second-largest Ebola outbreak on record.",
+    "desc_cn": "2026年5月15日刚果（金）宣布暴发布恩迪布焦型埃博拉疫情，5月17日世卫组织宣布为国际关注的突发公共卫生事件。截至10月19日累计确诊9637例、死亡4646例，波及7省。无获批疫苗或疗法，为史上第二大埃博拉疫情。"
   },
   {
     "tag_id": 14,
     "tag": "US Midterm Elections",
     "tag_cn": "美国中期选举",
     "first_seen": "2026-01-15",
-    "last_seen": "2026-10-21",
+    "last_seen": "2026-10-23",
     "synonyms": [
       "2026美国中期选举",
       "2026年国会选举",
@@ -801,7 +801,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-10-22",
+    "last_seen": "2026-10-23",
     "synonyms": [
       "胡塞武装进攻",
       "红海航运危机",
@@ -1447,7 +1447,7 @@
     "tag": "France Student Protests",
     "tag_cn": "法国学生抗议",
     "first_seen": "2026-09-10",
-    "last_seen": "2026-10-22",
+    "last_seen": "2026-10-23",
     "synonyms": [
       "法国高中生抗议",
       "法国教育抗议",
@@ -1636,7 +1636,7 @@
     "tag": "West Bank Settler Violence",
     "tag_cn": "约旦河西岸定居者暴力",
     "first_seen": "2026-10-18",
-    "last_seen": "2026-10-21",
+    "last_seen": "2026-10-23",
     "synonyms": [
       "以色列定居者袭击外交官",
       "约旦河西岸定居者袭击",
