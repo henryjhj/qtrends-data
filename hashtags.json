@@ -4,13 +4,19 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-10-24",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
       "乌克兰战争",
       "Ukraine conflict",
-      "Russia-Ukraine war"
+      "Russia-Ukraine war",
+      "Oleshky ceasefire",
+      "阿列什基停火",
+      "Abu Dhabi trilateral talks",
+      "俄美乌阿布扎比会谈",
+      "Zaporizhzhia power restoration",
+      "扎波罗热核电站供电修复"
     ],
     "desc": "Armed conflict begun in 2014 with Russia’s annexation of Crimea and the Donbas war. Russia launched a full-scale invasion on February 24, 2022. The UN counted nearly 15,000 Ukrainian civilians killed through December 2025. No peace settlement yet.",
     "desc_cn": "2014年俄罗斯吞并克里米亚并引发顿巴斯战事，2022年2月24日全面入侵乌克兰。联合国统计，截至2025年底乌克兰平民死亡近1.5万人。战事仍在持续，和谈尚无结果。"
@@ -37,7 +43,7 @@
     "tag": "Sudan Civil War",
     "tag_cn": "苏丹内战",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-10-24",
     "synonyms": [
       "苏丹冲突",
       "苏丹武装冲突",
@@ -50,7 +56,11 @@
       "阿卜耶伊市场无人机袭击",
       "Abyei market drone strike",
       "苏丹拒绝与快速支援部队谈判",
-      "Sudan rejects RSF talks"
+      "Sudan rejects RSF talks",
+      "Sudan famine risk",
+      "苏丹饥荒风险",
+      "West Kordofan market attack",
+      "西科尔多凡市场遇袭"
     ],
     "desc": "Civil war between Sudan's army and the Rapid Support Forces since April 15, 2023. The army retook Khartoum in March 2025; the RSF took El Fasher that October. A drone strike on Abyei's Amiet market killed at least 226 by October 20, 2026.",
     "desc_cn": "2023年4月15日苏丹军方与快速支援部队爆发内战，2025年3月收复喀土穆、10月法希尔陷落，逾1180万人流离失所。2026年10月19日阿卜耶伊阿米耶特市场遭无人机袭击，至少226人死亡。"
@@ -60,7 +70,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-10-24",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -79,7 +89,11 @@
       "美以伊战争升级",
       "US-Israel-Iran escalation",
       "以色列模拟打击伊朗",
-      "Israel simulates Iran strikes"
+      "Israel simulates Iran strikes",
+      "US-Iran standoff",
+      "美伊长期对峙",
+      "Operation Epic Fury",
+      "史诗怒火行动"
     ],
     "desc": "War begun February 28, 2026, when the US and Israel struck Iran. A Pakistan-brokered ceasefire began April 7–8; a US-Iran memorandum followed June 17. Fighting resumed in July. By October 5, 81 US aircraft had been lost or damaged.",
     "desc_cn": "2026年2月28日美以打击伊朗，伊朗在中东多地反击。4月7日至8日巴基斯坦斡旋停火，6月17日美伊签署谅解备忘录，7月战事重燃。截至10月5日美报告81架军机受损或被毁。"
@@ -89,7 +103,7 @@
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-10-24",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
@@ -104,10 +118,12 @@
       "霍尔木兹油轮触雷",
       "Hormuz tanker mine attacks",
       "霍尔木兹袭击创新高",
-      "record Hormuz attacks"
+      "record Hormuz attacks",
+      "Hormuz supertanker mine attacks",
+      "霍尔木兹超级油轮触雷"
     ],
-    "desc": "Disruption of the Strait of Hormuz, a route for a fifth of world oil, after Iran closed it following the 2026 US-Israeli strikes. Traffic resumed after the April 7 ceasefire, but Iran reclosed it in July; two tankers hit mines on October 20.",
-    "desc_cn": "2026年2月28日美以打击伊朗后，伊朗宣布封锁霍尔木兹海峡（约占全球五分之一石油贸易通道），能源供应受冲击。4月7日停火后通航部分恢复，7月战事重燃后伊朗再度封锁；10月20日两艘油轮触雷。"
+    "desc": "Disruption of the Strait of Hormuz, a route for a fifth of world oil, after Iran closed it following 2026 US-Israeli strikes. It reopened after the April ceasefire but closed again in July; two supertankers with 4.5m barrels hit mines on October 23.",
+    "desc_cn": "2026年2月28日美以打击伊朗后，伊朗宣布封锁霍尔木兹海峡（约占全球五分之一石油贸易通道），能源供应受冲击。4月7日停火后通航部分恢复，7月战事重燃后伊朗再度封锁；10月23日两艘载450万桶原油的超级油轮触雷。"
   },
   {
     "tag_id": 6,
@@ -146,7 +162,7 @@
     "tag": "Korean Peninsula Tensions",
     "tag_cn": "朝鲜半岛局势",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-10-22",
+    "last_seen": "2026-10-24",
     "synonyms": [
       "朝韩紧张",
       "朝鲜导弹试射",
@@ -158,7 +174,9 @@
       "潜射巡航导弹试射",
       "submarine-launched cruise missile test",
       "朝韩边境紧张",
-      "North Korea border tension"
+      "North Korea border tension",
+      "DMZ landmine dispute",
+      "非军事区地雷争端"
     ],
     "desc": "Korea has been divided since 1945, with separate states founded in 1948. The 1950–53 Korean War ended in an armistice, not a peace treaty. Key issues: North Korea’s nuclear and missile programs, sanctions and US-South Korea exercises.",
     "desc_cn": "朝鲜半岛自1945年起南北分治，1948年两国分别建立。1950至1953年朝鲜战争以停战协定而非和平条约结束。核心议题包括朝鲜核导计划、国际制裁及美韩联合军演。"
@@ -218,13 +236,15 @@
     "tag": "US Midterm Elections",
     "tag_cn": "美国中期选举",
     "first_seen": "2026-01-15",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-10-24",
     "synonyms": [
       "2026美国中期选举",
       "2026年国会选举",
       "2026 US midterms",
       "US congressional elections",
-      "DHS voter fraud probe"
+      "DHS voter fraud probe",
+      "Alaska Senate election lawsuit",
+      "阿拉斯加参议院选举诉讼"
     ],
     "desc": "Elections held midway through a US president’s term. The November 3, 2026 midterms will fill all 435 House seats, 35 Senate seats and 36 governorships, and set congressional control for the second half of Donald Trump’s second term.",
     "desc_cn": "美国总统任期中段举行的国会选举。2026年11月3日的中期选举将改选众议院全部435席、参议院35席及36个州的州长，决定特朗普第二任期后半段的国会控制权。"
@@ -801,7 +821,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-10-24",
     "synonyms": [
       "胡塞武装进攻",
       "红海航运危机",
@@ -835,10 +855,12 @@
       "美国撤离驻沙特人员",
       "US Embassy Saudi departure",
       "英国向沙特部署战机",
-      "UK jets Saudi Arabia"
+      "UK jets Saudi Arabia",
+      "Houthi strikes Saudi refineries",
+      "胡塞袭击沙特炼油厂"
     ],
-    "desc": "Yemen's civil war pits Houthis against the state since 2014. In 2026 they seized Mocha and Perim, then struck Saudi airports; Riyadh airport attacks killed 17 and injured 333 by October 15. On October 21 Washington ordered non-emergency staff out.",
-    "desc_cn": "也门内战自2014年起胡塞武装对抗政府。2026年9月胡塞攻占摩卡港与丕林岛，此后密集袭击沙特机场，沙特联军称截至10月15日利雅得机场遇袭20次致17死333伤。10月21日美国下令非紧急人员及家属撤离沙特。"
+    "desc": "Yemen's war pits Houthis against the state since 2014. In 2026 they seized Mocha and Perim, then struck Saudi airports and refineries; Riyadh airport attacks killed 17 and injured 333 by October 15. Brent topped $115 after Oct 23 refinery strikes.",
+    "desc_cn": "也门内战自2014年起胡塞武装对抗政府。2026年9月胡塞攻占摩卡港与丕林岛，此后密集袭击沙特机场与炼油厂，沙特联军称截至10月15日利雅得机场遇袭20次致17死333伤。10月23日炼油厂遇袭推动布伦特油价突破115美元。"
   },
   {
     "tag_id": 54,
@@ -1062,7 +1084,7 @@
     "tag": "US China Trade War",
     "tag_cn": "美中贸易战",
     "first_seen": "2026-09-23",
-    "last_seen": "2026-10-22",
+    "last_seen": "2026-10-24",
     "synonyms": [
       "中美贸易战",
       "美中关税战",
@@ -1072,7 +1094,9 @@
       "APEC深圳峰会",
       "APEC Shenzhen summit",
       "美中投资协议谈判",
-      "US-China investment talks"
+      "US-China investment talks",
+      "US research security review",
+      "美国科研安全审查"
     ],
     "desc": "Trade conflict between the US and China since 2018, escalating in 2025 to triple-digit tariffs before a May 2025 truce. Export controls, retaliation and negotiations continued into 2026, affecting markets, supply chains, tech firms and agriculture.",
     "desc_cn": "中美自2018年起的贸易冲突，2025年升级为三位数关税，5月达成休战。出口管制、反制措施与谈判延续至2026年，影响市场、供应链、科技企业与农业。"
@@ -1447,7 +1471,7 @@
     "tag": "France Student Protests",
     "tag_cn": "法国学生抗议",
     "first_seen": "2026-09-10",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-10-24",
     "synonyms": [
       "法国高中生抗议",
       "法国教育抗议",
@@ -1468,7 +1492,9 @@
       "法国抗议宵禁",
       "France protest curfews",
       "马克龙严惩骚乱者",
-      "Macron vows riot crackdown"
+      "Macron vows riot crackdown",
+      "France 70,000 police deployment",
+      "法国部署7万警力"
     ],
     "desc": "Nationwide protests across France since September 2026 over education cuts that broadened into cost-of-living rallies. By October 20 curfews covered Paris, Lyon, Nice, Lille and Marseille, with about 2,513 arrests nationwide.",
     "desc_cn": "2026年9月起法国学生因教育预算削减发起全国抗议，后扩展为反生活成本示威。截至10月20日全国约2513人被拘留、149人入狱，巴黎、里昂、尼斯、里尔、马赛等地实施局部宵禁。"
@@ -1600,7 +1626,7 @@
     "tag": "Pope Leo Lung Cancer",
     "tag_cn": "教皇利奥患肺癌",
     "first_seen": "2026-10-15",
-    "last_seen": "2026-10-22",
+    "last_seen": "2026-10-24",
     "synonyms": [
       "教皇患肺癌",
       "教皇利奥十四世",
@@ -1609,7 +1635,9 @@
       "Pope lung cancer",
       "Pope Leo surgery",
       "教皇无需进一步治疗",
-      "Pope Leo treatment ends"
+      "Pope Leo treatment ends",
+      "Pope Leo cancer recovery",
+      "教皇癌症康复"
     ],
     "desc": "On October 13, 2026, Pope Leo XIV underwent surgery at Rome's Gemelli hospital to remove the lower lobe of his right lung; tests confirmed lung adenocarcinoma. On October 21 doctors said the surgery succeeded and no further treatment was needed.",
     "desc_cn": "2026年10月13日，教皇利奥十四世在罗马杰梅利医院切除右肺下叶，病理检查确诊肺腺癌。10月21日医生表示手术成功、恢复良好，无需进一步治疗。"
@@ -1678,5 +1706,35 @@
     ],
     "desc": "Referendum in Alberta, Canada, on October 19, 2026, on whether the province should remain in Canada or seek independence. Media projections put the remain option at about 76% to 24%; Prime Minister Mark Carney called it a clear choice for unity.",
     "desc_cn": "2026年10月19日加拿大艾伯塔省就“继续留在联邦还是启动独立程序”举行公投。媒体测算留联邦选项以约76%对24%获胜，总理卡尼称选民作出了维护团结的明确选择。"
+  },
+  {
+    "tag_id": 113,
+    "tag": "Jordan Church Funeral Attack",
+    "tag_cn": "约旦教堂葬礼袭击",
+    "first_seen": "2026-10-24",
+    "last_seen": "2026-10-24",
+    "synonyms": [
+      "约旦教堂枪击",
+      "卡拉克教堂袭击",
+      "Jordan church shooting",
+      "Karak church attack"
+    ],
+    "desc": "Gunmen opened fire on mourners at a Greek Orthodox church in Hamoud, Karak governorate, Jordan, during a funeral on October 23, 2026. As of October 24, at least seven people were killed and 34 wounded; King Abdullah II called it a terrorist attack.",
+    "desc_cn": "2026年10月23日，约旦卡拉克省哈穆德村一座东正教堂举行葬礼时遭枪手袭击。截至10月24日，至少7人死亡、34人受伤，国王阿卜杜拉二世称其为恐怖袭击。"
+  },
+  {
+    "tag_id": 114,
+    "tag": "Israel West Bank Operation",
+    "tag_cn": "以色列西岸军事行动",
+    "first_seen": "2026-10-24",
+    "last_seen": "2026-10-24",
+    "synonyms": [
+      "约旦河西岸封锁",
+      "希伯伦军事行动",
+      "West Bank closure",
+      "Hebron military operation"
+    ],
+    "desc": "Israel ordered an indefinite closure of the West Bank and prepared a large-scale military operation on October 23, 2026, after two soldiers were killed at a checkpoint near Hebron; officials called it the largest such operation since 1967.",
+    "desc_cn": "2026年10月23日，希伯伦附近检查站袭击致两名以军士兵死亡。以色列总理内塔尼亚胡随后下令无限期封锁约旦河西岸，并准备发动自1967年以来规模最大的军事行动。"
   }
 ]
