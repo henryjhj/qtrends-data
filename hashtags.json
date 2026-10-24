@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-10-24",
+    "last_seen": "2026-10-25",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -43,7 +43,7 @@
     "tag": "Sudan Civil War",
     "tag_cn": "苏丹内战",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-10-24",
+    "last_seen": "2026-10-25",
     "synonyms": [
       "苏丹冲突",
       "苏丹武装冲突",
@@ -70,7 +70,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-10-24",
+    "last_seen": "2026-10-25",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -186,7 +186,7 @@
     "tag": "Israel Lebanon Strikes",
     "tag_cn": "以黎冲突",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-10-25",
     "synonyms": [
       "以黎战争",
       "以色列黎巴嫩冲突",
@@ -222,7 +222,7 @@
     "tag": "DRC Ebola Outbreak",
     "tag_cn": "刚果埃博拉疫情",
     "first_seen": "2026-09-02",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-10-25",
     "synonyms": [
       "刚果金埃博拉",
       "DR Congo Ebola",
@@ -236,7 +236,7 @@
     "tag": "US Midterm Elections",
     "tag_cn": "美国中期选举",
     "first_seen": "2026-01-15",
-    "last_seen": "2026-10-24",
+    "last_seen": "2026-10-25",
     "synonyms": [
       "2026美国中期选举",
       "2026年国会选举",
@@ -821,7 +821,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-10-24",
+    "last_seen": "2026-10-25",
     "synonyms": [
       "胡塞武装进攻",
       "红海航运危机",
@@ -859,8 +859,8 @@
       "Houthi strikes Saudi refineries",
       "胡塞袭击沙特炼油厂"
     ],
-    "desc": "Yemen's war pits Houthis against the state since 2014. In 2026 they seized Mocha and Perim, then struck Saudi airports and refineries; Riyadh airport attacks killed 17 and injured 333 by October 15. Brent topped $115 after Oct 23 refinery strikes.",
-    "desc_cn": "也门内战自2014年起胡塞武装对抗政府。2026年9月胡塞攻占摩卡港与丕林岛，此后密集袭击沙特机场与炼油厂，沙特联军称截至10月15日利雅得机场遇袭20次致17死333伤。10月23日炼油厂遇袭推动布伦特油价突破115美元。"
+    "desc": "Yemen's war pits Houthis against the state since 2014. In 2026 they seized Mocha and Perim, then struck Saudi airports and refineries; Riyadh attacks killed 17 and injured 333 by October 15, and a Dammam strike killed 2 on October 22. Brent hit $116.",
+    "desc_cn": "也门内战自2014年起胡塞武装对抗政府。2026年9月胡塞攻占摩卡港与丕林岛，袭击沙特机场与炼油厂，截至10月15日利雅得机场遇袭20次致17死333伤。10月22日达曼机场遇袭致2死，10月23日炼油厂遇袭推动布伦特油价升至116美元。"
   },
   {
     "tag_id": 54,
@@ -1441,7 +1441,7 @@
     "tag": "Brazil Presidential Runoff",
     "tag_cn": "巴西总统选举",
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-16",
+    "last_seen": "2026-10-25",
     "synonyms": [
       "Brazil election",
       "巴西大选",
@@ -1471,7 +1471,7 @@
     "tag": "France Student Protests",
     "tag_cn": "法国学生抗议",
     "first_seen": "2026-09-10",
-    "last_seen": "2026-10-24",
+    "last_seen": "2026-10-25",
     "synonyms": [
       "法国高中生抗议",
       "法国教育抗议",
@@ -1496,8 +1496,8 @@
       "France 70,000 police deployment",
       "法国部署7万警力"
     ],
-    "desc": "Nationwide protests across France since September 2026 over education cuts that broadened into cost-of-living rallies. By October 20 curfews covered Paris, Lyon, Nice, Lille and Marseille, with about 2,513 arrests nationwide.",
-    "desc_cn": "2026年9月起法国学生因教育预算削减发起全国抗议，后扩展为反生活成本示威。截至10月20日全国约2513人被拘留、149人入狱，巴黎、里昂、尼斯、里尔、马赛等地实施局部宵禁。"
+    "desc": "Nationwide protests in France since September 2026 over education cuts widened into cost-of-living rallies. By October 20, 2,513 were arrested; curfews covered several cities. On October 24, nearly 1,000 were held as hundreds of thousands marched.",
+    "desc_cn": "2026年9月起法国学生因教育预算削减发起全国抗议，后扩展为反生活成本示威。截至10月20日约2513人被拘留、149人入狱，多地宵禁；10月24日又有约千人被捕、数十万人游行。"
   },
   {
     "tag_id": 100,
@@ -1712,22 +1712,22 @@
     "tag": "Jordan Church Funeral Attack",
     "tag_cn": "约旦教堂葬礼袭击",
     "first_seen": "2026-10-24",
-    "last_seen": "2026-10-24",
+    "last_seen": "2026-10-25",
     "synonyms": [
       "约旦教堂枪击",
       "卡拉克教堂袭击",
       "Jordan church shooting",
       "Karak church attack"
     ],
-    "desc": "Gunmen opened fire on mourners at a Greek Orthodox church in Hamoud, Karak governorate, Jordan, during a funeral on October 23, 2026. As of October 24, at least seven people were killed and 34 wounded; King Abdullah II called it a terrorist attack.",
-    "desc_cn": "2026年10月23日，约旦卡拉克省哈穆德村一座东正教堂举行葬礼时遭枪手袭击。截至10月24日，至少7人死亡、34人受伤，国王阿卜杜拉二世称其为恐怖袭击。"
+    "desc": "Gunmen opened fire on mourners at a Greek Orthodox church in Hamoud, Karak governorate, Jordan, during a funeral on October 23, 2026. As of October 24, at least nine were killed and about 40 wounded; King Abdullah II called it a terrorist attack.",
+    "desc_cn": "2026年10月23日，约旦卡拉克省哈穆德村一座东正教堂举行葬礼时遭枪手袭击。截至10月24日，至少9人死亡、约40人受伤，国王阿卜杜拉二世称其为恐怖袭击。"
   },
   {
     "tag_id": 114,
     "tag": "Israel West Bank Operation",
     "tag_cn": "以色列西岸军事行动",
     "first_seen": "2026-10-24",
-    "last_seen": "2026-10-24",
+    "last_seen": "2026-10-25",
     "synonyms": [
       "约旦河西岸封锁",
       "希伯伦军事行动",
@@ -1736,5 +1736,21 @@
     ],
     "desc": "Israel ordered an indefinite closure of the West Bank and prepared a large-scale military operation on October 23, 2026, after two soldiers were killed at a checkpoint near Hebron; officials called it the largest such operation since 1967.",
     "desc_cn": "2026年10月23日，希伯伦附近检查站袭击致两名以军士兵死亡。以色列总理内塔尼亚胡随后下令无限期封锁约旦河西岸，并准备发动自1967年以来规模最大的军事行动。"
+  },
+  {
+    "tag_id": 115,
+    "tag": "Mali Civilian Massacre",
+    "tag_cn": "马里平民屠杀",
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-25",
+    "synonyms": [
+      "Menaka massacre",
+      "Mali mass grave",
+      "Mali terror attack",
+      "梅纳卡屠杀",
+      "马里恐袭"
+    ],
+    "desc": "The bodies of 54 civilians were found near Menaka, northeastern Mali, on October 24, 2026, after reports of a terrorist attack; nine survivors were rescued. Officials suspected Islamic State in the Greater Sahara; no group claimed responsibility.",
+    "desc_cn": "2026年10月24日，马里军方在东北部梅纳卡市附近发现54具平民遗体，救出9名幸存者。初步证词指认“大撒哈拉伊斯兰国”，尚无组织宣称负责。"
   }
 ]
