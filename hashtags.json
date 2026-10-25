@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-26",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -16,7 +16,13 @@
       "Abu Dhabi trilateral talks",
       "俄美乌阿布扎比会谈",
       "Zaporizhzhia power restoration",
-      "扎波罗热核电站供电修复"
+      "扎波罗热核电站供电修复",
+      "星链限速乌克兰",
+      "Starlink throttling Ukraine",
+      "马斯克承认限速星链",
+      "Musk admits Starlink limits",
+      "星盾恢复通信",
+      "Starshield restored Ukraine"
     ],
     "desc": "Armed conflict begun in 2014 with Russia’s annexation of Crimea and the Donbas war. Russia launched a full-scale invasion on February 24, 2022. The UN counted nearly 15,000 Ukrainian civilians killed through December 2025. No peace settlement yet.",
     "desc_cn": "2014年俄罗斯吞并克里米亚并引发顿巴斯战事，2022年2月24日全面入侵乌克兰。联合国统计，截至2025年底乌克兰平民死亡近1.5万人。战事仍在持续，和谈尚无结果。"
@@ -103,7 +109,7 @@
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-10-24",
+    "last_seen": "2026-10-26",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
@@ -120,7 +126,11 @@
       "霍尔木兹袭击创新高",
       "record Hormuz attacks",
       "Hormuz supertanker mine attacks",
-      "霍尔木兹超级油轮触雷"
+      "霍尔木兹超级油轮触雷",
+      "特朗普拒绝重开霍尔木兹",
+      "Trump rejects reopening Hormuz",
+      "美国掌控霍尔木兹海峡",
+      "US controls Hormuz Strait"
     ],
     "desc": "Disruption of the Strait of Hormuz, a route for a fifth of world oil, after Iran closed it following 2026 US-Israeli strikes. It reopened after the April ceasefire but closed again in July; two supertankers with 4.5m barrels hit mines on October 23.",
     "desc_cn": "2026年2月28日美以打击伊朗后，伊朗宣布封锁霍尔木兹海峡（约占全球五分之一石油贸易通道），能源供应受冲击。4月7日停火后通航部分恢复，7月战事重燃后伊朗再度封锁；10月23日两艘载450万桶原油的超级油轮触雷。"
@@ -162,7 +172,7 @@
     "tag": "Korean Peninsula Tensions",
     "tag_cn": "朝鲜半岛局势",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-10-24",
+    "last_seen": "2026-10-26",
     "synonyms": [
       "朝韩紧张",
       "朝鲜导弹试射",
@@ -176,7 +186,13 @@
       "朝韩边境紧张",
       "North Korea border tension",
       "DMZ landmine dispute",
-      "非军事区地雷争端"
+      "非军事区地雷争端",
+      "金正恩访华",
+      "Kim visits China",
+      "金正恩丹东考察",
+      "Kim Dandong trip",
+      "新鸭绿江大桥",
+      "New Yalu River Bridge"
     ],
     "desc": "Korea has been divided since 1945, with separate states founded in 1948. The 1950–53 Korean War ended in an armistice, not a peace treaty. Key issues: North Korea’s nuclear and missile programs, sanctions and US-South Korea exercises.",
     "desc_cn": "朝鲜半岛自1945年起南北分治，1948年两国分别建立。1950至1953年朝鲜战争以停战协定而非和平条约结束。核心议题包括朝鲜核导计划、国际制裁及美韩联合军演。"
@@ -236,7 +252,7 @@
     "tag": "US Midterm Elections",
     "tag_cn": "美国中期选举",
     "first_seen": "2026-01-15",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-26",
     "synonyms": [
       "2026美国中期选举",
       "2026年国会选举",
@@ -244,7 +260,13 @@
       "US congressional elections",
       "DHS voter fraud probe",
       "Alaska Senate election lawsuit",
-      "阿拉斯加参议院选举诉讼"
+      "阿拉斯加参议院选举诉讼",
+      "奥巴马助选民主党",
+      "Obama campaigns for Democrats",
+      "特朗普回击奥巴马",
+      "Trump counters Obama rally",
+      "俄亥俄州长选战",
+      "Ohio governor race 2026"
     ],
     "desc": "Elections held midway through a US president’s term. The November 3, 2026 midterms will fill all 435 House seats, 35 Senate seats and 36 governorships, and set congressional control for the second half of Donald Trump’s second term.",
     "desc_cn": "美国总统任期中段举行的国会选举。2026年11月3日的中期选举将改选众议院全部435席、参议院35席及36个州的州长，决定特朗普第二任期后半段的国会控制权。"
@@ -423,17 +445,21 @@
     "tag": "EU-China Trade Frictions",
     "tag_cn": "欧中贸易摩擦",
     "first_seen": "2026-09-02",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-10-26",
     "synonyms": [
       "欧中贸易争端",
       "欧中贸易紧张",
       "EU China trade disputes",
       "EU-China trade tensions",
       "EU Beijing trade mission",
-      "欧盟贸易官员赴京"
+      "欧盟贸易官员赴京",
+      "欧盟对华熔断机制",
+      "EU kill switch China",
+      "欧盟对华应急机制",
+      "EU emergency trade tool"
     ],
-    "desc": "Trade disputes between the EU and China over steel, electric vehicles and other industrial goods, rooted in the EU’s large trade deficit. Brussels imposed duties on Chinese EVs in 2024; Beijing probed European brandy, pork and dairy.",
-    "desc_cn": "欧盟与中国围绕钢铁、电动汽车等工业品的贸易争端，根源是欧盟对华巨额贸易逆差。欧盟2024年对中国电动车加征关税，中方随后对欧洲白兰地、猪肉和乳制品展开调查。"
+    "desc": "EU-China trade disputes over steel, electric vehicles and other goods, rooted in the EU’s large deficit. Brussels imposed duties on Chinese EVs in 2024; Beijing probed European brandy, pork and dairy. In 2026 the EU prepared a “kill switch” tool.",
+    "desc_cn": "欧盟与中国围绕钢铁、电动车的贸易争端，根源是欧盟对华贸易逆差。2024年欧盟对中国电动车加征关税，中方对欧洲白兰地、猪肉和乳制品展开调查；2026年10月欧盟准备启用对华“熔断”机制。"
   },
   {
     "tag_id": 26,
@@ -821,7 +847,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-26",
     "synonyms": [
       "胡塞武装进攻",
       "红海航运危机",
@@ -857,10 +883,14 @@
       "英国向沙特部署战机",
       "UK jets Saudi Arabia",
       "Houthi strikes Saudi refineries",
-      "胡塞袭击沙特炼油厂"
+      "胡塞袭击沙特炼油厂",
+      "利雅得机场复运",
+      "Riyadh airport reopens",
+      "胡塞袭击沙特石油设施",
+      "Houthi attack Saudi depots"
     ],
-    "desc": "Yemen's war pits Houthis against the state since 2014. In 2026 they seized Mocha and Perim, then struck Saudi airports and refineries; Riyadh attacks killed 17 and injured 333 by October 15, and a Dammam strike killed 2 on October 22. Brent hit $116.",
-    "desc_cn": "也门内战自2014年起胡塞武装对抗政府。2026年9月胡塞攻占摩卡港与丕林岛，袭击沙特机场与炼油厂，截至10月15日利雅得机场遇袭20次致17死333伤。10月22日达曼机场遇袭致2死，10月23日炼油厂遇袭推动布伦特油价升至116美元。"
+    "desc": "Houthis have fought Yemen’s government since 2014, seizing Mocha and Perim in 2026 and striking Saudi airports and refineries. Riyadh attacks killed 17 and injured 333 by October 15; Riyadh airport partly reopened October 25.",
+    "desc_cn": "也门内战自2014年起胡塞武装对抗政府。2026年9月胡塞攻占摩卡港与丕林岛，袭击沙特机场与炼油厂，截至10月15日利雅得机场遇袭致17死333伤；10月22日达曼遇袭致2死，10月25日利雅得机场部分复运。"
   },
   {
     "tag_id": 54,
@@ -1084,7 +1114,7 @@
     "tag": "US China Trade War",
     "tag_cn": "美中贸易战",
     "first_seen": "2026-09-23",
-    "last_seen": "2026-10-24",
+    "last_seen": "2026-10-26",
     "synonyms": [
       "中美贸易战",
       "美中关税战",
@@ -1096,7 +1126,11 @@
       "美中投资协议谈判",
       "US-China investment talks",
       "US research security review",
-      "美国科研安全审查"
+      "美国科研安全审查",
+      "美国扩大对华投资限制",
+      "US China investment limits",
+      "商务部反对对华投资限制",
+      "MOFCOM opposes US rules"
     ],
     "desc": "Trade conflict between the US and China since 2018, escalating in 2025 to triple-digit tariffs before a May 2025 truce. Export controls, retaliation and negotiations continued into 2026, affecting markets, supply chains, tech firms and agriculture.",
     "desc_cn": "中美自2018年起的贸易冲突，2025年升级为三位数关税，5月达成休战。出口管制、反制措施与谈判延续至2026年，影响市场、供应链、科技企业与农业。"
@@ -1441,15 +1475,19 @@
     "tag": "Brazil Presidential Runoff",
     "tag_cn": "巴西总统选举",
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-26",
     "synonyms": [
       "Brazil election",
       "巴西大选",
       "Bolsonaro Lula runoff",
-      "博索纳罗卢拉对决"
+      "博索纳罗卢拉对决",
+      "巴西大选第二轮",
+      "Brazil second round",
+      "巴西第二轮投票",
+      "Brazil runoff vote"
     ],
-    "desc": "Brazil's 2026 presidential election first round on October 4 saw Senator Flávio Bolsonaro lead with 47.31% against incumbent Luiz Inácio Lula da Silva's 44.83%. As no candidate reached 50%, a runoff is scheduled for October 25.",
-    "desc_cn": "2026年10月4日巴西总统选举首轮，参议员弗拉维奥·博索纳罗获47.31%选票领先，现任总统卢拉得44.83%，因无人过半，将于10月25日举行第二轮对决。"
+    "desc": "Brazil’s October 4, 2026 presidential first round saw Flávio Bolsonaro lead with 47.03% against incumbent Luiz Inácio Lula da Silva’s 45.16%. The runoff was held on October 25, with voting extended two hours after transport shutdowns and heavy rain.",
+    "desc_cn": "2026年10月4日巴西总统选举首轮，弗拉维奥·博索纳罗获47.03%选票领先，现任总统卢拉得45.16%，因无人过半于10月25日举行第二轮投票。因交通停摆与强降雨，投票延长两小时。"
   },
   {
     "tag_id": 98,
@@ -1471,7 +1509,7 @@
     "tag": "France Student Protests",
     "tag_cn": "法国学生抗议",
     "first_seen": "2026-09-10",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-26",
     "synonyms": [
       "法国高中生抗议",
       "法国教育抗议",
@@ -1494,10 +1532,14 @@
       "马克龙严惩骚乱者",
       "Macron vows riot crackdown",
       "France 70,000 police deployment",
-      "法国部署7万警力"
+      "法国部署7万警力",
+      "法国41万人游行",
+      "France 410,000 marchers",
+      "法国1314人被捕",
+      "France 1,314 arrests"
     ],
-    "desc": "Nationwide protests in France since September 2026 over education cuts widened into cost-of-living rallies. By October 20, 2,513 were arrested; curfews covered several cities. On October 24, nearly 1,000 were held as hundreds of thousands marched.",
-    "desc_cn": "2026年9月起法国学生因教育预算削减发起全国抗议，后扩展为反生活成本示威。截至10月20日约2513人被拘留、149人入狱，多地宵禁；10月24日又有约千人被捕、数十万人游行。"
+    "desc": "Protests in France since September 2026 over education cuts widened into cost-of-living rallies, with curfews in several cities. On October 24 the interior ministry counted 289 rallies, about 410,000 marchers, 1,314 arrests and 53 police injured.",
+    "desc_cn": "2026年9月起法国学生因教育预算削减发起全国抗议，后扩展为反生活成本示威，多地实施宵禁。截至10月24日，全国举行289场示威、约41万人参加（巴黎约11万），1314人被捕，53名警察和宪兵受伤。"
   },
   {
     "tag_id": 100,
@@ -1727,15 +1769,19 @@
     "tag": "Israel West Bank Operation",
     "tag_cn": "以色列西岸军事行动",
     "first_seen": "2026-10-24",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-26",
     "synonyms": [
       "约旦河西岸封锁",
       "希伯伦军事行动",
       "West Bank closure",
-      "Hebron military operation"
+      "Hebron military operation",
+      "以军西岸大规模行动",
+      "Israeli West Bank sweep",
+      "巴勒斯坦人被捕",
+      "Palestinians detained"
     ],
-    "desc": "Israel ordered an indefinite closure of the West Bank and prepared a large-scale military operation on October 23, 2026, after two soldiers were killed at a checkpoint near Hebron; officials called it the largest such operation since 1967.",
-    "desc_cn": "2026年10月23日，希伯伦附近检查站袭击致两名以军士兵死亡。以色列总理内塔尼亚胡随后下令无限期封锁约旦河西岸，并准备发动自1967年以来规模最大的军事行动。"
+    "desc": "Israel ordered an indefinite closure of the West Bank and began a large operation on October 23, 2026, after two soldiers were killed near Hebron, the largest since 1967. By October 25 dozens of Palestinians were detained and over 2,200 displaced.",
+    "desc_cn": "2026年10月23日，希伯伦附近检查站袭击致两名以军死亡，以色列下令无限期封锁约旦河西岸，并发动1967年以来规模最大军事行动。截至10月25日，数十名巴勒斯坦人被捕、超2200人流离失所。"
   },
   {
     "tag_id": 115,
@@ -1752,5 +1798,49 @@
     ],
     "desc": "The bodies of 54 civilians were found near Menaka, northeastern Mali, on October 24, 2026, after reports of a terrorist attack; nine survivors were rescued. Officials suspected Islamic State in the Greater Sahara; no group claimed responsibility.",
     "desc_cn": "2026年10月24日，马里军方在东北部梅纳卡市附近发现54具平民遗体，救出9名幸存者。初步证词指认“大撒哈拉伊斯兰国”，尚无组织宣称负责。"
+  },
+  {
+    "tag_id": 116,
+    "tag": "Serbia Election Vucic Concedes",
+    "tag_cn": "塞尔维亚大选变天",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "synonyms": [
+      "武契奇承认败选",
+      "Vucic concedes defeat",
+      "塞尔维亚提前议会选举",
+      "Serbia snap election",
+      "学生名单学生获胜",
+      "Students Win Serbia",
+      "塞尔维亚学生运动",
+      "Serbia student movement",
+      "前进党败选",
+      "SNS loses election",
+      "塞尔维亚政权更迭",
+      "Serbia power change"
+    ],
+    "desc": "Serbia’s snap parliamentary election on October 25, 2026 saw Vucic concede defeat, ending SNS rule since 2012. The student-led “Students Win” list was projected to take 135-140 of 250 seats; Vucic had dissolved parliament on September 9.",
+    "desc_cn": "塞尔维亚2026年10月25日举行提前议会选举，领导人武契奇当晚承认由前进党主导的选举名单败选，结束该党自2012年起的执政。学生团体推动的“学生名单－学生获胜”预计获250席中的135至140席，武契奇名单约获105席。"
+  },
+  {
+    "tag_id": 117,
+    "tag": "Machado Returns to Venezuela",
+    "tag_cn": "马查多返委内瑞拉",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "synonyms": [
+      "马查多结束流亡",
+      "Machado ends exile",
+      "委内瑞拉反对派领袖返国",
+      "Venezuela opposition returns",
+      "马查多抵达拉腊州",
+      "Machado arrives Barquisimeto",
+      "马查多回国",
+      "Machado returns home",
+      "委内瑞拉民主转型",
+      "Venezuela democratic transition"
+    ],
+    "desc": "Venezuela opposition leader Maria Corina Machado returned on October 25, 2026 after nearly ten months in exile, meeting supporters in Barquisimeto. US forces seized President Nicolas Maduro in January 2026; Delcy Rodriguez became interim president.",
+    "desc_cn": "委内瑞拉反对派领袖、诺贝尔和平奖得主玛丽亚·科里纳·马查多于2026年10月25日结束近10个月流亡返国，在拉腊州巴基西梅托与支持者会面。2026年1月美军抓捕马杜罗后，德尔西·罗德里格斯出任代总统。"
   }
 ]
