@@ -32,17 +32,21 @@
     "tag": "Israel Gaza War",
     "tag_cn": "加沙战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-10-22",
+    "last_seen": "2026-10-27",
     "synonyms": [
       "加沙冲突",
       "以哈战争",
       "Gaza conflict",
       "Israel-Hamas war",
       "加沙空袭",
-      "Gaza air strikes"
+      "Gaza air strikes",
+      "联合国加沙种族灭绝报告",
+      "UN Gaza genocide report",
+      "加沙种族灭绝",
+      "Gaza genocide"
     ],
-    "desc": "War begun October 7, 2023, when Hamas-led militants attacked Israel, killing about 1,200 and taking 251 hostages. A US-brokered ceasefire took effect October 10, 2025. Gaza reported 74,469 deaths by October 17, 2026; violence continued.",
-    "desc_cn": "2023年10月7日哈马斯武装袭击以色列，约1200人死亡、251人被劫持，以军随即对加沙大规模军事行动。2025年10月10日美国斡旋停火生效。截至2026年10月17日加沙累计死亡74469人，停火后仍有暴力冲突。"
+    "desc": "War begun October 7, 2023, when Hamas-led militants attacked Israel, killing about 1,200 and taking 251 hostages. A US-brokered ceasefire took effect October 10, 2025. Gaza recorded 74,555 dead by October 26, 2026; UN inquiry found genocide ongoing.",
+    "desc_cn": "2023年10月7日哈马斯武装袭击以色列，约1200人死亡、251人被劫持，以军随即对加沙大规模军事行动。2025年10月10日美国斡旋停火生效。截至2026年10月26日加沙累计死亡74555人；联合国调查委员会称加沙种族灭绝仍在持续。"
   },
   {
     "tag_id": 3,
@@ -76,7 +80,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-27",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -99,7 +103,11 @@
       "US-Iran standoff",
       "美伊长期对峙",
       "Operation Epic Fury",
-      "史诗怒火行动"
+      "史诗怒火行动",
+      "美军拟再打击伊朗",
+      "US prepares Iran strikes",
+      "特朗普拟打击伊朗",
+      "Trump plans Iran strikes"
     ],
     "desc": "War begun February 28, 2026, when the US and Israel struck Iran. A Pakistan-brokered ceasefire began April 7–8; a US-Iran memorandum followed June 17. Fighting resumed in July. By October 5, 81 US aircraft had been lost or damaged.",
     "desc_cn": "2026年2月28日美以打击伊朗，伊朗在中东多地反击。4月7日至8日巴基斯坦斡旋停火，6月17日美伊签署谅解备忘录，7月战事重燃。截至10月5日美报告81架军机受损或被毁。"
@@ -796,14 +804,18 @@
     "tag": "US Canada Trade War",
     "tag_cn": "美加贸易战",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-09-30",
+    "last_seen": "2026-10-27",
     "synonyms": [
       "加拿大反制关税",
       "加拿大关税反击",
       "美加关税战",
       "Canada retaliatory tariffs",
       "US-Canada trade war",
-      "加拿大对美加征关税"
+      "加拿大对美加征关税",
+      "美国调整对加关税",
+      "US adjusts Canada tariffs",
+      "特朗普调整加拿大关税",
+      "Trump modifies Canada tariffs"
     ],
     "desc": "Trade conflict between the US and Canada in 2026. After the US imposed 50% tariffs on $20 billion of Canadian goods and talks collapsed August 21, Canada retaliated September 8; on September 29 the US banned about $967 million of Canadian goods.",
     "desc_cn": "2026年美加贸易冲突。美国对200亿美元加拿大商品加征50%关税、8月21日谈判破裂后，加拿大9月8日实施反制；9月29日美国对约9.67亿美元加拿大酒类、乳制品和摩托车实施进口禁令。"
@@ -1475,7 +1487,7 @@
     "tag": "Brazil Presidential Runoff",
     "tag_cn": "巴西总统选举",
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-26",
+    "last_seen": "2026-10-27",
     "synonyms": [
       "Brazil election",
       "巴西大选",
@@ -1484,10 +1496,16 @@
       "巴西大选第二轮",
       "Brazil second round",
       "巴西第二轮投票",
-      "Brazil runoff vote"
+      "Brazil runoff vote",
+      "卢拉第四次当选",
+      "Lula fourth term",
+      "卢拉胜选",
+      "Lula wins election",
+      "博索纳罗拒绝承认败选",
+      "Bolsonaro refuses to concede"
     ],
-    "desc": "Brazil’s October 4, 2026 presidential first round saw Flávio Bolsonaro lead with 47.03% against incumbent Luiz Inácio Lula da Silva’s 45.16%. The runoff was held on October 25, with voting extended two hours after transport shutdowns and heavy rain.",
-    "desc_cn": "2026年10月4日巴西总统选举首轮，弗拉维奥·博索纳罗获47.03%选票领先，现任总统卢拉得45.16%，因无人过半于10月25日举行第二轮投票。因交通停摆与强降雨，投票延长两小时。"
+    "desc": "Brazil’s October 25, 2026 runoff gave Luiz Inácio Lula da Silva a fourth term with 51.79% against Flávio Bolsonaro’s 48.21%. Bolsonaro had led the October 4 first round 47.03% to 45.16%; Lula takes office January 5, 2027.",
+    "desc_cn": "2026年10月25日巴西总统选举第二轮，卢拉以51.79%击败弗拉维奥·博索纳罗的48.21%，第四次当选，将于2027年1月5日就职。首轮10月4日博索纳罗以47.03%领先卢拉45.16%。"
   },
   {
     "tag_id": 98,
@@ -1509,7 +1527,7 @@
     "tag": "France Student Protests",
     "tag_cn": "法国学生抗议",
     "first_seen": "2026-09-10",
-    "last_seen": "2026-10-26",
+    "last_seen": "2026-10-27",
     "synonyms": [
       "法国高中生抗议",
       "法国教育抗议",
@@ -1536,7 +1554,11 @@
       "法国41万人游行",
       "France 410,000 marchers",
       "法国1314人被捕",
-      "France 1,314 arrests"
+      "France 1,314 arrests",
+      "马克龙承认低估骚乱",
+      "Macron admits misjudging riots",
+      "法国10月31日示威",
+      "France October 31 protests"
     ],
     "desc": "Protests in France since September 2026 over education cuts widened into cost-of-living rallies, with curfews in several cities. On October 24 the interior ministry counted 289 rallies, about 410,000 marchers, 1,314 arrests and 53 police injured.",
     "desc_cn": "2026年9月起法国学生因教育预算削减发起全国抗议，后扩展为反生活成本示威，多地实施宵禁。截至10月24日，全国举行289场示威、约41万人参加（巴黎约11万），1314人被捕，53名警察和宪兵受伤。"
@@ -1754,15 +1776,19 @@
     "tag": "Jordan Church Funeral Attack",
     "tag_cn": "约旦教堂葬礼袭击",
     "first_seen": "2026-10-24",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-27",
     "synonyms": [
       "约旦教堂枪击",
       "卡拉克教堂袭击",
       "Jordan church shooting",
-      "Karak church attack"
+      "Karak church attack",
+      "约旦教堂恐袭",
+      "Jordan church terror attack",
+      "卡拉克枪击案",
+      "Karak shooting"
     ],
-    "desc": "Gunmen opened fire on mourners at a Greek Orthodox church in Hamoud, Karak governorate, Jordan, during a funeral on October 23, 2026. As of October 24, at least nine were killed and about 40 wounded; King Abdullah II called it a terrorist attack.",
-    "desc_cn": "2026年10月23日，约旦卡拉克省哈穆德村一座东正教堂举行葬礼时遭枪手袭击。截至10月24日，至少9人死亡、约40人受伤，国王阿卜杜拉二世称其为恐怖袭击。"
+    "desc": "Gunmen opened fire on mourners at a Greek Orthodox church in Hamoud, Karak governorate, Jordan, during a funeral on October 23, 2026, killing nine and wounding 25. Police arrested three suspects on October 26; King Abdullah II called it terrorism.",
+    "desc_cn": "2026年10月23日，约旦卡拉克省哈穆德村一座东正教堂举行葬礼时遭枪手袭击，致9人死亡、25人受伤。10月26日警方逮捕3名嫌疑人，国王阿卜杜拉二世称其为恐怖袭击。"
   },
   {
     "tag_id": 114,
@@ -1804,7 +1830,7 @@
     "tag": "Serbia Election Vucic Concedes",
     "tag_cn": "塞尔维亚大选变天",
     "first_seen": "2026-10-26",
-    "last_seen": "2026-10-26",
+    "last_seen": "2026-10-27",
     "synonyms": [
       "武契奇承认败选",
       "Vucic concedes defeat",
@@ -1842,5 +1868,22 @@
     ],
     "desc": "Venezuela opposition leader Maria Corina Machado returned on October 25, 2026 after nearly ten months in exile, meeting supporters in Barquisimeto. US forces seized President Nicolas Maduro in January 2026; Delcy Rodriguez became interim president.",
     "desc_cn": "委内瑞拉反对派领袖、诺贝尔和平奖得主玛丽亚·科里纳·马查多于2026年10月25日结束近10个月流亡返国，在拉腊州巴基西梅托与支持者会面。2026年1月美军抓捕马杜罗后，德尔西·罗德里格斯出任代总统。"
+  },
+  {
+    "tag_id": 118,
+    "tag": "Israel Election 2026",
+    "tag_cn": "以色列大选",
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "synonyms": [
+      "以色列议会选举",
+      "Israel parliamentary election",
+      "内塔尼亚胡大选",
+      "Netanyahu election",
+      "以色列投票",
+      "Israel votes"
+    ],
+    "desc": "Israel held a parliamentary election on October 27, 2026, with Prime Minister Benjamin Netanyahu’s Likud-led bloc facing former army chief Gadi Eisenkot’s Yashar party. Polls showed neither bloc securing a 61-seat majority in the 120-seat Knesset.",
+    "desc_cn": "2026年10月27日以色列举行议会选举，全部120个席位改选。总理内塔尼亚胡领导的右翼阵营与以军前总参谋长埃森科特领导的反对阵营对决，民调显示两阵营均难获61席过半多数。"
   }
 ]
