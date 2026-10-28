@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-10-29",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -26,7 +26,10 @@
       "Oleshky ceasefire expansion",
       "阿列什基停火范围扩大",
       "UN crimes against humanity report",
-      "联合国报告称俄犯危害人类罪"
+      "联合国报告称俄犯危害人类罪",
+      "俄美乌三方谈判",
+      "Russia-US-Ukraine trilateral talks",
+      "俄方拒绝欧洲参与谈判"
     ],
     "desc": "Armed conflict begun in 2014 with Russia’s annexation of Crimea and the Donbas war. Russia launched a full-scale invasion on February 24, 2022. The UN counted nearly 15,000 Ukrainian civilians killed through December 2025. No peace settlement yet.",
     "desc_cn": "2014年俄罗斯吞并克里米亚并引发顿巴斯战事，2022年2月24日全面入侵乌克兰。联合国统计，截至2025年底乌克兰平民死亡近1.5万人。战事仍在持续，和谈尚无结果。"
@@ -84,7 +87,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-10-29",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -115,7 +118,13 @@
       "伊朗主办地区峰会",
       "Iran hosts regional summit",
       "普京会晤伊朗总统",
-      "Putin meets Pezeshkian"
+      "Putin meets Pezeshkian",
+      "卡塔尔停战草案",
+      "Qatar Iran ceasefire draft",
+      "伊朗拟退出核不扩散条约",
+      "Iran NPT withdrawal plan",
+      "美拟96小时内打击伊朗",
+      "US strike Iran 96 hours"
     ],
     "desc": "War begun February 28, 2026, when the US and Israel struck Iran. A Pakistan-brokered ceasefire began April 7–8; a US-Iran memorandum followed June 17. Fighting resumed in July. By October 5, 81 US aircraft had been lost or damaged.",
     "desc_cn": "2026年2月28日美以打击伊朗，伊朗在中东多地反击。4月7日至8日巴基斯坦斡旋停火，6月17日美伊签署谅解备忘录，7月战事重燃。截至10月5日美报告81架军机受损或被毁。"
@@ -254,7 +263,7 @@
     "tag": "DRC Ebola Outbreak",
     "tag_cn": "刚果埃博拉疫情",
     "first_seen": "2026-09-02",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-10-29",
     "synonyms": [
       "刚果金埃博拉",
       "DR Congo Ebola",
@@ -426,7 +435,7 @@
     "tag": "Fed Interest Rate Policy",
     "tag_cn": "美联储利率政策",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-09-17",
+    "last_seen": "2026-10-29",
     "synonyms": [
       "美联储降息",
       "美联储加息",
@@ -937,11 +946,13 @@
     "tag": "EU Canada Associate Membership",
     "tag_cn": "加拿大欧盟准成员",
     "first_seen": "2026-09-17",
-    "last_seen": "2026-09-17",
+    "last_seen": "2026-10-29",
     "synonyms": [
       "欧盟首个准成员",
       "Canada EU associate member",
-      "EU Canada associate membership"
+      "EU Canada associate membership",
+      "欧盟放弃准成员提法",
+      "EU drops associate membership label"
     ],
     "desc": "In September 2026 EU Commission President von der Leyen proposed Canada become the EU’s first associate member, covering defense, energy, critical minerals and AI. Carney backed it; Trump called it hostile and threatened EU tariffs.",
     "desc_cn": "2026年9月欧盟委员会主席冯德莱恩提议让加拿大成为欧盟首个准成员，合作涵盖防务、能源、关键矿产与AI。加拿大总理卡尼表示支持，特朗普称其为敌对行为并威胁对欧盟加税。"
@@ -1033,7 +1044,7 @@
     "tag": "Anthropic AI",
     "tag_cn": "Anthropic AI",
     "first_seen": "2026-09-21",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-10-29",
     "synonyms": [
       "Claude模型",
       "Claude",
@@ -1507,7 +1518,7 @@
     "tag": "Brazil Presidential Runoff",
     "tag_cn": "巴西总统选举",
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-10-29",
     "synonyms": [
       "Brazil election",
       "巴西大选",
@@ -1526,7 +1537,9 @@
       "弗拉维奥逃亡美国",
       "Flávio Bolsonaro flees to US",
       "自由党承认败选",
-      "Liberal Party recognizes result"
+      "Liberal Party recognizes result",
+      "博索纳罗流亡反对派",
+      "Bolsonaro opposition in exile"
     ],
     "desc": "Brazil’s October 25, 2026 runoff gave Luiz Inácio Lula da Silva a fourth term with 51.79% against Flávio Bolsonaro’s 48.21%. Bolsonaro had led the October 4 first round 47.03% to 45.16%; Lula takes office January 5, 2027.",
     "desc_cn": "2026年10月25日巴西总统选举第二轮，卢拉以51.79%击败弗拉维奥·博索纳罗的48.21%，第四次当选，将于2027年1月5日就职。首轮10月4日博索纳罗以47.03%领先卢拉45.16%。"
@@ -1898,7 +1911,7 @@
     "tag": "Israel Election 2026",
     "tag_cn": "以色列大选",
     "first_seen": "2026-10-27",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-10-29",
     "synonyms": [
       "以色列议会选举",
       "Israel parliamentary election",
@@ -1909,9 +1922,31 @@
       "以色列大选出口民调",
       "Israel election exit polls",
       "创纪录投票率",
-      "record voter turnout"
+      "record voter turnout",
+      "以色列大选僵局",
+      "Israel election deadlock",
+      "以色列票箱清点完成",
+      "Israel vote count completed"
     ],
-    "desc": "Israel held a parliamentary election on October 27, 2026. Exit polls gave former army chief Gadi Eisenkot’s bloc 53 seats and Prime Minister Benjamin Netanyahu’s right-wing bloc 50 in the 120-seat Knesset; neither reached the 61 needed. Turnout was the highest since 1999.",
-    "desc_cn": "2026年10月27日以色列举行第26届议会选举，全部120席改选。出口民调显示埃森科特阵营获53席、内塔尼亚胡右翼阵营获50席，均未达61席过半；投票率为1999年以来最高。"
+    "desc": "Israel's parliamentary election of October 27, 2026 gave Prime Minister Benjamin Netanyahu's bloc 53 of 120 Knesset seats, Gadi Eisenkot's opposition 48 and Arab parties 19; Likud remained the largest party and turnout was the highest since 1999.",
+    "desc_cn": "2026年10月27日以色列举行第26届议会选举，改选全部120席。最终计票内塔尼亚胡右翼阵营53席、埃森科特反对派48席、阿拉伯裔政党19席，均未过半，组阁谈判启动，投票率创1999年以来新高。"
+  },
+  {
+    "tag_id": 119,
+    "tag": "Spain High-Speed Train Collision",
+    "tag_cn": "西班牙高铁相撞事故",
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "synonyms": [
+      "西班牙高铁事故",
+      "托莱多列车相撞",
+      "西班牙列车相撞",
+      "Spain train crash",
+      "Toledo train crash",
+      "Urda train collision",
+      "Renfe Iryo crash"
+    ],
+    "desc": "On Oct 28, 2026 a Renfe high-speed train rear-ended a stopped Iryo train near Urda, Spain, killing at least 68 and injuring over 100. An LZB failure and a controller's order to pass a red light were blamed; it was Spain's third fatal crash of 2026.",
+    "desc_cn": "2026年10月28日上午，马德里至塞维利亚高铁线托莱多省乌尔达附近，西班牙国家铁路公司列车追尾撞上停驶的伊尔约公司列车，造成至少68人死亡、100余人受伤。初查指向铁路安全系统电脑故障与调度员违规放行，为西班牙今年第三起致命铁路事故。"
   }
 ]
