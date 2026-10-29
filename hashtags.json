@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -29,7 +29,11 @@
       "联合国报告称俄犯危害人类罪",
       "俄美乌三方谈判",
       "Russia-US-Ukraine trilateral talks",
-      "俄方拒绝欧洲参与谈判"
+      "俄方拒绝欧洲参与谈判",
+      "Dnipro train station strike",
+      "第聂伯罗火车站遇袭",
+      "Zelensky-Putin talks",
+      "泽连斯基愿与普京对话"
     ],
     "desc": "Armed conflict begun in 2014 with Russia’s annexation of Crimea and the Donbas war. Russia launched a full-scale invasion on February 24, 2022. The UN counted nearly 15,000 Ukrainian civilians killed through December 2025. No peace settlement yet.",
     "desc_cn": "2014年俄罗斯吞并克里米亚并引发顿巴斯战事，2022年2月24日全面入侵乌克兰。联合国统计，截至2025年底乌克兰平民死亡近1.5万人。战事仍在持续，和谈尚无结果。"
@@ -87,7 +91,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -124,7 +128,9 @@
       "伊朗拟退出核不扩散条约",
       "Iran NPT withdrawal plan",
       "美拟96小时内打击伊朗",
-      "US strike Iran 96 hours"
+      "US strike Iran 96 hours",
+      "CENTCOM Iran options",
+      "美军汇报对伊军事选项"
     ],
     "desc": "War begun February 28, 2026, when the US and Israel struck Iran. A Pakistan-brokered ceasefire began April 7–8; a US-Iran memorandum followed June 17. Fighting resumed in July. By October 5, 81 US aircraft had been lost or damaged.",
     "desc_cn": "2026年2月28日美以打击伊朗，伊朗在中东多地反击。4月7日至8日巴基斯坦斡旋停火，6月17日美伊签署谅解备忘录，7月战事重燃。截至10月5日美报告81架军机受损或被毁。"
@@ -134,7 +140,7 @@
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-10-26",
+    "last_seen": "2026-10-30",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
@@ -155,7 +161,11 @@
       "特朗普拒绝重开霍尔木兹",
       "Trump rejects reopening Hormuz",
       "美国掌控霍尔木兹海峡",
-      "US controls Hormuz Strait"
+      "US controls Hormuz Strait",
+      "EU oil reserve release",
+      "欧盟释放4260万桶储油",
+      "Iran keeps Hormuz closed",
+      "伊朗称霍尔木兹不开放"
     ],
     "desc": "Disruption of the Strait of Hormuz, a route for a fifth of world oil, after Iran closed it following 2026 US-Israeli strikes. It reopened after the April ceasefire but closed again in July; two supertankers with 4.5m barrels hit mines on October 23.",
     "desc_cn": "2026年2月28日美以打击伊朗后，伊朗宣布封锁霍尔木兹海峡（约占全球五分之一石油贸易通道），能源供应受冲击。4月7日停火后通航部分恢复，7月战事重燃后伊朗再度封锁；10月23日两艘载450万桶原油的超级油轮触雷。"
@@ -435,7 +445,7 @@
     "tag": "Fed Interest Rate Policy",
     "tag_cn": "美联储利率政策",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "synonyms": [
       "美联储降息",
       "美联储加息",
@@ -876,7 +886,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-10-30",
     "synonyms": [
       "胡塞武装进攻",
       "红海航运危机",
@@ -920,7 +930,9 @@
       "埃及授权军事支持沙特",
       "Egypt authorizes military support to Saudi",
       "胡塞称埃及宣战",
-      "Houthis call Egypt war declaration"
+      "Houthis call Egypt war declaration",
+      "Houthi missiles intercepted",
+      "胡塞导弹袭利雅得被拦截"
     ],
     "desc": "Houthis have fought Yemen’s government since 2014, seizing Mocha and Perim in 2026 and striking Saudi airports and refineries. Riyadh attacks killed 17 and injured 333 by October 15; Riyadh airport partly reopened October 25.",
     "desc_cn": "也门内战自2014年起胡塞武装对抗政府。2026年9月胡塞攻占摩卡港与丕林岛，袭击沙特机场与炼油厂，截至10月15日利雅得机场遇袭致17死333伤；10月22日达曼遇袭致2死，10月25日利雅得机场部分复运。"
@@ -1518,7 +1530,7 @@
     "tag": "Brazil Presidential Runoff",
     "tag_cn": "巴西总统选举",
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "synonyms": [
       "Brazil election",
       "巴西大选",
@@ -1911,7 +1923,7 @@
     "tag": "Israel Election 2026",
     "tag_cn": "以色列大选",
     "first_seen": "2026-10-27",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "synonyms": [
       "以色列议会选举",
       "Israel parliamentary election",
@@ -1926,7 +1938,9 @@
       "以色列大选僵局",
       "Israel election deadlock",
       "以色列票箱清点完成",
-      "Israel vote count completed"
+      "Israel vote count completed",
+      "Israel coalition talks",
+      "以色列组阁谈判"
     ],
     "desc": "Israel's parliamentary election of October 27, 2026 gave Prime Minister Benjamin Netanyahu's bloc 53 of 120 Knesset seats, Gadi Eisenkot's opposition 48 and Arab parties 19; Likud remained the largest party and turnout was the highest since 1999.",
     "desc_cn": "2026年10月27日以色列举行第26届议会选举，改选全部120席。最终计票内塔尼亚胡右翼阵营53席、埃森科特反对派48席、阿拉伯裔政党19席，均未过半，组阁谈判启动，投票率创1999年以来新高。"
@@ -1936,7 +1950,7 @@
     "tag": "Spain High-Speed Train Collision",
     "tag_cn": "西班牙高铁相撞事故",
     "first_seen": "2026-10-29",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "synonyms": [
       "西班牙高铁事故",
       "托莱多列车相撞",
@@ -1946,7 +1960,7 @@
       "Urda train collision",
       "Renfe Iryo crash"
     ],
-    "desc": "On Oct 28, 2026 a Renfe high-speed train rear-ended a stopped Iryo train near Urda, Spain, killing at least 68 and injuring over 100. An LZB failure and a controller's order to pass a red light were blamed; it was Spain's third fatal crash of 2026.",
-    "desc_cn": "2026年10月28日上午，马德里至塞维利亚高铁线托莱多省乌尔达附近，西班牙国家铁路公司列车追尾撞上停驶的伊尔约公司列车，造成至少68人死亡、100余人受伤。初查指向铁路安全系统电脑故障与调度员违规放行，为西班牙今年第三起致命铁路事故。"
+    "desc": "On Oct 28, 2026 a Renfe high-speed train rear-ended a stopped Iryo train near Urda, Spain, killing at least 69 and injuring over 100. An LZB failure and a controller's order to pass a red light were blamed; it was Spain's third fatal crash of 2026.",
+    "desc_cn": "2026年10月28日上午，马德里至塞维利亚高铁线托莱多省乌尔达附近，西班牙国家铁路公司列车追尾撞上停驶的伊尔约公司列车，造成至少69人死亡、100余人受伤。初查指向铁路安全系统电脑故障与调度员违规放行，为西班牙今年第三起致命铁路事故。"
   }
 ]
