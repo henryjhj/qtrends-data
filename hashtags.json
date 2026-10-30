@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-10-30",
+    "last_seen": "2026-10-31",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -287,7 +287,7 @@
     "tag": "US Midterm Elections",
     "tag_cn": "美国中期选举",
     "first_seen": "2026-01-15",
-    "last_seen": "2026-10-26",
+    "last_seen": "2026-10-31",
     "synonyms": [
       "2026美国中期选举",
       "2026年国会选举",
@@ -301,7 +301,9 @@
       "特朗普回击奥巴马",
       "Trump counters Obama rally",
       "俄亥俄州长选战",
-      "Ohio governor race 2026"
+      "Ohio governor race 2026",
+      "Pope Leo votes midterms",
+      "教皇利奥投票中期选举"
     ],
     "desc": "Elections held midway through a US president’s term. The November 3, 2026 midterms will fill all 435 House seats, 35 Senate seats and 36 governorships, and set congressional control for the second half of Donald Trump’s second term.",
     "desc_cn": "美国总统任期中段举行的国会选举。2026年11月3日的中期选举将改选众议院全部435席、参议院35席及36个州的州长，决定特朗普第二任期后半段的国会控制权。"
@@ -958,13 +960,15 @@
     "tag": "EU Canada Associate Membership",
     "tag_cn": "加拿大欧盟准成员",
     "first_seen": "2026-09-17",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-31",
     "synonyms": [
       "欧盟首个准成员",
       "Canada EU associate member",
       "EU Canada associate membership",
       "欧盟放弃准成员提法",
-      "EU drops associate membership label"
+      "EU drops associate membership label",
+      "Canada EU membership talks",
+      "加欧准成员谈判"
     ],
     "desc": "In September 2026 EU Commission President von der Leyen proposed Canada become the EU’s first associate member, covering defense, energy, critical minerals and AI. Carney backed it; Trump called it hostile and threatened EU tariffs.",
     "desc_cn": "2026年9月欧盟委员会主席冯德莱恩提议让加拿大成为欧盟首个准成员，合作涵盖防务、能源、关键矿产与AI。加拿大总理卡尼表示支持，特朗普称其为敌对行为并威胁对欧盟加税。"
@@ -1530,7 +1534,7 @@
     "tag": "Brazil Presidential Runoff",
     "tag_cn": "巴西总统选举",
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-30",
+    "last_seen": "2026-10-31",
     "synonyms": [
       "Brazil election",
       "巴西大选",
@@ -1551,7 +1555,9 @@
       "自由党承认败选",
       "Liberal Party recognizes result",
       "博索纳罗流亡反对派",
-      "Bolsonaro opposition in exile"
+      "Bolsonaro opposition in exile",
+      "Bolsonaro allies in exile",
+      "博索纳罗盟友流亡"
     ],
     "desc": "Brazil’s October 25, 2026 runoff gave Luiz Inácio Lula da Silva a fourth term with 51.79% against Flávio Bolsonaro’s 48.21%. Bolsonaro had led the October 4 first round 47.03% to 45.16%; Lula takes office January 5, 2027.",
     "desc_cn": "2026年10月25日巴西总统选举第二轮，卢拉以51.79%击败弗拉维奥·博索纳罗的48.21%，第四次当选，将于2027年1月5日就职。首轮10月4日博索纳罗以47.03%领先卢拉45.16%。"
@@ -1576,7 +1582,7 @@
     "tag": "France Student Protests",
     "tag_cn": "法国学生抗议",
     "first_seen": "2026-09-10",
-    "last_seen": "2026-10-27",
+    "last_seen": "2026-10-31",
     "synonyms": [
       "法国高中生抗议",
       "法国教育抗议",
@@ -1607,10 +1613,14 @@
       "马克龙承认低估骚乱",
       "Macron admits misjudging riots",
       "法国10月31日示威",
-      "France October 31 protests"
+      "France October 31 protests",
+      "Italy anti-government protests",
+      "意大利反政府抗议",
+      "parents pay riot damages",
+      "父母为骚乱赔偿"
     ],
-    "desc": "Protests in France since September 2026 over education cuts widened into cost-of-living rallies, with curfews in several cities. On October 24 the interior ministry counted 289 rallies, about 410,000 marchers, 1,314 arrests and 53 police injured.",
-    "desc_cn": "2026年9月起法国学生因教育预算削减发起全国抗议，后扩展为反生活成本示威，多地实施宵禁。截至10月24日，全国举行289场示威、约41万人参加（巴黎约11万），1314人被捕，53名警察和宪兵受伤。"
+    "desc": "French education protests since September 2026 grew into cost-of-living rallies and curfews. On October 24, 289 rallies drew 410,000 marchers, 1,314 arrests and 53 police injured. By late October unrest spread to Italy; riot damage near $1 billion.",
+    "desc_cn": "2026年9月起法国学生因教育预算削减发起全国抗议，后扩展为反生活成本示威，多地宵禁。截至10月24日，全国289场示威、约41万人参加，1314人被捕，53名警察受伤。10月底抗议蔓延至意大利，骚乱损失估计达10亿美元。"
   },
   {
     "tag_id": 100,
@@ -1923,7 +1933,7 @@
     "tag": "Israel Election 2026",
     "tag_cn": "以色列大选",
     "first_seen": "2026-10-27",
-    "last_seen": "2026-10-30",
+    "last_seen": "2026-10-31",
     "synonyms": [
       "以色列议会选举",
       "Israel parliamentary election",
@@ -1940,7 +1950,9 @@
       "以色列票箱清点完成",
       "Israel vote count completed",
       "Israel coalition talks",
-      "以色列组阁谈判"
+      "以色列组阁谈判",
+      "Israel coalition bargaining",
+      "以色列组阁博弈"
     ],
     "desc": "Israel's parliamentary election of October 27, 2026 gave Prime Minister Benjamin Netanyahu's bloc 53 of 120 Knesset seats, Gadi Eisenkot's opposition 48 and Arab parties 19; Likud remained the largest party and turnout was the highest since 1999.",
     "desc_cn": "2026年10月27日以色列举行第26届议会选举，改选全部120席。最终计票内塔尼亚胡右翼阵营53席、埃森科特反对派48席、阿拉伯裔政党19席，均未过半，组阁谈判启动，投票率创1999年以来新高。"
@@ -1950,7 +1962,7 @@
     "tag": "Spain High-Speed Train Collision",
     "tag_cn": "西班牙高铁相撞事故",
     "first_seen": "2026-10-29",
-    "last_seen": "2026-10-30",
+    "last_seen": "2026-10-31",
     "synonyms": [
       "西班牙高铁事故",
       "托莱多列车相撞",
@@ -1958,9 +1970,28 @@
       "Spain train crash",
       "Toledo train crash",
       "Urda train collision",
-      "Renfe Iryo crash"
+      "Renfe Iryo crash",
+      "Spain train control failure",
+      "西班牙高铁系统故障"
     ],
-    "desc": "On Oct 28, 2026 a Renfe high-speed train rear-ended a stopped Iryo train near Urda, Spain, killing at least 69 and injuring over 100. An LZB failure and a controller's order to pass a red light were blamed; it was Spain's third fatal crash of 2026.",
-    "desc_cn": "2026年10月28日上午，马德里至塞维利亚高铁线托莱多省乌尔达附近，西班牙国家铁路公司列车追尾撞上停驶的伊尔约公司列车，造成至少69人死亡、100余人受伤。初查指向铁路安全系统电脑故障与调度员违规放行，为西班牙今年第三起致命铁路事故。"
+    "desc": "On Oct 28, 2026 a Renfe high-speed train rear-ended a stopped Iryo train near Urda, Spain. As of Oct 30, 69 were confirmed dead, 70 people were reported missing and about 180 injured; a preliminary report cited a control-system failure.",
+    "desc_cn": "2026年10月28日，马德里至塞维利亚高铁线托莱多省乌尔达附近，西班牙国家铁路公司列车追尾停驶的伊尔约公司列车。截至10月30日确认69人死亡、70人失踪报案、约180人受伤，初查指向列车控制系统故障。"
+  },
+  {
+    "tag_id": 120,
+    "tag": "Binance $6.3B Crypto Heist",
+    "tag_cn": "币安63亿美元被盗",
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31",
+    "synonyms": [
+      "Binance hack",
+      "largest crypto theft",
+      "North Korea crypto heist",
+      "币安被盗",
+      "史上最大加密货币盗窃",
+      "朝鲜黑客窃取加密货币"
+    ],
+    "desc": "On October 30, 2026, Binance reported about $6.3 billion stolen in the largest cryptocurrency heist on record. Blockchain intelligence firms attributed the breach to North Korea-linked hackers, and the exchange began recovery efforts.",
+    "desc_cn": "2026年10月30日，全球最大加密货币交易所币安报告约63亿美元被盗，为史上最大加密货币盗窃案。区块链情报公司指朝鲜关联黑客所为，币安已启动追回程序。"
   }
 ]
