@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-11-03",
+    "last_seen": "2026-11-04",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -16,7 +16,11 @@
       "Melania Trump ceasefire",
       "梅拉尼娅斡旋停火",
       "Kherson ceasefire ends",
-      "赫尔松停火结束"
+      "赫尔松停火结束",
+      "Zaporizhzhia school strike",
+      "扎波罗热学校遇袭",
+      "Komyshuvakha school strike",
+      "科米舒瓦哈学校遇袭"
     ],
     "desc": "Armed conflict begun in 2014 with Russia’s annexation of Crimea and the Donbas war. Russia launched a full-scale invasion on February 24, 2022. The UN counted nearly 15,000 Ukrainian civilians killed through December 2025. No peace settlement yet.",
     "desc_cn": "2014年俄罗斯吞并克里米亚并引发顿巴斯战事，2022年2月24日全面入侵乌克兰。联合国统计，截至2025年底乌克兰平民死亡近1.5万人。战事仍在持续，和谈尚无结果。"
@@ -80,7 +84,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-11-03",
+    "last_seen": "2026-11-04",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -107,7 +111,9 @@
       "Iran two-day plan",
       "伊朗两天计划",
       "Iran US talks Qatar",
-      "伊美卡塔尔谈判"
+      "伊美卡塔尔谈判",
+      "Trump small-scale Iran strike",
+      "特朗普称小规模打击伊朗"
     ],
     "desc": "War begun February 28, 2026, when the US and Israel struck Iran. A Pakistan-brokered ceasefire began April 7–8; a US-Iran memorandum followed June 17. Fighting resumed in July. By October 5, 81 US aircraft had been lost or damaged.",
     "desc_cn": "2026年2月28日美以打击伊朗，伊朗在中东多地反击。4月7日至8日巴基斯坦斡旋停火，6月17日美伊签署谅解备忘录，7月战事重燃。截至10月5日美报告81架军机受损或被毁。"
@@ -117,7 +123,7 @@
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-04",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
@@ -148,7 +154,11 @@
       "tanker hits mine",
       "油轮触雷",
       "two tankers hit mines Nov 2026",
-      "两艘油轮触雷"
+      "两艘油轮触雷",
+      "Iran seven conditions Hormuz",
+      "伊朗七项条件",
+      "Oman tanker attack",
+      "阿曼附近油轮遇袭"
     ],
     "desc": "Disruption of the Strait of Hormuz, a route for a fifth of world oil, after Iran closed it following 2026 US-Israeli strikes. It reopened after the April ceasefire but closed again in July; two supertankers hit mines on Oct 23 and two more on Nov 1.",
     "desc_cn": "2026年2月28日美以打击伊朗后，伊朗宣布封锁霍尔木兹海峡（约占全球五分之一石油贸易通道），能源供应受冲击。4月7日停火后通航部分恢复，7月战事重燃后伊朗再度封锁；10月23日两艘超级油轮触雷，11月1日再有两艘油轮触雷。"
@@ -276,7 +286,7 @@
     "tag": "US Midterm Elections",
     "tag_cn": "美国中期选举",
     "first_seen": "2026-01-15",
-    "last_seen": "2026-11-03",
+    "last_seen": "2026-11-04",
     "synonyms": [
       "2026美国中期选举",
       "2026年国会选举",
@@ -298,8 +308,8 @@
       "Haley Stevens endorses Rogers",
       "黑利史蒂文斯背书罗杰斯"
     ],
-    "desc": "Elections held midway through a US president’s term. The November 3, 2026 midterms will fill all 435 House seats, 35 Senate seats and 36 governorships, and set congressional control for the second half of Donald Trump’s second term.",
-    "desc_cn": "美国总统任期中段举行的国会选举。2026年11月3日的中期选举将改选众议院全部435席、参议院35席及36个州的州长，决定特朗普第二任期后半段的国会控制权。"
+    "desc": "Elections held midway through a US president’s term. The November 3, 2026 midterms filled all 435 House seats, 35 Senate seats and 36 governorships; as of November 4 counting continued and control of Congress remained undecided.",
+    "desc_cn": "美国总统任期中段举行的国会选举。2026年11月3日中期选举改选众议院435席、参议院35席及36个州长；截至11月4日计票继续，国会控制权未定。"
   },
   {
     "tag_id": 15,
@@ -971,16 +981,19 @@
     "tag": "US Greenland Annexation",
     "tag_cn": "美国意图吞并格林兰",
     "first_seen": "2026-09-17",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-11-04",
     "synonyms": [
       "美国吞并格陵兰",
       "格陵兰安全协议",
       "Infinite Life agreement",
       "Greenland security deal",
-      "US Denmark Greenland deal"
+      "US Denmark Greenland deal",
+      "Greenland parliament approval",
+      "格陵兰议会批准协议",
+      "Denmark ratifies Greenland pact"
     ],
-    "desc": "Greenland, a self-governing Danish territory, has drawn US interest since Trump’s 2019 purchase idea. In September 2026 the US, Denmark and Greenland agreed an “Infinite Life” security pact giving the US permanent security control, not annexation.",
-    "desc_cn": "格陵兰是丹麦的自治领地，美国自特朗普2019年提出购买设想后持续关注。2026年9月美国与丹麦、格陵兰达成“无限生命”安全协议，授予美方永久安全管控权并扩建基地，未实现吞并。"
+    "desc": "Greenland, a Danish territory, drew US interest after Trump's 2019 purchase idea. In September 2026 the three sides agreed an 'Infinite Life' pact granting the US lasting control; Greenland's parliament approved it on Nov 3; Denmark's vote pending.",
+    "desc_cn": "格陵兰是丹麦自治领地，美国自特朗普2019年提出购买设想后持续关注。2026年9月三方达成“无限生命”安全协议，授予美方永久安全管控权；格陵兰议会11月3日批准，丹麦议会尚待表决。"
   },
   {
     "tag_id": 57,
@@ -1934,7 +1947,7 @@
     "tag": "Israel Election 2026",
     "tag_cn": "以色列大选",
     "first_seen": "2026-10-27",
-    "last_seen": "2026-11-03",
+    "last_seen": "2026-11-04",
     "synonyms": [
       "以色列议会选举",
       "Israel parliamentary election",
@@ -1955,7 +1968,9 @@
       "Israel coalition bargaining",
       "以色列组阁博弈",
       "Israel political deadlock",
-      "以色列政治僵局"
+      "以色列政治僵局",
+      "Israel president coalition talks",
+      "以色列总统组阁磋商"
     ],
     "desc": "Israel's parliamentary election of October 27, 2026 gave Prime Minister Benjamin Netanyahu's bloc 53 of 120 Knesset seats, Gadi Eisenkot's opposition 48 and Arab parties 19; Likud remained the largest party and turnout was the highest since 1999.",
     "desc_cn": "2026年10月27日以色列举行第26届议会选举，改选全部120席。最终计票内塔尼亚胡右翼阵营53席、埃森科特反对派48席、阿拉伯裔政党19席，均未过半，组阁谈判启动，投票率创1999年以来新高。"
@@ -1965,7 +1980,7 @@
     "tag": "Spain High-Speed Train Collision",
     "tag_cn": "西班牙高铁相撞事故",
     "first_seen": "2026-10-29",
-    "last_seen": "2026-11-03",
+    "last_seen": "2026-11-04",
     "synonyms": [
       "西班牙高铁事故",
       "托莱多列车相撞",
@@ -1975,7 +1990,9 @@
       "Urda train collision",
       "Renfe Iryo crash",
       "Spain train control failure",
-      "西班牙高铁系统故障"
+      "西班牙高铁系统故障",
+      "Spain transport minister resigns",
+      "西班牙交通大臣辞职"
     ],
     "desc": "On Oct 28, 2026 a Renfe high-speed train rear-ended a stopped Iryo train near Urda, Spain. As of Nov 1 the provisional death toll was 69 with about 180 injured; a preliminary report cited a control-system failure.",
     "desc_cn": "2026年10月28日，马德里至塞维利亚高铁线托莱多省乌尔达附近，西班牙国家铁路公司列车追尾停驶的伊尔约公司列车。截至11月1日确认死亡69人、约180人受伤，初查指向列车控制系统故障。"
@@ -1996,5 +2013,22 @@
     ],
     "desc": "On October 30, 2026, Binance reported about $6.3 billion stolen in the largest crypto heist on record. Blockchain intelligence firms and the FBI attributed it to North Korea; the exchange resumed operations on November 1 amid a spike in withdrawals.",
     "desc_cn": "2026年10月30日，全球最大加密货币交易所币安报告约63亿美元被盗，为史上最大加密货币盗窃案。区块链情报公司与FBI指朝鲜所为，币安于11月1日恢复运营并出现提现激增。"
+  },
+  {
+    "tag_id": 121,
+    "tag": "US Israel Aid Cut",
+    "tag_cn": "美国停止对以军援",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "synonyms": [
+      "US ends Israel aid",
+      "Israel military aid cut",
+      "US cuts Israel aid",
+      "美国停止对以军援",
+      "美以军援终止",
+      "美国切断对以援助"
+    ],
+    "desc": "On November 3, 2026, Trump said the $4 billion annual US military and economic aid to Israel would end by year-end 2026, citing Israel's prosperity and Netanyahu's proposal. The 10-year pact supplied about $3.8 billion a year; arms sales continue.",
+    "desc_cn": "2026年11月3日，美国总统特朗普表示，每年约40亿美元的对以军事和经济援助将于2026年底结束，称以色列已不需要，且由内塔尼亚胡提出。现行十年协议每年军援约38亿美元，商用军售继续。"
   }
 ]
