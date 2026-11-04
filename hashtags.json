@@ -51,7 +51,7 @@
     "tag": "Sudan Civil War",
     "tag_cn": "苏丹内战",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-11-03",
+    "last_seen": "2026-11-05",
     "synonyms": [
       "苏丹冲突",
       "苏丹武装冲突",
@@ -84,7 +84,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-05",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -123,7 +123,7 @@
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-05",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
@@ -286,7 +286,7 @@
     "tag": "US Midterm Elections",
     "tag_cn": "美国中期选举",
     "first_seen": "2026-01-15",
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-05",
     "synonyms": [
       "2026美国中期选举",
       "2026年国会选举",
@@ -308,8 +308,8 @@
       "Haley Stevens endorses Rogers",
       "黑利史蒂文斯背书罗杰斯"
     ],
-    "desc": "Elections held midway through a US president’s term. The November 3, 2026 midterms filled all 435 House seats, 35 Senate seats and 36 governorships; as of November 4 counting continued and control of Congress remained undecided.",
-    "desc_cn": "美国总统任期中段举行的国会选举。2026年11月3日中期选举改选众议院435席、参议院35席及36个州长；截至11月4日计票继续，国会控制权未定。"
+    "desc": "Elections held midway through a US president’s term. The November 3, 2026 midterms filled all 435 House seats, 35 Senate seats and 36 governorships; Democrats won control of both chambers of Congress, a Republican rout widely blamed on the Iran war.",
+    "desc_cn": "美国总统任期中段举行的国会选举。2026年11月3日中期选举改选众议院435席、参议院35席及36个州长；民主党夺回参众两院控制权，共和党惨败普遍归因于伊朗战事。"
   },
   {
     "tag_id": 15,
@@ -891,7 +891,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-10-30",
+    "last_seen": "2026-11-05",
     "synonyms": [
       "胡塞武装进攻",
       "红海航运危机",
@@ -937,7 +937,9 @@
       "胡塞称埃及宣战",
       "Houthis call Egypt war declaration",
       "Houthi missiles intercepted",
-      "胡塞导弹袭利雅得被拦截"
+      "胡塞导弹袭利雅得被拦截",
+      "Houthi attack King Khalid airport",
+      "胡塞袭击哈立德国王机场"
     ],
     "desc": "Houthis have fought Yemen’s government since 2014, seizing Mocha and Perim in 2026 and striking Saudi airports and refineries. Riyadh attacks killed 17 and injured 333 by October 15; Riyadh airport partly reopened October 25.",
     "desc_cn": "也门内战自2014年起胡塞武装对抗政府。2026年9月胡塞攻占摩卡港与丕林岛，袭击沙特机场与炼油厂，截至10月15日利雅得机场遇袭致17死333伤；10月22日达曼遇袭致2死，10月25日利雅得机场部分复运。"
@@ -1588,7 +1590,7 @@
     "tag": "France Student Protests",
     "tag_cn": "法国学生抗议",
     "first_seen": "2026-09-10",
-    "last_seen": "2026-11-03",
+    "last_seen": "2026-11-05",
     "synonyms": [
       "法国高中生抗议",
       "法国教育抗议",
@@ -1631,7 +1633,9 @@
       "France curfews expanded",
       "法国宵禁扩大",
       "France 500 arrests",
-      "法国逮捕500人"
+      "法国逮捕500人",
+      "France November 5 protests",
+      "法国11月5日示威"
     ],
     "desc": "French education protests since September 2026 grew into cost-of-living rallies and curfews. On Oct 31 a third weekend drew 320,000 marchers and 500+ arrests; curfews expanded to Nice, Lyon and Gironde and youth rallies spread to Germany and Italy.",
     "desc_cn": "2026年9月起法国学生因教育预算削减发起全国抗议，后扩展为反生活成本示威，多地宵禁。10月31日第三个周末全国约32万人参加、逾500人被捕，宵禁扩至尼斯、里昂和吉伦特，青年示威蔓延至德国和意大利。"
@@ -1947,7 +1951,7 @@
     "tag": "Israel Election 2026",
     "tag_cn": "以色列大选",
     "first_seen": "2026-10-27",
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-05",
     "synonyms": [
       "以色列议会选举",
       "Israel parliamentary election",
