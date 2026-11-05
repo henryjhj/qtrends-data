@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-06",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -84,7 +84,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-11-05",
+    "last_seen": "2026-11-06",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -272,21 +272,21 @@
     "tag": "DRC Ebola Outbreak",
     "tag_cn": "刚果埃博拉疫情",
     "first_seen": "2026-09-02",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-11-06",
     "synonyms": [
       "刚果金埃博拉",
       "DR Congo Ebola",
       "DRC Ebola epidemic"
     ],
-    "desc": "Bundibugyo-virus Ebola outbreak declared in DR Congo on May 15, 2026; WHO declared an international emergency May 17. By October 25: 10,060 cases and 4,887 deaths in eight provinces. No approved vaccine; second-largest Ebola outbreak on record.",
-    "desc_cn": "2026年5月15日刚果（金）宣布暴发布恩迪布焦型埃博拉疫情，5月17日世卫组织宣布为国际关注的突发公共卫生事件。截至10月25日累计确诊10060例、死亡4887例，波及8省。无获批疫苗或疗法，为史上第二大埃博拉疫情。"
+    "desc": "Ebola outbreak declared in DR Congo on May 15, 2026; WHO declared an international emergency May 17. By November 3, 10,532 cases and 5,126 deaths were recorded in eight provinces, with imported cases in Kenya and Nigeria. No approved vaccine.",
+    "desc_cn": "2026年5月15日刚果（金）宣布暴发布恩迪布焦型埃博拉疫情，5月17日世卫组织宣布为国际关注的突发公共卫生事件。截至11月3日累计确诊10532例、死亡5126例，波及8省。无获批疫苗或疗法，为史上第二大埃博拉疫情。"
   },
   {
     "tag_id": 14,
     "tag": "US Midterm Elections",
     "tag_cn": "美国中期选举",
     "first_seen": "2026-01-15",
-    "last_seen": "2026-11-05",
+    "last_seen": "2026-11-06",
     "synonyms": [
       "2026美国中期选举",
       "2026年国会选举",
@@ -891,7 +891,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-11-05",
+    "last_seen": "2026-11-06",
     "synonyms": [
       "胡塞武装进攻",
       "红海航运危机",
@@ -939,7 +939,11 @@
       "Houthi missiles intercepted",
       "胡塞导弹袭利雅得被拦截",
       "Houthi attack King Khalid airport",
-      "胡塞袭击哈立德国王机场"
+      "胡塞袭击哈立德国王机场",
+      "Houthi drone attack",
+      "胡塞无人机袭击",
+      "King Fahd airport attack",
+      "法赫德国王机场遇袭"
     ],
     "desc": "Houthis have fought Yemen’s government since 2014, seizing Mocha and Perim in 2026 and striking Saudi airports and refineries. Riyadh attacks killed 17 and injured 333 by October 15; Riyadh airport partly reopened October 25.",
     "desc_cn": "也门内战自2014年起胡塞武装对抗政府。2026年9月胡塞攻占摩卡港与丕林岛，袭击沙特机场与炼油厂，截至10月15日利雅得机场遇袭致17死333伤；10月22日达曼遇袭致2死，10月25日利雅得机场部分复运。"
@@ -1590,7 +1594,7 @@
     "tag": "France Student Protests",
     "tag_cn": "法国学生抗议",
     "first_seen": "2026-09-10",
-    "last_seen": "2026-11-05",
+    "last_seen": "2026-11-06",
     "synonyms": [
       "法国高中生抗议",
       "法国教育抗议",
@@ -1635,7 +1639,11 @@
       "France 500 arrests",
       "法国逮捕500人",
       "France November 5 protests",
-      "法国11月5日示威"
+      "法国11月5日示威",
+      "France nationwide strike",
+      "法国全国罢工",
+      "Eiffel Tower closed",
+      "埃菲尔铁塔关闭"
     ],
     "desc": "French education protests since September 2026 grew into cost-of-living rallies and curfews. On Oct 31 a third weekend drew 320,000 marchers and 500+ arrests; curfews expanded to Nice, Lyon and Gironde and youth rallies spread to Germany and Italy.",
     "desc_cn": "2026年9月起法国学生因教育预算削减发起全国抗议，后扩展为反生活成本示威，多地宵禁。10月31日第三个周末全国约32万人参加、逾500人被捕，宵禁扩至尼斯、里昂和吉伦特，青年示威蔓延至德国和意大利。"
@@ -1788,17 +1796,21 @@
     "tag": "Global Stock Market Selloff",
     "tag_cn": "全球股市抛售",
     "first_seen": "2026-10-16",
-    "last_seen": "2026-10-16",
+    "last_seen": "2026-11-06",
     "synonyms": [
       "全球股市暴跌",
       "韩国股市熔断",
       "AI泡沫",
       "Global stock selloff",
       "KOSPI circuit breaker",
-      "AI bubble selloff"
+      "AI bubble selloff",
+      "US tech selloff",
+      "美股科技股抛售",
+      "AI regulation selloff",
+      "AI监管抛售"
     ],
-    "desc": "Sharp selloff in global equities in October 2026, led by AI-related chip and tech shares. On October 15 South Korea's KOSPI fell over 7%, triggering its tenth circuit breaker of 2026, while Wall Street's Nasdaq slid on AI-return and rate worries.",
-    "desc_cn": "2026年10月全球股市大幅抛售，AI相关芯片与科技股领跌。10月15日韩国KOSPI指数暴跌逾7%，触发年内第十次熔断；美股纳指亦因AI回报与利率担忧下挫。"
+    "desc": "Sharp selloffs in global equities in Oct-Nov 2026, AI chip and tech shares leading. On October 15 South Korea's KOSPI fell over 7%, triggering its tenth circuit breaker; on November 5 the S&P 500 fell 4.4% and Nasdaq 5.5%, erasing $2.5 trillion.",
+    "desc_cn": "2026年10月至11月全球股市两度暴跌，AI芯片与科技股领跌。10月15日韩国KOSPI跌逾7%触发熔断；11月5日标普500跌4.36%、纳指跌5.52%，蒸发约2.5万亿美元。"
   },
   {
     "tag_id": 110,
@@ -2017,5 +2029,39 @@
     ],
     "desc": "On October 30, 2026, Binance reported about $6.3 billion stolen in the largest crypto heist on record. Blockchain intelligence firms and the FBI attributed it to North Korea; the exchange resumed operations on November 1 amid a spike in withdrawals.",
     "desc_cn": "2026年10月30日，全球最大加密货币交易所币安报告约63亿美元被盗，为史上最大加密货币盗窃案。区块链情报公司与FBI指朝鲜所为，币安于11月1日恢复运营并出现提现激增。"
+  },
+  {
+    "tag_id": 121,
+    "tag": "Paraguay President Resigns",
+    "tag_cn": "巴拉圭总统辞职",
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06",
+    "synonyms": [
+      "Paraguay political crisis",
+      "巴拉圭政治危机",
+      "Santiago Peña resigns",
+      "培尼亚辞职",
+      "Ueno Bank collapse",
+      "韦诺银行倒闭"
+    ],
+    "desc": "Paraguay's President Santiago Peña resigned on Nov 5, 2026, after the central bank seized Ueno Bank, used by three million people, sparking protests. Lawmakers impeached him 78–0 minutes later; Vice President Pedro Alliana may succeed him.",
+    "desc_cn": "2026年11月5日，巴拉圭总统圣地亚哥·培尼亚因央行查封拥有约300万客户的数字银行韦诺银行、引发大规模抗议而辞职；众议院随即以78票全票通过弹劾，副总统佩德罗·阿利亚纳有望接任。"
+  },
+  {
+    "tag_id": 122,
+    "tag": "Mecca Joint Defense Pact",
+    "tag_cn": "麦加共同防务协议",
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06",
+    "synonyms": [
+      "Mecca Agreement",
+      "麦加协议",
+      "Turkey Pakistan Saudi pact",
+      "土巴沙防务协议",
+      "Turkey-Saudi-Pakistan alliance",
+      "土沙巴共同防御"
+    ],
+    "desc": "Joint defense pact signed in Mecca on August 7, 2026, by Turkey, Pakistan and Saudi Arabia; an armed attack on any one is treated as an attack on all. Turkey's parliament ratified it on November 5, 2026, completing approvals.",
+    "desc_cn": "土耳其、巴基斯坦与沙特阿拉伯于2026年8月7日在麦加签署共同防务协议，规定对任一缔约国的武装攻击视为对三国的攻击。三国议会相继批准，土耳其于11月5日完成批准程序，协议即将生效。"
   }
 ]
