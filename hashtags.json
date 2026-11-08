@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-11-08",
+    "last_seen": "2026-11-09",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -34,7 +34,7 @@
     "tag": "Israel Gaza War",
     "tag_cn": "加沙战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-11-08",
+    "last_seen": "2026-11-09",
     "synonyms": [
       "加沙冲突",
       "以哈战争",
@@ -49,7 +49,9 @@
       "Gaza flooding",
       "加沙洪灾",
       "Gaza tents flooded",
-      "加沙帐篷被淹"
+      "加沙帐篷被淹",
+      "Gaza sand collapse",
+      "加沙沙土塌方"
     ],
     "desc": "War begun October 7, 2023, when Hamas-led militants attacked Israel, killing about 1,200 and taking 251 hostages. A US-brokered ceasefire took effect October 10, 2025. Gaza recorded 74,640 dead by November 7, 2026; UN inquiry found genocide ongoing.",
     "desc_cn": "2023年10月7日哈马斯武装袭击以色列，约1200人死亡、251人被劫持，以军随即对加沙大规模军事行动。2025年10月10日美国斡旋停火生效。截至2026年11月7日加沙累计死亡74640人；联合国调查委员会称加沙种族灭绝仍在持续。"
@@ -92,7 +94,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-11-08",
+    "last_seen": "2026-11-09",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -133,17 +135,19 @@
       "US strikes Iran again",
       "美军再袭伊朗",
       "Qatar US-Iran mediation",
-      "卡塔尔美伊斡旋"
+      "卡塔尔美伊斡旋",
+      "US strikes Qeshm Island",
+      "美军再袭格什姆岛"
     ],
-    "desc": "War begun February 28, 2026, when the US and Israel struck Iran. A Pakistan-brokered ceasefire began April 7–8; a US-Iran memorandum followed June 17. Fighting resumed in July. By October 5, 81 US aircraft had been lost or damaged.",
-    "desc_cn": "2026年2月28日美以打击伊朗，伊朗在中东多地反击。4月7日至8日巴基斯坦斡旋停火，6月17日美伊签署谅解备忘录，7月战事重燃。截至10月5日美报告81架军机受损或被毁。"
+    "desc": "War begun February 28, 2026, when the US and Israel struck Iran. A Pakistan-brokered ceasefire began April 7–8; a US-Iran memorandum followed June 17. Fighting resumed in July; 81 US aircraft were lost or damaged by October 5. US struck Qeshm Island again on Nov 8.",
+    "desc_cn": "2026年2月28日美以打击伊朗，伊朗在中东多地反击。4月7日至8日巴基斯坦斡旋停火，6月17日美伊签署谅解备忘录，7月战事重燃。截至10月5日美报告81架军机受损或被毁；11月8日美军再袭格什姆岛。"
   },
   {
     "tag_id": 5,
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-11-05",
+    "last_seen": "2026-11-09",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
@@ -306,7 +310,7 @@
     "tag": "US Midterm Elections",
     "tag_cn": "美国中期选举",
     "first_seen": "2026-01-15",
-    "last_seen": "2026-11-08",
+    "last_seen": "2026-11-09",
     "synonyms": [
       "2026美国中期选举",
       "2026年国会选举",
@@ -915,7 +919,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-11-08",
+    "last_seen": "2026-11-09",
     "synonyms": [
       "胡塞武装进攻",
       "红海航运危机",
@@ -973,10 +977,12 @@
       "Bani Hushaysh airstrike",
       "巴尼哈希什空袭",
       "Sanaa airstrike 27 killed",
-      "萨那空袭27人死亡"
+      "萨那空袭27人死亡",
+      "Riyadh financial district missile attack",
+      "利雅得金融区遇袭"
     ],
-    "desc": "Houthis have fought Yemen’s government since 2014, seizing Mocha and Perim in 2026 and striking Saudi airports and refineries. Riyadh attacks killed 17 and injured 333 by October 15; Riyadh airport partly reopened October 25.",
-    "desc_cn": "也门内战自2014年起胡塞武装对抗政府。2026年9月胡塞攻占摩卡港与丕林岛，袭击沙特机场与炼油厂，截至10月15日利雅得机场遇袭致17死333伤；10月22日达曼遇袭致2死，10月25日利雅得机场部分复运。"
+    "desc": "Houthis have fought Yemen’s government since 2014, seizing Mocha and Perim in 2026. Riyadh attacks killed 17 and injured 333 by Oct 15. On Nov 8 Houthis hit Riyadh’s airport and financial district; Saudi strikes near Sanaa killed 27 on Nov 7.",
+    "desc_cn": "也门内战自2014年起胡塞武装对抗政府。2026年9月胡塞攻占摩卡港与丕林岛；截至10月15日利雅得遇袭致17死333伤，10月22日达曼遇袭致2死。11月7日沙特空袭萨那致27死36伤，8日胡塞袭击利雅得机场和金融中心。"
   },
   {
     "tag_id": 54,
@@ -1993,7 +1999,7 @@
     "tag": "Israel Election 2026",
     "tag_cn": "以色列大选",
     "first_seen": "2026-10-27",
-    "last_seen": "2026-11-08",
+    "last_seen": "2026-11-09",
     "synonyms": [
       "以色列议会选举",
       "Israel parliamentary election",
@@ -2022,7 +2028,9 @@
       "Eisenkot to form government",
       "埃森科特获授权组阁",
       "Netanyahu sidelined",
-      "内塔尼亚胡被边缘化"
+      "内塔尼亚胡被边缘化",
+      "Eisenkot tasked to form government",
+      "赫尔佐格授权埃森科特组阁"
     ],
     "desc": "Israel's parliamentary election of October 27, 2026 gave Prime Minister Benjamin Netanyahu's bloc 53 of 120 Knesset seats, Gadi Eisenkot's opposition 48 and Arab parties 19; Likud remained the largest party and turnout was the highest since 1999.",
     "desc_cn": "2026年10月27日以色列举行第26届议会选举，改选全部120席。最终计票内塔尼亚胡右翼阵营53席、埃森科特反对派48席、阿拉伯裔政党19席，均未过半，组阁谈判启动，投票率创1999年以来新高。"
@@ -2105,15 +2113,17 @@
     "tag": "Krakow Mass Shooting",
     "tag_cn": "克拉科夫枪击案",
     "first_seen": "2026-11-08",
-    "last_seen": "2026-11-08",
+    "last_seen": "2026-11-09",
     "synonyms": [
       "Krakow shooting",
       "Krakow Main Square attack",
       "克拉科夫中央广场枪击",
       "Krakow far-right attack",
-      "克拉科夫极右翼袭击"
+      "克拉科夫极右翼袭击",
+      "Poland terrorism investigation",
+      "波兰恐袭调查"
     ],
-    "desc": "Mass shooting on November 7, 2026, when a 25-year-old Polish man opened fire in Krakow's Main Square, killing six people and wounding about 15; three more bodies were found at his home, raising the toll to 9. Officials said he held far-right views.",
-    "desc_cn": "2026年11月7日，波兰克拉科夫中央广场发生枪击案，一名25岁男子驾车向人群开枪，造成6人死亡、约15人受伤；其住所另发现3具遗体，死亡人数升至9人，官方称其持极右翼观点。"
+    "desc": "Mass shooting on November 7, 2026, when a 24-year-old Polish man opened fire in Krakow's Main Square, killing six and wounding 15; three more bodies were found at his home, raising the toll to nine. Poland opened a terrorism investigation, citing his far-right views.",
+    "desc_cn": "2026年11月7日，波兰克拉科夫中央广场发生枪击案，一名24岁男子驾车向人群开枪，造成6人死亡、15人受伤；其住所另发现3具遗体，死亡人数升至9人。波兰检方以恐怖主义方向立案，称其持极右翼观点。"
   }
 ]
