@@ -2125,5 +2125,24 @@
     ],
     "desc": "Mass shooting on November 7, 2026, when a 24-year-old Polish man opened fire in Krakow's Main Square, killing six and wounding 15; three more bodies were found at his home, raising the toll to nine. Poland opened a terrorism investigation, citing his far-right views.",
     "desc_cn": "2026年11月7日，波兰克拉科夫中央广场发生枪击案，一名24岁男子驾车向人群开枪，造成6人死亡、15人受伤；其住所另发现3具遗体，死亡人数升至9人。波兰检方以恐怖主义方向立案，称其持极右翼观点。"
-  }
+  },
+  {
+  "tag_id": 124,
+  "tag": "Jensen Huang Under Investigation",
+  "tag_cn": "黄仁勋被调查",
+  "first_seen": "2026-11-06",
+  "last_seen": "2026-11-09",
+  "synonyms": [
+    "Jensen Huang investigation",
+    "Jensen Huang controversy",
+    "Nvidia CEO investigation",
+    "Nvidia board investigation",
+    "黄仁勋调查事件",
+    "黄仁勋风波",
+    "英伟达CEO被调查",
+    "英伟达董事会调查"
+  ],
+  "desc": "Nvidia CEO Jensen Huang came under scrutiny following revelations about his personal relationship with a woman reportedly suspected by US authorities of having ties to Chinese intelligence. The controversy prompted Nvidia's board to launch an independent investigation into the circumstances and potential security implications. The case also attracted attention from US lawmakers and raised questions about Nvidia's corporate governance and national security risks.",
+  "desc_cn": "英伟达CEO黄仁勋因其与一名据称受到美国方面怀疑与中国情报机构有关联的女性存在私人关系而受到调查关注。事件促使英伟达董事会启动独立调查，以核实相关情况及潜在安全影响，同时引发美国国会议员关注，并使英伟达的公司治理和国家安全风险问题受到审视。"
+}
 ]
