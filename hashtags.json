@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -320,7 +320,7 @@
     "tag": "US Midterm Elections",
     "tag_cn": "美国中期选举",
     "first_seen": "2026-01-15",
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "synonyms": [
       "2026美国中期选举",
       "2026年国会选举",
@@ -2023,7 +2023,7 @@
     "tag": "Israel Election 2026",
     "tag_cn": "以色列大选",
     "first_seen": "2026-10-27",
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "synonyms": [
       "以色列议会选举",
       "Israel parliamentary election",
@@ -2137,7 +2137,7 @@
     "tag": "Krakow Mass Shooting",
     "tag_cn": "克拉科夫枪击案",
     "first_seen": "2026-11-08",
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "synonyms": [
       "Krakow shooting",
       "Krakow Main Square attack",
@@ -2157,7 +2157,7 @@
     "tag": "Jensen Huang Under Investigation",
     "tag_cn": "黄仁勋被调查",
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "synonyms": [
       "Jensen Huang investigation",
       "Jensen Huang controversy",
@@ -2170,9 +2170,42 @@
       "Trump says FBI probes Huang",
       "特朗普称FBI调查黄仁勋",
       "Jensen Huang Chinese spy probe",
-      "黄仁勋中国间谍调查"
+      "黄仁勋中国间谍调查",
+      "Nvidia law firm probe",
+      "英伟达聘请律所调查"
     ],
     "desc": "Nvidia CEO Jensen Huang came under scrutiny following revelations about his personal relationship with a woman reportedly suspected by US authorities of having ties to Chinese intelligence. The controversy prompted Nvidia's board to launch an independent investigation into the circumstances and potential security implications. The case also attracted attention from US lawmakers and raised questions about Nvidia's corporate governance and national security risks.",
     "desc_cn": "英伟达CEO黄仁勋因其与一名据称受到美国方面怀疑与中国情报机构有关联的女性存在私人关系而受到调查关注。事件促使英伟达董事会启动独立调查，以核实相关情况及潜在安全影响，同时引发美国国会议员关注，并使英伟达的公司治理和国家安全风险问题受到审视。"
+  },
+  {
+    "tag_id": 125,
+    "tag": "US Soldier Russia Espionage",
+    "tag_cn": "美军士兵涉俄间谍案",
+    "first_seen": "2026-11-11",
+    "last_seen": "2026-11-11",
+    "synonyms": [
+      "US Army espionage arrest",
+      "Gloucester espionage arrest",
+      "Russia spy arrest UK",
+      "美军士兵英国被捕",
+      "美军士兵涉俄间谍"
+    ],
+    "desc": "A 41-year-old US Army soldier was arrested near Gloucester, England, on November 10, 2026, on suspicion of espionage linked to Russia. Police cited offences under the National Security Act 2023; he remains in custody.",
+    "desc_cn": "2026年11月10日，一名41岁美国陆军士兵在英国格洛斯特附近因涉嫌为俄罗斯从事间谍活动被捕，英方依据《2023年国家安全法》相关条款办理，其仍被羁押。"
+  },
+  {
+    "tag_id": 126,
+    "tag": "Jim Jordan GOP Leader",
+    "tag_cn": "乔丹任共和党领袖",
+    "first_seen": "2026-11-11",
+    "last_seen": "2026-11-11",
+    "synonyms": [
+      "Jim Jordan House Republicans",
+      "House GOP leader election",
+      "乔丹当选众院共和党领袖",
+      "众议院共和党领袖改选"
+    ],
+    "desc": "US Representative Jim Jordan, a close ally of Donald Trump, was elected leader of the House Republicans in November 2026, following the party's midterm election defeat.",
+    "desc_cn": "2026年11月，美国众议员吉姆·乔丹在共和党中期选举失利后当选众议院共和党领袖；他是特朗普的紧密盟友。"
   }
 ]
