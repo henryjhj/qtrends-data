@@ -61,7 +61,7 @@
 
 8. **验证格式**
 
-   验证 JSON 格式完全正确（可用 python -m json.tool 验证）。
+   验证更新数据后的 JSON 格式完全正确（可用 python -m json.tool 验证）。
 
 【注意事项】
    
