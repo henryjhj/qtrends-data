@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-11-11",
+    "last_seen": "2026-11-12",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -13,15 +13,15 @@
       "Russia-Ukraine war",
       "Oleshky evacuation"
     ],
-    "desc": "Armed conflict begun in 2014 with Russia’s annexation of Crimea and the Donbas war. Russia launched a full-scale invasion on February 24, 2022. The UN counted 15,000 civilian deaths by Dec 2025. Trilateral talks were set for Abu Dhabi on Nov 10–11.",
-    "desc_cn": "2014年俄罗斯吞并克里米亚并引发顿巴斯战事，2022年2月24日全面入侵乌克兰。联合国统计，截至2025年底乌克兰平民死亡近1.5万人。俄美乌三方会谈定于11月10日至11日在阿布扎比举行。"
+    "desc": "Armed conflict begun in 2014 with Russia’s annexation of Crimea and the Donbas war. Russia launched a full-scale invasion on February 24, 2022. The UN counted 15,000 civilian deaths by Dec 2025. Trilateral talks in Abu Dhabi ended Nov 11 with a large prisoner-exchange deal.",
+    "desc_cn": "2014年俄罗斯吞并克里米亚并引发顿巴斯战事，2022年2月24日全面入侵乌克兰。联合国统计，截至2025年底乌克兰平民死亡近1.5万人。俄美乌三方会谈11月11日在阿布扎比结束，达成大规模换俘协议。"
   },
   {
     "tag_id": 2,
     "tag": "Israel Gaza War",
     "tag_cn": "加沙战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-12",
     "synonyms": [
       "加沙冲突",
       "以哈战争",
@@ -34,8 +34,8 @@
       "加沙种族灭绝",
       "Gaza genocide"
     ],
-    "desc": "War begun October 7, 2023, when Hamas-led militants attacked Israel, killing about 1,200 and taking 251 hostages. A US-brokered ceasefire took effect October 10, 2025. Gaza recorded 74,640 dead by November 7, 2026; UN inquiry found genocide ongoing.",
-    "desc_cn": "2023年10月7日哈马斯武装袭击以色列，约1200人死亡、251人被劫持，以军随即对加沙大规模军事行动。2025年10月10日美国斡旋停火生效。截至2026年11月7日加沙累计死亡74640人；联合国调查委员会称加沙种族灭绝仍在持续。"
+    "desc": "War begun October 7, 2023, when Hamas-led militants attacked Israel, killing about 1,200 and taking 251 hostages. A US-brokered ceasefire took effect October 10, 2025. Gaza recorded 74,653 dead by November 11, 2026; UN inquiry found genocide ongoing.",
+    "desc_cn": "2023年10月7日哈马斯武装袭击以色列，约1200人死亡、251人被劫持，以军随即对加沙大规模军事行动。2025年10月10日美国斡旋停火生效。截至2026年11月11日加沙累计死亡74653人；联合国调查委员会称加沙种族灭绝仍在持续。"
   },
   {
     "tag_id": 3,
@@ -75,7 +75,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-12",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -124,7 +124,7 @@
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-12",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
@@ -279,7 +279,7 @@
     "tag": "US Midterm Elections",
     "tag_cn": "美国中期选举",
     "first_seen": "2026-01-15",
-    "last_seen": "2026-11-11",
+    "last_seen": "2026-11-12",
     "synonyms": [
       "2026美国中期选举",
       "2026年国会选举",
@@ -1965,7 +1965,7 @@
     "tag": "Israel Election 2026",
     "tag_cn": "以色列大选",
     "first_seen": "2026-10-27",
-    "last_seen": "2026-11-11",
+    "last_seen": "2026-11-12",
     "synonyms": [
       "以色列议会选举",
       "Israel parliamentary election",
@@ -2035,7 +2035,7 @@
     "tag": "European Aviation Bomb Threats",
     "tag_cn": "欧洲航空炸弹威胁",
     "first_seen": "2026-11-07",
-    "last_seen": "2026-11-08",
+    "last_seen": "2026-11-12",
     "synonyms": [
       "Europe bomb threats",
       "欧洲炸弹威胁",
@@ -2089,7 +2089,7 @@
     "tag": "Jensen Huang Under Investigation",
     "tag_cn": "黄仁勋被调查",
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-11",
+    "last_seen": "2026-11-12",
     "synonyms": [
       "Jensen Huang investigation",
       "Jensen Huang controversy",
@@ -2108,5 +2108,21 @@
     ],
     "desc": "Nvidia CEO Jensen Huang came under scrutiny following revelations about his personal relationship with a woman reportedly suspected by US authorities of having ties to Chinese intelligence. The controversy prompted Nvidia's board to launch an independent investigation into the circumstances and potential security implications. The case also attracted attention from US lawmakers.",
     "desc_cn": "英伟达CEO黄仁勋因其与一名据称受到美国方面怀疑与中国情报机构有关联的女性存在私人关系而受到调查关注。事件促使英伟达董事会启动独立调查，以核实相关情况及潜在安全影响，同时引发美国国会议员关注。"
+  },
+  {
+    "tag_id": 125,
+    "tag": "Spain General Strike",
+    "tag_cn": "西班牙全国大罢工",
+    "first_seen": "2026-11-12",
+    "last_seen": "2026-11-12",
+    "synonyms": [
+      "西班牙大罢工",
+      "西班牙住房危机",
+      "Spain housing crisis",
+      "Spain strike",
+      "Spanish general strike"
+    ],
+    "desc": "Nationwide general strike in Spain on November 11, 2026, the first in 14 years, called by unions over soaring housing costs ahead of a national election. Millions joined; clashes in Barcelona led to over 50 arrests and disrupted transport.",
+    "desc_cn": "2026年11月11日西班牙举行14年来首次全国性大罢工，工会以住房成本飙升为由在大选前发起，数百万人参与；巴塞罗那等地爆发冲突，逾50人被捕，交通受阻。"
   }
 ]
