@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -21,7 +21,7 @@
     "tag": "Israel Gaza War",
     "tag_cn": "加沙战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "synonyms": [
       "加沙冲突",
       "以哈战争",
@@ -75,7 +75,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -279,7 +279,7 @@
     "tag": "US Midterm Elections",
     "tag_cn": "美国中期选举",
     "first_seen": "2026-01-15",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "synonyms": [
       "2026美国中期选举",
       "2026年国会选举",
@@ -658,7 +658,7 @@
     "tag": "SpaceX Starship",
     "tag_cn": "SpaceX星舰",
     "first_seen": "2026-05-22",
-    "last_seen": "2026-09-01",
+    "last_seen": "2026-11-13",
     "synonyms": [
       "星舰V3",
       "星舰第三代",
@@ -894,7 +894,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-13",
     "synonyms": [
       "胡塞武装进攻",
       "红海航运危机",
@@ -939,7 +939,11 @@
       "Egypt authorizes military support to Saudi",
       "胡塞称埃及宣战",
       "Houthis call Egypt war declaration",
-      "Houthi missiles intercepted"
+      "Houthi missiles intercepted",
+      "胡塞袭击沙特阿美",
+      "Houthi attack Saudi Aramco",
+      "胡塞袭击延布石油设施",
+      "Houthi attack Yanbu oil facility"
     ],
     "desc": "Houthis have fought Yemen’s government since 2014, seizing Mocha and Perim in 2026. Riyadh attacks killed 17 and injured 333 by Oct 15. On Nov 8 Houthis hit Riyadh’s airport and financial district; Saudi strikes near Sanaa killed 27 on Nov 7.",
     "desc_cn": "也门内战自2014年起胡塞武装对抗政府。2026年9月胡塞攻占摩卡港与丕林岛；截至10月15日利雅得遇袭致17死333伤，10月22日达曼遇袭致2死。11月7日沙特空袭萨那致27死36伤，8日胡塞袭击利雅得机场和金融中心。"
@@ -2089,7 +2093,7 @@
     "tag": "Jensen Huang Under Investigation",
     "tag_cn": "黄仁勋被调查",
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "synonyms": [
       "Jensen Huang investigation",
       "Jensen Huang controversy",
@@ -2104,7 +2108,11 @@
       "Jensen Huang Chinese spy probe",
       "黄仁勋中国间谍调查",
       "Nvidia law firm probe",
-      "英伟达聘请律所调查"
+      "英伟达聘请律所调查",
+      "Jensen Huang resigns",
+      "黄仁勋辞职",
+      "Nvidia CEO resigns",
+      "英伟达CEO辞职"
     ],
     "desc": "Nvidia CEO Jensen Huang came under scrutiny following revelations about his personal relationship with a woman reportedly suspected by US authorities of having ties to Chinese intelligence. The controversy prompted Nvidia's board to launch an independent investigation into the circumstances and potential security implications. The case also attracted attention from US lawmakers.",
     "desc_cn": "英伟达CEO黄仁勋因其与一名据称受到美国方面怀疑与中国情报机构有关联的女性存在私人关系而受到调查关注。事件促使英伟达董事会启动独立调查，以核实相关情况及潜在安全影响，同时引发美国国会议员关注。"
