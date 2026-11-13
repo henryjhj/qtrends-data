@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-11-13",
+    "last_seen": "2026-11-14",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -57,7 +57,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-11-13",
+    "last_seen": "2026-11-14",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -199,7 +199,7 @@
     "tag": "US Midterm Elections",
     "tag_cn": "美国中期选举",
     "first_seen": "2026-01-15",
-    "last_seen": "2026-11-13",
+    "last_seen": "2026-11-14",
     "synonyms": [
       "2026美国中期选举",
       "2026年国会选举",
@@ -553,7 +553,7 @@
     "tag": "SpaceX Starship",
     "tag_cn": "SpaceX星舰",
     "first_seen": "2026-05-22",
-    "last_seen": "2026-11-13",
+    "last_seen": "2026-11-14",
     "synonyms": [
       "星舰V3",
       "星舰第三代",
@@ -1075,7 +1075,7 @@
     "tag": "US China Trade War",
     "tag_cn": "美中贸易战",
     "first_seen": "2026-09-23",
-    "last_seen": "2026-10-26",
+    "last_seen": "2026-11-14",
     "synonyms": [
       "中美贸易战",
       "美中关税战",
@@ -1091,7 +1091,9 @@
       "美国扩大对华投资限制",
       "US China investment limits",
       "商务部反对对华投资限制",
-      "MOFCOM opposes US rules"
+      "MOFCOM opposes US rules",
+      "US-China tariff cuts",
+      "美中互降关税"
     ],
     "desc": "Trade conflict between the US and China since 2018, escalating in 2025 to triple-digit tariffs before a May 2025 truce. Export controls, retaliation and negotiations continued into 2026, affecting markets, supply chains, tech firms and agriculture.",
     "desc_cn": "中美自2018年起的贸易冲突，2025年升级为三位数关税，5月达成休战。出口管制、反制措施与谈判延续至2026年，影响市场、供应链、科技企业与农业。"
@@ -1954,7 +1956,7 @@
     "tag": "Jensen Huang Scandal",
     "tag_cn": "黄仁勋风波",
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-13",
+    "last_seen": "2026-11-14",
     "synonyms": [
       "Jensen Huang investigation",
       "Jensen Huang controversy",
@@ -1973,7 +1975,9 @@
       "Nvidia CEO resigns",
       "英伟达CEO辞职",
       "黄仁勋丑闻",
-      "Jensen Huang Scandal"
+      "Jensen Huang Scandal",
+      "Nvidia spy scandal",
+      "英伟达间谍风波"
     ],
     "desc": "Nvidia CEO Jensen Huang came under scrutiny following revelations about his personal relationship with a woman reportedly suspected by US authorities of having ties to Chinese intelligence. The controversy prompted Nvidia's board to launch an independent investigation into the circumstances and potential security implications. The case also attracted attention from US lawmakers.",
     "desc_cn": "英伟达CEO黄仁勋因其与一名据称受到美国方面怀疑与中国情报机构有关联的女性存在私人关系而受到调查关注。事件促使英伟达董事会启动独立调查，以核实相关情况及潜在安全影响，同时引发美国国会议员关注。"
@@ -1993,5 +1997,35 @@
     ],
     "desc": "Nationwide general strike in Spain on November 11, 2026, the first in 14 years, called by unions over soaring housing costs ahead of a national election. Millions joined; clashes in Barcelona led to over 50 arrests and disrupted transport.",
     "desc_cn": "2026年11月11日西班牙举行14年来首次全国性大罢工，工会以住房成本飙升为由在大选前发起，数百万人参与；巴塞罗那等地爆发冲突，逾50人被捕，交通受阻。"
+  },
+  {
+    "tag_id": 126,
+    "tag": "US National Ground Stop",
+    "tag_cn": "全美航班停飞",
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
+    "synonyms": [
+      "全美停飞",
+      "美国全国停飞",
+      "FAA ground stop",
+      "US flights grounded"
+    ],
+    "desc": "Nationwide ground stop ordered by the US FAA on November 13, 2026, after an air traffic control communications outage. All departures were halted and about 7,000 flights were delayed or cancelled before the order was lifted in phases.",
+    "desc_cn": "2026年11月13日，美国联邦航空管理局因空管通信中断发布全国性地面停飞令，所有出港航班暂停，约7000架次航班延误或取消，随后分阶段解除。"
+  },
+  {
+    "tag_id": 127,
+    "tag": "Microsoft Global Outage",
+    "tag_cn": "微软全球服务中断",
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
+    "synonyms": [
+      "微软365故障",
+      "Microsoft 365 outage",
+      "Outlook outage",
+      "Teams outage"
+    ],
+    "desc": "Worldwide Microsoft 365 outage on November 12–13, 2026, disrupting Outlook, Teams, SharePoint and Copilot for millions of users. Microsoft blamed a network capacity upgrade rather than a cyberattack and apologised as services recovered.",
+    "desc_cn": "2026年11月12日至13日，微软365服务全球性中断近一天，Outlook、Teams、SharePoint和Copilot等受影响，数百万用户受波及。微软称故障源于网络容量升级而非网络攻击，并为之道歉。"
   }
 ]
