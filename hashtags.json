@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-11-14",
+    "last_seen": "2026-11-15",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -21,7 +21,7 @@
     "tag": "Israel Gaza War",
     "tag_cn": "加沙战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-11-13",
+    "last_seen": "2026-11-15",
     "synonyms": [
       "加沙冲突",
       "以哈战争",
@@ -34,8 +34,8 @@
       "加沙种族灭绝",
       "Gaza genocide"
     ],
-    "desc": "War begun October 7, 2023, when Hamas-led militants attacked Israel, killing about 1,200 and taking 251 hostages. A US-brokered ceasefire took effect October 10, 2025. Gaza recorded 74,653 dead by November 11, 2026; UN inquiry found genocide ongoing.",
-    "desc_cn": "2023年10月7日哈马斯武装袭击以色列，约1200人死亡、251人被劫持，以军随即对加沙大规模军事行动。2025年10月10日美国斡旋停火生效。截至2026年11月11日加沙累计死亡74653人；联合国调查委员会称加沙种族灭绝仍在持续。"
+    "desc": "War begun October 7, 2023, when Hamas-led militants attacked Israel, killing about 1,200 and taking 251 hostages. A US-brokered ceasefire took effect October 10, 2025. Gaza recorded 74,695 dead by November 14, 2026; UN inquiry found genocide ongoing.",
+    "desc_cn": "2023年10月7日哈马斯武装袭击以色列，约1200人死亡、251人被劫持，以军随即对加沙大规模军事行动。2025年10月10日美国斡旋停火生效。截至2026年11月14日加沙累计死亡74695人；联合国调查委员会称加沙种族灭绝仍在持续。"
   },
   {
     "tag_id": 3,
@@ -77,7 +77,7 @@
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-15",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
@@ -86,8 +86,8 @@
       "霍尔木兹船只遇袭",
       "Hormuz ship attacks"
     ],
-    "desc": "Disruption of the Strait of Hormuz, a route for a fifth of world oil, after Iran closed it following 2026 US-Israeli strikes. It reopened after the April ceasefire but closed again in July; two supertankers hit mines on Oct 23 and two more on Nov 1.",
-    "desc_cn": "2026年2月28日美以打击伊朗后，伊朗宣布封锁霍尔木兹海峡（约占全球五分之一石油贸易通道），能源供应受冲击。4月7日停火后通航部分恢复，7月战事重燃后伊朗再度封锁；10月23日两艘超级油轮触雷，11月1日再有两艘油轮触雷。"
+    "desc": "Disruption of the Strait of Hormuz, a route for a fifth of world oil, after Iran closed it following 2026 US-Israeli strikes. It reopened after the April ceasefire but closed again in July; two supertankers hit mines on Oct 23 and two more on Nov 1 and Nov 14.",
+    "desc_cn": "2026年2月28日美以打击伊朗后，伊朗宣布封锁霍尔木兹海峡（约占全球五分之一石油贸易通道），能源供应受冲击。4月7日停火后通航部分恢复，7月战事重燃后伊朗再度封锁；10月23日两艘超级油轮触雷，11月1日和14日又各有两艘油轮触雷。"
   },
   {
     "tag_id": 6,
@@ -553,7 +553,7 @@
     "tag": "SpaceX Starship",
     "tag_cn": "SpaceX星舰",
     "first_seen": "2026-05-22",
-    "last_seen": "2026-11-14",
+    "last_seen": "2026-11-15",
     "synonyms": [
       "星舰V3",
       "星舰第三代",
@@ -789,7 +789,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-11-13",
+    "last_seen": "2026-11-15",
     "synonyms": [
       "胡塞武装进攻",
       "红海航运危机",
@@ -1832,7 +1832,7 @@
     "tag": "Israel Election 2026",
     "tag_cn": "以色列大选",
     "first_seen": "2026-10-27",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-15",
     "synonyms": [
       "以色列议会选举",
       "Israel parliamentary election",
@@ -1956,7 +1956,7 @@
     "tag": "Nvidia Scandal",
     "tag_cn": "黄仁勋风波",
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-14",
+    "last_seen": "2026-11-15",
     "synonyms": [
       "Jensen Huang investigation",
       "Jensen Huang controversy",
@@ -2003,22 +2003,22 @@
     "tag": "US National Ground Stop",
     "tag_cn": "全美航班停飞",
     "first_seen": "2026-11-14",
-    "last_seen": "2026-11-14",
+    "last_seen": "2026-11-15",
     "synonyms": [
       "全美停飞",
       "美国全国停飞",
       "FAA ground stop",
       "US flights grounded"
     ],
-    "desc": "Nationwide ground stop ordered by the US FAA on November 13, 2026, after an air traffic control communications outage. All departures were halted and about 7,000 flights were delayed or cancelled before the order was lifted in phases.",
-    "desc_cn": "2026年11月13日，美国联邦航空管理局因空管通信中断发布全国性地面停飞令，所有出港航班暂停，约7000架次航班延误或取消，随后分阶段解除。"
+    "desc": "Nationwide ground stop ordered by the US FAA on November 13, 2026, after an equipment failure during a telecoms network upgrade cut air traffic control communications. All departures were halted and about 7,000 flights were delayed or cancelled before the order was lifted in phases.",
+    "desc_cn": "2026年11月13日，美国联邦航空管理局因电信网络升级中的设备故障导致空管通信中断，发布全国性地面停飞令，所有出港航班暂停，约7000架次航班延误或取消，随后分阶段解除。"
   },
   {
     "tag_id": 127,
     "tag": "Microsoft Global Outage",
     "tag_cn": "微软全球服务中断",
     "first_seen": "2026-11-14",
-    "last_seen": "2026-11-14",
+    "last_seen": "2026-11-15",
     "synonyms": [
       "微软365故障",
       "Microsoft 365 outage",
