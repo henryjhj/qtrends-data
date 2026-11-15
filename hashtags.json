@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-16",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -21,7 +21,7 @@
     "tag": "Israel Gaza War",
     "tag_cn": "加沙战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-16",
     "synonyms": [
       "加沙冲突",
       "以哈战争",
@@ -42,7 +42,7 @@
     "tag": "Sudan Civil War",
     "tag_cn": "苏丹内战",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-16",
     "synonyms": [
       "苏丹冲突",
       "苏丹武装冲突",
@@ -57,7 +57,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-11-14",
+    "last_seen": "2026-11-16",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -77,7 +77,7 @@
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-16",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
@@ -789,7 +789,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-16",
     "synonyms": [
       "胡塞武装进攻",
       "红海航运危机",
@@ -1491,7 +1491,7 @@
     "tag": "France Student Protests",
     "tag_cn": "法国学生抗议",
     "first_seen": "2026-09-10",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-16",
     "synonyms": [
       "法国高中生抗议",
       "法国教育抗议",
@@ -1902,7 +1902,7 @@
     "tag": "European Aviation Bomb Threats",
     "tag_cn": "欧洲航空炸弹威胁",
     "first_seen": "2026-11-07",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-16",
     "synonyms": [
       "Europe bomb threats",
       "欧洲炸弹威胁",
@@ -1956,7 +1956,7 @@
     "tag": "Nvidia Scandal",
     "tag_cn": "黄仁勋风波",
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-16",
     "synonyms": [
       "Jensen Huang investigation",
       "Jensen Huang controversy",
