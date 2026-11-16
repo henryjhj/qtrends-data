@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -77,7 +77,7 @@
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
@@ -1042,7 +1042,7 @@
     "tag": "US China AI Competition",
     "tag_cn": "中美AI竞争",
     "first_seen": "2026-09-21",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-11-17",
     "synonyms": [
       "中美人工智能竞争",
       "中美AI博弈",
@@ -1075,7 +1075,7 @@
     "tag": "US China Trade War",
     "tag_cn": "美中贸易战",
     "first_seen": "2026-09-23",
-    "last_seen": "2026-11-14",
+    "last_seen": "2026-11-17",
     "synonyms": [
       "中美贸易战",
       "美中关税战",
@@ -1638,7 +1638,7 @@
     "tag": "Pope Leo Lung Cancer",
     "tag_cn": "教皇利奥患肺癌",
     "first_seen": "2026-10-15",
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-17",
     "synonyms": [
       "教皇患肺癌",
       "教皇利奥十四世",
@@ -2003,12 +2003,13 @@
     "tag": "US National Ground Stop",
     "tag_cn": "全美航班停飞",
     "first_seen": "2026-11-14",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-17",
     "synonyms": [
       "全美停飞",
       "美国全国停飞",
       "FAA ground stop",
-      "US flights grounded"
+      "US flights grounded",
+      "US nationwide ground stop"
     ],
     "desc": "Nationwide ground stop ordered by the US FAA on November 13, 2026, after an equipment failure during a telecoms network upgrade cut air traffic control communications. All departures were halted and about 7,000 flights were delayed or cancelled before the order was lifted in phases.",
     "desc_cn": "2026年11月13日，美国联邦航空管理局因电信网络升级中的设备故障导致空管通信中断，发布全国性地面停飞令，所有出港航班暂停，约7000架次航班延误或取消，随后分阶段解除。"
@@ -2027,5 +2028,20 @@
     ],
     "desc": "Worldwide Microsoft 365 outage on November 12–13, 2026, disrupting Outlook, Teams, SharePoint and Copilot for millions of users. Microsoft blamed a network capacity upgrade rather than a cyberattack and apologised as services recovered.",
     "desc_cn": "2026年11月12日至13日，微软365服务全球性中断近一天，Outlook、Teams、SharePoint和Copilot等受影响，数百万用户受波及。微软称故障源于网络容量升级而非网络攻击，并为之道歉。"
+  },
+  {
+    "tag_id": 128,
+    "tag": "South Africa mass shootings",
+    "tag_cn": "南非连环枪击案",
+    "first_seen": "2026-11-17",
+    "last_seen": "2026-11-17",
+    "synonyms": [
+      "南非大规模枪击",
+      "South Africa shootings",
+      "Pietermaritzburg shooting",
+      "Pretoria mass shooting"
+    ],
+    "desc": "Two unrelated mass shootings on 15 November 2026 killed 17 people in South Africa. Eight men were shot dead in a minibus near Pietermaritzburg, KwaZulu-Natal, and nine in a shack west of Pretoria. Police said the motives were unknown.",
+    "desc_cn": "2026年11月15日晚，南非发生两起互不关联的枪击事件，共造成17人死亡。夸祖鲁-纳塔尔省彼得马里茨堡附近的斯威特沃特斯一辆小巴内8名男子被枪杀，比勒陀利亚以西杰夫斯维尔一处棚屋内有9人遇害，警方表示作案动机尚不明确。"
   }
 ]
