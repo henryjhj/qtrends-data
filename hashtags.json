@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -57,7 +57,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-18",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -67,10 +67,12 @@
       "伊朗战争",
       "Operation Epic Fury",
       "史诗怒火行动",
-      "美军再袭伊朗"
+      "美军再袭伊朗",
+      "US-Iran strikes",
+      "美伊互袭"
     ],
-    "desc": "War begun February 28, 2026, when the US and Israel struck Iran. A Pakistan-brokered ceasefire began April 7–8; a US-Iran memorandum followed June 17. Fighting resumed in July; 81 US aircraft were lost or damaged by October 5. US struck Qeshm Island again on Nov 8.",
-    "desc_cn": "2026年2月28日美以打击伊朗，伊朗在中东多地反击。4月7日至8日巴基斯坦斡旋停火，6月17日美伊签署谅解备忘录，7月战事重燃。截至10月5日美报告81架军机受损或被毁；11月8日美军再袭格什姆岛。"
+    "desc": "War begun February 28, 2026, when the US and Israel struck Iran. A Pakistan-brokered ceasefire began April 7–8; a US-Iran memorandum followed June 17. Fighting resumed in July; 81 US aircraft were lost or damaged by October 5. After a two-month lull, Iran struck Bahrain and the US hit an Iranian missile site Nov 17.",
+    "desc_cn": "2026年2月28日美以打击伊朗，伊朗在中东多地反击。4月7日至8日巴基斯坦斡旋停火，6月17日美伊签署谅解备忘录，7月战事重燃。截至10月5日美报告81架军机受损或被毁；11月17日伊朗再袭巴林，美军打击伊朗导弹阵地。"
   },
   {
     "tag_id": 5,
@@ -755,7 +757,7 @@
     "tag": "UK Israel Settlement Ban",
     "tag_cn": "英国制裁以色列",
     "first_seen": "2026-09-09",
-    "last_seen": "2026-09-12",
+    "last_seen": "2026-11-18",
     "synonyms": [
       "英国禁止定居点商品",
       "英国制裁以色列定居点",
@@ -763,7 +765,8 @@
       "以色列定居点贸易禁令",
       "UK settlement goods ban",
       "UK West Bank sanctions",
-      "West Bank settlement import ban"
+      "West Bank settlement import ban",
+      "UK sanctions Israeli settlements"
     ],
     "desc": "In September 2026 the UK, with France and Canada, banned imports from Israeli settlements in the occupied West Bank and imposed targeted sanctions; 12 nations backed it. Israel closed the UK consulate in East Jerusalem and barred British lawmakers.",
     "desc_cn": "2026年9月英国联合法国、加拿大禁止进口约旦河西岸以色列定居点商品并实施定向制裁，12国联合声明支持。以色列报复性关闭英国驻东耶路撒冷领事馆，并禁止英国议员入境。"
@@ -1075,7 +1078,7 @@
     "tag": "US China Trade War",
     "tag_cn": "美中贸易战",
     "first_seen": "2026-09-23",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "synonyms": [
       "中美贸易战",
       "美中关税战",
@@ -1956,7 +1959,7 @@
     "tag": "Nvidia Scandal",
     "tag_cn": "黄仁勋风波",
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-18",
     "synonyms": [
       "Jensen Huang investigation",
       "Jensen Huang controversy",
@@ -1979,8 +1982,8 @@
       "Nvidia spy scandal",
       "英伟达间谍风波"
     ],
-    "desc": "Nvidia CEO Jensen Huang came under scrutiny following revelations about his personal relationship with a woman reportedly suspected by US authorities of having ties to Chinese intelligence. The controversy prompted Nvidia's board to launch an independent investigation into the circumstances and potential security implications. The case also attracted attention from US lawmakers.",
-    "desc_cn": "英伟达CEO黄仁勋因其与一名据称受到美国方面怀疑与中国情报机构有关联的女性存在私人关系而受到调查关注。事件促使英伟达董事会启动独立调查，以核实相关情况及潜在安全影响，同时引发美国国会议员关注。"
+    "desc": "Nvidia CEO Jensen Huang came under scrutiny following revelations about his personal relationship with a woman reportedly suspected by US authorities of having ties to Chinese intelligence. The controversy prompted Nvidia's board to launch an independent investigation into the circumstances and potential security implications. He resigned and agreed to testify before Congress on Dec 1; the board ruled out his return.",
+    "desc_cn": "英伟达CEO黄仁勋因其与一名据称受到美国方面怀疑与中国情报机构有关联的女性存在私人关系而受到调查关注。事件促使英伟达董事会启动独立调查。黄仁勋已辞职，将于12月1日赴国会作证，董事会排除其回归可能。"
   },
   {
     "tag_id": 125,
@@ -2003,7 +2006,7 @@
     "tag": "US National Ground Stop",
     "tag_cn": "全美航班停飞",
     "first_seen": "2026-11-14",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "synonyms": [
       "全美停飞",
       "美国全国停飞",
@@ -2011,8 +2014,8 @@
       "US flights grounded",
       "US nationwide ground stop"
     ],
-    "desc": "Nationwide ground stop ordered by the US FAA on November 13, 2026, after an equipment failure during a telecoms network upgrade cut air traffic control communications. All departures were halted and about 7,000 flights were delayed or cancelled before the order was lifted in phases.",
-    "desc_cn": "2026年11月13日，美国联邦航空管理局因电信网络升级中的设备故障导致空管通信中断，发布全国性地面停飞令，所有出港航班暂停，约7000架次航班延误或取消，随后分阶段解除。"
+    "desc": "Nationwide ground stop ordered by the US FAA on November 13, 2026, after an equipment failure during a telecoms network upgrade cut air traffic control communications. All departures were halted and more than 20,000 flights were delayed or cancelled before the order was lifted in phases.",
+    "desc_cn": "2026年11月13日，美国联邦航空管理局因电信网络升级中的设备故障导致空管通信中断，发布全国性地面停飞令，所有出港航班暂停，超过2万架次航班延误或取消，随后分阶段解除。"
   },
   {
     "tag_id": 127,
