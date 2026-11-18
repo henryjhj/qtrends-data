@@ -21,7 +21,7 @@
     "tag": "Israel Gaza War",
     "tag_cn": "加沙战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-19",
     "synonyms": [
       "加沙冲突",
       "以哈战争",
@@ -57,7 +57,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -970,7 +970,7 @@
     "tag": "Anthropic AI",
     "tag_cn": "Anthropic AI",
     "first_seen": "2026-09-21",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-11-19",
     "synonyms": [
       "Claude模型",
       "Claude",
@@ -984,8 +984,8 @@
       "Anthropic上市",
       "Anthropic首次公开募股"
     ],
-    "desc": "AI company founded in 2021 that develops the Claude models. Claude Fable 5 and Mythos 5 launched June 9, 2026; access was suspended June 12 under US export controls and restored July 1. Fable 5.1 and Mythos 5.1 followed on September 1. Filed for an IPO on October 26, 2026.",
-    "desc_cn": "2021年成立的AI公司，Claude系列模型的开发者。2026年6月9日发布Claude Fable 5与Mythos 5，6月12日因美国出口管制暂停访问，7月1日恢复；9月1日推出Fable 5.1与Mythos 5.1。2026年10月26日提交IPO申请。"
+    "desc": "AI company founded in 2021 that develops the Claude models. Claude Fable 5 and Mythos 5 launched June 9, 2026, followed by Fable 5.1 and Mythos 5.1 on September 1. Its IPO priced at $83 a share and began trading on Nasdaq as ANT on November 19, 2026.",
+    "desc_cn": "2021年成立的AI公司，Claude系列模型的开发者。2026年6月9日发布Claude Fable 5与Mythos 5，9月1日推出5.1版本。11月18日IPO定价每股83美元，19日以ANT在纳斯达克挂牌。"
   },
   {
     "tag_id": 62,
@@ -1959,7 +1959,7 @@
     "tag": "Nvidia Scandal",
     "tag_cn": "黄仁勋风波",
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "synonyms": [
       "Jensen Huang investigation",
       "Jensen Huang controversy",
@@ -2006,7 +2006,7 @@
     "tag": "US National Ground Stop",
     "tag_cn": "全美航班停飞",
     "first_seen": "2026-11-14",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "synonyms": [
       "全美停飞",
       "美国全国停飞",
@@ -2046,5 +2046,35 @@
     ],
     "desc": "Two unrelated mass shootings on 15 November 2026 killed 17 people in South Africa. Eight men were shot dead in a minibus near Pietermaritzburg, KwaZulu-Natal, and nine in a shack west of Pretoria. Police said the motives were unknown.",
     "desc_cn": "2026年11月15日晚，南非发生两起互不关联的枪击事件，共造成17人死亡。夸祖鲁-纳塔尔省彼得马里茨堡附近的斯威特沃特斯一辆小巴内8名男子被枪杀，比勒陀利亚以西杰夫斯维尔一处棚屋内有9人遇害，警方表示作案动机尚不明确。"
+  },
+  {
+    "tag_id": 129,
+    "tag": "Xi Putin Trump Summit",
+    "tag_cn": "中俄美元首会晤",
+    "first_seen": "2026-11-19",
+    "last_seen": "2026-11-19",
+    "synonyms": [
+      "中俄美三方会晤",
+      "Xi Putin Trump talks",
+      "Shenzhen trilateral summit",
+      "APEC Shenzhen trilateral"
+    ],
+    "desc": "First face-to-face trilateral meeting of the Chinese, Russian and US leaders, held in Shenzhen on November 19, 2026 during the APEC summit. Xi Jinping, Vladimir Putin and Donald Trump discussed strategic stability and major-power relations.",
+    "desc_cn": "2026年11月19日，习近平、普京与特朗普在深圳亚太经合组织领导人非正式会议期间举行中俄美三国元首历史上首次面对面会晤，就维护世界和平、促进大国关系战略稳定交换意见。"
+  },
+  {
+    "tag_id": 130,
+    "tag": "Honduras mass shooting",
+    "tag_cn": "洪都拉斯枪击案",
+    "first_seen": "2026-11-19",
+    "last_seen": "2026-11-19",
+    "synonyms": [
+      "洪都拉斯约里托袭击",
+      "Yorito attacks",
+      "Honduras Yorito shooting",
+      "洪都拉斯屠杀事件"
+    ],
+    "desc": "Four armed attacks before dawn on November 18, 2026 in Yorito, Yoro department, north-central Honduras killed 12 people, including a municipal councillor, women and children. Police said the motives were under investigation.",
+    "desc_cn": "2026年11月18日凌晨，洪都拉斯中北部约罗省约里托市发生4起武装袭击，造成12人死亡，其中包括一名地方市议员以及多名妇女和儿童，警方表示作案动机仍在调查。"
   }
 ]
