@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-20",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -21,7 +21,7 @@
     "tag": "Israel Gaza War",
     "tag_cn": "加沙战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "synonyms": [
       "加沙冲突",
       "以哈战争",
@@ -57,7 +57,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -792,7 +792,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-20",
     "synonyms": [
       "胡塞武装进攻",
       "红海航运危机",
@@ -2037,12 +2037,14 @@
     "tag": "South Africa mass shootings",
     "tag_cn": "南非连环枪击案",
     "first_seen": "2026-11-17",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-20",
     "synonyms": [
       "南非大规模枪击",
       "South Africa shootings",
       "Pietermaritzburg shooting",
-      "Pretoria mass shooting"
+      "Pretoria mass shooting",
+      "Botshabelo mass shooting",
+      "博特沙贝洛枪击案"
     ],
     "desc": "Two unrelated mass shootings on 15 November 2026 killed 17 people in South Africa. Eight men were shot dead in a minibus near Pietermaritzburg, KwaZulu-Natal, and nine in a shack west of Pretoria. Police said the motives were unknown.",
     "desc_cn": "2026年11月15日晚，南非发生两起互不关联的枪击事件，共造成17人死亡。夸祖鲁-纳塔尔省彼得马里茨堡附近的斯威特沃特斯一辆小巴内8名男子被枪杀，比勒陀利亚以西杰夫斯维尔一处棚屋内有9人遇害，警方表示作案动机尚不明确。"
@@ -2052,7 +2054,7 @@
     "tag": "Xi Putin Trump Summit",
     "tag_cn": "中俄美元首会晤",
     "first_seen": "2026-11-19",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "synonyms": [
       "中俄美三方会晤",
       "Xi Putin Trump talks",
@@ -2067,7 +2069,7 @@
     "tag": "Honduras mass shooting",
     "tag_cn": "洪都拉斯枪击案",
     "first_seen": "2026-11-19",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "synonyms": [
       "洪都拉斯约里托袭击",
       "Yorito attacks",
@@ -2076,5 +2078,35 @@
     ],
     "desc": "Four armed attacks before dawn on November 18, 2026 in Yorito, Yoro department, north-central Honduras killed 12 people, including a municipal councillor, women and children. Police said the motives were under investigation.",
     "desc_cn": "2026年11月18日凌晨，洪都拉斯中北部约罗省约里托市发生4起武装袭击，造成12人死亡，其中包括一名地方市议员以及多名妇女和儿童，警方表示作案动机仍在调查。"
+  },
+  {
+    "tag_id": 131,
+    "tag": "ICJ Rohingya Genocide Ruling",
+    "tag_cn": "国际法院罗兴亚裁决",
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "synonyms": [
+      "缅甸种族灭绝裁决",
+      "Myanmar genocide ruling",
+      "ICJ Myanmar ruling",
+      "Rohingya genocide verdict"
+    ],
+    "desc": "On November 19, 2026 the International Court of Justice found Myanmar guilty of genocide against the Rohingya, its first genocide verdict. It followed The Gambia's 2019 suit over the 2017 crackdown that drove some 700,000 Rohingya into Bangladesh.",
+    "desc_cn": "2026年11月19日，国际法院裁定缅甸对罗兴亚人实施种族灭绝，为该法院首例种族灭绝判决。案件源于冈比亚2019年就2017年缅军镇压致约70万罗兴亚人逃往孟加拉国提起的诉讼。"
+  },
+  {
+    "tag_id": 132,
+    "tag": "GTA VI Launch",
+    "tag_cn": "GTA6发售",
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "synonyms": [
+      "Grand Theft Auto VI",
+      "GTA 6",
+      "侠盗猎车手6",
+      "GTA6上线"
+    ],
+    "desc": "Grand Theft Auto VI, developed by Rockstar Games, was released on November 19, 2026, 13 years after GTA V. It became one of the largest entertainment launches ever, praised and criticized for its satire of American culture.",
+    "desc_cn": "《侠盗猎车手6》由Rockstar Games开发，2026年11月19日发售，距前作《GTA5》问世13年。作为史上规模最大的娱乐产品发售之一，其对美国文化的讽刺引发全球热议。"
   }
 ]
