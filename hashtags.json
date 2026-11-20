@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -57,7 +57,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -79,7 +79,7 @@
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-21",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
@@ -792,7 +792,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "synonyms": [
       "胡塞武装进攻",
       "红海航运危机",
@@ -843,8 +843,8 @@
       "胡塞袭击延布石油设施",
       "Houthi attack Yanbu oil facility"
     ],
-    "desc": "Houthis have fought Yemen’s government since 2014, seizing Mocha and Perim in 2026. Riyadh attacks killed 17 and injured 333 by Oct 15. On Nov 8 Houthis hit Riyadh’s airport and financial district; Saudi strikes near Sanaa killed 27 on Nov 7.",
-    "desc_cn": "也门内战自2014年起胡塞武装对抗政府。2026年9月胡塞攻占摩卡港与丕林岛；截至10月15日利雅得遇袭致17死333伤，10月22日达曼遇袭致2死。11月7日沙特空袭萨那致27死36伤，8日胡塞袭击利雅得机场和金融中心。"
+    "desc": "Houthis have fought Yemen’s government since 2014, seizing Mocha and Perim in 2026. Riyadh attacks killed 17 and injured 333 by Oct 15; Houthis hit Riyadh’s airport on Nov 8. Saudi raids killed 41 in the 24 hours to Nov 20, raising the escalation toll to 438.",
+    "desc_cn": "也门内战自2014年起胡塞武装对抗政府。2026年9月胡塞攻占摩卡港与丕林岛；截至10月15日利雅得遇袭致17死333伤。11月8日胡塞袭击利雅得机场；截至11月20日沙特空袭24小时内致41死，冲突升级以来累计死亡438人。"
   },
   {
     "tag_id": 54,
@@ -970,7 +970,7 @@
     "tag": "Anthropic AI",
     "tag_cn": "Anthropic AI",
     "first_seen": "2026-09-21",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-21",
     "synonyms": [
       "Claude模型",
       "Claude",
@@ -984,8 +984,8 @@
       "Anthropic上市",
       "Anthropic首次公开募股"
     ],
-    "desc": "AI company founded in 2021 that develops the Claude models. Claude Fable 5 and Mythos 5 launched June 9, 2026, followed by Fable 5.1 and Mythos 5.1 on September 1. Its IPO priced at $83 a share and began trading on Nasdaq as ANT on November 19, 2026.",
-    "desc_cn": "2021年成立的AI公司，Claude系列模型的开发者。2026年6月9日发布Claude Fable 5与Mythos 5，9月1日推出5.1版本。11月18日IPO定价每股83美元，19日以ANT在纳斯达克挂牌。"
+    "desc": "AI company founded in 2021 that develops the Claude models. Claude Fable 5 and Mythos 5 launched June 9, 2026, followed by Fable 5.1 and Mythos 5.1 on September 1. Its IPO priced at $83 a share and began trading on Nasdaq as ANT on November 19, 2026; shares fell about 9% the next day.",
+    "desc_cn": "2021年成立的AI公司，Claude系列模型的开发者。2026年6月9日发布Claude Fable 5与Mythos 5，9月1日推出5.1版本。11月18日IPO定价每股83美元，19日以ANT在纳斯达克挂牌，次日股价跌约9%。"
   },
   {
     "tag_id": 62,
@@ -1668,7 +1668,7 @@
     "tag": "Global Stock Market Selloff",
     "tag_cn": "全球股市抛售",
     "first_seen": "2026-10-16",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-21",
     "synonyms": [
       "全球股市暴跌",
       "韩国股市熔断",
@@ -1681,8 +1681,8 @@
       "AI regulation selloff",
       "AI监管抛售"
     ],
-    "desc": "Sharp selloffs in global equities in Oct-Nov 2026, AI chip and tech shares leading. On October 15 South Korea's KOSPI fell over 7%, triggering its tenth circuit breaker; on November 5 the S&P 500 fell 4.4% and Nasdaq 5.5%, erasing $2.5 trillion.",
-    "desc_cn": "2026年10月至11月全球股市两度暴跌，AI芯片与科技股领跌。10月15日韩国KOSPI跌逾7%触发熔断；11月5日标普500跌4.36%、纳指跌5.52%，蒸发约2.5万亿美元。"
+    "desc": "Sharp selloffs in global equities in Oct-Nov 2026, led by AI and tech shares. On October 15 South Korea's KOSPI fell over 7%, triggering a circuit breaker; on November 5 the S&P 500 fell 4.4% and Nasdaq 5.5%; on November 20 the Nasdaq fell 5.3%, wiping out its 2026 gains.",
+    "desc_cn": "2026年10月至11月全球股市多轮暴跌，AI与科技股领跌。10月15日韩国KOSPI跌逾7%触发熔断；11月5日标普500跌4.4%、纳指跌5.5%；11月20日纳指再跌5.3%，年内涨幅尽失。"
   },
   {
     "tag_id": 110,
@@ -1959,7 +1959,7 @@
     "tag": "Nvidia Scandal",
     "tag_cn": "黄仁勋风波",
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-21",
     "synonyms": [
       "Jensen Huang investigation",
       "Jensen Huang controversy",
@@ -2037,7 +2037,7 @@
     "tag": "South Africa mass shootings",
     "tag_cn": "南非连环枪击案",
     "first_seen": "2026-11-17",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "synonyms": [
       "南非大规模枪击",
       "South Africa shootings",
@@ -2054,7 +2054,7 @@
     "tag": "Xi Putin Trump Summit",
     "tag_cn": "中俄美元首会晤",
     "first_seen": "2026-11-19",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "synonyms": [
       "中俄美三方会晤",
       "Xi Putin Trump talks",
@@ -2084,7 +2084,7 @@
     "tag": "ICJ Rohingya Genocide Ruling",
     "tag_cn": "国际法院罗兴亚裁决",
     "first_seen": "2026-11-20",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "synonyms": [
       "缅甸种族灭绝裁决",
       "Myanmar genocide ruling",
@@ -2099,7 +2099,7 @@
     "tag": "GTA VI Launch",
     "tag_cn": "GTA6发售",
     "first_seen": "2026-11-20",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "synonyms": [
       "Grand Theft Auto VI",
       "GTA 6",
@@ -2108,5 +2108,23 @@
     ],
     "desc": "Grand Theft Auto VI, developed by Rockstar Games, was released on November 19, 2026, 13 years after GTA V. It became one of the largest entertainment launches ever, praised and criticized for its satire of American culture.",
     "desc_cn": "《侠盗猎车手6》由Rockstar Games开发，2026年11月19日发售，距前作《GTA5》问世13年。作为史上规模最大的娱乐产品发售之一，其对美国文化的讽刺引发全球热议。"
+  },
+  {
+    "tag_id": 133,
+    "tag": "UK EU Post-Brexit Deal",
+    "tag_cn": "英欧峰会协议",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "synonyms": [
+      "英欧峰会",
+      "英欧贸易协议",
+      "英欧关系重启",
+      "UK-EU summit",
+      "UK EU trade deal",
+      "Brexit reset",
+      "UK-EU relations reset"
+    ],
+    "desc": "Second EU-UK summit in Brussels on November 20, 2026 produced 72 agreements on trade, carbon markets, security and youth mobility, including mutual waiver of most food and plant checks. PM Andy Burnham called it a line under a decade of drift.",
+    "desc_cn": "2026年11月20日第二次英欧峰会在布鲁塞尔举行，双方达成72项共识，涵盖贸易、碳市场、安全防务和青年交流，并互免绝大多数动植物检疫。英国首相伯纳姆称此为脱欧十年动荡画上句号。"
   }
 ]
