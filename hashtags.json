@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -57,7 +57,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -79,7 +79,7 @@
     "tag": "Strait of Hormuz Crisis",
     "tag_cn": "霍尔木兹海峡危机",
     "first_seen": "2026-03-01",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "synonyms": [
       "霍尔木兹海峡关闭",
       "霍尔木兹危机",
@@ -705,7 +705,7 @@
     "tag": "Super El Nino",
     "tag_cn": "超级厄尔尼诺",
     "first_seen": "2026-09-03",
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-11-23",
     "synonyms": [
       "超强厄尔尼诺",
       "东南亚雾霾",
@@ -736,7 +736,7 @@
     "tag": "US Canada Trade War",
     "tag_cn": "美加贸易战",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-10-27",
+    "last_seen": "2026-11-23",
     "synonyms": [
       "加拿大反制关税",
       "加拿大关税反击",
@@ -1668,7 +1668,7 @@
     "tag": "Global Stock Market Selloff",
     "tag_cn": "全球股市抛售",
     "first_seen": "2026-10-16",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "synonyms": [
       "全球股市暴跌",
       "韩国股市熔断",
@@ -2054,7 +2054,7 @@
     "tag": "Xi Putin Trump Summit",
     "tag_cn": "中俄美元首会晤",
     "first_seen": "2026-11-19",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "synonyms": [
       "中俄美三方会晤",
       "Xi Putin Trump talks",
@@ -2085,7 +2085,7 @@
     "tag": "ICJ Rohingya Genocide Ruling",
     "tag_cn": "国际法院罗兴亚裁决",
     "first_seen": "2026-11-20",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "synonyms": [
       "缅甸种族灭绝裁决",
       "Myanmar genocide ruling",
@@ -2127,5 +2127,21 @@
     ],
     "desc": "Second EU-UK summit in Brussels on November 20, 2026 produced 72 agreements on trade, carbon markets, security and youth mobility, including mutual waiver of most food and plant checks. PM Andy Burnham called it a line under a decade of drift.",
     "desc_cn": "2026年11月20日第二次英欧峰会在布鲁塞尔举行，双方达成72项共识，涵盖贸易、碳市场、安全防务和青年交流，并互免绝大多数动植物检疫。英国首相伯纳姆称此为脱欧十年动荡画上句号。"
+  },
+  {
+    "tag_id": 134,
+    "tag": "COP31 Talks Collapse",
+    "tag_cn": "COP31气候谈判破裂",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "synonyms": [
+      "COP31 collapse",
+      "COP31 no deal",
+      "COP31谈判失败",
+      "气候大会无果而终",
+      "UN climate talks fail"
+    ],
+    "desc": "COP31, the 31st UN climate conference, met in Antalya, Turkey, in November 2026 and ran two days past its deadline. It ended on November 22 without a deal after the EU and others rejected the final draft over fossil-fuel language.",
+    "desc_cn": "《联合国气候变化框架公约》第三十一次缔约方大会（COP31）2026年11月在土耳其安塔利亚举行，谈判超期两天，11月22日因欧盟等方拒绝化石燃料条款的最终草案而未能达成协议。"
   }
 ]
