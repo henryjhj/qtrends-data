@@ -4,17 +4,23 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
       "乌克兰战争",
       "Ukraine conflict",
       "Russia-Ukraine war",
-      "Oleshky evacuation"
+      "Oleshky evacuation",
+      "乌克兰击沉俄舰",
+      "Ukraine sinks Russian warship",
+      "俄水星号护卫舰沉没",
+      "Russian Mercury frigate sunk",
+      "俄大规模打击乌克兰",
+      "Russia massive strike Ukraine"
     ],
-    "desc": "Armed conflict begun in 2014 with Russia’s annexation of Crimea and the Donbas war. Russia launched a full-scale invasion on February 24, 2022. The UN counted 15,000 civilian deaths by Dec 2025. Trilateral talks in Abu Dhabi ended Nov 11 with a large prisoner-exchange deal.",
-    "desc_cn": "2014年俄罗斯吞并克里米亚并引发顿巴斯战事，2022年2月24日全面入侵乌克兰。联合国统计，截至2025年底乌克兰平民死亡近1.5万人。俄美乌三方会谈11月11日在阿布扎比结束，达成大规模换俘协议。"
+    "desc": "Armed conflict begun in 2014 with Russia’s annexation of Crimea and the Donbas war. Russia launched a full-scale invasion on Feb 24, 2022. The UN counted 15,000 civilian deaths by Dec 2025. Trilateral talks in Abu Dhabi ended Nov 11 with a prisoner swap. Nov 22 Russia struck nationwide; Nov 23 Ukraine sank Mercury frigate.",
+    "desc_cn": "2014年俄吞并克里米亚引发顿巴斯战事，2022年2月24日全面入侵。联合国统计截至2025年底乌平民死亡近1.5万人。俄美乌三方会谈11月11日在阿布扎比结束，达成换俘协议。11月俄对乌全境打击；乌击沉俄'水星'号护卫舰。"
   },
   {
     "tag_id": 2,
@@ -57,7 +63,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -69,10 +75,13 @@
       "史诗怒火行动",
       "美军再袭伊朗",
       "US-Iran strikes",
-      "美伊互袭"
+      "美伊互袭",
+      "伊朗导弹袭约旦",
+      "Iran missile attack Jordan",
+      "内塔尼亚胡考虑单独袭伊朗"
     ],
-    "desc": "War begun February 28, 2026, when the US and Israel struck Iran. A Pakistan-brokered ceasefire began April 7–8; a US-Iran memorandum followed June 17. Fighting resumed in July; 81 US aircraft were lost or damaged by October 5. After a two-month lull, Iran struck Bahrain and the US hit an Iranian missile site Nov 17.",
-    "desc_cn": "2026年2月28日美以打击伊朗，伊朗在中东多地反击。4月7日至8日巴基斯坦斡旋停火，6月17日美伊签署谅解备忘录，7月战事重燃。截至10月5日美报告81架军机受损或被毁；11月17日伊朗再袭巴林，美军打击伊朗导弹阵地。"
+    "desc": "War begun February 28, 2026, when the US and Israel struck Iran. A Pakistan-brokered ceasefire began April 7–8; a US-Iran memorandum followed June 17. Fighting resumed in July; 81 US aircraft were lost or damaged by October 5. After a two-month lull, Iran struck Bahrain and the US hit an Iranian missile site Nov 17. Nov 22 Iran fired in Jordan; Netanyahu eyed unilateral strike.",
+    "desc_cn": "2026年2月28日美以打击伊朗，伊朗在中东多地反击。4月7日至8日巴基斯坦斡旋停火，6月17日美伊签署谅解备忘录，7月战事重燃。截至10月5日美报告81架军机受损或被毁；11月17日伊朗再袭巴林，美军打击伊朗导弹阵地。 11月伊朗袭约旦；内塔尼亚胡考虑单独袭击。"
   },
   {
     "tag_id": 5,
@@ -736,7 +745,7 @@
     "tag": "US Canada Trade War",
     "tag_cn": "美加贸易战",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "synonyms": [
       "加拿大反制关税",
       "加拿大关税反击",
@@ -747,10 +756,12 @@
       "美国调整对加关税",
       "US adjusts Canada tariffs",
       "特朗普调整加拿大关税",
-      "Trump modifies Canada tariffs"
+      "Trump modifies Canada tariffs",
+      "特朗普对加新关税",
+      "Trump Canada new tariffs"
     ],
-    "desc": "Trade conflict between the US and Canada in 2026. After the US imposed 50% tariffs on $20 billion of Canadian goods and talks collapsed August 21, Canada retaliated September 8; on September 29 the US banned about $967 million of Canadian goods.",
-    "desc_cn": "2026年美加贸易冲突。美国对200亿美元加拿大商品加征50%关税、8月21日谈判破裂后，加拿大9月8日实施反制；9月29日美国对约9.67亿美元加拿大酒类、乳制品和摩托车实施进口禁令。"
+    "desc": "Trade conflict between the US and Canada in 2026. After the US imposed 50% tariffs on $20 billion of Canadian goods and talks collapsed August 21, Canada retaliated September 8; on September 29 the US banned about $967 million of Canadian goods. In Nov Trump announced new tariffs on Canada.",
+    "desc_cn": "2026年美加贸易冲突。美国对200亿美元加拿大商品加征50%关税、8月21日谈判破裂后，加拿大9月8日实施反制；9月29日美国对约9.67亿美元加拿大酒类、乳制品和摩托车实施进口禁令。 11月特朗普宣布对加新关税。"
   },
   {
     "tag_id": 51,
@@ -792,7 +803,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-24",
     "synonyms": [
       "胡塞武装进攻",
       "红海航运危机",
@@ -841,10 +852,13 @@
       "胡塞袭击沙特阿美",
       "Houthi attack Saudi Aramco",
       "胡塞袭击延布石油设施",
-      "Houthi attack Yanbu oil facility"
+      "Houthi attack Yanbu oil facility",
+      "胡塞沙特冲突",
+      "Houthi Saudi clashes",
+      "沙特联军空袭也门"
     ],
-    "desc": "Houthis have fought Yemen’s government since 2014, seizing Mocha and Perim in 2026. Riyadh attacks killed 17 and injured 333 by Oct 15; Houthis hit Riyadh’s airport on Nov 8. Saudi raids killed 41 in the 24 hours to Nov 20, raising the escalation toll to 438.",
-    "desc_cn": "也门内战自2014年起胡塞武装对抗政府。2026年9月胡塞攻占摩卡港与丕林岛；截至10月15日利雅得遇袭致17死333伤。11月8日胡塞袭击利雅得机场；截至11月20日沙特空袭24小时内致41死，冲突升级以来累计死亡438人。"
+    "desc": "Houthis have fought Yemen’s government since 2014, seizing Mocha and Perim in 2026. Riyadh attacks killed 17 and injured 333 by Oct 15; Houthis hit Riyadh’s airport on Nov 8. Saudi raids killed 41 in the 24 hours to Nov 20, raising the escalation toll to 438. Nov 24 Houthis said Saudi strikes Yemen 67 times.",
+    "desc_cn": "也门内战自2014年起胡塞武装对抗政府。2026年9月胡塞攻占摩卡港与丕林岛；截至10月15日利雅得遇袭致17死333伤。11月8日胡塞袭击利雅得机场；截至11月20日沙特空袭24小时内致41死，冲突升级以来累计死亡438人。 11月24日胡塞称沙特联军袭击也门67次。"
   },
   {
     "tag_id": 54,
@@ -1959,7 +1973,7 @@
     "tag": "Nvidia Scandal",
     "tag_cn": "黄仁勋风波",
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-24",
     "synonyms": [
       "Jensen Huang investigation",
       "Jensen Huang controversy",
@@ -1980,10 +1994,13 @@
       "黄仁勋丑闻",
       "Jensen Huang Scandal",
       "Nvidia spy scandal",
-      "英伟达间谍风波"
+      "英伟达间谍风波",
+      "黄仁勋复职",
+      "Jensen Huang reinstated",
+      "Nvidia CEO reinstated"
     ],
-    "desc": "Nvidia CEO Jensen Huang came under scrutiny following revelations about his personal relationship with a woman reportedly suspected by US authorities of having ties to Chinese intelligence. The controversy prompted Nvidia's board to launch an independent investigation into the circumstances and potential security implications. He resigned and agreed to testify before Congress on Dec 1; the board ruled out his return.",
-    "desc_cn": "英伟达CEO黄仁勋因其与一名据称受到美国方面怀疑与中国情报机构有关联的女性存在私人关系而受到调查关注。事件促使英伟达董事会启动独立调查。黄仁勋已辞职，将于12月1日赴国会作证，董事会排除其回归可能。"
+    "desc": "Nvidia CEO Jensen Huang came under scrutiny following revelations about his personal relationship with a woman reportedly suspected by US authorities of having ties to Chinese intelligence. The controversy prompted Nvidia's board to launch an independent investigation into the circumstances and potential security implications. He resigned and agreed to testify before Congress on Dec 1. After completing the probe, the board unanimously reinstated him as CEO on November 23.",
+    "desc_cn": "英伟达CEO黄仁勋因其与一名据称受美怀疑与中国情报有关联的女性存在私人关系而受调查关注。事件促使英伟达董事会启动独立调查。黄仁勋曾辞职并同意12月1日赴国会作证；调查结束后，董事会于11月23日一致恢复其CEO职务。"
   },
   {
     "tag_id": 125,
@@ -2133,7 +2150,7 @@
     "tag": "COP31 Talks Collapse",
     "tag_cn": "COP31气候谈判破裂",
     "first_seen": "2026-11-23",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "synonyms": [
       "COP31 collapse",
       "COP31 no deal",
@@ -2143,5 +2160,22 @@
     ],
     "desc": "COP31, the 31st UN climate conference, met in Antalya, Turkey, in November 2026 and ran two days past its deadline. It ended on November 22 without a deal after the EU and others rejected the final draft over fossil-fuel language.",
     "desc_cn": "《联合国气候变化框架公约》第三十一次缔约方大会（COP31）2026年11月在土耳其安塔利亚举行，谈判超期两天，11月22日因欧盟等方拒绝化石燃料条款的最终草案而未能达成协议。"
+  },
+  {
+    "tag_id": 135,
+    "tag": "US Saudi Nuclear Deal",
+    "tag_cn": "美沙核协议",
+    "first_seen": "2026-11-24",
+    "last_seen": "2026-11-24",
+    "synonyms": [
+      "美沙核能协议",
+      "沙特铀浓缩",
+      "Trump Saudi nuclear deal",
+      "Saudi uranium enrichment",
+      "美国批准沙特铀浓缩",
+      "US approves Saudi nuclear"
+    ],
+    "desc": "Memorandum of understanding on nuclear cooperation signed by the US and Saudi Arabia in November 2026. The deal grants Saudi Arabia the right to enrich uranium for its nuclear programme, a long-sought goal that raised concerns in Israel and among nonproliferation experts about a regional nuclear arms race.",
+    "desc_cn": "2026年11月美国与沙特阿拉伯签署核能合作谅解备忘录，授予沙特进行铀浓缩的权利，为沙特长期核心诉求。该协议引发以色列及核不扩散专家担忧，认为或触发中东核军备竞赛。"
   }
 ]
