@@ -4,7 +4,7 @@
     "tag": "Russia Ukraine War",
     "tag_cn": "俄乌战争",
     "first_seen": "2025-12-31",
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "synonyms": [
       "俄乌冲突",
       "俄乌军事冲突",
@@ -63,7 +63,7 @@
     "tag": "US Iran War",
     "tag_cn": "美伊战争",
     "first_seen": "2026-02-28",
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "synonyms": [
       "美伊冲突",
       "美以伊战争",
@@ -359,7 +359,7 @@
     "tag": "Fed Interest Rate Policy",
     "tag_cn": "美联储利率政策",
     "first_seen": "2026-01-01",
-    "last_seen": "2026-10-30",
+    "last_seen": "2026-11-26",
     "synonyms": [
       "美联储降息",
       "美联储加息",
@@ -745,7 +745,7 @@
     "tag": "US Canada Trade War",
     "tag_cn": "美加贸易战",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "synonyms": [
       "加拿大反制关税",
       "加拿大关税反击",
@@ -803,7 +803,7 @@
     "tag": "Houthi Yemen Offensive",
     "tag_cn": "胡塞也门攻势",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "synonyms": [
       "胡塞武装进攻",
       "红海航运危机",
@@ -855,10 +855,14 @@
       "Houthi attack Yanbu oil facility",
       "胡塞沙特冲突",
       "Houthi Saudi clashes",
-      "沙特联军空袭也门"
+      "沙特联军空袭也门",
+      "胡塞袭击塔努拉角炼油厂",
+      "Houthi attack Ras Tanura",
+      "胡塞袭击沙特金融中心",
+      "胡塞袭击吉达港"
     ],
-    "desc": "Houthis have fought Yemen’s government since 2014, seizing Mocha and Perim in 2026. Riyadh attacks killed 17 and injured 333 by Oct 15; Houthis hit Riyadh’s airport on Nov 8. Saudi raids killed 41 in the 24 hours to Nov 20, raising the escalation toll to 438. Nov 24 Houthis said Saudi strikes Yemen 67 times. Riyadh's PIF Tower was hit again within days, injuring 11.",
-    "desc_cn": "也门内战自2014年起胡塞武装对抗政府。2026年9月胡塞攻占摩卡港与丕林岛；截至10月15日利雅得遇袭致17死333伤。11月8日胡塞袭击利雅得机场；截至11月20日沙特空袭24小时内致41死，冲突升级以来累计死亡438人。 11月24日胡塞称沙特联军袭击也门67次。利雅得最高楼一周内再遭袭，致11人受伤。"
+    "desc": "Houthis have fought Yemen's government since 2014, seizing Mocha and Perim in 2026. Riyadh attacks killed 17 and injured 333 by Oct 15; Houthis hit Riyadh's airport on Nov 8 and the escalation toll reached 438 by Nov 20. On Nov 25 the Houthis struck Saudi Arabia's largest refinery at Ras Tanura, setting it ablaze, and hit a Riyadh financial centre; blasts hit Riyadh and the Houthis claimed strikes on Jeddah and Jizan ports on Nov 26.",
+    "desc_cn": "也门内战自2014年起胡塞武装对抗政府。2026年9月胡塞攻占摩卡港与丕林岛；截至10月15日利雅得遇袭致17死333伤。11月8日胡塞袭击利雅得机场，截至11月20日冲突升级累计死亡438人。11月25日胡塞袭击沙特最大炼油厂拉斯坦努拉并引发大火，又打击利雅得一处金融中心；11月26日利雅得传出爆炸声，胡塞称袭击吉达港和吉赞港。"
   },
   {
     "tag_id": 54,
@@ -2166,7 +2170,7 @@
     "tag": "US Saudi Nuclear Deal",
     "tag_cn": "美沙核协议",
     "first_seen": "2026-11-24",
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "synonyms": [
       "美沙核能协议",
       "沙特铀浓缩",
